@@ -7,196 +7,196 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023/results/by_person#2019WANY36) |
-| 4.02 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [IUKL SOR 2023](https://www.worldcubeassociation.org/competitions/IUKLSOR2023/results/by_person#2019WANY36) |
-| 4.02 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/by_person#2019WANY36) |
-| 4.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024/results/by_person#2016KOLA02) |
-| 4.21 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubing at The Cube 2024](https://www.worldcubeassociation.org/competitions/CubingatTheCube2024/results/by_person#2016KOLA02) |
-| 4.23 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Kunshan Open 2024](https://www.worldcubeassociation.org/competitions/KunshanOpen2024/results/by_person#2019WANY36) |
-| 4.24 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2012PARK03) |
-| 4.27 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024/results/by_person#2019WANY36) |
-| 4.28 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2016INAB01) |
-| 4.28 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/by_person#2019WANY36) |
+| 5.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2012BEAH01) |
+| 6.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018/results/by_person#2012BEAH01) |
+| 6.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024/results/by_person#2012BEAH01) |
+| 6.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [NxN Minnesota 2022](https://www.worldcubeassociation.org/competitions/NxNMinnesota2022/results/by_person#2012BEAH01) |
+| 6.28 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2012BEAH01) |
+| 6.31 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2012BEAH01) |
+| 6.32 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2012BEAH01) |
+| 6.32 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2012BEAH01) |
+| 6.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/by_person#2012BEAH01) |
+| 6.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2012BEAH01) |
 
 ### 2x2x2 Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 0.63 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/by_person#2021ZAJD03) |
-| 0.71 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN28) |
-| 0.74 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024/results/by_person#2019WANY36) |
-| 0.75 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | [Singapore 50 and Counting 2024](https://www.worldcubeassociation.org/competitions/Singapore50andCounting2024/results/by_person#2022PHAN03) |
-| 0.78 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | [Chongqing Open 2023](https://www.worldcubeassociation.org/competitions/ChongqingOpen2023/results/by_person#2016LIJI05) |
-| 0.78 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Across the Woods Kentucky B 2023](https://www.worldcubeassociation.org/competitions/AcrosstheWoodsKentuckyB2023/results/by_person#2018KHAN28) |
-| 0.78 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024/results/by_person#2019WANY36) |
-| 0.79 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2018KHAN28) |
-| 0.80 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2018KHAN28) |
-| 0.81 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024/results/by_person#2019WANY36) |
+| 1.10 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2021DOHE02) |
+| 1.12 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2021DOHE02) |
+| 1.32 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2022FURE01) |
+| 1.34 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021DOHE02) |
+| 1.40 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2021DOHE02) |
+| 1.43 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/by_person#2021DOHE02) |
+| 1.43 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2021DOHE02) |
+| 1.48 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2021DOHE02) |
+| 1.48 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2021DOHE02) |
+| 1.49 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023/results/by_person#2021DOHE02) |
 
 ### 4x4x4 Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 17.56 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
-| 17.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
-| 17.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024/results/by_person#2012PARK03) |
-| 18.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Yucaipa 2024](https://www.worldcubeassociation.org/competitions/NubOpenYucaipa2024/results/by_person#2012PARK03) |
-| 18.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Summer 2022](https://www.worldcubeassociation.org/competitions/CircleCitySummer2022/results/by_person#2012PARK03) |
-| 18.49 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Arizona Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSpring2023/results/by_person#2012PARK03) |
-| 18.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
-| 18.86 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [FLIP Open 11: Road to Euros 2024](https://www.worldcubeassociation.org/competitions/FLIPOpen11RoadtoEuros2024/results/by_person#2010WEYE02) |
-| 18.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
-| 18.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
+| 22.17 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
+| 22.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2012BEAH01) |
+| 22.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
+| 22.63 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012BEAH01) |
+| 22.81 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020/results/by_person#2012BEAH01) |
+| 22.84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021/results/by_person#2012BEAH01) |
+| 22.85 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2012BEAH01) |
+| 23.14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022/results/by_person#2012BEAH01) |
+| 23.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/by_person#2012BEAH01) |
+| 23.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2012BEAH01) |
 
 ### 5x5x5 Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 33.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
-| 33.75 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
-| 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
-| 34.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Big Cub 2024](https://www.worldcubeassociation.org/competitions/SanDiegoBigCub2024/results/by_person#2012PARK03) |
-| 34.73 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
-| 34.92 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Mission Viejo 2023](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejo2023/results/by_person#2012PARK03) |
-| 35.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
-| 35.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
-| 35.13 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD Winter 2023](https://www.worldcubeassociation.org/competitions/UCSDWinter2023/results/by_person#2012PARK03) |
-| 35.30 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/by_person#2013NAHM01) |
+| 39.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2012BEAH01) |
+| 39.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
+| 39.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024/results/by_person#2012BEAH01) |
+| 40.02 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024/results/by_person#2012BEAH01) |
+| 40.50 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022/results/by_person#2012BEAH01) |
+| 40.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2012BEAH01) |
+| 40.62 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2012BEAH01) |
+| 40.64 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2012BEAH01) |
+| 40.74 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2012BEAH01) |
+| 40.86 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2012BEAH01) |
 
 ### 3x3x3 One-Handed
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 7.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [San Jose del Monte Open II 2024](https://www.worldcubeassociation.org/competitions/SanJosedelMonteOpenII2024/results/by_person#2017VILL41) |
-| 7.49 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
-| 7.63 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024/results/by_person#2017VILL41) |
-| 7.67 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2022ROBI05) |
-| 7.68 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023/results/by_person#2014SEBA01) |
-| 7.70 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024/results/by_person#2012PONC02) |
-| 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
-| 7.71 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024/results/by_person#2017VILL41) |
-| 7.72 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [V per Varese 2024](https://www.worldcubeassociation.org/competitions/VperVarese2024/results/by_person#2021MERU01) |
-| 7.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Westview Cubing Favorites 2023](https://www.worldcubeassociation.org/competitions/WestviewCubingFavorites2023/results/by_person#2012PARK03) |
+| 9.97 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2012BEAH01) |
+| 10.43 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
+| 10.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2012BEAH01) |
+| 10.73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2012BEAH01) |
+| 11.03 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022/results/by_person#2012BEAH01) |
+| 11.07 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023/results/by_person#2012YUTA01) |
+| 11.12 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2017MADD04) |
+| 11.13 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023/results/by_person#2012YUTA01) |
+| 11.15 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [East London Autumn 2022](https://www.worldcubeassociation.org/competitions/EastLondonAutumn2022/results/by_person#2012YUTA01) |
+| 11.19 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Isle of Wight Summer 2023](https://www.worldcubeassociation.org/competitions/IsleofWightSummer2023/results/by_person#2012YUTA01) |
 
 ### Megaminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 25.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2016YONG02) |
-| 25.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
-| 25.69 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023/results/by_person#2016YONG02) |
-| 25.69 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
-| 25.71 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Shenzhen Open 2023](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2023/results/by_person#2016WUZI04) |
-| 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
-| 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023/results/by_person#2016YONG02) |
-| 25.79 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024/results/by_person#2016WUZI04) |
-| 25.97 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2024](https://www.worldcubeassociation.org/competitions/SingaporeMax2024/results/by_person#2016YONG02) |
-| 25.97 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024/results/by_person#2018LOPE22) |
+| 34.05 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2019NAYA01) |
+| 35.27 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019NAYA01) |
+| 35.64 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019NAYA01) |
+| 36.03 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019NAYA01) |
+| 36.07 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019NAYA01) |
+| 36.49 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024/results/by_person#2019NAYA01) |
+| 36.76 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2019NAYA01) |
+| 36.79 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2019NAYA01) |
+| 36.89 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019NAYA01) |
+| 36.99 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2019NAYA01) |
 
 ### Pyraminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 1.07 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024/results/by_person#2017TSVE02) |
-| 1.15 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/by_person#2019JIAN54) |
-| 1.18 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Lyttelton Spring 2023](https://www.worldcubeassociation.org/competitions/LytteltonSpring2023/results/by_person#2018MURR03) |
-| 1.18 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Nanchang Spring 2024](https://www.worldcubeassociation.org/competitions/NanchangSpring2024/results/by_person#2019JIAN54) |
-| 1.18 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Waterloo Favourites B 2023](https://www.worldcubeassociation.org/competitions/WaterlooFavouritesB2023/results/by_person#2019SHER10) |
-| 1.20 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2019MEAD03) |
-| 1.21 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024/results/by_person#2022PART02) |
-| 1.22 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Queensland Open 2024](https://www.worldcubeassociation.org/competitions/QueenslandOpen2024/results/by_person#2018MURR03) |
-| 1.23 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/by_person#2021LEES01) |
-| 1.25 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/by_person#2019JIAN54) |
+| 1.80 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
+| 1.81 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/by_person#2021LOFT01) |
+| 1.82 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021LOFT01) |
+| 1.86 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
+| 1.90 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
+| 1.91 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/by_person#2021LOFT01) |
+| 1.92 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2021LOFT01) |
+| 2.00 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2022MCCO09) |
+| 2.02 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021LOFT01) |
+| 2.03 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/by_person#2021LOFT01) |
 
 ### Rubik's Clock
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 2.44 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
-| 2.50 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Cubing in Oak Creek 2024](https://www.worldcubeassociation.org/competitions/CubinginOakCreek2024/results/by_person#2022KAPU01) |
-| 2.52 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
-| 2.53 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
-| 2.57 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Vännäs & Friends 2024](https://www.worldcubeassociation.org/competitions/VannasFriends2024/results/by_person#2021ELIA01) |
-| 2.59 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
-| 2.62 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Cubing in Oak Creek 2024](https://www.worldcubeassociation.org/competitions/CubinginOakCreek2024/results/by_person#2022KAPU01) |
-| 2.67 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Alabama Championship 2024](https://www.worldcubeassociation.org/competitions/AlabamaChampionship2024/results/by_person#2015CHER07) |
-| 2.67 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Cubing in Oak Creek 2024](https://www.worldcubeassociation.org/competitions/CubinginOakCreek2024/results/by_person#2022KAPU01) |
-| 2.72 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
+| 3.21 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022CORR06) |
+| 3.29 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2022CORR06) |
+| 3.45 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2022CORR06) |
+| 3.47 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
+| 3.49 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
+| 3.53 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
+| 3.55 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
+| 3.56 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2022CORR06) |
+| 3.58 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/by_person#2019NATS02) |
+| 3.60 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2022CORR06) |
 
 ### Skewb
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 1.14 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/by_person#2015KUCA01) |
-| 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
-| 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024/results/by_person#2018KHAN28) |
-| 1.32 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [Trains on Main La Grange 2024](https://www.worldcubeassociation.org/competitions/TrainsonMainLaGrange2024/results/by_person#2019REDI02) |
-| 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023/results/by_person#2018KHAN28) |
-| 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Across the Woods Kentucky B 2023](https://www.worldcubeassociation.org/competitions/AcrosstheWoodsKentuckyB2023/results/by_person#2018KHAN28) |
-| 1.38 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/by_person#2019REDI02) |
-| 1.39 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2013KRAS02) |
-| 1.41 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Race the Clock Minnesota 2023](https://www.worldcubeassociation.org/competitions/RacetheClockMinnesota2023/results/by_person#2016KELL12) |
-| 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2018KHAN28) |
+| 1.77 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021FINK02) |
+| 1.92 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2019CARE02) |
+| 2.01 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2019CARE02) |
+| 2.09 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2023MANG02) |
+| 2.11 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021BURK03) |
+| 2.13 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2019CARE02) |
+| 2.13 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2018GRYT01) |
+| 2.18 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2018GRYT01) |
+| 2.30 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2018GRYT01) |
+| 2.35 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2018GRYT01) |
 
 ### Square-1
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 4.23 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
-| 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
-| 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
-| 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
-| 4.43 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2019BAUM02) |
-| 4.45 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024/results/by_person#2019BAUM02) |
-| 4.46 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Northwest Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2024/results/by_person#2017AGGA01) |
-| 4.47 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
-| 4.51 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2024/results/by_person#2019BAUM02) |
-| 4.52 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Spring 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2024/results/by_person#2019BAUM02) |
+| 7.30 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019BURK05) |
+| 8.10 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023/results/by_person#2017MADD04) |
+| 8.63 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2020BERM02) |
+| 8.91 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2020BERM02) |
+| 8.97 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/by_person#2017MADD04) |
+| 9.01 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/by_person#2017MADD04) |
+| 9.16 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
+| 9.23 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2020BERM02) |
+| 9.24 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2017MADD04) |
+| 9.25 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2017MADD04) |
 
 ### 3x3x3 With Feet
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 18.44 | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) | [VJTI Mumbai Cube Open 2019](https://www.worldcubeassociation.org/competitions/VJTIMumbaiCubeOpen2019/results/by_person#2017KOLI01) |
-| 18.96 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2015ROSE01) |
-| 18.98 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019/results/by_person#2016HUNG08) |
-| 19.40 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [Merdeka Mind Games 2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019/results/by_person#2016HUNG08) |
-| 19.47 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Brooklyn Fall 2019](https://www.worldcubeassociation.org/competitions/BrooklynFall2019/results/by_person#2015ROSE01) |
-| 19.59 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2016HUNG08) |
-| 19.66 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Brooklyn Fall 2019](https://www.worldcubeassociation.org/competitions/BrooklynFall2019/results/by_person#2015ROSE01) |
-| 19.72 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019/results/by_person#2016HUNG08) |
-| 20.12 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [Thailand Championship 2019](https://www.worldcubeassociation.org/competitions/ThailandChampionship2019/results/by_person#2016HUNG08) |
-| 20.18 | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) | [VJTI Mumbai Cube Open 2019](https://www.worldcubeassociation.org/competitions/VJTIMumbaiCubeOpen2019/results/by_person#2017KOLI01) |
+| 49.04 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/by_person#2012BEAH01) |
+| 56.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/by_person#2012BEAH01) |
+| 57.38 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/by_person#2012BEAH01) |
+| 1:19.28 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019/results/by_person#2016KEOG01) |
+| 1:25.80 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019/results/by_person#2016KEOG01) |
+| 1:34.80 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019/results/by_person#2016KEOG01) |
+| 1:52.03 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019/results/by_person#2019FROG01) |
+| 2:15.10 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019/results/by_person#2019FROG01) |
+| 2:16.16 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019/results/by_person#2015HENN02) |
+| 2:21.90 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019/results/by_person#2015HENN02) |
 
 ### Rubik's Magic
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 0.75 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/by_person#2009WANG13) |
-| 0.75 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Tianjin Winter 2012](https://www.worldcubeassociation.org/competitions/TianjinWinter2012/results/by_person#2009WANG13) |
-| 0.77 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Taiyuan 2011](https://www.worldcubeassociation.org/competitions/Taiyuan2011/results/by_person#2009WANG13) |
-| 0.77 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/by_person#2009WANG13) |
-| 0.77 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/by_person#2009WANG13) |
-| 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Shanghai Open 2010](https://www.worldcubeassociation.org/competitions/ShanghaiOpen2010/results/by_person#2009WANG13) |
-| 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Shanghai Open 2010](https://www.worldcubeassociation.org/competitions/ShanghaiOpen2010/results/by_person#2009WANG13) |
-| 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing No Cubes 2010](https://www.worldcubeassociation.org/competitions/BeijingNoCubes2010/results/by_person#2009WANG13) |
-| 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Spring 2011](https://www.worldcubeassociation.org/competitions/BeijingSpring2011/results/by_person#2009WANG13) |
-| 0.80 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) | [Hungarian Open 2010](https://www.worldcubeassociation.org/competitions/HungarianOpen2010/results/by_person#2008BODO01) |
+| 1.50 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Aachen Open 2010](https://www.worldcubeassociation.org/competitions/AachenOpen2010/results/by_person#2009BAUM01) |
+| 1.50 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Aachen Open 2011](https://www.worldcubeassociation.org/competitions/AachenOpen2011/results/by_person#2009BAUM01) |
+| 1.52 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Aachen Open 2011](https://www.worldcubeassociation.org/competitions/AachenOpen2011/results/by_person#2009BAUM01) |
+| 1.53 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Aachen Open 2010](https://www.worldcubeassociation.org/competitions/AachenOpen2010/results/by_person#2009BAUM01) |
+| 1.53 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [German Nationals 2010](https://www.worldcubeassociation.org/competitions/Germany2010/results/by_person#2009BAUM01) |
+| 1.58 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Aachen Open 2011](https://www.worldcubeassociation.org/competitions/AachenOpen2011/results/by_person#2009BAUM01) |
+| 1.59 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009BAUM01) |
+| 1.59 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [World Championship 2009](https://www.worldcubeassociation.org/competitions/WC2009/results/by_person#2009BAUM01) |
+| 1.63 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [World Championship 2009](https://www.worldcubeassociation.org/competitions/WC2009/results/by_person#2009BAUM01) |
+| 1.65 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009BAUM01) |
 
 ### Master Magic
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 1.71 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2010PULC01) |
-| 1.77 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Tianjin Winter 2012](https://www.worldcubeassociation.org/competitions/TianjinWinter2012/results/by_person#2009WANG13) |
-| 1.77 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2010PULC01) |
-| 1.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Wuhan Open 2012](https://www.worldcubeassociation.org/competitions/WuhanOpen2012/results/by_person#2009WANG13) |
-| 1.78 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2010PULC01) |
-| 1.80 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [SJC Winter 2012](https://www.worldcubeassociation.org/competitions/SJCWinter2012/results/by_person#2010PULC01) |
-| 1.81 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Winter 2012](https://www.worldcubeassociation.org/competitions/BeijingWinter2012/results/by_person#2009WANG13) |
-| 1.81 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [Newark Head to Head 2011](https://www.worldcubeassociation.org/competitions/NewarkH2H2011/results/by_person#2010PULC01) |
-| 1.81 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [Jersey Shore Open 2012](https://www.worldcubeassociation.org/competitions/JerseyShoreOpen2012/results/by_person#2010PULC01) |
-| 1.83 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Taiyuan 2011](https://www.worldcubeassociation.org/competitions/Taiyuan2011/results/by_person#2009WANG13) |
+| 4.05 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [German Nationals 2010](https://www.worldcubeassociation.org/competitions/Germany2010/results/by_person#2009BAUM01) |
+| 4.09 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [German Nationals 2010](https://www.worldcubeassociation.org/competitions/Germany2010/results/by_person#2009BAUM01) |
+| 4.44 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012/results/by_person#2010BOWE01) |
+| 4.44 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012/results/by_person#2010BOWE01) |
+| 4.61 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012/results/by_person#2010BOWE01) |
+| 4.71 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [German Nationals 2010](https://www.worldcubeassociation.org/competitions/Germany2010/results/by_person#2009BAUM01) |
+| 4.80 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Aachen Open 2011](https://www.worldcubeassociation.org/competitions/AachenOpen2011/results/by_person#2009BAUM01) |
+| 4.88 | [David Hamilton](https://www.worldcubeassociation.org/persons/2011HAMI02) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012/results/by_person#2011HAMI02) |
+| 4.93 | [David Hamilton](https://www.worldcubeassociation.org/persons/2011HAMI02) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012/results/by_person#2011HAMI02) |
+| 5.00 | [David Hamilton](https://www.worldcubeassociation.org/persons/2011HAMI02) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012/results/by_person#2011HAMI02) |
 
 
-<a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+<a href="https://github.com/simonkellly/wca_statistics_ireland" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

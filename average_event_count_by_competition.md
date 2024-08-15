@@ -5,106 +5,64 @@
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
-| [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023) | 13.48 | 23 | Sweden |
-| [24 Hours in Åker 2024](https://www.worldcubeassociation.org/competitions/24HoursinAker2024) | 12.86 | 37 | Sweden |
-| [All Rounders in Stobierna 2023](https://www.worldcubeassociation.org/competitions/AllRoundersinStobierna2023) | 12.00 | 29 | Poland |
-| [Alphen Track to Records 24h 2023](https://www.worldcubeassociation.org/competitions/AlphenTracktoRecords24h2023) | 11.50 | 50 | Netherlands |
-| [Jukkasjärvi Midnight Sun 2024](https://www.worldcubeassociation.org/competitions/JukkasjarviMidnightSun2024) | 11.44 | 18 | Sweden |
-| [Cube Camp in Nakhon Nayok 2024](https://www.worldcubeassociation.org/competitions/CubeCampinNakhonNayok2024) | 11.15 | 40 | Thailand |
-| [BiH Open 2012](https://www.worldcubeassociation.org/competitions/BIHOpen2012) | 11.00 | 23 | Bosnia and Herzegovina |
-| [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) | 10.16 | 49 | Czech Republic |
-| [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) | 10.06 | 52 | Czech Republic |
-| [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010) | 9.94 | 32 | United Kingdom |
-| [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 9.84 | 50 | Czech Republic |
-| [Björneborg Winter 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWinter2023) | 9.82 | 11 | Sweden |
-| [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | 9.82 | 55 | Czech Republic |
-| [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 9.77 | 35 | Indonesia |
-| [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021) | 9.72 | 25 | Sweden |
-| [Kediri Open 2013](https://www.worldcubeassociation.org/competitions/KediriOpen2013) | 9.65 | 23 | Indonesia |
-| [Everything in Evanston A 2023](https://www.worldcubeassociation.org/competitions/EverythinginEvanstonA2023) | 9.62 | 29 | United States |
-| [Medan All Events 2018](https://www.worldcubeassociation.org/competitions/MedanAllEvents2018) | 9.59 | 37 | Indonesia |
-| [Reach Your Goals 2023](https://www.worldcubeassociation.org/competitions/ReachYourGoalsWroclaw2023) | 9.57 | 44 | Poland |
-| [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) | 9.55 | 206 | Spain |
-| [Cube Camp In Kaeng Krachan 2023](https://www.worldcubeassociation.org/competitions/CubeCampinKaengKrachan2023) | 9.53 | 38 | Thailand |
-| [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) | 9.50 | 14 | Indonesia |
-| [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | 9.47 | 15 | Ireland |
-| [Autotalo Anime Adventure VI 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureVI2024) | 9.46 | 24 | Finland |
-| [Lyon Winter Open 2012](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2012) | 9.36 | 25 | France |
-| [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 9.36 | 25 | United States |
-| [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023) | 9.31 | 74 | Poland |
-| [B.O.N.D. Open 2015](https://www.worldcubeassociation.org/competitions/BONDOpen2015) | 9.30 | 43 | Slovakia |
-| [Kvissel Fall 2018](https://www.worldcubeassociation.org/competitions/KvisselFall2018) | 9.23 | 26 | Denmark |
-| [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022) | 9.22 | 54 | Spain |
-| [Benelux Open 2010](https://www.worldcubeassociation.org/competitions/BeneluxOpen2010) | 9.20 | 61 | Netherlands |
-| [Dauphiné Open 2009](https://www.worldcubeassociation.org/competitions/DauphineOpen2009) | 9.16 | 25 | France |
-| [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) | 9.13 | 126 | Denmark |
-| [Empire State Winter Whirl 2023](https://www.worldcubeassociation.org/competitions/EmpireStateWinterWhirl2023) | 9.13 | 30 | United States |
-| [Vitba Winter 2015](https://www.worldcubeassociation.org/competitions/VitbaWinter2015) | 9.13 | 23 | Belarus |
-| [Copper Country Cubing Fall 2019](https://www.worldcubeassociation.org/competitions/CopperCountryCubingFall2019) | 9.10 | 48 | United States |
-| [Romanian 24h Championship 2024](https://www.worldcubeassociation.org/competitions/Romanian24hChampionship2024) | 9.10 | 50 | Romania |
-| [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024) | 9.10 | 101 | United States |
-| [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) | 9.09 | 64 | Norway |
-| [SSL Final Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLFinalUppsala2023) | 9.07 | 81 | Sweden |
-| [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019) | 9.07 | 15 | Finland |
-| [Poções 2019](https://www.worldcubeassociation.org/competitions/Pocoes2019) | 9.06 | 18 | Brazil |
-| [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
-| [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
-| [Danish Open 2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014) | 8.97 | 36 | Denmark |
-| [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 8.96 | 93 | United States |
-| [Maribor Open 2014](https://www.worldcubeassociation.org/competitions/MariborOpen2014) | 8.95 | 20 | Slovenia |
-| [Two days in Vitebsk 2015](https://www.worldcubeassociation.org/competitions/TwodaysinVitebsk2015) | 8.94 | 32 | Belarus |
-| [Indonesian Championship 2012](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2012) | 8.88 | 41 | Indonesia |
-| [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019) | 8.88 | 64 | Poland |
-| [Medan Farewell 2019](https://www.worldcubeassociation.org/competitions/MedanFarewell2019) | 8.87 | 31 | Indonesia |
-| [Swisscubing Cup Final 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2023) | 8.85 | 72 | Switzerland |
-| [Odsherred Sommercubing 2023](https://www.worldcubeassociation.org/competitions/OdsherredSommercubing2023) | 8.84 | 25 | Denmark |
-| [Rebild Open 2014](https://www.worldcubeassociation.org/competitions/RebildOpen2014) | 8.82 | 22 | Denmark |
-| [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024) | 8.81 | 116 | United Kingdom |
-| [Guildford Open 2013](https://www.worldcubeassociation.org/competitions/GuildfordOpen2013) | 8.81 | 47 | United Kingdom |
-| [Georgia Championship 2018](https://www.worldcubeassociation.org/competitions/GAChamp2018) | 8.79 | 73 | United States |
-| [Erfurt Open 2015](https://www.worldcubeassociation.org/competitions/ErfurtOpen2015) | 8.79 | 38 | Germany |
-| [Side 'n Blind Forserum 2020](https://www.worldcubeassociation.org/competitions/SidenBlindForserum2020) | 8.79 | 14 | Sweden |
-| [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) | 8.78 | 40 | Poland |
-| [Open Ovalle Summer 2024](https://www.worldcubeassociation.org/competitions/OpenOvalleSummer2024) | 8.77 | 22 | Chile |
-| [Mazate Open 2016](https://www.worldcubeassociation.org/competitions/MazateOpen2016) | 8.76 | 17 | Guatemala |
-| [Danish Open 2012](https://www.worldcubeassociation.org/competitions/DanishOpen2012) | 8.76 | 41 | Denmark |
-| [Swiss Open 2017](https://www.worldcubeassociation.org/competitions/SwissOpen2017) | 8.75 | 73 | Switzerland |
-| [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022) | 8.75 | 89 | United States |
-| [Magic Cube Days 2012](https://www.worldcubeassociation.org/competitions/MagicCubeDays2012) | 8.75 | 24 | Germany |
-| [Brno Open 2018](https://www.worldcubeassociation.org/competitions/BrnoOpen2018) | 8.74 | 46 | Czech Republic |
-| [Croatian Open 2015](https://www.worldcubeassociation.org/competitions/CroatianOpen2015) | 8.73 | 30 | Croatia |
-| [Dvina Open 2014](https://www.worldcubeassociation.org/competitions/DvinaOpen2014) | 8.71 | 35 | Belarus |
-| [Myyrmäki Summer Challenge 2019](https://www.worldcubeassociation.org/competitions/MyyrmakiSummerChallenge2019) | 8.69 | 55 | Finland |
-| [Juhannus 2024](https://www.worldcubeassociation.org/competitions/Juhannus2024) | 8.67 | 15 | Finland |
-| [Bristol Open 2009](https://www.worldcubeassociation.org/competitions/BristolOpen2009) | 8.67 | 27 | United Kingdom |
-| [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011) | 8.67 | 48 | Sweden |
-| [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | 8.65 | 62 | Czech Republic |
-| [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | 8.63 | 52 | Denmark |
-| [SSL IV Flen 2023](https://www.worldcubeassociation.org/competitions/SSLIVFlen2023) | 8.60 | 30 | Sweden |
-| [Italian Championship 2010](https://www.worldcubeassociation.org/competitions/ItalianChampionship2010) | 8.60 | 40 | Italy |
-| [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018) | 8.56 | 85 | Mexico |
-| [Cles: Too Hot For Cubing 2023](https://www.worldcubeassociation.org/competitions/ClesTooHotForCubing2023) | 8.56 | 50 | Italy |
-| [B.O.N.D. Open 2016](https://www.worldcubeassociation.org/competitions/BONDOpen2016) | 8.55 | 47 | Slovakia |
-| [Zvornik Summer 2024](https://www.worldcubeassociation.org/competitions/ZvornikSummer2024) | 8.55 | 38 | Bosnia and Herzegovina |
-| [Austrian Open 2012](https://www.worldcubeassociation.org/competitions/AustrianOpen2012) | 8.55 | 67 | Austria |
-| [Alania Open 2011](https://www.worldcubeassociation.org/competitions/AlaniaOpen2011) | 8.53 | 32 | Germany |
-| [Croatian Nationals 2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019) | 8.52 | 46 | Croatia |
-| [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) | 8.52 | 62 | United Kingdom |
-| [Dvina OH Edition 2014](https://www.worldcubeassociation.org/competitions/DvinaOHEdition2014) | 8.50 | 32 | Belarus |
-| [All Events in Stockholm 2024](https://www.worldcubeassociation.org/competitions/AllEventsinStockholm2024) | 8.49 | 47 | Sweden |
-| [Dvina Open 2015](https://www.worldcubeassociation.org/competitions/DvinaOpen2015) | 8.48 | 33 | Belarus |
-| [Skanderborg 2014](https://www.worldcubeassociation.org/competitions/SkanderborgOpen2014) | 8.46 | 28 | Denmark |
-| [2:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/2aLordagskubeniVasteras2024) | 8.45 | 22 | Sweden |
-| [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016) | 8.45 | 20 | Ukraine |
-| [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010) | 8.45 | 20 | Italy |
-| [Vilnius Winter 2024](https://www.worldcubeassociation.org/competitions/VilniusWinter2024) | 8.45 | 49 | Lithuania |
-| [Lent Open 2015](https://www.worldcubeassociation.org/competitions/LentOpen2015) | 8.44 | 25 | Slovenia |
-| [Fuglsangpark Open 2009](https://www.worldcubeassociation.org/competitions/FuglsangparkOpen2009) | 8.43 | 30 | Denmark |
-| [German Open 2024](https://www.worldcubeassociation.org/competitions/GermanOpen2024) | 8.43 | 108 | Germany |
-| [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023) | 8.42 | 179 | United States |
-| [Western Championship 2024](https://www.worldcubeassociation.org/competitions/WesternChampionship2024) | 8.42 | 217 | United States |
-| [Carnikavas Pavasaris 2023](https://www.worldcubeassociation.org/competitions/CarnikavasPavasaris2023) | 8.42 | 43 | Latvia |
-| [Medan Lunar New Year 2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019) | 8.41 | 22 | Indonesia |
+| [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) | 7.52 | 56 | Ireland |
+| [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 7.42 | 161 | Ireland |
+| [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) | 7.38 | 92 | Ireland |
+| [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | 6.78 | 95 | Ireland |
+| [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | 6.62 | 73 | Ireland |
+| [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | 6.54 | 39 | Ireland |
+| [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | 6.50 | 8 | Ireland |
+| [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 6.26 | 95 | Ireland |
+| [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023) | 6.18 | 93 | Ireland |
+| [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | 5.98 | 162 | Ireland |
+| [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) | 5.89 | 83 | Ireland |
+| [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024) | 5.86 | 51 | Ireland |
+| [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | 5.83 | 29 | Ireland |
+| [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 5.76 | 72 | Ireland |
+| [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | 5.70 | 198 | Ireland |
+| [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | 5.69 | 80 | Ireland |
+| [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024) | 5.68 | 41 | Ireland |
+| [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | 5.68 | 107 | Ireland |
+| [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 5.67 | 98 | Ireland |
+| [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) | 5.67 | 91 | Ireland |
+| [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022) | 5.66 | 64 | Ireland |
+| [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | 5.56 | 80 | Ireland |
+| [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) | 5.54 | 52 | Ireland |
+| [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | 5.47 | 91 | Ireland |
+| [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) | 5.39 | 114 | Ireland |
+| [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | 5.32 | 134 | Ireland |
+| [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) | 5.16 | 45 | Ireland |
+| [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) | 5.15 | 59 | Ireland |
+| [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | 5.14 | 56 | Ireland |
+| [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) | 5.08 | 76 | Ireland |
+| [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | 5.05 | 122 | Ireland |
+| [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | 5.04 | 112 | Ireland |
+| [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | 4.91 | 70 | Ireland |
+| [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) | 4.88 | 43 | Ireland |
+| [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | 4.86 | 22 | Ireland |
+| [Tuam Open Saturday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSaturday2022) | 4.85 | 55 | Ireland |
+| [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) | 4.75 | 93 | Ireland |
+| [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) | 4.55 | 60 | Ireland |
+| [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | 4.51 | 85 | Ireland |
+| [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | 4.50 | 103 | Ireland |
+| [Turnin' in Termonfeckin Sat 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSat2023) | 4.49 | 74 | Ireland |
+| [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) | 4.35 | 48 | Ireland |
+| [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023) | 4.31 | 68 | Ireland |
+| [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) | 4.26 | 69 | Ireland |
+| [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022) | 4.15 | 41 | Ireland |
+| [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) | 4.11 | 71 | Ireland |
+| [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) | 4.11 | 65 | Ireland |
+| [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | 3.95 | 79 | Ireland |
+| [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022) | 3.88 | 75 | Ireland |
+| [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | 3.87 | 91 | Ireland |
+| [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) | 3.79 | 70 | Ireland |
+| [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) | 3.78 | 37 | Ireland |
+| [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024) | 3.51 | 86 | Ireland |
+| [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) | 3.31 | 68 | Ireland |
+| [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) | 3.16 | 68 | Ireland |
+| [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020) | 3.00 | 54 | Ireland |
+| [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 1.00 | 28 | Ireland |
+| [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) | 1.00 | 21 | Ireland |
 
 
-<a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+<a href="https://github.com/simonkellly/wca_statistics_ireland" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
