@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### World
@@ -211,6 +211,8 @@
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2012BEAH01) |
 | 0 | [Edilson Ruco](https://www.worldcubeassociation.org/persons/2024RUCO01) | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024/results/by_person#2024RUCO01) |
 | 0 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024/results/by_person#2019NAYA01) |
+| 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024/results/by_person#2018MCCA02) |
+| 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2020BERM02) |
 
 ### Continental
 

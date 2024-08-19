@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### Rubik's Cube
@@ -136,8 +136,8 @@
 | 1:31.22 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 1:32.49 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 1:35.21 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
+| 1:35.67 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 1:37.39 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
-| 1:37.66 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 
 ### Pyraminx
 

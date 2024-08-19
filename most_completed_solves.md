@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### Competition
@@ -19,6 +19,7 @@
 | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | **3769** | 3950 |
 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | **3626** | 3784 |
 | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | **3622** | 3771 |
+| [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | **3589** | 3763 |
 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | **3568** | 3744 |
 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | **3547** | 3735 |
 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) | **3545** | 3708 |
@@ -26,39 +27,38 @@
 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | **3078** | 3263 |
 | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | **2964** | 3077 |
 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) | **2780** | 2931 |
-| [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) | **2658** | 2797 |
 
 ### Person
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7225** | 7379 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2613** | 2753 |
-| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **2554** | 2842 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7324** | 7484 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2715** | 2858 |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **2616** | 2906 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2479** | 2608 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **2443** | 2497 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2437** | 2490 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **2386** | 2439 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2373** | 2498 |
-| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2249** | 2361 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2235** | 2362 |
-| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2090** | 2209 |
+| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2339** | 2457 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2329** | 2462 |
+| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2184** | 2309 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **1946** | 2061 |
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | **1898** | 1951 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1831** | 1969 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1787** | 1825 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1723** | 1859 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1661** | 1760 |
-| [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **1594** | 1681 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1752** | 1855 |
+| [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **1649** | 1746 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1588** | 1667 |
-| [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1363** | 1444 |
+| [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1427** | 1520 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **1359** | 1424 |
+| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **1358** | 1474 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1305** | 1356 |
-| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **1281** | 1394 |
 
 ### Country
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Ireland | **141505** | 148334 |
-| United Kingdom | **15012** | 15724 |
+| Ireland | **145094** | 152097 |
+| United Kingdom | **15020** | 15739 |
 | Spain | **2018** | 2084 |
 | Germany | **1439** | 1487 |
 | United States | **1391** | 1466 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **163488** | 171285 |
+| Europe | **167085** | 175063 |
 | North America | **1459** | 1538 |
 | Oceania | **396** | 423 |
 | Asia | **297** | 307 |
@@ -95,7 +95,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2023 | **61913** | 64727 |
-| 2024 | **49654** | 52269 |
+| 2024 | **53251** | 56047 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -116,26 +116,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **44233** | 45179 |
-| 2x2x2 Cube | **30319** | 31176 |
-| Pyraminx | **21983** | 22532 |
-| Skewb | **18022** | 18498 |
-| 4x4x4 Cube | **13950** | 14469 |
-| 3x3x3 One-Handed | **9824** | 10263 |
-| 5x5x5 Cube | **7811** | 8130 |
-| Clock | **6412** | 7504 |
-| Megaminx | **4948** | 5314 |
-| Square-1 | **4149** | 4440 |
-| 6x6x6 Cube | **1637** | 1705 |
-| 7x7x7 Cube | **1204** | 1297 |
-| 3x3x3 Blindfolded | **621** | 1895 |
+| 3x3x3 Cube | **44913** | 45874 |
+| 2x2x2 Cube | **30946** | 31816 |
+| Pyraminx | **22480** | 23047 |
+| Skewb | **18403** | 18883 |
+| 4x4x4 Cube | **14233** | 14762 |
+| 3x3x3 One-Handed | **10131** | 10579 |
+| 5x5x5 Cube | **8025** | 8348 |
+| Clock | **6634** | 7771 |
+| Megaminx | **5081** | 5450 |
+| Square-1 | **4260** | 4554 |
+| 6x6x6 Cube | **1699** | 1771 |
+| 7x7x7 Cube | **1257** | 1353 |
+| 3x3x3 Blindfolded | **637** | 1951 |
 | 3x3x3 Fewest Moves | **297** | 506 |
-| 3x3x3 Multi-Blind | **131** | 203 |
+| 3x3x3 Multi-Blind | **138** | 215 |
 | 3x3x3 With Feet | **69** | 76 |
 | Magic | **56** | 65 |
-| 4x4x4 Blindfolded | **39** | 281 |
+| 4x4x4 Blindfolded | **42** | 287 |
 | Master Magic | **34** | 35 |
-| 5x5x5 Blindfolded | **8** | 99 |
+| 5x5x5 Blindfolded | **9** | 102 |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_ireland" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

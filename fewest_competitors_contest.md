@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -152,6 +152,7 @@
 | 1 | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |
 | 1 | [Macclesfield Open 2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016) |
 | 1 | [Madrid Open Rubik 2010](https://www.worldcubeassociation.org/competitions/MadridOpenRubik2010) |
+| 1 | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024) |
 | 1 | [Manchester August 2024](https://www.worldcubeassociation.org/competitions/ManchesterAugust2024) |
 | 1 | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024) |
 | 1 | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### Rubik's Cube
@@ -57,8 +57,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 35.56 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 36.89, 35.27, 33.60, 38.41, 34.52 |
-| 38.57 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 40.50, 40.19, 38.48, 37.05, 35.52 |
+| 35.30 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 36.43, 35.64, 38.81, 33.82, 29.48 |
+| 37.28 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.05, 35.52, 42.69, 38.81, 35.98 |
 | 43.15 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 39.99, 45.86, 36.80, 44.57, 44.90 |
 
 ### Pyraminx

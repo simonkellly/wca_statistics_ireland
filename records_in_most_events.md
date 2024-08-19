@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### World
@@ -64,11 +64,11 @@
 | 5 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
 | 4 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, 4x4x4 Blindfolded |
 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
+| 4 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 3x3x3 Fewest Moves, Square-1, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 4 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | Clock, Skewb, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
 | 3 | [Jesse Harper](https://www.worldcubeassociation.org/persons/2007HARP01) | 3x3x3 Cube, 3x3x3 One-Handed, Magic |
 | 3 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 2x2x2 Cube, Clock, Square-1 |
 | 3 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 3 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 3x3x3 Fewest Moves, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | Clock, Skewb, Square-1 |
 | 3 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | Megaminx, Pyraminx, Skewb |
 | 2 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 2x2x2 Cube, Clock |

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### Rubik's Cube
@@ -152,7 +152,7 @@
 | 1:26.78 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 1:27.79 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 1:28.10 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
-| 1:32.09 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
+| 1:28.30 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 
 ### Pyraminx
 

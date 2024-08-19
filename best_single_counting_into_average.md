@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### Rubik's Cube
@@ -24,14 +24,14 @@
 | ---: | :--- | :--- |
 | 1.10 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2021DOHE02) |
 | 1.12 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2021DOHE02) |
+| 1.31 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2023DOWL01) |
 | 1.32 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2022FURE01) |
 | 1.34 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021DOHE02) |
+| 1.39 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2021DOHE02) |
 | 1.40 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2021DOHE02) |
+| 1.40 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2021DOHE02) |
 | 1.43 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/by_person#2021DOHE02) |
 | 1.43 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2021DOHE02) |
-| 1.48 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2021DOHE02) |
-| 1.48 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2021DOHE02) |
-| 1.49 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023/results/by_person#2021DOHE02) |
 
 ### 4x4x4 Cube
 
@@ -45,8 +45,8 @@
 | 22.84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021/results/by_person#2012BEAH01) |
 | 22.85 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2012BEAH01) |
 | 23.14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022/results/by_person#2012BEAH01) |
+| 23.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
 | 23.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/by_person#2012BEAH01) |
-| 23.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2012BEAH01) |
 
 ### 5x5x5 Cube
 
@@ -82,16 +82,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 33.82 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2019NAYA01) |
 | 34.05 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2019NAYA01) |
 | 35.27 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019NAYA01) |
 | 35.64 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019NAYA01) |
+| 35.64 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2019NAYA01) |
 | 36.03 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019NAYA01) |
 | 36.07 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019NAYA01) |
+| 36.43 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2019NAYA01) |
 | 36.49 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024/results/by_person#2019NAYA01) |
 | 36.76 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2019NAYA01) |
-| 36.79 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2019NAYA01) |
-| 36.89 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019NAYA01) |
-| 36.99 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2019NAYA01) |
 
 ### Pyraminx
 
@@ -113,15 +113,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 3.21 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022CORR06) |
+| 3.28 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2022CORR06) |
 | 3.29 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2022CORR06) |
+| 3.34 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2022CORR06) |
 | 3.45 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2022CORR06) |
 | 3.47 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 3.49 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 3.53 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 3.55 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 3.56 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2022CORR06) |
-| 3.58 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/by_person#2019NATS02) |
-| 3.60 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2022CORR06) |
 
 ### Skewb
 
@@ -144,14 +144,14 @@
 | ---: | :--- | :--- |
 | 7.30 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019BURK05) |
 | 8.10 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023/results/by_person#2017MADD04) |
+| 8.44 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2020BERM02) |
 | 8.63 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2020BERM02) |
+| 8.80 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2019BURK05) |
 | 8.91 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2020BERM02) |
 | 8.97 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/by_person#2017MADD04) |
 | 9.01 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/by_person#2017MADD04) |
+| 9.08 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2020BERM02) |
 | 9.16 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
-| 9.23 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2020BERM02) |
-| 9.24 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2017MADD04) |
-| 9.25 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2017MADD04) |
 
 ### 3x3x3 With Feet
 

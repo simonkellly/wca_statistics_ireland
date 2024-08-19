@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### Rubik's Cube
@@ -45,9 +45,9 @@
 | 0.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25.63 | 26.10 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012BEAH01) |
 | 0.53 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 29.12 | 29.65 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2022HAIN04) |
 | 0.57 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 31.53 | 32.10 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2012BEAH01) |
+| 0.64 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.33 | 23.97 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
 | 0.65 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 37.24 | 37.89 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2018GRYT01) |
 | 0.66 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 48.46 | 49.12 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024/results/by_person#2021BURK03) |
-| 0.69 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25.11 | 25.80 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2012BEAH01) |
 
 ### 5x5x5 Cube
 
@@ -87,12 +87,12 @@
 | 0.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:54.30 | 2:54.91 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016/results/by_person#2012BEAH01) |
 | 0.72 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 3:51.88 | 3:52.60 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2021FINK02) |
 | 0.73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:04.67 | 2:05.40 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
+| 0.84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.64 | 1:57.48 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
 | 0.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:07.11 | 2:08.10 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2012BEAH01) |
 | 1.22 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:57.31 | 1:58.53 | [Vienna Summer 2023](https://www.worldcubeassociation.org/competitions/ViennaBigCubeSummer2023/results/by_person#2012BEAH01) |
 | 1.37 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) | 5:50.91 | 5:52.28 | [Guildford Open 2017](https://www.worldcubeassociation.org/competitions/GuildfordOpen2017/results/by_person#2016MCAT01) |
 | 1.48 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3:23.03 | 3:24.51 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015/results/by_person#2012BEAH01) |
 | 1.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:07.77 | 2:09.57 | [Kirkkonummi Time Trial 2023](https://www.worldcubeassociation.org/competitions/KirkkonummiTimeTrial2023/results/by_person#2012BEAH01) |
-| 1.89 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:46.54 | 2:48.43 | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/by_person#2012BEAH01) |
 
 ### 3x3x3 Blindfolded
 

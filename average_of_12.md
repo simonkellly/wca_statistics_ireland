@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### Rubik's Cube
@@ -33,7 +33,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:57.14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:00.92, 1:50.81, 2:06.31, 2:01.28, 1:57.50, 2:02.94, 1:55.06, 1:54.91, 2:02.88, 1:50.66, 1:54.41, 1:48.00 |
+| 1:56.78 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:50.81, 2:06.31, 2:01.28, 1:57.50, 2:02.94, 1:55.06, 1:54.91, 2:02.88, 1:50.66, 1:54.41, 1:48.00, 1:57.33 |
 
 ### 3x3x3 One-Handed
 
@@ -46,7 +46,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 36.59 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 34.52, 46.45, 35.64, 36.89, 35.27, 33.60, 38.41, 34.52, 37.89, 37.67, 38.00, 37.07 |
-| 41.35 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 47.00, 46.68, 51.02, 33.64, 42.88, 42.46, 40.50, 40.19, 38.48, 37.05, 35.52, 42.69 |
+| 39.46 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 51.02, 33.64, 42.88, 42.46, 40.50, 40.19, 38.48, 37.05, 35.52, 42.69, 38.81, 35.98 |
 | 44.31 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 44.29, 47.82, 39.99, 45.86, 36.80, 44.57, 44.90, 48.88, 43.82, 40.76, 44.24, 46.88 |
 
 ### Pyraminx
@@ -63,7 +63,7 @@
 | 3.67 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.47, 3.49, 3.42, 3.74, 3.66, 3.60, DNF, 3.94, 3.61, 3.33, 4.06, 3.69 |
 | 4.34 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.58, 3.04, DNF, 6.07, 4.51, 4.44, 6.00, 3.39, 3.95, 3.93, 3.82, 3.74 |
 | 4.71 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 4.74, 3.84, 6.38, 5.12, 4.54, 4.46, 4.90, 4.69, 4.91, 4.16, 5.64, 3.92 |
-| 4.84 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 5.23, 6.37, DNF, 4.39, 4.82, 4.19, 4.73, 4.08, 4.88, 4.08, 4.76, 4.98 |
+| 4.73 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | DNF, 4.39, 4.82, 4.19, 4.73, 4.08, 4.88, 4.08, 4.76, 4.98, 5.64, 4.79 |
 | 5.06 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 7.93, 5.93, 4.31, 4.03, 4.96, 4.71, DNF, 4.75, 3.80, 5.00, 4.07, 4.88 |
 
 ### Square-1

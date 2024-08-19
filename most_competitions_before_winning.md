@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 
 ### Rubik's Cube
@@ -131,6 +131,7 @@
 | ---: | :--- | :--- |
 | 27 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024) |
 | 13 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) |
+| 13 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |
 | 10 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) |
 | 9 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) |
 | 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) |
@@ -138,7 +139,6 @@
 | 5 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) |
 | 3 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |
 | 3 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) | [Turnin' in Termonfeckin Sat 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSat2023) |
-| 3 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) |
 
 ### Rubik's Clock
 
