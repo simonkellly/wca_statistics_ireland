@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 19 August 2024*
+*Updated on 22 August 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -67,10 +67,10 @@
 | 55 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 55 | [Leon Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
 | 54 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
+| 53 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 53 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 52 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) |
 | 52 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
-| 51 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 51 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
 | 50 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) |
 | 48 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |

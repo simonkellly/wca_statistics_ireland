@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 August 2024*
+*Updated on 22 August 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -24,6 +24,7 @@
 | 1 | [Belgian Open 2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019) |
 | 1 | [Berkeley Summer 2024](https://www.worldcubeassociation.org/competitions/BerkeleySummer2024) |
 | 1 | [Berkeley Winter A 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterA2023) |
+| 1 | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024) |
 | 1 | [Bishop's Stortford - BBO 2022](https://www.worldcubeassociation.org/competitions/BishopsStortfordAutumnBBO2022) |
 | 1 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023) |
 | 1 | [Blue Cubed 2018](https://www.worldcubeassociation.org/competitions/BlueCubed2018) |
@@ -42,6 +43,7 @@
 | 1 | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009) |
 | 1 | [Budapest Summer 2023](https://www.worldcubeassociation.org/competitions/BudapestSummer2023) |
 | 1 | [Boston University Winter 2019](https://www.worldcubeassociation.org/competitions/BUWinter2019) |
+| 1 | [Calp-Ifach 2024](https://www.worldcubeassociation.org/competitions/CalpIfach2024) |
 | 1 | [Cal Poly SLO Spring 2022](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2022) |
 | 1 | [Cambridge Open 2013](https://www.worldcubeassociation.org/competitions/CambridgeOpen2013) |
 | 1 | [Canadian Open 2007](https://www.worldcubeassociation.org/competitions/CanadianOpen2007) |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 August 2024*
+*Updated on 22 August 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -63,9 +63,8 @@
 | 4 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |
 | 4 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 4 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 3 | [Octavian Butnaru](https://www.worldcubeassociation.org/persons/2022BUTN01) |
-| 3 | [Said Shytaj](https://www.worldcubeassociation.org/persons/2023SHYT01) |
 | 3 | [Yohanush Anuradha Senthilkumar](https://www.worldcubeassociation.org/persons/2023SENT07) |
+| 3 | [Said Shytaj](https://www.worldcubeassociation.org/persons/2023SHYT01) |
 | 3 | [Mihai Laurentiu Pricop](https://www.worldcubeassociation.org/persons/2019PRIC05) |
 | 3 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 3 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) |
@@ -76,9 +75,10 @@
 | 3 | [Tomasz Żymuła](https://www.worldcubeassociation.org/persons/2018ZYMU03) |
 | 3 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 3 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
+| 3 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 3 | [Leonardo Pezza](https://www.worldcubeassociation.org/persons/2024PEZZ01) |
 | 3 | [Advaith Simha](https://www.worldcubeassociation.org/persons/2023SIMH02) |
-| 3 | [Ferdia Hyde](https://www.worldcubeassociation.org/persons/2016HYDE01) |
+| 3 | [Cian Doyle](https://www.worldcubeassociation.org/persons/2022DOYL02) |
 | 3 | [Hongxiao Vincent Ai](https://www.worldcubeassociation.org/persons/2023AIHO01) |
 | 3 | [Grace Farrell](https://www.worldcubeassociation.org/persons/2009FARR01) |
 | 3 | [Daniel O'Mahony](https://www.worldcubeassociation.org/persons/2009OMAH01) |
@@ -91,9 +91,9 @@
 | 3 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
 | 3 | [Charlie Vaidie](https://www.worldcubeassociation.org/persons/2021VAID01) |
 | 3 | [Patrick Chishti](https://www.worldcubeassociation.org/persons/2023CHIS01) |
-| 3 | [Cian Doyle](https://www.worldcubeassociation.org/persons/2022DOYL02) |
+| 3 | [Ferdia Hyde](https://www.worldcubeassociation.org/persons/2016HYDE01) |
+| 3 | [Octavian Butnaru](https://www.worldcubeassociation.org/persons/2022BUTN01) |
 | 3 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) |
-| 2 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 2 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
 | 2 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 2 | [Loric Leclercq](https://www.worldcubeassociation.org/persons/2022LECL03) |

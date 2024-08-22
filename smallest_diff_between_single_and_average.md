@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 August 2024*
+*Updated on 22 August 2024*
 
 
 ### Rubik's Cube
@@ -173,6 +173,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.15 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | 8.27 | 8.42 | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022HOGA01) |
 | 0.16 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 5.75 | 5.91 | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024/results/by_person#2022MOLL03) |
 | 0.17 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.79 | 3.96 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2019BURK05) |
 | 0.18 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 5.06 | 5.24 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
@@ -182,7 +183,6 @@
 | 0.22 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3.09 | 3.31 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019CARE02) |
 | 0.22 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 5.66 | 5.88 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/by_person#2021TSPO01) |
 | 0.22 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 6.30 | 6.52 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2022LAUR09) |
-| 0.22 | [Alfie McClean](https://www.worldcubeassociation.org/persons/2022MCCL06) | 11.54 | 11.76 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2022MCCL06) |
 
 ### Square-1
 

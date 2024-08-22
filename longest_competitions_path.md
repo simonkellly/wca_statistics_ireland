@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 19 August 2024*
+*Updated on 22 August 2024*
 
 | Person | Distance |
 | :--- | ---: |
@@ -68,6 +68,7 @@
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 3 488 km |
 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) | 3 390 km |
 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | 3 374 km |
+| [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | 3 203 km |
 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | 3 186 km |
 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) | 3 167 km |
 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) | 3 159 km |
@@ -75,7 +76,6 @@
 | [Edvin Kurjak](https://www.worldcubeassociation.org/persons/2022KURJ01) | 3 107 km |
 | [Nimai Osio](https://www.worldcubeassociation.org/persons/2019OSIO01) | 3 067 km |
 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | 2 964 km |
-| [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | 2 846 km |
 | [Basil McGrath](https://www.worldcubeassociation.org/persons/2022MCGR01) | 2 785 km |
 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) | 2 745 km |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 2 655 km |
@@ -95,6 +95,7 @@
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2 259 km |
 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | 2 193 km |
 | [Charley Kubiak-Hart](https://www.worldcubeassociation.org/persons/2023KUBI01) | 2 118 km |
+| [Luke Daniel Savage](https://www.worldcubeassociation.org/persons/2022SAVA01) | 2 098 km |
 | [Aran Mitchell](https://www.worldcubeassociation.org/persons/2023MITC04) | 2 055 km |
 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) | 2 029 km |
 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) | 2 027 km |
@@ -281,7 +282,6 @@
 | [Ciaran Mallon](https://www.worldcubeassociation.org/persons/2015MALL01) | 451 km |
 | [Matthew O'Neill](https://www.worldcubeassociation.org/persons/2022ONEI08) | 451 km |
 | [Ross Anderson](https://www.worldcubeassociation.org/persons/2022ANDE10) | 449 km |
-| [Luke Daniel Savage](https://www.worldcubeassociation.org/persons/2022SAVA01) | 442 km |
 | [Tommy Roulston](https://www.worldcubeassociation.org/persons/2023ROUL01) | 440 km |
 | [Grace Farrell](https://www.worldcubeassociation.org/persons/2009FARR01) | 437 km |
 | [Eric Yazhuo Han](https://www.worldcubeassociation.org/persons/2019HANE01) | 435 km |
