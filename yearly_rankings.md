@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 
 ### Rubik's Cube - Single
@@ -189,6 +189,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **23.92** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 38.53, DNF, 23.92 |
+| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **27.58** | Ireland | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) | 1:06.97, DNF, 27.58 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **27.59** | Ireland | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024) | 27.59, 38.83, DNF |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **46.27** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:31.72, DNF, 46.27 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **46.45** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | DNF, DNF, 46.45 |
@@ -197,7 +198,6 @@
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **54.48** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:04.05, DNF, 54.48 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1:01.33** | Ireland | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | DNF, DNF, 1:01.33 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:01.66** | Mongolia | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | DNF, 1:01.66, 1:32.81 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:03.65** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 1:03.65, 1:03.76, DNS |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -248,6 +248,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **9.16** | Ireland | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) | 13.22, 9.16, 11.06, 10.49, 11.52 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **9.40** | Ireland | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) | 9.40, 9.97, 12.82, 12.47, 13.83 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **10.18** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 18.69, 10.18, DNF, 12.32, 14.56 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **10.34** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 10.34, 12.00, 16.81, 12.63, 11.31 |
@@ -257,12 +258,12 @@
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **13.10** | Ukraine | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 13.10, 15.65, 16.00, 16.66, 17.20 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **13.14** | India | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 13.14, 18.72, 17.07, 21.22, 16.01 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **13.16** | Ireland | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | 13.16, 19.11, 18.61, 16.46, 17.36 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **13.25** | Ireland | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | 19.66, 23.67, 19.16, 13.25, 18.40 |
 
 ### 3x3x3 One-Handed - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **11.02** | Ireland | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) | 13.22, 9.16, 11.06, 10.49, 11.52 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **11.75** | Ireland | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) | 9.40, 9.97, 12.82, 12.47, 13.83 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **11.88** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 11.90, 12.63, 11.12, 12.77, 10.41 |
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **13.04** | Ireland | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 13.13, 11.89, 12.73, 13.27, 13.71 |
@@ -272,7 +273,6 @@
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **15.19** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 18.69, 10.18, DNF, 12.32, 14.56 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **15.50** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 15.31, 15.33, 15.25, 15.85, 17.59 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **16.29** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 16.01, 15.08, 15.04, 17.79, 18.89 |
-| [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) | **17.15** | Ireland | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | 18.09, 19.80, 15.88, 17.49, 15.65 |
 
 ### Megaminx - Single
 

@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -68,7 +68,7 @@
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 4 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 2x2x2 Cube | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) |
-| 4 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 3x3x3 Blindfolded | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023) |  |
+| 4 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 3x3x3 Blindfolded | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023) | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) |
 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3x3x3 Multi-Blind | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) |
 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3x3x3 Blindfolded | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) |
 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3x3x3 Multi-Blind | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |  |

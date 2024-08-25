@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 
 ### World
@@ -213,6 +213,7 @@
 | 0 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024/results/by_person#2019NAYA01) |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024/results/by_person#2018MCCA02) |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2020BERM02) |
+| 0 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024/results/by_person#2012YUTA01) |
 
 ### Continental
 

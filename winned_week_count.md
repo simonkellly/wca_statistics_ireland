@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 
 ### Rubik's Cube
@@ -158,8 +158,8 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
+| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 19 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 18 |
-| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 18 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 13 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 10 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 9 |
@@ -205,8 +205,8 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 73 |
+| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 13 |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 13 |
-| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 12 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 9 |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 6 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 4 |

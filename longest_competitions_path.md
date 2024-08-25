@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 | Person | Distance |
 | :--- | ---: |
@@ -32,7 +32,7 @@
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 7 033 km |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 6 731 km |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 6 636 km |
-| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 6 428 km |
+| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 6 545 km |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 6 341 km |
 | [Stepan Potapov](https://www.worldcubeassociation.org/persons/2017POTA04) | 6 218 km |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 6 148 km |

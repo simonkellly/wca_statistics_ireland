@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 
 ### Rubik's Cube
@@ -39,7 +39,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 11.85 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 10.92, 13.35, 12.34, 13.82, 13.25, 11.20, 10.65, 11.53, 11.15, 10.15, 12.73, 11.33 |
+| 11.78 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 11.19, 15.05, 11.21, 12.58, 11.56, 10.79, 10.67, 15.13, 13.22, 9.16, 11.06, 10.49 |
 
 ### Megaminx
 
