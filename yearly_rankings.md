@@ -287,7 +287,7 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **49.34** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:10.43, 56.90, 1:02.84, 52.52, 49.34 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **49.99** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 57.34, 1:05.10, 54.76, 59.37, 49.99 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **51.38** | Mongolia | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 1:01.16, 1:09.88, 51.38, 57.66, 1:04.09 |
-| [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | **52.51** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:03.53, 52.51, 1:09.77, 54.57, 57.75 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **51.94** | Ireland | [Mississippi Cubing Dawgs 2024](https://www.worldcubeassociation.org/competitions/MississippiCubingDawgs2024) | 57.19, 1:00.21, 1:07.91, 51.94, 57.62 |
 
 ### Megaminx - Average
 
@@ -302,7 +302,7 @@
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **55.11** | Ireland | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | 1:09.50, 55.77, 52.16, 54.53, 55.04 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **56.87** | Mongolia | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 59.93, 1:10.58, 51.78, 57.95, 52.74 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **56.98** | Ireland | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024) | 58.52, 1:03.19, 56.45, 52.51, 55.97 |
-| [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | **58.62** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:03.53, 52.51, 1:09.77, 54.57, 57.75 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **58.34** | Ireland | [Mississippi Cubing Dawgs 2024](https://www.worldcubeassociation.org/competitions/MississippiCubingDawgs2024) | 57.19, 1:00.21, 1:07.91, 51.94, 57.62 |
 
 ### Pyraminx - Single
 

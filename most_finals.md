@@ -67,20 +67,20 @@
 | 55 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 55 | [Leon Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
 | 54 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
-| 53 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 53 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
+| 53 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 52 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) |
 | 52 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 51 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
 | 50 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) |
 | 48 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
+| 47 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 47 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 46 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 46 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 44 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
-| 44 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
 | 44 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
-| 43 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 44 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
 | 42 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) |
 | 41 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) |
 | 40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |

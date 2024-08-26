@@ -168,12 +168,12 @@
 | 53.21 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
 | 53.58 | [Charlie Cahalane](https://www.worldcubeassociation.org/persons/2022CAHA01) |
 | 53.69 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
+| 54.94 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 55.14 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 55.36 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 55.57 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
 | 55.96 | [Charles Mac Alister](https://www.worldcubeassociation.org/persons/2022ALIS02) |
 | 55.99 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
-| 56.00 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 
 ### 5x5x5 Cube
 
@@ -212,7 +212,7 @@
 | 1:34.84 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 1:35.77 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 1:38.26 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
-| 1:40.09 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 1:38.63 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 1:40.75 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 1:41.17 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 1:41.69 | [Andy Lee Mitchell](https://www.worldcubeassociation.org/persons/2017MITC05) |
@@ -340,12 +340,12 @@
 | 28.66 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 28.85 | [Taylor Smyth](https://www.worldcubeassociation.org/persons/2019SMYT02) |
 | 28.85 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
-| 28.90 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 28.91 | [Daithi O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 28.94 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 28.95 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 29.25 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) |
 | 29.51 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
+| 29.54 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 
 ### Megaminx
 
@@ -360,12 +360,12 @@
 | 59.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 1:03.27 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 1:03.41 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
+| 1:07.35 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 1:09.36 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 1:09.86 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 1:09.97 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 1:10.55 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 1:11.57 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
-| 1:12.04 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 1:14.68 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 1:14.86 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 1:16.54 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
@@ -520,7 +520,7 @@
 | 3.59 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 3.73 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
 | 3.83 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
-| 3.89 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 4.04 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 4.33 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 4.53 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 4.64 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
@@ -610,10 +610,10 @@
 | 39.74 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 40.31 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
 | 40.43 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
+| 40.66 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 40.79 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 41.00 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 41.50 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
-| 41.84 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 42.37 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) |
 | 42.48 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 52.31 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
