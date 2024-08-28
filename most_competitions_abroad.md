@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -11,9 +11,9 @@
 | 24 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 19 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 16 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 14 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 14 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 14 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 13 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 12 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
 | 12 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |

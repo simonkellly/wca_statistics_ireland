@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -13,6 +13,7 @@
 | 1 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) |
 | 1 | [Angers ESEOpen 2022](https://www.worldcubeassociation.org/competitions/AngersESEOpen2022) |
 | 1 | [ABHC 2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015) |
+| 1 | [August Bank Holiday Crawley 2024](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCrawley2024) |
 | 1 | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023) |
 | 1 | [AZCF 2015](https://www.worldcubeassociation.org/competitions/AZCubingFall2015) |
 | 1 | [Back to School Utah 2022](https://www.worldcubeassociation.org/competitions/BacktoSchoolUtah2022) |
