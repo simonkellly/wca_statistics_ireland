@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -72,9 +72,9 @@
 | 52 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) |
 | 52 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 51 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
+| 51 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 50 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) |
 | 48 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
-| 47 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 47 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 46 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 46 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |

@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -10,9 +10,9 @@
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **12** | 7 | 11 | 30 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **2** | 6 | 9 | 17 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2** | 1 | 3 | 6 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **2** | 1 | 1 | 4 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2** | 0 | 3 | 5 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1** | 0 | 2 | 3 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1** | 0 | 0 | 1 |

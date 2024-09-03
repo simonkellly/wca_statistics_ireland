@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 
 ### Rubik's Cube
@@ -34,12 +34,6 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:53.33 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:54.91, 2:02.88, 1:50.66, 1:54.41, 1:48.00 |
-
-### 3x3x3 Blindfolded
-
-| Ao5 | Person | Times |
-| ---: | :--- | :--- |
-| 42.39 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 47.66, 35.19, 40.98, DNF, 38.53 |
 
 ### 3x3x3 Fewest Moves
 

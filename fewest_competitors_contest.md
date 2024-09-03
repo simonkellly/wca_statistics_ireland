@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -216,6 +216,7 @@
 | 1 | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023) |
 | 1 | [Roskilde For Alle 2023](https://www.worldcubeassociation.org/competitions/RoskildeForAlle2023) |
 | 1 | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) |
+| 1 | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024) |
 | 1 | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
 | 1 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) |
 | 1 | [SC Open 2014](https://www.worldcubeassociation.org/competitions/ShoeCapital2014) |

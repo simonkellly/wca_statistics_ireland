@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -50,13 +50,13 @@
 | 15 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
 | 15 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) |
 | 15 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
+| 15 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) |  |
 | 15 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |  |
 | 14 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) |  |
 | 14 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |  |
 | 14 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |  |
 | 14 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
 | 14 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023) |  |
-| 14 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) |  |
 | 14 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) |  |
 | 13 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |  |
 | 13 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) |

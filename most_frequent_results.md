@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 
 ### Rubik's Cube
@@ -181,7 +181,7 @@
 | 11 | 6.38 |
 | 10 | 10.96 |
 | 10 | 11.62 |
-| 10 | 8.98 |
+| 10 | 9.04 |
 
 ### Skewb
 
