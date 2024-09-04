@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -201,6 +201,7 @@
 | 1 | [Phoenix Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/PhoenixCubeChallenge2022) |
 | 1 | [PIB Itaim Open 2024](https://www.worldcubeassociation.org/competitions/PIBItaimOpen2024) |
 | 1 | [Pikkujoulut 2018](https://www.worldcubeassociation.org/competitions/Pikkujoulut2018) |
+| 1 | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024) |
 | 1 | [Portugalete Open 2023](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2023) |
 | 1 | [Providence Fall 2019](https://www.worldcubeassociation.org/competitions/ProvidenceFall2019) |
 | 1 | [PST CFL Częstochowa 2019](https://www.worldcubeassociation.org/competitions/PSTCFLCzestochowa2019) |
@@ -299,6 +300,7 @@
 | 2 | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020) |
 | 2 | [Harrow Autumn 2023](https://www.worldcubeassociation.org/competitions/HarrowAutumn2023) |
 | 2 | [Kent Autumn 2023](https://www.worldcubeassociation.org/competitions/KentAutumn2023) |
+| 2 | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) |
 | 2 | [Kirkkonummi Time Trial 2023](https://www.worldcubeassociation.org/competitions/KirkkonummiTimeTrial2023) |
 | 2 | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024) |
 | 2 | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |

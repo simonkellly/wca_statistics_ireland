@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -9,17 +9,17 @@
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **12** | 21 | 26 | 59 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **12** | 7 | 11 | 30 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
-| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **2** | 6 | 9 | 17 |
+| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **2** | 7 | 9 | 18 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2** | 1 | 3 | 6 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **2** | 1 | 1 | 4 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 2 | 3 | 6 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1** | 0 | 2 | 3 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1** | 0 | 0 | 1 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1** | 0 | 0 | 1 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **1** | 0 | 0 | 1 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **0** | 2 | 2 | 4 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **0** | 2 | 0 | 2 |
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **0** | 1 | 7 | 8 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | **0** | 1 | 2 | 3 |

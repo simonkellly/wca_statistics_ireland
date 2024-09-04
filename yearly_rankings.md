@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 
 ### Rubik's Cube - Single
@@ -32,7 +32,7 @@
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **7.97** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 8.75, 7.53, 7.62, 6.83, 9.99 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **8.06** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 9.90, 8.20, 7.19, 8.15, 7.82 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **8.37** | India | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 6.76, 9.98, 11.16, 7.80, 7.32 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **8.39** | Mongolia | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 7.46, 8.01, 8.78, 9.71, 8.37 |
+| [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **8.37** | Ireland | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | 8.21, 8.36, 8.88, 8.54, 7.16 |
 
 ### 2x2x2 Cube - Single
 
@@ -194,8 +194,8 @@
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **46.27** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:31.72, DNF, 46.27 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **46.45** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | DNF, DNF, 46.45 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **48.02** | Ireland | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) | 57.57, 48.02, 1:02.16 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **50.86** | Ireland | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024) | 50.86, DNF, 52.44 |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | **52.12** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 1:29.69, 54.98, 52.12 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **54.48** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:04.05, DNF, 54.48 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1:01.33** | Ireland | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | DNF, DNF, 1:01.33 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:01.66** | Mongolia | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | DNF, 1:01.66, 1:32.81 |
 

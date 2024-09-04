@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -44,7 +44,7 @@
 | 16 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022) |  |
 | 16 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | [Norwich Summer 2022](https://www.worldcubeassociation.org/competitions/NorwichSummer2022) | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) |
 | 15 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |
-| 15 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |  |
+| 15 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) |
 | 15 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) |
 | 15 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) |
 | 15 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -23,9 +23,9 @@
 | 141 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 130 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 123 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
+| 122 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 122 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
-| 119 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
-| 112 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 119 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 112 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 111 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 103 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
@@ -37,9 +37,9 @@
 | 92 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
 | 92 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 92 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
+| 91 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 90 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
 | 89 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
-| 88 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 85 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 81 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 81 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
