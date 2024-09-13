@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -192,6 +192,7 @@
 | 1 | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) |
 | 1 | [NxN Minnesota 2022](https://www.worldcubeassociation.org/competitions/NxNMinnesota2022) |
 | 1 | [North Island Championship 2021](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2021) |
+| 1 | [Oldham County Cubing 2024](https://www.worldcubeassociation.org/competitions/OldhamCountyCubing2024) |
 | 1 | [Oslo Open 2023](https://www.worldcubeassociation.org/competitions/OsloOpen2023) |
 | 1 | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) |
 | 1 | [Paris Open 2022](https://www.worldcubeassociation.org/competitions/ParisOpen2022) |
@@ -228,6 +229,7 @@
 | 1 | [Slovenian Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianNationals2023) |
 | 1 | [Smartcube Fest Kyiv 2019](https://www.worldcubeassociation.org/competitions/SmartcubeFestKyiv2019) |
 | 1 | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) |
+| 1 | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) |
 | 1 | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) |
 | 1 | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024) |
 | 1 | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |

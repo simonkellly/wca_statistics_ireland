@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### Rubik's Cube - Single
@@ -284,10 +284,10 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **41.04** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 48.30, 43.20, 47.93, 41.04, 47.74 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **44.85** | Ireland | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) | 58.95, 51.56, DNF, 52.66, 44.85 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **47.01** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 48.35, 1:02.65, 49.22, 47.01, 59.78 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **49.32** | Ireland | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) | 1:03.02, 1:00.18, 1:02.58, 58.42, 49.32 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **49.34** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:10.43, 56.90, 1:02.84, 52.52, 49.34 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **49.99** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 57.34, 1:05.10, 54.76, 59.37, 49.99 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **51.38** | Mongolia | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 1:01.16, 1:09.88, 51.38, 57.66, 1:04.09 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **51.94** | Ireland | [Mississippi Cubing Dawgs 2024](https://www.worldcubeassociation.org/competitions/MississippiCubingDawgs2024) | 57.19, 1:00.21, 1:07.91, 51.94, 57.62 |
 
 ### Megaminx - Average
 
@@ -302,7 +302,7 @@
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **55.11** | Ireland | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | 1:09.50, 55.77, 52.16, 54.53, 55.04 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **56.87** | Mongolia | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 59.93, 1:10.58, 51.78, 57.95, 52.74 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **56.98** | Ireland | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024) | 58.52, 1:03.19, 56.45, 52.51, 55.97 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **58.34** | Ireland | [Mississippi Cubing Dawgs 2024](https://www.worldcubeassociation.org/competitions/MississippiCubingDawgs2024) | 57.19, 1:00.21, 1:07.91, 51.94, 57.62 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **57.30** | Ireland | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) | 55.81, 52.26, 59.05, 57.03, 1:16.96 |
 
 ### Pyraminx - Single
 

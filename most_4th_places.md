@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -37,18 +37,18 @@
 | 4 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 4 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 4 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
+| 4 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 4 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
 | 4 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
-| 3 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
+| 3 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 3 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 3 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 3 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) |
 | 3 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 3 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
 | 3 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) |
-| 3 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 3 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
-| 3 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
+| 3 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 3 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 2 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 2 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |

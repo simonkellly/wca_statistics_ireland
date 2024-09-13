@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -54,10 +54,11 @@
 | 65 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
 | 65 | [Charles Mac Alister](https://www.worldcubeassociation.org/persons/2022ALIS02) |
 | 64 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
-| 61 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
+| 62 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 61 | [Alex Kelly](https://www.worldcubeassociation.org/persons/2022KELL03) |
-| 59 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) |
+| 61 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
 | 59 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
+| 59 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) |
 | 58 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
 | 57 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |
 | 57 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
@@ -67,12 +68,11 @@
 | 55 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 55 | [Leon Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
 | 54 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
-| 53 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 53 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
+| 53 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 52 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) |
 | 52 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 51 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
-| 51 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 50 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) |
 | 48 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
 | 47 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |

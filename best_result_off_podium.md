@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### Rubik's Cube
@@ -192,12 +192,12 @@
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 1.90 | **3.19** | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/all#eskewb_f) | 6 |
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 2.50 | **3.30** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eskewb_f) | 4 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.87 | **3.47** | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/all#eskewb_f) | 4 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.64 | **3.63** | [Oldham County Cubing 2024](https://www.worldcubeassociation.org/competitions/OldhamCountyCubing2024/results/all#eskewb_f) | 4 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 1.71 | **3.66** | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/all#eskewb_f) | 7 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.74 | **3.87** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eskewb_f) | 5 |
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 2.14 | **3.92** | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/all#eskewb_f) | 4 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.82 | **3.96** | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024/results/all#eskewb_f) | 7 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3.48 | **3.97** | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/all#eskewb_f) | 5 |
-| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 2.36 | **4.03** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eskewb_f) | 6 |
 
 ### Square-1
 
