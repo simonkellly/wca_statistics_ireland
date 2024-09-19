@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 September 2024*
+*Updated on 19 September 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -339,6 +339,7 @@
 | 3 | [Vienna Fasching 2023](https://www.worldcubeassociation.org/competitions/ViennaFasching2023) |
 | 3 | [Wiener Frühling 2023](https://www.worldcubeassociation.org/competitions/WienerFruhling2023) |
 | 4 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
+| 4 | [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024) |
 | 4 | [Glasgow Winter 2023](https://www.worldcubeassociation.org/competitions/GlasgowWinter2023) |
 | 4 | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 4 | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |

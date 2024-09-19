@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on 16 September 2024*
+*Updated on 19 September 2024*
 
 | Finals | Person |
 | ---: | :--- |
-| 770 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 776 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 326 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 309 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 287 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
@@ -12,7 +12,7 @@
 | 252 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 239 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 227 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
-| 214 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 215 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 208 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 187 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 181 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |

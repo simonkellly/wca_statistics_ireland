@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 September 2024*
+*Updated on 19 September 2024*
 
 
 ### Rubik's Cube
@@ -84,6 +84,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.21 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:27.55 | 2:27.76 | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018/results/by_person#2012BEAH01) |
+| 0.57 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:51.46 | 1:52.03 | [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024/results/by_person#2012BEAH01) |
 | 0.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:54.30 | 2:54.91 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016/results/by_person#2012BEAH01) |
 | 0.72 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 3:51.88 | 3:52.60 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2021FINK02) |
 | 0.73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:04.67 | 2:05.40 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
@@ -92,7 +93,6 @@
 | 1.22 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:57.31 | 1:58.53 | [Vienna Summer 2023](https://www.worldcubeassociation.org/competitions/ViennaBigCubeSummer2023/results/by_person#2012BEAH01) |
 | 1.37 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) | 5:50.91 | 5:52.28 | [Guildford Open 2017](https://www.worldcubeassociation.org/competitions/GuildfordOpen2017/results/by_person#2016MCAT01) |
 | 1.48 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3:23.03 | 3:24.51 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015/results/by_person#2012BEAH01) |
-| 1.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:07.77 | 2:09.57 | [Kirkkonummi Time Trial 2023](https://www.worldcubeassociation.org/competitions/KirkkonummiTimeTrial2023/results/by_person#2012BEAH01) |
 
 ### 3x3x3 Blindfolded
 

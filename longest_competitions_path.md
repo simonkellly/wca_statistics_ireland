@@ -1,12 +1,12 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 16 September 2024*
+*Updated on 19 September 2024*
 
 | Person | Distance |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 113 023 km |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 51 990 km |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 113 336 km |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 52 304 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 42 264 km |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 32 325 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 24 650 km |
@@ -15,8 +15,8 @@
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 18 603 km |
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 18 080 km |
 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | 16 249 km |
+| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 15 444 km |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 15 410 km |
-| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 15 131 km |
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 13 348 km |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | 12 539 km |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 12 245 km |
@@ -262,6 +262,7 @@
 | [Thea Hanna-Agnew](https://www.worldcubeassociation.org/persons/2022HANN08) | 517 km |
 | [Aron Gohil](https://www.worldcubeassociation.org/persons/2023GOHI01) | 512 km |
 | [Vihaan Srivastava](https://www.worldcubeassociation.org/persons/2024SRIV01) | 509 km |
+| [Abbey McNally](https://www.worldcubeassociation.org/persons/2024MCNA03) | 496 km |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | 488 km |
 | [Antoni Nowicki](https://www.worldcubeassociation.org/persons/2023NOWI02) | 488 km |
 | [Elliott Edger](https://www.worldcubeassociation.org/persons/2022EDGE03) | 486 km |
@@ -462,7 +463,6 @@
 | [Kylian Zion Kalt](https://www.worldcubeassociation.org/persons/2022KALT01) | 183 km |
 | [Neil Ydor Foley](https://www.worldcubeassociation.org/persons/2022FOLE01) | 183 km |
 | [Robert McGonigle](https://www.worldcubeassociation.org/persons/2023MCGO04) | 183 km |
-| [Abbey McNally](https://www.worldcubeassociation.org/persons/2024MCNA03) | 182 km |
 | [Finnbar McGovern](https://www.worldcubeassociation.org/persons/2022GOVE02) | 181 km |
 | [Georgi Panayotov](https://www.worldcubeassociation.org/persons/2022PANA02) | 181 km |
 | [Zack Murphy](https://www.worldcubeassociation.org/persons/2022MURP19) | 181 km |

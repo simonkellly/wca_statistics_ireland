@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on 16 September 2024*
+*Updated on 19 September 2024*
 
 | Competitions | Person |
 | ---: | :--- |
-| 65 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 34 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 28 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
 | 26 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
@@ -12,7 +12,7 @@
 | 20 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 19 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 15 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
-| 14 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 15 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 14 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 12 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
@@ -28,12 +28,12 @@
 | 9 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) |
 | 9 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) |
 | 8 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
+| 8 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 8 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 7 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 7 | [Finnbar McGovern](https://www.worldcubeassociation.org/persons/2022GOVE02) |
 | 7 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 7 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
-| 7 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 7 | [Paul Cotter](https://www.worldcubeassociation.org/persons/2022COTT06) |
 | 6 | [Chun Yin Man](https://www.worldcubeassociation.org/persons/2023MANC03) |
 | 6 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
