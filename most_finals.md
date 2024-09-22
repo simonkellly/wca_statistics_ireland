@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -25,7 +25,7 @@
 | 123 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 122 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 122 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
-| 119 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 122 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 112 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 111 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 103 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |

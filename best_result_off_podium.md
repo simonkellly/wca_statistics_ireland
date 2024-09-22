@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 
 ### Rubik's Cube
@@ -105,9 +105,9 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **46.45** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 5 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **47.66** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 6 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **48.02** | 55.92 | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024/results/all#e333bf_f) | 6 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **54.01** | DNF | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024/results/all#e333bf_f) | 5 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **54.48** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 7 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **55.82** | DNF | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/all#e333bf_f) | 4 |
-| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **57.57** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 9 |
 
 ### 3x3x3 Fewest Moves
 

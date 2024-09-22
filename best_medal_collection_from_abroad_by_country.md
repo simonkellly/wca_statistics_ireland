@@ -1,11 +1,11 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Ireland | **173** | 84 | 74 | 331 |
+| Ireland | **173** | 85 | 74 | 332 |
 | Mongolia | **12** | 21 | 26 | 59 |
 | India | **12** | 7 | 11 | 30 |
 | United Kingdom | **1** | 4 | 0 | 5 |

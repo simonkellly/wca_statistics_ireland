@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -14,7 +14,7 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **2** | 1 | 1 | 4 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 2 | 3 | 6 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 3 | 3 | 7 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1** | 0 | 2 | 3 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1** | 0 | 0 | 1 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1** | 0 | 0 | 1 |

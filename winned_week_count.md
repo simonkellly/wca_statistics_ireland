@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 
 ### Rubik's Cube
@@ -162,7 +162,7 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 18 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 13 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 10 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 9 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 10 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 5 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 3 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | 2 |
@@ -379,7 +379,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 17 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 18 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 8 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 2 |
