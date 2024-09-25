@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### Rubik's Cube
@@ -12,11 +12,11 @@
 | 6.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024/results/by_person#2012BEAH01) |
 | 6.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [NxN Minnesota 2022](https://www.worldcubeassociation.org/competitions/NxNMinnesota2022/results/by_person#2012BEAH01) |
 | 6.28 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2012BEAH01) |
+| 6.29 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2012BEAH01) |
 | 6.31 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2012BEAH01) |
 | 6.32 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2012BEAH01) |
 | 6.32 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2012BEAH01) |
 | 6.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/by_person#2012BEAH01) |
-| 6.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2012BEAH01) |
 
 ### 2x2x2 Cube
 
@@ -84,29 +84,29 @@
 | ---: | :--- | :--- |
 | 33.82 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2019NAYA01) |
 | 34.05 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2019NAYA01) |
+| 35.05 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2019NAYA01) |
+| 35.21 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2019NAYA01) |
 | 35.27 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019NAYA01) |
 | 35.64 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019NAYA01) |
 | 35.64 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2019NAYA01) |
 | 36.03 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019NAYA01) |
 | 36.07 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019NAYA01) |
 | 36.43 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2019NAYA01) |
-| 36.49 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024/results/by_person#2019NAYA01) |
-| 36.76 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2019NAYA01) |
 
 ### Pyraminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.60 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
+| 1.73 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
+| 1.77 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 | 1.80 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
 | 1.81 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/by_person#2021LOFT01) |
 | 1.82 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021LOFT01) |
+| 1.82 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 | 1.86 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
 | 1.90 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
 | 1.91 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/by_person#2021LOFT01) |
-| 1.92 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2021LOFT01) |
-| 2.00 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2022MCCO09) |
-| 2.02 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021LOFT01) |
-| 2.03 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/by_person#2021LOFT01) |
 
 ### Rubik's Clock
 
@@ -136,7 +136,7 @@
 | 2.13 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2018GRYT01) |
 | 2.18 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2018GRYT01) |
 | 2.30 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2018GRYT01) |
-| 2.35 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2018GRYT01) |
+| 2.34 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021BURK03) |
 
 ### Square-1
 

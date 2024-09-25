@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### 50 Competitions
@@ -31,10 +31,10 @@
 | 1723 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
 | 1751 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 1828 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 1919 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 1933 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 1975 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 2088 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 2205 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 
 ### 10 Competitions
 

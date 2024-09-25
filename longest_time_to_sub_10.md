@@ -1,12 +1,13 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 | Person | Years |
 | :--- | ---: |
 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | 7.15 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 6.36 |
 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) | 6.10 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 5.06 |
 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | 4.99 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 4.96 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 4.08 |
@@ -20,10 +21,11 @@
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 1.44 |
 | [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) | 1.36 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 1.32 |
-| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 1.24 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | 1.24 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1.24 |
+| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 1.24 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.07 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.00 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 0.99 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 0.94 |
 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 0.90 |

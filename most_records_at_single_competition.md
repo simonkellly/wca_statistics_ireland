@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### World
@@ -214,6 +214,9 @@
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024/results/by_person#2018MCCA02) |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2020BERM02) |
 | 0 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024/results/by_person#2012YUTA01) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2012BEAH01) |
+| 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2018MCCA02) |
+| 0 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 
 ### Continental
 

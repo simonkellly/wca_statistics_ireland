@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### Rubik's Cube
@@ -45,7 +45,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 36.59 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 34.52, 46.45, 35.64, 36.89, 35.27, 33.60, 38.41, 34.52, 37.89, 37.67, 38.00, 37.07 |
+| 35.78 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 41.70, 35.28, 36.43, 35.64, 38.81, 33.82, 29.48, 35.21, 36.70, 33.84, 37.02, 35.05 |
 | 39.46 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 51.02, 33.64, 42.88, 42.46, 40.50, 40.19, 38.48, 37.05, 35.52, 42.69, 38.81, 35.98 |
 | 44.31 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 44.29, 47.82, 39.99, 45.86, 36.80, 44.57, 44.90, 48.88, 43.82, 40.76, 44.24, 46.88 |
 
@@ -54,7 +54,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 2.17 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.02, 2.43, 2.46, 2.39, 2.49, 3.20, 1.90, 1.86, 1.60, 2.07, 1.80, 2.26 |
-| 3.08 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 3.52, 2.64, 1.28, 3.10, 3.15, 4.27, 2.59, 3.10, 3.24, 3.56, 4.38, 1.67 |
+| 2.70 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.18, DNF, 2.11, 2.72, 1.60, 2.54, 2.81, 2.09, 2.89, 3.10, 3.01, 3.53 |
 
 ### Rubik's Clock
 

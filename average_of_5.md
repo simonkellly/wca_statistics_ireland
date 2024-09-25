@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### Rubik's Cube
@@ -9,7 +9,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 6.39 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.54, 6.43, 8.28, 6.19, 6.03 |
-| 6.93 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 7.36, 6.27, 7.17, 9.20, 5.83 |
+| 6.86 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 5.42, 6.88, 8.90, 6.56, 7.15 |
 
 ### 4x4x4 Cube
 
@@ -35,6 +35,12 @@
 | ---: | :--- | :--- |
 | 1:52.72 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:53.55, 1:54.90, 1:51.46, 1:52.33, 1:52.29 |
 
+### 3x3x3 Blindfolded
+
+| Ao5 | Person | Times |
+| ---: | :--- | :--- |
+| 32.98 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 31.19, 27.59, 38.83, DNF, 28.93 |
+
 ### 3x3x3 Fewest Moves
 
 | Ao5 | Person | Times |
@@ -51,7 +57,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 35.30 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 36.43, 35.64, 38.81, 33.82, 29.48 |
+| 34.29 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 33.82, 29.48, 35.21, 36.70, 33.84 |
 | 37.28 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.05, 35.52, 42.69, 38.81, 35.98 |
 | 43.15 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 39.99, 45.86, 36.80, 44.57, 44.90 |
 
@@ -59,8 +65,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1.85 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.90, 1.86, 1.60, 2.07, 1.80 |
-| 2.76 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 3.10, 2.45, 1.81, 3.57, 2.74 |
+| 1.78 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3.19, 1.39, 1.60, 1.73, 2.02 |
+| 2.34 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.18, DNF, 2.11, 2.72, 1.60 |
 
 ### Rubik's Clock
 

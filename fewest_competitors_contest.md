@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -164,6 +164,7 @@
 | 1 | [Marathon Open 2017](https://www.worldcubeassociation.org/competitions/MarathonOpen2017) |
 | 1 | [Marikina City 2 Open 2014](https://www.worldcubeassociation.org/competitions/MarikinaCity2014) |
 | 1 | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |
+| 1 | [MarsdeNxN 2024](https://www.worldcubeassociation.org/competitions/MarsdeNxN2024) |
 | 1 | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) |
 | 1 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) |
 | 1 | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023) |

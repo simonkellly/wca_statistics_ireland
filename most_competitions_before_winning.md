@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### Rubik's Cube
@@ -25,13 +25,13 @@
 | 21 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) |
 | 16 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) |
 | 15 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) |
+| 15 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) |
 | 13 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) |
 | 11 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |
 | 9 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) |
 | 8 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) |
 | 7 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) |
 | 6 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) |
-| 5 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) |
 
 ### 4x4x4 Cube
 
