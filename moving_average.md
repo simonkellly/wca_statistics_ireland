@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 
 ### Rubik's Cube
@@ -101,7 +101,6 @@
 | 3.99 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 4.00 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
 | 4.03 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
-| 4.05 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 4.05 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 4.06 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 4.06 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
@@ -109,6 +108,7 @@
 | 4.12 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 4.14 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 4.19 | [Caleb Gallo](https://www.worldcubeassociation.org/persons/2023GALL25) |
+| 4.22 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 4.24 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 4.31 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 4.33 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |

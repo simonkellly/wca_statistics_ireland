@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -142,6 +142,7 @@
 | 1 | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023) |
 | 1 | [Italian Championship 2023](https://www.worldcubeassociation.org/competitions/ItalianChampionship2023) |
 | 1 | [Italian Open 2009](https://www.worldcubeassociation.org/competitions/ItalianOpen2009) |
+| 1 | [Italian Open 2024](https://www.worldcubeassociation.org/competitions/ItalianOpen2024) |
 | 1 | [Jay House of Cubes 2023](https://www.worldcubeassociation.org/competitions/JayHouseofCubes2023) |
 | 1 | [Jordan Fall Open 2021](https://www.worldcubeassociation.org/competitions/JordanFallOpen2021) |
 | 1 | [Lakewood Newcomers 2024](https://www.worldcubeassociation.org/competitions/LakewoodNewcomers2024) |

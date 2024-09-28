@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -14,9 +14,9 @@
 | 15 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 15 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 14 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 13 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 12 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
-| 12 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 12 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 11 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
 | 11 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
