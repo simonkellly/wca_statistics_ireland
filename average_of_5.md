@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 
 ### Rubik's Cube
@@ -74,7 +74,6 @@
 | ---: | :--- | :--- |
 | 3.39 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.21, 3.68, 3.15, 8.15, 3.28 |
 | 3.83 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.39, 3.95, 3.93, 3.82, 3.74 |
-| 4.33 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 5.23, 3.75, 4.05, 4.57, 4.37 |
 | 4.57 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 4.75, 3.80, 5.00, 4.07, 4.88 |
 | 4.59 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 4.69, 4.91, 4.16, 5.64, 3.92 |
 

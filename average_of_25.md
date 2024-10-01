@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 
 ### Rubik's Cube
@@ -63,7 +63,6 @@
 | 3.86 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.38, 3.53, 4.66, DNF, 4.21, 3.46, 3.55, 4.54, 3.47, 3.49, 3.42, 3.74, 3.66, 3.60, DNF, 3.94, 3.61, 3.33, 4.06, 3.69, 5.47, 4.66, 3.21, 3.68, 3.15 |
 | 4.78 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 4.47, 5.18, 4.22, 5.40, 3.83, 3.87, 3.95, 3.97, 5.12, 7.10, 7.07, 4.72, 6.90, 7.37, 4.42, 3.60, 4.32, DNF, 5.26, 4.07, 3.82, 4.67, 3.67, 3.77, 4.20 |
 | 5.27 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 5.70, 9.21, 6.88, 4.74, 3.84, 6.38, 5.12, 4.54, 4.46, 4.90, 4.69, 4.91, 4.16, 5.64, 3.92, DNF, 11.05, 4.44, 4.99, 4.31, 4.45, 5.62, 4.45, 5.72, 5.43 |
-| 5.28 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 12.97, 4.80, 4.80, 4.44, 9.65, 4.00, 6.49, 6.45, 4.16, 6.06, 5.17, 5.23, 6.37, DNF, 4.39, 4.82, 4.19, 4.73, 4.08, 4.88, 4.08, 4.76, 4.98, 5.64, 4.79 |
 | 5.50 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 5.28, 4.51, 5.76, 4.85, 7.71, 3.91, 9.08, 5.33, 5.92, 3.42, DNF, 6.57, 6.09, 7.93, 5.93, 4.31, 4.03, 4.96, 4.71, DNF, 4.75, 3.80, 5.00, 4.07, 4.88 |
 
 
