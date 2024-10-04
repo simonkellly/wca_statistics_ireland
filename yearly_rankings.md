@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### Rubik's Cube - Single
@@ -299,9 +299,9 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **44.40** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 45.39, 49.69, 43.31, 43.36, 44.44 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **52.45** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 48.35, 1:02.65, 49.22, 47.01, 59.78 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **54.39** | Ireland | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) | 58.95, 51.56, DNF, 52.66, 44.85 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **54.53** | Ireland | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024) | 52.45, 58.63, 51.55, 56.22, 54.93 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **55.11** | Ireland | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | 1:09.50, 55.77, 52.16, 54.53, 55.04 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **56.87** | Mongolia | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 59.93, 1:10.58, 51.78, 57.95, 52.74 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **56.98** | Ireland | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024) | 58.52, 1:03.19, 56.45, 52.51, 55.97 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **57.30** | Ireland | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) | 55.81, 52.26, 59.05, 57.03, 1:16.96 |
 
 ### Pyraminx - Single

@@ -1,11 +1,11 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 | Person | Distance |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 113 711 km |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 115 077 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 52 678 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 42 462 km |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 32 524 km |

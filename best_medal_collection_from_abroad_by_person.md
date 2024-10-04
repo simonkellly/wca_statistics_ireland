@@ -1,11 +1,11 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **153** | 66 | 36 | 255 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **154** | 66 | 36 | 256 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **13** | 7 | 11 | 31 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **12** | 21 | 26 | 59 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |

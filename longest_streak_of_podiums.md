@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -67,6 +67,7 @@
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
+| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |  |
 | 4 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 2x2x2 Cube | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) |
 | 4 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 3x3x3 Blindfolded | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023) | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) |
 | 4 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | Pyraminx | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
@@ -103,7 +104,6 @@
 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024) |
 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 One-Handed | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
-| 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |  |
 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6x6x6 Cube | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |  |
 
 

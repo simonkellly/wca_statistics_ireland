@@ -1,13 +1,14 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### Rubik's Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.86 | **7.18** | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024/results/all#e333_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4.33 | **7.28** | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.07 | **7.33** | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018/results/all#e333_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.02 | **7.38** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e333_f) | 4 |
@@ -17,7 +18,6 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.74 | **7.75** | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/all#e333_f) | 5 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 6.61 | **7.88** | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023/results/all#e333_f) | 4 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 6.20 | **7.92** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333_f) | 6 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.30 | **7.94** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e333_f) | 9 |
 
 ### 2x2x2 Cube
 
@@ -149,10 +149,10 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 43.13 | **48.13** | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/all#eminx_c) | 4 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 47.01 | **52.45** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 12 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 44.85 | **54.39** | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024/results/all#eminx_f) | 9 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 51.55 | **54.53** | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024/results/all#eminx_f) | 10 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 53.37 | **54.65** | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/all#eminx_c) | 4 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 52.53 | **55.60** | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/all#eminx_c) | 4 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 49.17 | **55.80** | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023/results/all#eminx_c) | 4 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 49.73 | **56.39** | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/all#eminx_c) | 5 |
 
 ### Pyraminx
 

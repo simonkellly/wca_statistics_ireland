@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### Competition
@@ -32,7 +32,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7496** | 7659 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7513** | 7677 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2818** | 2965 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **2695** | 2990 |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **2543** | 2599 |
@@ -64,7 +64,7 @@
 | Germany | **1439** | 1487 |
 | France | **643** | 662 |
 | Austria | **529** | 556 |
-| Denmark | **443** | 461 |
+| Denmark | **460** | 479 |
 | Australia | **380** | 397 |
 | Italy | **332** | 346 |
 | Slovakia | **217** | 221 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **171269** | 179486 |
+| Europe | **171286** | 179504 |
 | North America | **1650** | 1736 |
 | Oceania | **423** | 450 |
 | Asia | **297** | 307 |
@@ -95,7 +95,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2023 | **61913** | 64727 |
-| 2024 | **57653** | 60695 |
+| 2024 | **57670** | 60713 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -116,19 +116,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **45796** | 46774 |
+| 3x3x3 Cube | **45801** | 46779 |
 | 2x2x2 Cube | **31645** | 32541 |
 | Pyraminx | **23173** | 23757 |
 | Skewb | **18815** | 19300 |
-| 4x4x4 Cube | **14584** | 15130 |
+| 4x4x4 Cube | **14589** | 15135 |
 | 3x3x3 One-Handed | **10487** | 10952 |
 | 5x5x5 Cube | **8233** | 8574 |
 | Clock | **6941** | 8120 |
-| Megaminx | **5284** | 5667 |
+| Megaminx | **5289** | 5672 |
 | Square-1 | **4420** | 4722 |
 | 6x6x6 Cube | **1776** | 1851 |
 | 7x7x7 Cube | **1276** | 1372 |
-| 3x3x3 Blindfolded | **661** | 2023 |
+| 3x3x3 Blindfolded | **663** | 2026 |
 | 3x3x3 Fewest Moves | **298** | 508 |
 | 3x3x3 Multi-Blind | **147** | 229 |
 | 3x3x3 With Feet | **69** | 76 |

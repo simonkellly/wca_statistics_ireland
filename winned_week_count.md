@@ -1,14 +1,14 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### Rubik's Cube
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 84 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 85 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 12 |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 9 |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 9 |
@@ -58,7 +58,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 90 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 91 |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 13 |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 9 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 6 |
@@ -159,7 +159,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 20 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 18 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 19 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 13 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 11 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 9 |
@@ -229,7 +229,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 50 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 51 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 14 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 9 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 8 |

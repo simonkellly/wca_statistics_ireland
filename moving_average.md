@@ -7,14 +7,14 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### Rubik's Cube
 
 | Moving average | Person |
 | ---: | :--- |
-| 7.32 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 7.29 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 7.90 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 8.00 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 8.13 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
@@ -124,7 +124,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 25.32 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 25.12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 30.24 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 35.64 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 36.74 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
@@ -357,9 +357,9 @@
 | 45.35 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 46.29 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 48.37 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 58.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 58.68 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 58.89 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
-| 59.32 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 1:03.01 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
 | 1:03.27 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 1:04.26 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
