@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  7 October 2024*
+*Updated on 10 October 2024*
 
 
 ### Rubik's Cube
@@ -67,12 +67,12 @@
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 4 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 4 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 4 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 3 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 3 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 3 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 2 |
 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) | 2 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 2 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2 |
 | [Rian Sloan](https://www.worldcubeassociation.org/persons/2017SLOA04) | 2 |
 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) | 2 |
@@ -89,12 +89,12 @@
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 6 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 4 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 4 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 3 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 3 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 3 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | 3 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 2 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 2 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 2 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 2 |
 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) | 2 |
@@ -112,8 +112,8 @@
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 6 |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 4 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 3 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 3 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 3 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 2 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 2 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 2 |
 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | 2 |
@@ -138,10 +138,10 @@
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 3 |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 3 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 2 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 2 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 2 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 1 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 1 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 1 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 1 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 1 |
@@ -215,6 +215,7 @@
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 3 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 3 |
 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) | 3 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 2 |
 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | 2 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 2 |
 | [Rian Sloan](https://www.worldcubeassociation.org/persons/2017SLOA04) | 2 |
@@ -223,7 +224,6 @@
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 2 |
 | [Jesse Harper](https://www.worldcubeassociation.org/persons/2007HARP01) | 1 |
 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) | 1 |
-| [Suchakree Ladavarn (สุชาครีย์ ลดาวรรษ์)](https://www.worldcubeassociation.org/persons/2009LADA01) | 1 |
 
 ### Megaminx
 
@@ -269,11 +269,11 @@
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 3 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 2 |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 2 |
+| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 2 |
 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) | 2 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 2 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 2 |
 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 2 |
-| [Adrián Leandro Pazmiño Aldás](https://www.worldcubeassociation.org/persons/2022ALDA04) | 2 |
 
 ### Rubik's Clock
 
@@ -284,8 +284,8 @@
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 10 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 8 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 7 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 6 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 6 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 5 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 5 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 4 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 4 |
@@ -297,8 +297,8 @@
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 2 |
 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) | 2 |
 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) | 2 |
+| [Thomas Stadler](https://www.worldcubeassociation.org/persons/2006STAD01) | 1 |
 | [Zihao Wang (王子豪)](https://www.worldcubeassociation.org/persons/2010WANG18) | 1 |
-| [Jorge Adrian Hernández Dionicio](https://www.worldcubeassociation.org/persons/2011DION02) | 1 |
 
 ### Skewb
 

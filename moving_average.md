@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  7 October 2024*
+*Updated on 10 October 2024*
 
 
 ### Rubik's Cube
@@ -222,9 +222,9 @@
 | 1:43.86 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 1:44.16 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 1:45.33 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
+| 1:46.58 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 1:46.64 | [Conor O'Loughlin](https://www.worldcubeassociation.org/persons/2018OLOU01) |
 | 1:47.13 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
-| 1:47.40 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 1:49.03 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 1:49.66 | [Daithi O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 1:50.69 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
@@ -259,7 +259,7 @@
 | 3:19.14 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
 | 3:20.09 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 3:24.27 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
-| 3:27.24 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 3:26.47 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 3:30.60 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 3:33.32 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 3:35.01 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |

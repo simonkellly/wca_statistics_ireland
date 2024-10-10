@@ -1,12 +1,12 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  7 October 2024*
+*Updated on 10 October 2024*
 
 | Person | Distance |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 115 077 km |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 52 678 km |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 54 051 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 42 462 km |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 32 524 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 24 650 km |
@@ -14,9 +14,9 @@
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 18 973 km |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 18 603 km |
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 18 080 km |
+| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 17 192 km |
 | [Adon Ajo](https://www.worldcubeassociation.org/persons/2023AJOA01) | 16 711 km |
 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | 16 249 km |
-| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 15 819 km |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 15 410 km |
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 14 408 km |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | 12 539 km |

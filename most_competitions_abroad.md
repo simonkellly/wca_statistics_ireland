@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 October 2024*
+*Updated on 10 October 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -11,8 +11,8 @@
 | 25 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 21 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 19 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 16 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 15 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
-| 15 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 14 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 13 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 12 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
@@ -27,7 +27,7 @@
 | 9 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |
 | 9 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) |
 | 9 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) |
-| 8 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
+| 9 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 8 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 8 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
 | 7 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |

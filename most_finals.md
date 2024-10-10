@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 October 2024*
+*Updated on 10 October 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -12,7 +12,7 @@
 | 252 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 250 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 240 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
-| 218 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 220 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 208 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 198 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 191 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |

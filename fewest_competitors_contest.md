@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 October 2024*
+*Updated on 10 October 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -322,6 +322,7 @@
 | 2 | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) |
 | 2 | [Sunmarke Open 2018](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2018) |
 | 2 | [Swisscubing Cup I 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2023) |
+| 2 | [Swiss Nationals 2024](https://www.worldcubeassociation.org/competitions/SwissNationals2024) |
 | 2 | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) |
 | 2 | [UK New Year Countdown 2023](https://www.worldcubeassociation.org/competitions/UKNewYearCountdown2023) |
 | 2 | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) |
