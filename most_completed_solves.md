@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 October 2024*
+*Updated on 13 October 2024*
 
 
 ### Competition
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **171348** | 179567 |
+| Europe | **171350** | 179573 |
 | North America | **1650** | 1736 |
 | Oceania | **423** | 450 |
 | Asia | **297** | 307 |
@@ -95,7 +95,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2023 | **61913** | 64727 |
-| 2024 | **57732** | 60776 |
+| 2024 | **57734** | 60782 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -130,7 +130,7 @@
 | 7x7x7 Cube | **1277** | 1373 |
 | 3x3x3 Blindfolded | **663** | 2026 |
 | 3x3x3 Fewest Moves | **298** | 508 |
-| 3x3x3 Multi-Blind | **147** | 229 |
+| 3x3x3 Multi-Blind | **149** | 235 |
 | 3x3x3 With Feet | **69** | 76 |
 | Magic | **56** | 65 |
 | 4x4x4 Blindfolded | **42** | 293 |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 October 2024*
+*Updated on 13 October 2024*
 
 
 ### Rubik's Cube
@@ -379,7 +379,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 17 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 18 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 8 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3 |

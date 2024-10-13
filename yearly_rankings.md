@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 October 2024*
+*Updated on 13 October 2024*
 
 
 ### Rubik's Cube - Single
@@ -462,7 +462,7 @@
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **21/24 48:37** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 21/24 48:37 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **13/14 56:16** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 13/14 56:16, 12/15 59:57 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **13/15 58:54** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 10/13 57:43, 13/15 58:54 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **12/14 49:02** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 12/14 49:02, 10/18 1:00:02 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **12/14 48:48** | Ireland | [Bara Multi-Blind i Borås 2024](https://www.worldcubeassociation.org/competitions/BaraMultiBlindiBoras2024) | 9/18 57:41, DNF, 12/14 48:48 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **11/12 1:00:00** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 11/12 1:00:00 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **13/17 55:43** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 13/17 55:43 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **8/9 39:00** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 8/9 39:00 |

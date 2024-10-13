@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 October 2024*
+*Updated on 13 October 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -20,6 +20,7 @@
 | 1 | [Back to School Utah 2022](https://www.worldcubeassociation.org/competitions/BacktoSchoolUtah2022) |
 | 1 | [Baden-Württemberg Open 2019](https://www.worldcubeassociation.org/competitions/BadenWurttembergOpen2019) |
 | 1 | [Banja Luka Open 2024](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2024) |
+| 1 | [Bara Multi-Blind i Borås 2024](https://www.worldcubeassociation.org/competitions/BaraMultiBlindiBoras2024) |
 | 1 | [BASC 31B - Mill Valley 2022](https://www.worldcubeassociation.org/competitions/BASC31BMillValley2022) |
 | 1 | [Battersea Autumn 2024](https://www.worldcubeassociation.org/competitions/BatterseaAutumn2024) |
 | 1 | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024) |

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 October 2024*
+*Updated on 13 October 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -16,6 +16,7 @@
 | 4 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
 | 4 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 4 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
+| 4 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 4 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 4 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) |
 | 4 | [Aidan Murdock Glynn](https://www.worldcubeassociation.org/persons/2022GLYN02) |
@@ -28,7 +29,6 @@
 | 3 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) |
 | 3 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 3 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
-| 3 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 3 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 3 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 3 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
