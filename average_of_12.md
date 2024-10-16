@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 October 2024*
+*Updated on 16 October 2024*
 
 
 ### Rubik's Cube
@@ -9,7 +9,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 6.86 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.75, 7.39, 6.28, 7.02, 7.24, 6.10, 8.12, 7.72, 6.52, 7.03, 6.31, 6.31 |
-| 7.32 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 8.75, 6.62, 7.20, 7.45, 7.60, 7.31, 7.43, 7.68, 6.68, 7.11, 7.12, 7.61 |
+| 7.01 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 6.54, 6.58, 6.60, 7.00, 8.83, 7.21, 7.34, 8.01, 7.37, 6.97, 6.31, 6.43 |
 
 ### 4x4x4 Cube
 
@@ -45,16 +45,17 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 35.78 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 41.70, 35.28, 36.43, 35.64, 38.81, 33.82, 29.48, 35.21, 36.70, 33.84, 37.02, 35.05 |
-| 39.46 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 51.02, 33.64, 42.88, 42.46, 40.50, 40.19, 38.48, 37.05, 35.52, 42.69, 38.81, 35.98 |
+| 35.03 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 38.81, 33.82, 29.48, 35.21, 36.70, 33.84, 37.02, 35.05, 33.19, 35.87, 36.68, 32.92 |
+| 39.07 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.05, 35.52, 42.69, 38.81, 35.98, 45.55, 46.30, 38.33, 38.92, 37.31, 39.16, 36.86 |
+| 42.22 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 45.65, 52.68, 43.38, 50.79, 40.07, 42.39, 38.18, 38.53, 43.47, 38.88, 36.98, 40.88 |
 | 44.31 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 44.29, 47.82, 39.99, 45.86, 36.80, 44.57, 44.90, 48.88, 43.82, 40.76, 44.24, 46.88 |
 
 ### Pyraminx
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 2.17 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.02, 2.43, 2.46, 2.39, 2.49, 3.20, 1.90, 1.86, 1.60, 2.07, 1.80, 2.26 |
-| 2.70 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.18, DNF, 2.11, 2.72, 1.60, 2.54, 2.81, 2.09, 2.89, 3.10, 3.01, 3.53 |
+| 2.12 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.77, 1.82, 2.94, 2.18, 1.73, 1.74, 2.27, 2.32, 2.29, 22.49, 2.18, 1.73 |
+| 2.49 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.49, 2.66, 4.93, 2.76, 2.32, 1.61, 1.91, 1.67, 2.88, 2.34, 2.64, 3.21 |
 
 ### Rubik's Clock
 

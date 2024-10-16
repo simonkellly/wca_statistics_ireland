@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 October 2024*
+*Updated on 16 October 2024*
 
 
 ### Rubik's Cube
@@ -177,12 +177,12 @@
 | 8.53 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 8.88 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 8.92 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
+| 9.96 | [Síobhradh Cunningham](https://www.worldcubeassociation.org/persons/2023CUNN04) |
 | 10.06 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 10.38 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 11.44 | [Jake Hartley-Trimble](https://www.worldcubeassociation.org/persons/2023HART19) |
 | 11.53 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 11.58 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
-| 11.60 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 
 ### Skewb
 

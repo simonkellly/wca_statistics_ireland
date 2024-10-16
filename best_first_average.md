@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 October 2024*
+*Updated on 16 October 2024*
 
 
 ### Rubik's Cube
@@ -162,12 +162,12 @@
 | 8.38 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
 | 9.45 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 9.59 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
+| 10.33 | [Síobhradh Cunningham](https://www.worldcubeassociation.org/persons/2023CUNN04) |
 | 10.66 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 10.83 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 11.15 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 12.06 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 12.11 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 12.52 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 
 ### Skewb
 

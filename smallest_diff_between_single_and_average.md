@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 October 2024*
+*Updated on 16 October 2024*
 
 
 ### Rubik's Cube
@@ -10,6 +10,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.07 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.88 | 7.95 | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/by_person#2012BEAH01) |
 | 0.08 | [Dara Okan](https://www.worldcubeassociation.org/persons/2023OKAN02) | 14.71 | 14.79 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/by_person#2023OKAN02) |
+| 0.09 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | 12.61 | 12.70 | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2022CUNN04) |
 | 0.11 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) | 15.06 | 15.17 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2022KENN12) |
 | 0.11 | [Ethan Moloney-Illien](https://www.worldcubeassociation.org/persons/2019MOLO02) | 17.21 | 17.32 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2019MOLO02) |
 | 0.12 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 10.44 | 10.56 | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2022MENA01) |
@@ -17,7 +18,6 @@
 | 0.15 | [Rory Power Breen](https://www.worldcubeassociation.org/persons/2022BREE02) | 15.26 | 15.41 | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023/results/by_person#2022BREE02) |
 | 0.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.11 | 7.27 | [Weston-super-Mare Spring 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareSpring2024/results/by_person#2012BEAH01) |
 | 0.17 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) | 11.24 | 11.41 | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020/results/by_person#2019JACK03) |
-| 0.18 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.50 | 6.68 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2012BEAH01) |
 
 ### 2x2x2 Cube
 
@@ -165,9 +165,9 @@
 | 0.18 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 11.22 | 11.40 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021FINK01) |
 | 0.18 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | 13.94 | 14.12 | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/by_person#2024MART15) |
 | 0.21 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 9.19 | 9.40 | [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023/results/by_person#2017KELL08) |
+| 0.21 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | 10.02 | 10.23 | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2023TYRR01) |
 | 0.23 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.90 | 4.13 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2022CORR06) |
 | 0.23 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 6.67 | 6.90 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2017TIMM01) |
-| 0.23 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 11.85 | 12.08 | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2023OLWI01) |
 
 ### Skewb
 

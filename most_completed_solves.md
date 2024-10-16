@@ -1,22 +1,23 @@
 ## Most completed solves
 
-*Updated on 13 October 2024*
+*Updated on 16 October 2024*
 
 
 ### Competition
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | **8173** | 8539 |
+| [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | **8187** | 8554 |
 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | **7404** | 7768 |
 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | **5577** | 5843 |
 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | **4923** | 5153 |
 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | **4392** | 4588 |
-| [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023) | **4124** | 4279 |
+| [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023) | **4134** | 4289 |
 | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) | **3964** | 4154 |
 | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023) | **3870** | 4042 |
 | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) | **3847** | 4066 |
 | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | **3769** | 3950 |
+| [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | **3751** | 3906 |
 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | **3694** | 3898 |
 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | **3626** | 3784 |
 | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | **3622** | 3771 |
@@ -26,39 +27,38 @@
 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) | **3545** | 3708 |
 | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) | **3133** | 3295 |
 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | **3078** | 3263 |
-| [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | **2964** | 3077 |
 
 ### Person
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7513** | 7677 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2818** | 2965 |
-| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **2695** | 2990 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **2588** | 2645 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2479** | 2608 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7577** | 7742 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2887** | 3035 |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **2746** | 3042 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **2632** | 2690 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2552** | 2683 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2437** | 2490 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2437** | 2560 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2432** | 2569 |
-| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2289** | 2416 |
+| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2346** | 2476 |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **2007** | 2126 |
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | **1984** | 2043 |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **1946** | 2061 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1884** | 1923 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1831** | 1969 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1752** | 1855 |
-| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1683** | 1764 |
-| [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **1649** | 1746 |
-| [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1520** | 1623 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1949** | 1993 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1901** | 2039 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1819** | 1925 |
+| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1750** | 1834 |
+| [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **1701** | 1803 |
+| [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1579** | 1688 |
+| [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **1467** | 1544 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1448** | 1510 |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **1433** | 1556 |
-| [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **1423** | 1494 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1386** | 1445 |
 
 ### Country
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Ireland | **148788** | 155995 |
-| United Kingdom | **15390** | 16134 |
+| Ireland | **152564** | 159928 |
+| United Kingdom | **15430** | 16174 |
 | Spain | **2037** | 2104 |
 | United States | **1582** | 1664 |
 | Germany | **1439** | 1487 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **171350** | 179573 |
+| Europe | **175166** | 183546 |
 | North America | **1650** | 1736 |
 | Oceania | **423** | 450 |
 | Asia | **297** | 307 |
@@ -94,8 +94,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2023 | **61913** | 64727 |
-| 2024 | **57734** | 60782 |
+| 2023 | **61937** | 64752 |
+| 2024 | **61526** | 64730 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -116,16 +116,16 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **45816** | 46794 |
-| 2x2x2 Cube | **31660** | 32556 |
-| Pyraminx | **23183** | 23767 |
-| Skewb | **18817** | 19302 |
-| 4x4x4 Cube | **14594** | 15140 |
+| 3x3x3 Cube | **46641** | 47639 |
+| 2x2x2 Cube | **32454** | 33376 |
+| Pyraminx | **23844** | 24447 |
+| Skewb | **19194** | 19682 |
+| 4x4x4 Cube | **14892** | 15444 |
 | 3x3x3 One-Handed | **10489** | 10954 |
-| 5x5x5 Cube | **8238** | 8579 |
-| Clock | **6945** | 8125 |
-| Megaminx | **5289** | 5672 |
-| Square-1 | **4420** | 4722 |
+| 5x5x5 Cube | **8444** | 8795 |
+| Clock | **7273** | 8509 |
+| Megaminx | **5455** | 5844 |
+| Square-1 | **4581** | 4894 |
 | 6x6x6 Cube | **1779** | 1854 |
 | 7x7x7 Cube | **1277** | 1373 |
 | 3x3x3 Blindfolded | **663** | 2026 |
