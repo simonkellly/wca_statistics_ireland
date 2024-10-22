@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 
 ### Rubik's Cube - Single
@@ -191,10 +191,10 @@
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **22.12** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | DNF, 22.12, DNF |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **23.92** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 38.53, DNF, 23.92 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **27.58** | Ireland | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) | 1:06.97, DNF, 27.58 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **37.40** | Ireland | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024) | 37.40, DNF, DNF |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **46.27** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:31.72, DNF, 46.27 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **46.45** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | DNF, DNF, 46.45 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **48.02** | Ireland | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) | 57.57, 48.02, 1:02.16 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **50.86** | Ireland | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024) | 50.86, DNF, 52.44 |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | **52.12** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 1:29.69, 54.98, 52.12 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1:01.33** | Ireland | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | DNF, DNF, 1:01.33 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:01.66** | Mongolia | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | DNF, 1:01.66, 1:32.81 |
@@ -460,9 +460,9 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **21/24 48:37** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 21/24 48:37 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **16/18 54:15** | Ireland | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024) | 15/18 51:21, 16/18 54:15, DNF |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **13/14 56:16** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 13/14 56:16, 12/15 59:57 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **13/15 58:54** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 10/13 57:43, 13/15 58:54 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **12/14 48:48** | Ireland | [Bara Multi-Blind i Borås 2024](https://www.worldcubeassociation.org/competitions/BaraMultiBlindiBoras2024) | 9/18 57:41, DNF, 12/14 48:48 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **11/12 1:00:00** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 11/12 1:00:00 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **13/17 55:43** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 13/17 55:43 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **8/9 39:00** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 8/9 39:00 |

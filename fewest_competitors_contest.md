@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -49,6 +49,7 @@
 | 1 | [Boston University Winter 2019](https://www.worldcubeassociation.org/competitions/BUWinter2019) |
 | 1 | [Calp-Ifach 2024](https://www.worldcubeassociation.org/competitions/CalpIfach2024) |
 | 1 | [Cal Poly SLO Spring 2022](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2022) |
+| 1 | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024) |
 | 1 | [Cambridge Open 2013](https://www.worldcubeassociation.org/competitions/CambridgeOpen2013) |
 | 1 | [Canadian Open 2007](https://www.worldcubeassociation.org/competitions/CanadianOpen2007) |
 | 1 | [Cape Town 2014](https://www.worldcubeassociation.org/competitions/CapeTown2014) |
@@ -264,6 +265,7 @@
 | 1 | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009) |
 | 1 | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) |
 | 1 | [U.R.A. Funky Cubes 2022](https://www.worldcubeassociation.org/competitions/URAFunkyCubes2022) |
+| 1 | [Valsugana Speedcubing 2024](https://www.worldcubeassociation.org/competitions/ValsuganaSpeedcubing2024) |
 | 1 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) |
 | 1 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
 | 1 | [Vienna Summer 2024](https://www.worldcubeassociation.org/competitions/ViennaSummer2024) |

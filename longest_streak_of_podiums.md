@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -90,9 +90,9 @@
 | 4 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 4x4x4 Cube | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |
 | 4 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | Skewb | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |  |
 | 4 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | Clock | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
-| 4 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | Pyraminx | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 4 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 3x3x3 Cube | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) |
 | 4 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4x4x4 Cube | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
+| 4 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | Pyraminx | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 4 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 3x3x3 One-Handed | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 4 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | Pyraminx | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 4 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2x2x2 Cube | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) |
