@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 
 ### Competition
@@ -45,7 +45,7 @@
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | **1984** | 2043 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1949** | 1993 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1901** | 2039 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1819** | 1925 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1822** | 1928 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1750** | 1834 |
 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **1701** | 1803 |
 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1579** | 1688 |
@@ -58,22 +58,22 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Ireland | **152564** | 159928 |
-| United Kingdom | **15435** | 16192 |
+| United Kingdom | **15438** | 16195 |
 | Spain | **2037** | 2104 |
 | United States | **1582** | 1664 |
-| Germany | **1439** | 1487 |
+| Germany | **1529** | 1581 |
 | France | **643** | 662 |
-| Austria | **529** | 556 |
+| Austria | **583** | 615 |
 | Denmark | **460** | 479 |
 | Australia | **380** | 397 |
 | Italy | **349** | 363 |
 | Slovakia | **217** | 221 |
 | Switzerland | **206** | 207 |
 | Belgium | **182** | 191 |
+| Poland | **155** | 168 |
 | Czech Republic | **154** | 155 |
 | Norway | **136** | 152 |
 | Hungary | **128** | 131 |
-| Poland | **116** | 128 |
 | Republic of Korea | **112** | 117 |
 | Portugal | **104** | 112 |
 | Finland | **103** | 103 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **175188** | 183581 |
+| Europe | **175374** | 183777 |
 | North America | **1650** | 1736 |
 | Oceania | **423** | 450 |
 | Asia | **297** | 307 |
@@ -95,7 +95,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2023 | **61937** | 64752 |
-| 2024 | **61548** | 64765 |
+| 2024 | **61734** | 64961 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -116,21 +116,21 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **46656** | 47654 |
-| 2x2x2 Cube | **32454** | 33376 |
-| Pyraminx | **23844** | 24447 |
-| Skewb | **19194** | 19682 |
-| 4x4x4 Cube | **14894** | 15446 |
-| 3x3x3 One-Handed | **10489** | 10954 |
-| 5x5x5 Cube | **8444** | 8795 |
-| Clock | **7273** | 8509 |
-| Megaminx | **5455** | 5844 |
+| 3x3x3 Cube | **46696** | 47694 |
+| 2x2x2 Cube | **32484** | 33406 |
+| Pyraminx | **23869** | 24472 |
+| Skewb | **19219** | 19707 |
+| 4x4x4 Cube | **14913** | 15466 |
+| 3x3x3 One-Handed | **10494** | 10959 |
+| 5x5x5 Cube | **8454** | 8805 |
+| Clock | **7289** | 8529 |
+| Megaminx | **5460** | 5849 |
 | Square-1 | **4581** | 4894 |
-| 6x6x6 Cube | **1779** | 1854 |
-| 7x7x7 Cube | **1277** | 1373 |
-| 3x3x3 Blindfolded | **666** | 2035 |
-| 3x3x3 Fewest Moves | **298** | 509 |
-| 3x3x3 Multi-Blind | **151** | 238 |
+| 6x6x6 Cube | **1782** | 1857 |
+| 7x7x7 Cube | **1280** | 1376 |
+| 3x3x3 Blindfolded | **668** | 2041 |
+| 3x3x3 Fewest Moves | **301** | 512 |
+| 3x3x3 Multi-Blind | **151** | 239 |
 | 3x3x3 With Feet | **69** | 76 |
 | Magic | **56** | 65 |
 | 4x4x4 Blindfolded | **42** | 296 |

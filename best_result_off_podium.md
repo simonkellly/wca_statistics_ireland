@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 
 ### Rubik's Cube
@@ -26,13 +26,13 @@
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.98 | **2.42** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e222_f) | 4 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 1.95 | **2.47** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#e222_f) | 4 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 1.76 | **2.51** | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/all#e222_f) | 4 |
+| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1.64 | **2.55** | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024/results/all#e222_f) | 6 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.80 | **2.55** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e222_f) | 6 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 2.26 | **2.56** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#e222_f) | 5 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 2.05 | **2.61** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#e222_f) | 6 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.39 | **2.65** | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/all#e222_f) | 5 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 1.95 | **2.69** | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024/results/all#e222_f) | 4 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 1.69 | **2.70** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e222_f) | 8 |
-| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.23 | **2.72** | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024/results/all#e222_f) | 8 |
 
 ### 4x4x4 Cube
 
@@ -105,15 +105,16 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **46.45** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 5 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **47.66** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 6 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **48.02** | 55.92 | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024/results/all#e333bf_f) | 6 |
+| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **53.19** | DNF | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024/results/all#e333bf_f) | 5 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **54.01** | DNF | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024/results/all#e333bf_f) | 5 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **54.48** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 7 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **55.82** | DNF | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/all#e333bf_f) | 4 |
 
 ### 3x3x3 Fewest Moves
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 28 | **32.00** | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020/results/all#e333fm_f) | 6 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 31 | **34.00** | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024/results/all#e333fm_f) | 18 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 28 | **34.67** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e333fm_f) | 63 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 34 | **37.00** | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/all#e333fm_f) | 4 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 37 | **38.00** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 4 |
@@ -122,7 +123,6 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 37 | **40.00** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 5 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 36 | **41.00** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 6 |
 | [Jamie Blennerhassett](https://www.worldcubeassociation.org/persons/2022BLEN01) | 37 | **41.00** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 7 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 38 | **41.33** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 9 |
 
 ### 3x3x3 One-Handed
 

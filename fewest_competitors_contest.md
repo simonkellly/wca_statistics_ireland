@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -111,6 +111,7 @@
 | 1 | [Franconia Winter 2020](https://www.worldcubeassociation.org/competitions/FranconiaWinter2020) |
 | 1 | [Frankfurt Cube Days 2017](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2017) |
 | 1 | [Frankfurt Cube Days 2020](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2020) |
+| 1 | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024) |
 | 1 | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
 | 1 | [FSUbers 2.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers202022) |
 | 1 | [FSUbers 3.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers302022) |
@@ -137,6 +138,7 @@
 | 1 | [Hessen Open 2023](https://www.worldcubeassociation.org/competitions/HessenOpen2023) |
 | 1 | [Hessen Open 2024](https://www.worldcubeassociation.org/competitions/HessenOpen2024) |
 | 1 | [Hobart Open 2019](https://www.worldcubeassociation.org/competitions/HobartOpen2019) |
+| 1 | [Honey Cube Barcin 2024](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2024) |
 | 1 | [Hungarian All-Rounder 5 2024](https://www.worldcubeassociation.org/competitions/HungarianAllRounder52024) |
 | 1 | [Hungarian Open 2023](https://www.worldcubeassociation.org/competitions/HungarianOpen2023) |
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
@@ -224,6 +226,7 @@
 | 1 | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
 | 1 | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023) |
 | 1 | [Roskilde For Alle 2023](https://www.worldcubeassociation.org/competitions/RoskildeForAlle2023) |
+| 1 | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) |
 | 1 | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) |
 | 1 | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024) |
 | 1 | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
@@ -266,6 +269,7 @@
 | 1 | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) |
 | 1 | [U.R.A. Funky Cubes 2022](https://www.worldcubeassociation.org/competitions/URAFunkyCubes2022) |
 | 1 | [Valsugana Speedcubing 2024](https://www.worldcubeassociation.org/competitions/ValsuganaSpeedcubing2024) |
+| 1 | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) |
 | 1 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) |
 | 1 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
 | 1 | [Vienna Summer 2024](https://www.worldcubeassociation.org/competitions/ViennaSummer2024) |

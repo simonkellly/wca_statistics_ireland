@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -16,7 +16,7 @@
 | 216 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 206 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 191 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
-| 188 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 189 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 183 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 179 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 159 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
@@ -70,6 +70,7 @@
 | 58 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 57 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |
 | 57 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
+| 57 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 57 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
 | 55 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 55 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) |
@@ -79,7 +80,6 @@
 | 52 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 52 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 48 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
-| 46 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 44 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
 | 42 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) |
 | 42 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) |
@@ -89,9 +89,10 @@
 | 39 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) |
 | 39 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
 | 39 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
-| 38 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) |
-| 38 | [Clara O'Brien](https://www.worldcubeassociation.org/persons/2021OBRI04) |
 | 38 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) |
+| 38 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
+| 38 | [Clara O'Brien](https://www.worldcubeassociation.org/persons/2021OBRI04) |
+| 38 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) |
 | 37 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 37 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
 | 36 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
@@ -99,7 +100,6 @@
 | 33 | [Andy Lee Mitchell](https://www.worldcubeassociation.org/persons/2017MITC05) |
 | 33 | [Aran Mitchell](https://www.worldcubeassociation.org/persons/2023MITC04) |
 | 32 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) |
-| 32 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 32 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |
 | 31 | [Rory Furlong](https://www.worldcubeassociation.org/persons/2022FURL01) |
 | 29 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) |
