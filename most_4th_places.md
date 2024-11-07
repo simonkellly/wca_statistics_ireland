@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  4 November 2024*
+*Updated on  7 November 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -25,8 +25,8 @@
 | 7 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
 | 7 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 7 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
+| 7 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 7 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 6 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 6 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 6 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 6 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 November 2024*
+*Updated on  7 November 2024*
 
 
 ### Rubik's Cube
@@ -70,6 +70,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.24 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | 3:26.11 | 3:26.35 | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024/results/by_person#2022KEAT02) |
 | 0.31 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2:04.68 | 2:04.99 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022LAUR09) |
+| 0.43 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 2:31.93 | 2:32.36 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2019NATS02) |
 | 0.56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:20.61 | 1:21.17 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
 | 0.80 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2:36.96 | 2:37.76 | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/by_person#2015OCON03) |
 | 0.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:23.65 | 1:24.52 | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021/results/by_person#2012BEAH01) |
@@ -77,7 +78,6 @@
 | 0.89 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:29.14 | 1:30.03 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012BEAH01) |
 | 0.95 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 2:36.33 | 2:37.28 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022/results/by_person#2017FITZ01) |
 | 1.03 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 3:03.30 | 3:04.33 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2017FITZ01) |
-| 1.05 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:25.85 | 1:26.90 | [Vienna Summer 2023](https://www.worldcubeassociation.org/competitions/ViennaBigCubeSummer2023/results/by_person#2012BEAH01) |
 
 ### 7x7x7 Cube
 
@@ -90,9 +90,9 @@
 | 0.73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:04.67 | 2:05.40 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
 | 0.84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.64 | 1:57.48 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
 | 0.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:07.11 | 2:08.10 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2012BEAH01) |
+| 1.12 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 4:14.81 | 4:15.93 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2019NATS02) |
 | 1.22 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:57.31 | 1:58.53 | [Vienna Summer 2023](https://www.worldcubeassociation.org/competitions/ViennaBigCubeSummer2023/results/by_person#2012BEAH01) |
 | 1.37 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) | 5:50.91 | 5:52.28 | [Guildford Open 2017](https://www.worldcubeassociation.org/competitions/GuildfordOpen2017/results/by_person#2016MCAT01) |
-| 1.48 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3:23.03 | 3:24.51 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015/results/by_person#2012BEAH01) |
 
 ### 3x3x3 Blindfolded
 
@@ -159,6 +159,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.04 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.46 | 3.50 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
+| 0.08 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 6.22 | 6.30 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020BERM02) |
 | 0.13 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 6.75 | 6.88 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2023DOWL01) |
 | 0.13 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 7.76 | 7.89 | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/by_person#2017TIMM01) |
 | 0.17 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.61 | 3.78 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2022CORR06) |
@@ -167,7 +168,6 @@
 | 0.21 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 9.19 | 9.40 | [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023/results/by_person#2017KELL08) |
 | 0.21 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | 10.02 | 10.23 | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2023TYRR01) |
 | 0.23 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.90 | 4.13 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2022CORR06) |
-| 0.23 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 6.67 | 6.90 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2017TIMM01) |
 
 ### Skewb
 

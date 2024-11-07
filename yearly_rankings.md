@@ -1,16 +1,16 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 November 2024*
+*Updated on  7 November 2024*
 
 
 ### Rubik's Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **4.92** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 6.41, 8.48, 7.20, 4.92, 7.20 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **5.42** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 7.60, 5.42, 8.07, 5.87, 9.24 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **5.42** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 7.76, 7.94, 7.35, 5.42, 6.88 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **5.59** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 5.59, 10.18, 6.62, 8.51, 8.33 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **5.60** | Ireland | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | 7.87, 8.56, 5.60, 11.18, 10.84 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **5.78** | Ireland | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) | 8.90, 9.57, 9.85, 5.78, 8.56 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **5.82** | India | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 9.82, 6.89, 10.51, 5.82, 10.10 |
@@ -25,7 +25,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **6.58** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 6.15, 6.91, 6.53, 7.96, 6.29 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **6.92** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 8.01, 7.37, 6.97, 6.31, 6.43 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **7.39** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 7.85, 6.74, 8.13, 7.16, 7.15 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **6.94** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 6.41, 8.48, 7.20, 4.92, 7.20 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **7.43** | Ireland | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | 8.44, 7.35, 7.33, 7.62, 6.86 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **7.66** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 9.29, 8.24, 7.41, 7.32, 7.25 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **7.74** | Ireland | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | 8.86, 9.30, 6.72, 7.40, 6.96 |
@@ -58,26 +58,26 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1.84** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1.88, 1.96, 1.68, 2.81, 0.91 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **2.16** | India | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 2.36, 1.98, 4.54, 2.13, 1.80 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2.20** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | DNF, 1.87, 2.86, 1.86, 1.55 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2.32** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 4.54, 2.49, 1.97, 2.49, 1.77 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2.40** | Ireland | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | 2.96, 2.24, 3.21, 1.99, 1.97 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2.41** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 2.24, 2.22, DNF, 2.77, 1.86 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **2.41** | Ireland | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024) | 3.61, 2.52, 2.20, 2.52, 1.35 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **2.42** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 3.31, 2.64, 1.98, 2.24, 2.38 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2.47** | Mongolia | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 2.12, 3.23, 2.06, 4.14, 1.62 |
 
 ### 4x4x4 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **18.88** | Ireland | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 18.88, 25.81, 26.96, 23.98, 24.78 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **24.71** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 24.86, 26.70, 32.17, 24.71, 27.99 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **22.68** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | DNF, 22.68, 32.81, 28.54, 32.25 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **28.66** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 36.77, 37.12, 28.66, 39.68, 35.98 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **28.80** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 28.80, 37.94, 33.02, 32.14, 40.15 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **28.80** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 28.80, 37.49, 34.39, 46.56, 41.26 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **29.46** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 40.03, 29.46, 35.26, 37.19, 45.31 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **29.52** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 29.52, 35.68, 39.90, 35.08, 34.76 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **29.64** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 31.89, 35.80, 33.73, 34.51, 29.64 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **30.29** | India | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 30.29, 2:05.76, 32.44, 33.08, 36.25 |
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | **30.88** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 44.83, 40.60, 42.27, 42.88, 30.88 |
-| [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **31.53** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 37.55, 40.79, 39.89, 38.21, 31.53 |
 
 ### 4x4x4 Cube - Average
 
@@ -85,7 +85,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **23.03** | Ireland | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) | 31.19, 21.53, 22.37, 24.54, 22.17 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **26.52** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 24.86, 26.70, 32.17, 24.71, 27.99 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **32.94** | Ireland | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | 42.63, 33.66, 31.03, 31.63, 33.53 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **32.04** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 32.99, 35.16, 30.91, 32.23, 30.58 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **33.29** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 33.58, 33.25, 33.04, 31.54, 40.02 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **33.50** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 30.94, 33.06, 45.21, 33.74, 33.70 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **33.66** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 33.90, 37.59, 29.80, 33.01, 34.07 |
@@ -99,9 +99,9 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **37.56** | Ireland | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) | 39.82, 40.02, 43.59, 42.33, 37.56 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **48.62** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:05.98, 48.98, 1:00.75, 58.00, 48.62 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **44.71** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 52.24, 56.79, 48.27, 44.71, 55.56 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **54.49** | Ireland | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | 1:06.92, 54.49, 1:01.55, 58.79, 1:00.45 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **55.44** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 1:05.67, 1:09.44, 55.44, 1:04.69, 1:05.04 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **54.87** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:01.50, 1:04.00, 1:03.94, 54.87, 1:02.36 |
 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | **56.12** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 1:03.58, 1:00.40, 56.12, 1:02.59, 1:07.60 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **58.32** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 58.32, 1:06.32, 1:01.00, 1:15.23, 1:02.48 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **58.81** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 1:06.87, 58.81, 1:05.30, 1:00.48, DNF |
@@ -114,13 +114,13 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **40.72** | Ireland | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) | 39.82, 40.02, 43.59, 42.33, 37.56 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **53.41** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 53.16, 53.57, 53.51, 57.40, 52.93 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **52.02** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 52.24, 56.79, 48.27, 44.71, 55.56 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **59.84** | Ireland | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | 1:05.58, 54.52, 1:04.39, 55.16, 59.96 |
 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | **59.97** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 1:07.43, 56.93, 59.29, 59.29, 1:01.32 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:01.73** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 59.26, 1:00.02, 1:01.35, 1:03.88, 1:03.81 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1:03.27** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 58.32, 1:06.32, 1:01.00, 1:15.23, 1:02.48 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **1:04.07** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 59.56, 1:10.83, 1:12.74, 58.95, 1:01.82 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1:04.22** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 1:06.87, 58.81, 1:05.30, 1:00.48, DNF |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:05.00** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 1:02.55, 59.59, 1:01.49, 1:11.77, 1:10.97 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:07.49** | Mongolia | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 1:05.25, 1:10.18, 1:00.31, 1:24.84, 1:07.04 |
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **1:09.46** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 1:09.80, DNF, 1:11.13, 1:07.44, 1:04.38 |
 
@@ -130,24 +130,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:09.59** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:21.87, 1:19.37, 1:09.59 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:39.53** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 1:41.76, 1:39.53, 2:00.81 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:45.01** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:55.75, 1:45.01, 2:01.94 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **1:48.71** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:53.46, 2:08.39, 1:48.71 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **1:52.41** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:52.41, 2:00.23, 1:58.43 |
 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | **1:54.31** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 1:54.31, 2:25.48, 2:31.46 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2:00.27** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 2:12.28, 2:21.61, 2:00.27 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:02.74** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 2:04.63, 2:05.69, 2:02.74 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **2:03.70** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 2:21.83, 2:03.70, 2:17.28 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2:04.14** | Mongolia | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 2:04.14, 2:19.04, 2:16.06 |
-| [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **2:14.59** | Ukraine | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | 2:27.90, 2:14.59, 2:33.06 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2:11.31** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 2:11.31, 2:14.43, 2:30.09 |
 
 ### 6x6x6 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:16.94** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:21.87, 1:19.37, 1:09.59 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:47.37** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 1:41.76, 1:39.53, 2:00.81 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:46.70** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:58.24, 1:40.84, 1:41.03 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:54.23** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:55.75, 1:45.01, 2:01.94 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **1:56.85** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:53.46, 2:08.39, 1:48.71 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **1:57.02** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1:52.41, 2:00.23, 1:58.43 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:04.35** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 2:04.63, 2:05.69, 2:02.74 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2:11.39** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 2:12.28, 2:21.61, 2:00.27 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **2:11.69** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 2:10.77, 2:14.09, 2:10.20 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2:13.08** | Mongolia | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 2:04.14, 2:19.04, 2:16.06 |
@@ -163,11 +163,11 @@
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2:57.99** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 3:22.08, 3:21.24, 2:57.99 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **3:01.91** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 3:01.91, 3:12.92, 3:12.76 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **3:04.85** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 3:09.35, 3:14.48, 3:04.85 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3:17.96** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 3:17.96, DNF, DNF |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3:17.68** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 3:35.77, 3:17.68, 3:35.76 |
 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) | **3:20.66** | Ireland | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024) | 3:20.66, 3:22.52, 3:44.79 |
 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | **3:21.30** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 3:33.79, 3:33.31, 3:21.30 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **3:24.78** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 3:28.20, 3:30.32, 3:24.78 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **3:28.69** | Ireland | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 3:36.15, 3:28.69, 4:40.84 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **3:29.29** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 3:30.38, 3:40.56, 3:29.29 |
 
 ### 7x7x7 Cube - Average
 
@@ -178,10 +178,10 @@
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **3:09.20** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 3:01.91, 3:12.92, 3:12.76 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **3:09.56** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 3:09.35, 3:14.48, 3:04.85 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **3:13.77** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 3:22.08, 3:21.24, 2:57.99 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **3:27.77** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 3:28.20, 3:30.32, 3:24.78 |
 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) | **3:29.32** | Ireland | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024) | 3:20.66, 3:22.52, 3:44.79 |
 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | **3:29.47** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 3:33.79, 3:33.31, 3:21.30 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **3:33.41** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 3:30.38, 3:40.56, 3:29.29 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3:34.84** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 3:43.10, 3:20.57, 3:40.85 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3:29.74** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 3:35.77, 3:17.68, 3:35.76 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **3:44.45** | Ireland | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | 3:38.59, 3:52.93, 3:41.83 |
 
 ### 3x3x3 Blindfolded - Single
@@ -197,7 +197,7 @@
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **48.02** | Ireland | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) | 57.57, 48.02, 1:02.16 |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | **52.12** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 1:29.69, 54.98, 52.12 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **53.19** | Ireland | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024) | 1:00.20, DNF, 53.19 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1:01.33** | Ireland | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | DNF, DNF, 1:01.33 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **53.77** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:05.08, 1:02.81, 53.77 |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -205,13 +205,13 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **37.57** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 38.44, 37.72, 36.55 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **55.92** | Ireland | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) | 57.57, 48.02, 1:02.16 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:00.55** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:05.08, 1:02.81, 53.77 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:03.75** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 49.77, 1:21.52, 59.95 |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | **1:05.60** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 1:29.69, 54.98, 52.12 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1:07.72** | Ireland | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) | 59.18, 1:22.74, 1:01.23 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1:11.22** | Ireland | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 1:17.40, 1:14.28, 1:01.99 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1:18.15** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:16.59, 1:16.69, 1:21.18 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:21.68** | Mongolia | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:36.28, 1:07.54, 1:21.22 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:31.27** | Ireland | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | 1:18.37, 1:51.40, 1:24.03 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:43.65** | Ireland | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 1:57.33, 1:30.04, 1:43.58 |
 
 ### 3x3x3 Fewest Moves - Single
@@ -252,12 +252,12 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **9.40** | Ireland | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) | 9.40, 9.97, 12.82, 12.47, 13.83 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **10.18** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 18.69, 10.18, DNF, 12.32, 14.56 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **10.34** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 10.34, 12.00, 16.81, 12.63, 11.31 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **11.19** | Ireland | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) | 12.62, 11.19, 16.66, 16.55, 17.57 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **10.51** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 12.04, 13.86, 16.61, 16.95, 10.51 |
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **11.62** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 12.76, 19.75, 12.15, 14.65, 11.62 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **12.26** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 12.26, 15.68, 19.64, 19.26, DNF |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **13.03** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 30.47, 20.20, 19.42, 13.03, 22.07 |
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **13.10** | Ukraine | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 13.10, 15.65, 16.00, 16.66, 17.20 |
-| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **13.14** | India | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 13.14, 18.72, 17.07, 21.22, 16.01 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **13.10** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 13.10, 16.40, 25.32, 16.45, 14.74 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -272,16 +272,16 @@
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **14.77** | Ukraine | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 13.63, 14.48, 19.72, 14.81, 15.02 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **15.19** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 18.69, 10.18, DNF, 12.32, 14.56 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **15.50** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 15.31, 15.33, 15.25, 15.85, 17.59 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **16.29** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 16.01, 15.08, 15.04, 17.79, 18.89 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **15.81** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 16.01, 16.64, 19.66, 14.74, 14.77 |
 
 ### Megaminx - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **29.48** | India | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 36.43, 35.64, 38.81, 33.82, 29.48 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **32.32** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 37.57, 32.32, 43.78, 34.92, 43.85 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **33.64** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 51.02, 33.64, 42.88, 42.46, 40.50 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **36.80** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 45.86, 36.80, 44.57, 44.90, 48.88 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **36.98** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 38.53, 43.47, 38.88, 36.98, 40.88 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **44.85** | Ireland | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) | 58.95, 51.56, DNF, 52.66, 44.85 |
 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **46.72** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 58.04, 46.72, 54.81, 1:05.22, 55.87 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **47.01** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 48.35, 1:02.65, 49.22, 47.01, 59.78 |
@@ -294,8 +294,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **35.25** | India | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 33.19, 35.87, 36.68, 32.92, 37.32 |
+| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **37.38** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 35.07, 43.41, 40.76, 34.71, 36.30 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **38.46** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 38.92, 37.31, 39.16, 36.86, 39.19 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **39.43** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 38.53, 43.47, 38.88, 36.98, 40.88 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **44.40** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 45.39, 49.69, 43.31, 43.36, 44.44 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **52.45** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 48.35, 1:02.65, 49.22, 47.01, 59.78 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **54.39** | Ireland | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) | 58.95, 51.56, DNF, 52.66, 44.85 |
@@ -338,15 +338,15 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2.83** | Ireland | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | DNF, 5.43, DNF, 2.83, 6.69 |
+| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2.82** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 3.35, 2.82, 4.86, 3.81, 3.83 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **3.04** | Mongolia | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024) | 9.12, DNF, 4.32, 3.58, 3.04 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **3.39** | India | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 3.91, DNF, 3.39, 5.04, 4.02 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **3.56** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 3.56, DNF, 5.62, 4.91, 12.23 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3.75** | Ireland | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) | 3.75, 4.05, 4.57, 4.37, 6.86 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **4.00** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 4.00, 5.32, 5.34, 5.30, 5.05 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **4.03** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 5.62, 4.03, 5.05, 4.98, DNF |
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **4.11** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 4.81, 4.11, 6.96, 5.53, DNF |
 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) | **4.14** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 5.40, 5.83, 6.23, 8.16, 4.14 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **4.20** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 5.56, 5.60, DNF, 5.24, 4.20 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **4.34** | Ireland | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024) | 4.34, 6.32, DNF, DNF, DNF |
 
 ### Rubik's Clock - Average
@@ -398,16 +398,16 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **6.50** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 12.02, 6.50, 8.43, 10.51, 14.26 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **6.62** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 6.62, 7.30, 11.21, 16.53, 17.52 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **6.78** | India | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | 12.58, 10.89, 6.78, 21.33, 15.40 |
 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **7.02** | Ireland | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | 11.28, 10.74, 7.02, 10.04, 15.78 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **7.55** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 12.17, 14.25, 10.03, 7.55, 10.64 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **8.10** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 8.10, 9.96, 11.04, 15.09, 18.21 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **8.54** | Ireland | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024) | 8.97, 13.09, 8.54, 9.01, 12.38 |
 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | **8.61** | Ireland | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | 12.80, 18.88, 8.61, 16.22, 15.73 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **8.94** | Mongolia | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 13.89, 13.94, 8.94, 11.67, 18.05 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **9.83** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 21.67, 13.36, 24.33, 12.93, 9.83 |
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **9.87** | United Kingdom | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 14.10, 12.62, 18.97, 9.87, 19.30 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **9.93** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 22.89, 16.59, 25.72, 9.93, 19.72 |
 
 ### Square-1 - Average
 
@@ -428,7 +428,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **3:27.68** | Ireland | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024) | DNF, DNF, 3:27.68 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **3:19.08** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | DNF, DNF, 3:19.08 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **4:38.64** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 4:38.64, DNS, DNS |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **5:19.71** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | DNF, 5:19.71, DNF |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **7:48.00** | Ireland | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024) | 7:48.00, DNF, DNS |
@@ -460,9 +460,9 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **21/24 48:37** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 21/24 48:37 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **16/18 54:15** | Ireland | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024) | 15/18 51:21, 16/18 54:15, DNF |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **16/18 53:46** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 16/18 53:46, 13/21 1:00:00, DNF |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **13/14 56:16** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 13/14 56:16, 12/15 59:57 |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **13/15 58:54** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 10/13 57:43, 13/15 58:54 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **14/17 57:01** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 14/17 57:01, 15/19 59:15, 10/19 58:48 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **11/12 1:00:00** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 11/12 1:00:00 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **13/17 55:43** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 13/17 55:43 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **8/9 39:00** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 8/9 39:00 |

@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  4 November 2024*
+*Updated on  7 November 2024*
 
 
 ### Competition
@@ -32,25 +32,25 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7577** | 7742 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2887** | 3035 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7686** | 7855 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2980** | 3130 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **2746** | 3042 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2658** | 2795 |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **2632** | 2690 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2552** | 2683 |
+| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2526** | 2651 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2437** | 2490 |
-| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2437** | 2560 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2432** | 2569 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2346** | 2476 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2047** | 2096 |
+| [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | **2007** | 2066 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **2007** | 2126 |
-| [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | **1984** | 2043 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1949** | 1993 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1901** | 2039 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1822** | 1928 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1998** | 2142 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1904** | 2015 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1750** | 1834 |
 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **1701** | 1803 |
 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1579** | 1688 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1553** | 1625 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **1467** | 1544 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1448** | 1510 |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **1433** | 1556 |
 
 ### Country
@@ -58,9 +58,9 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Ireland | **152564** | 159928 |
-| United Kingdom | **15438** | 16195 |
+| United Kingdom | **16559** | 17376 |
 | Spain | **2037** | 2104 |
-| United States | **1582** | 1664 |
+| United States | **1621** | 1704 |
 | Germany | **1529** | 1581 |
 | France | **643** | 662 |
 | Austria | **583** | 615 |
@@ -82,8 +82,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **175374** | 183777 |
-| North America | **1650** | 1736 |
+| Europe | **176495** | 184958 |
+| North America | **1689** | 1776 |
 | Oceania | **423** | 450 |
 | Asia | **297** | 307 |
 | Africa | **73** | 75 |
@@ -94,8 +94,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
+| 2024 | **62894** | 66182 |
 | 2023 | **61937** | 64752 |
-| 2024 | **61734** | 64961 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -116,26 +116,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **46696** | 47694 |
-| 2x2x2 Cube | **32484** | 33406 |
-| Pyraminx | **23869** | 24472 |
-| Skewb | **19219** | 19707 |
-| 4x4x4 Cube | **14913** | 15466 |
-| 3x3x3 One-Handed | **10494** | 10959 |
-| 5x5x5 Cube | **8454** | 8805 |
-| Clock | **7289** | 8529 |
-| Megaminx | **5460** | 5849 |
-| Square-1 | **4581** | 4894 |
-| 6x6x6 Cube | **1782** | 1857 |
-| 7x7x7 Cube | **1280** | 1376 |
-| 3x3x3 Blindfolded | **668** | 2041 |
+| 3x3x3 Cube | **46860** | 47859 |
+| 2x2x2 Cube | **32599** | 33526 |
+| Pyraminx | **23983** | 24587 |
+| Skewb | **19331** | 19822 |
+| 4x4x4 Cube | **15020** | 15576 |
+| 3x3x3 One-Handed | **10597** | 11064 |
+| 5x5x5 Cube | **8548** | 8900 |
+| Clock | **7397** | 8644 |
+| Megaminx | **5537** | 5926 |
+| Square-1 | **4647** | 4961 |
+| 6x6x6 Cube | **1815** | 1892 |
+| 7x7x7 Cube | **1313** | 1409 |
+| 3x3x3 Blindfolded | **696** | 2095 |
 | 3x3x3 Fewest Moves | **301** | 512 |
-| 3x3x3 Multi-Blind | **151** | 239 |
+| 3x3x3 Multi-Blind | **156** | 245 |
 | 3x3x3 With Feet | **69** | 76 |
 | Magic | **56** | 65 |
-| 4x4x4 Blindfolded | **42** | 296 |
+| 4x4x4 Blindfolded | **43** | 299 |
 | Master Magic | **34** | 35 |
-| 5x5x5 Blindfolded | **9** | 106 |
+| 5x5x5 Blindfolded | **9** | 112 |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_ireland" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
