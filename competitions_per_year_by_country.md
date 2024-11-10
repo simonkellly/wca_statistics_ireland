@@ -1,45 +1,45 @@
 ## Competitions per year by country
 
-*Updated on  7 November 2024*
+*Updated on 10 November 2024*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 8.61 | 132 | 15.33 | United Kingdom |
 | 6.22 | 56 | 9.01 | United States |
-| 4.79 | 61 | 12.74 | Ireland |
-| 4.39 | 9 | 2.05 | Austria |
-| 3.07 | 5 | 1.63 | Slovakia |
-| 2.64 | 15 | 5.67 | Australia |
-| 2.44 | 38 | 15.54 | Germany |
-| 2.09 | 3 | 1.44 | Hungary |
+| 4.79 | 61 | 12.75 | Ireland |
+| 4.38 | 9 | 2.05 | Austria |
+| 3.06 | 5 | 1.63 | Slovakia |
+| 2.64 | 15 | 5.68 | Australia |
+| 2.44 | 38 | 15.55 | Germany |
+| 2.08 | 3 | 1.44 | Hungary |
 | 1.84 | 3 | 1.63 | Sweden |
-| 1.34 | 4 | 2.99 | Norway |
+| 1.34 | 4 | 3.00 | Norway |
 | 1.24 | 7 | 5.66 | Denmark |
 | 1.23 | 9 | 7.33 | France |
 | 1.20 | 6 | 5.00 | Poland |
-| 1.06 | 5 | 4.73 | Switzerland |
-| 0.90 | 2 | 2.23 | Israel |
-| 0.83 | 1 | 1.21 | Slovenia |
+| 1.06 | 5 | 4.74 | Switzerland |
+| 0.89 | 2 | 2.24 | Israel |
+| 0.82 | 1 | 1.21 | Slovenia |
 | 0.80 | 1 | 1.25 | Republic of Korea |
 | 0.77 | 6 | 7.82 | United Arab Emirates |
-| 0.76 | 12 | 15.73 | Italy |
+| 0.76 | 12 | 15.74 | Italy |
 | 0.71 | 10 | 14.03 | Spain |
-| 0.67 | 1 | 1.49 | Kenya |
+| 0.67 | 1 | 1.50 | Kenya |
 | 0.59 | 4 | 6.75 | Finland |
-| 0.50 | 1 | 2.01 | Romania |
+| 0.50 | 1 | 2.02 | Romania |
 | 0.41 | 3 | 7.36 | Russia |
 | 0.40 | 4 | 9.97 | Netherlands |
 | 0.38 | 2 | 5.31 | India |
-| 0.37 | 2 | 5.40 | Multiple Countries (World) |
-| 0.32 | 1 | 3.12 | Jordan |
+| 0.37 | 2 | 5.41 | Multiple Countries (World) |
+| 0.32 | 1 | 3.13 | Jordan |
 | 0.32 | 5 | 15.70 | Belgium |
 | 0.32 | 2 | 6.29 | Ukraine |
 | 0.31 | 1 | 3.24 | New Zealand |
 | 0.23 | 4 | 17.48 | Canada |
 | 0.21 | 2 | 9.74 | Singapore |
-| 0.20 | 2 | 9.94 | South Africa |
-| 0.19 | 2 | 10.73 | Philippines |
-| 0.18 | 1 | 5.63 | Multiple Countries (Europe) |
+| 0.20 | 2 | 9.95 | South Africa |
+| 0.19 | 2 | 10.74 | Philippines |
+| 0.18 | 1 | 5.64 | Multiple Countries (Europe) |
 | 0.13 | 2 | 15.32 | Czech Republic |
 
 
