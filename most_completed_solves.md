@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 
 ### Competition
@@ -60,7 +60,7 @@
 | Ireland | **152564** | 159928 |
 | United Kingdom | **16559** | 17376 |
 | Spain | **2037** | 2104 |
-| United States | **1621** | 1704 |
+| United States | **1642** | 1728 |
 | Germany | **1529** | 1581 |
 | France | **643** | 662 |
 | Austria | **583** | 615 |
@@ -70,7 +70,7 @@
 | Slovakia | **217** | 221 |
 | Switzerland | **206** | 207 |
 | Belgium | **182** | 191 |
-| Poland | **155** | 168 |
+| Poland | **169** | 187 |
 | Czech Republic | **154** | 155 |
 | Norway | **136** | 152 |
 | Hungary | **128** | 131 |
@@ -82,8 +82,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **176495** | 184958 |
-| North America | **1689** | 1776 |
+| Europe | **176509** | 184977 |
+| North America | **1710** | 1800 |
 | Oceania | **423** | 450 |
 | Asia | **297** | 307 |
 | Africa | **73** | 75 |
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2024 | **62894** | 66182 |
+| 2024 | **62929** | 66225 |
 | 2023 | **61937** | 64752 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
@@ -116,24 +116,24 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **46860** | 47859 |
+| 3x3x3 Cube | **46865** | 47864 |
 | 2x2x2 Cube | **32599** | 33526 |
 | Pyraminx | **23983** | 24587 |
-| Skewb | **19331** | 19822 |
-| 4x4x4 Cube | **15020** | 15576 |
-| 3x3x3 One-Handed | **10597** | 11064 |
+| Skewb | **19333** | 19824 |
+| 4x4x4 Cube | **15022** | 15578 |
+| 3x3x3 One-Handed | **10598** | 11066 |
 | 5x5x5 Cube | **8548** | 8900 |
-| Clock | **7397** | 8644 |
-| Megaminx | **5537** | 5926 |
+| Clock | **7402** | 8649 |
+| Megaminx | **5547** | 5936 |
 | Square-1 | **4647** | 4961 |
-| 6x6x6 Cube | **1815** | 1892 |
-| 7x7x7 Cube | **1313** | 1409 |
-| 3x3x3 Blindfolded | **696** | 2095 |
+| 6x6x6 Cube | **1818** | 1895 |
+| 7x7x7 Cube | **1316** | 1412 |
+| 3x3x3 Blindfolded | **699** | 2101 |
 | 3x3x3 Fewest Moves | **301** | 512 |
-| 3x3x3 Multi-Blind | **156** | 245 |
+| 3x3x3 Multi-Blind | **157** | 247 |
 | 3x3x3 With Feet | **69** | 76 |
 | Magic | **56** | 65 |
-| 4x4x4 Blindfolded | **43** | 299 |
+| 4x4x4 Blindfolded | **43** | 302 |
 | Master Magic | **34** | 35 |
 | 5x5x5 Blindfolded | **9** | 112 |
 

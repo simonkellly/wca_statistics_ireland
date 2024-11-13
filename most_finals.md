@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -23,8 +23,8 @@
 | 153 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 147 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 133 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
+| 129 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 128 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
-| 127 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 122 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 120 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 112 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
@@ -50,12 +50,12 @@
 | 72 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 72 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
 | 72 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
+| 70 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 67 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 67 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 66 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
-| 65 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
-| 65 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
 | 65 | [Charles Mac Alister](https://www.worldcubeassociation.org/persons/2022ALIS02) |
+| 65 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
 | 64 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 63 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 62 | [Leon Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |

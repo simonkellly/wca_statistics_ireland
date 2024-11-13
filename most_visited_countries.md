@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -12,12 +12,12 @@
 | 5 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 5 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 5 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
-| 4 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
+| 5 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 4 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 4 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
 | 4 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 4 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
-| 4 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
-| 4 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
+| 4 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 4 | [Aidan Murdock Glynn](https://www.worldcubeassociation.org/persons/2022GLYN02) |
 | 4 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 4 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |

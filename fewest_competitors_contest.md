@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -122,6 +122,7 @@
 | 1 | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) |
 | 1 | [German Open 2019](https://www.worldcubeassociation.org/competitions/GermanOpen2019) |
 | 1 | [German Nationals 2010](https://www.worldcubeassociation.org/competitions/Germany2010) |
+| 1 | [Get the Average TN 2024](https://www.worldcubeassociation.org/competitions/GettheAverageTN2024) |
 | 1 | [Gijzegem Open 2022](https://www.worldcubeassociation.org/competitions/GijzegemOpen2022) |
 | 1 | [Glasgow Autumn 2023](https://www.worldcubeassociation.org/competitions/GlasgowAutumn2023) |
 | 1 | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) |
@@ -212,6 +213,7 @@
 | 1 | [Phoenix Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/PhoenixCubeChallenge2022) |
 | 1 | [PIB Itaim Open 2024](https://www.worldcubeassociation.org/competitions/PIBItaimOpen2024) |
 | 1 | [Pikkujoulut 2018](https://www.worldcubeassociation.org/competitions/Pikkujoulut2018) |
+| 1 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 1 | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024) |
 | 1 | [Portugalete Open 2023](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2023) |
 | 1 | [Providence Fall 2019](https://www.worldcubeassociation.org/competitions/ProvidenceFall2019) |

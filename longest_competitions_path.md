@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 | Person | Distance |
 | :--- | ---: |
@@ -11,14 +11,14 @@
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 32 711 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 25 020 km |
 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 21 946 km |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 19 330 km |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 19 695 km |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 18 603 km |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 18 380 km |
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 18 080 km |
 | [Adon Ajo](https://www.worldcubeassociation.org/persons/2023AJOA01) | 16 711 km |
 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | 16 249 km |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 16 071 km |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 15 521 km |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 14 545 km |
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 14 505 km |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | 12 539 km |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 12 245 km |

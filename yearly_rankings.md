@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 
 ### Rubik's Cube - Single
@@ -208,7 +208,7 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:00.55** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:05.08, 1:02.81, 53.77 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:03.75** | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 49.77, 1:21.52, 59.95 |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | **1:05.60** | Ireland | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 1:29.69, 54.98, 52.12 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1:07.72** | Ireland | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) | 59.18, 1:22.74, 1:01.23 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1:07.43** | Ireland | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) | 1:04.49, 1:22.02, 55.78 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1:11.22** | Ireland | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 1:17.40, 1:14.28, 1:01.99 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1:18.15** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:16.59, 1:16.69, 1:21.18 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:21.68** | Mongolia | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:36.28, 1:07.54, 1:21.22 |
@@ -285,7 +285,7 @@
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **44.85** | Ireland | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) | 58.95, 51.56, DNF, 52.66, 44.85 |
 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **46.72** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 58.04, 46.72, 54.81, 1:05.22, 55.87 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **47.01** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 48.35, 1:02.65, 49.22, 47.01, 59.78 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **49.32** | Ireland | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) | 1:03.02, 1:00.18, 1:02.58, 58.42, 49.32 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **48.83** | Ireland | [Get the Average TN 2024](https://www.worldcubeassociation.org/competitions/GettheAverageTN2024) | 1:05.85, 48.83, 1:04.03, 1:02.61, 1:09.02 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **49.34** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 1:10.43, 56.90, 1:02.84, 52.52, 49.34 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **49.99** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 57.34, 1:05.10, 54.76, 59.37, 49.99 |
 

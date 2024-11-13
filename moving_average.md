@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 
 ### Rubik's Cube
@@ -363,7 +363,7 @@
 | 58.89 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 1:02.65 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 1:03.01 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
-| 1:04.26 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 1:04.13 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 1:06.80 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 1:08.35 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 1:08.58 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
@@ -487,9 +487,9 @@
 | 8.70 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 8.84 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 8.87 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 8.93 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 9.07 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 9.09 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 9.16 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 9.24 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 9.25 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 9.25 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |

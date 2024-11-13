@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 
 ### Rubik's Cube
@@ -150,8 +150,8 @@
 | 4 | 1:41.67 |
 | 4 | 1:10.78 |
 | 4 | 1:18.40 |
+| 4 | 48.88 |
 | 4 | 1:38.95 |
-| 4 | 1:41.20 |
 
 ### Pyraminx
 
