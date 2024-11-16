@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 November 2024*
+*Updated on 16 November 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -92,7 +92,6 @@
 | 1 | [Edinburgh Open 2013](https://www.worldcubeassociation.org/competitions/EdinburghOpen2013) |
 | 1 | [Edinburgh Spring 2023](https://www.worldcubeassociation.org/competitions/EdinburghSpring2023) |
 | 1 | [Edinburgh Winter 2024](https://www.worldcubeassociation.org/competitions/EdinburghWinter2024) |
-| 1 | [Egypt Winter 2024](https://www.worldcubeassociation.org/competitions/EgyptWinter2024) |
 | 1 | [Emirates Open 2017](https://www.worldcubeassociation.org/competitions/EmiratesOpen2017) |
 | 1 | [Essex Winter 2022](https://www.worldcubeassociation.org/competitions/EssexWinter2022) |
 | 1 | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016) |

@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 13 November 2024*
+*Updated on 16 November 2024*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -45,12 +45,12 @@
 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | 4.86 | 22 | Ireland |
 | [Tuam Open Saturday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSaturday2022) | 4.85 | 55 | Ireland |
 | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) | 4.75 | 93 | Ireland |
-| [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) | 4.55 | 60 | Ireland |
+| [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) | 4.54 | 59 | Ireland |
 | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | 4.51 | 85 | Ireland |
 | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | 4.50 | 103 | Ireland |
 | [Turnin' in Termonfeckin Sat 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSat2023) | 4.49 | 74 | Ireland |
 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) | 4.35 | 48 | Ireland |
-| [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023) | 4.31 | 68 | Ireland |
+| [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023) | 4.33 | 67 | Ireland |
 | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) | 4.26 | 69 | Ireland |
 | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022) | 4.15 | 41 | Ireland |
 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) | 4.11 | 71 | Ireland |
