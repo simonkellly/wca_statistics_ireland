@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 November 2024*
+*Updated on 19 November 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -172,7 +172,6 @@
 | 1 | [Marathon Open 2017](https://www.worldcubeassociation.org/competitions/MarathonOpen2017) |
 | 1 | [Marikina City 2 Open 2014](https://www.worldcubeassociation.org/competitions/MarikinaCity2014) |
 | 1 | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |
-| 1 | [MarsdeNxN 2024](https://www.worldcubeassociation.org/competitions/MarsdeNxN2024) |
 | 1 | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) |
 | 1 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) |
 | 1 | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023) |
@@ -286,6 +285,7 @@
 | 1 | [Welsh Open 2018](https://www.worldcubeassociation.org/competitions/WelshOpen2018) |
 | 1 | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012) |
 | 1 | [Weston-super-Mare Autumn 2023](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2023) |
+| 1 | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024) |
 | 1 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) |
 | 1 | [West Side Cube Clash 2023](https://www.worldcubeassociation.org/competitions/WestSideCubeClash2023) |
 | 1 | [Wiltshire Autumn 2023](https://www.worldcubeassociation.org/competitions/WiltshireAutumn2023) |

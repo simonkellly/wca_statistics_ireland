@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 November 2024*
+*Updated on 19 November 2024*
 
 
 ### Rubik's Cube
@@ -47,7 +47,7 @@
 | 0.57 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 31.53 | 32.10 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2012BEAH01) |
 | 0.64 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.33 | 23.97 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
 | 0.65 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 37.24 | 37.89 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2018GRYT01) |
-| 0.66 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 48.46 | 49.12 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024/results/by_person#2021BURK03) |
+| 0.65 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 38.16 | 38.81 | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/by_person#2012YUTA01) |
 
 ### 5x5x5 Cube
 
@@ -100,6 +100,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.11 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 1:12.09 | 1:12.20 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2020BERM02) |
 | 1.02 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 36.55 | 37.57 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2018MCCA02) |
+| 1.27 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 2:18.63 | 2:19.90 | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2019BURK05) |
 | 1.56 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1:16.59 | 1:18.15 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2021DOHE02) |
 | 3.11 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1:41.34 | 1:44.45 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021LOFT01) |
 | 3.29 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 1:12.41 | 1:15.70 | [Glasgow Summer - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowSummerSBO2024/results/by_person#2019MCCA09) |
@@ -107,7 +108,6 @@
 | 3.49 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 1:52.72 | 1:56.21 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024/results/by_person#2020BERM02) |
 | 3.76 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 34.40 | 38.16 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2018MCCA02) |
 | 6.07 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 31.92 | 37.99 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2018MCCA02) |
-| 6.25 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 1:14.43 | 1:20.68 | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/by_person#2019CARE02) |
 
 ### 3x3x3 One-Handed
 

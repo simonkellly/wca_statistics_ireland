@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 November 2024*
+*Updated on 19 November 2024*
 
 
 ### Rubik's Cube
@@ -10,13 +10,13 @@
 | ---: | :--- | :--- |
 | 6.86 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.75, 7.39, 6.28, 7.02, 7.24, 6.10, 8.12, 7.72, 6.52, 7.03, 6.31, 6.31 |
 | 7.01 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 6.54, 6.58, 6.60, 7.00, 8.83, 7.21, 7.34, 8.01, 7.37, 6.97, 6.31, 6.43 |
-| 7.30 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 6.69, 7.37, 7.55, 7.75, 7.85, 6.74, 8.13, 7.16, 7.15, 5.59, 10.18, 6.62 |
+| 7.15 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 6.20, 6.56, 6.62, 8.96, 7.01, 7.92, 7.15, 8.16, 7.86, 7.47, 6.26, 6.44 |
 
 ### 4x4x4 Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 23.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.33, 25.37, 27.86, 25.06, 23.83, 23.80, 22.99, 21.14, 24.71, 23.44, 23.61, 23.85 |
+| 23.51 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.25, 24.16, 23.23, 23.70, 23.98, 22.83, 23.59, 23.70, 29.92, 20.44, 26.48, 22.19 |
 | 28.41 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 27.94, 24.86, 26.70, 32.17, 24.71, 27.99, 27.27, 32.90, 27.12, 29.80, 31.24, 28.98 |
 
 ### 5x5x5 Cube
@@ -24,7 +24,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 41.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 41.30, 45.50, 43.18, 39.47, 42.79, 41.51, 39.18, 43.48, 43.39, 40.62, 39.95, 41.34 |
-| 54.66 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 50.38, 53.70, 57.15, 1:05.98, 48.98, 1:00.75, 58.00, 48.62, 53.16, 53.57, 53.51, 57.40 |
+| 52.13 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 52.89, 52.24, 56.79, 48.27, 44.71, 55.56, 50.98, 55.68, 47.78, 50.77, 54.52, 52.59 |
 
 ### 6x6x6 Cube
 
@@ -66,6 +66,7 @@
 | ---: | :--- | :--- |
 | 3.67 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.47, 3.49, 3.42, 3.74, 3.66, 3.60, DNF, 3.94, 3.61, 3.33, 4.06, 3.69 |
 | 4.23 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.27, 6.29, 3.19, 4.80, 5.34, 4.17, 3.89, 4.06, 3.65, DNF, 3.68, 3.11 |
+| 4.73 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | DNF, 4.39, 4.82, 4.19, 4.73, 4.08, 4.88, 4.08, 4.76, 4.98, 5.64, 4.79 |
 | 5.06 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 7.93, 5.93, 4.31, 4.03, 4.96, 4.71, DNF, 4.75, 3.80, 5.00, 4.07, 4.88 |
 
 ### Square-1

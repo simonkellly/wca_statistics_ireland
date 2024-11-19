@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 November 2024*
+*Updated on 19 November 2024*
 
 
 ### Rubik's Cube
@@ -10,7 +10,7 @@
 | ---: | :--- | :--- |
 | 6.39 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.54, 6.43, 8.28, 6.19, 6.03 |
 | 6.73 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 8.25, 6.54, 6.58, 6.60, 7.00 |
-| 6.94 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 6.41, 8.48, 7.20, 4.92, 7.20 |
+| 6.73 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 6.20, 6.56, 6.62, 8.96, 7.01 |
 
 ### 4x4x4 Cube
 
@@ -54,7 +54,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 11.00 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 11.20, 10.65, 11.53, 11.15, 10.15 |
+| 10.85 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 12.94, 10.70, 11.21, 10.65, 9.69 |
 
 ### Megaminx
 
@@ -79,6 +79,7 @@
 | 3.39 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.21, 3.68, 3.15, 8.15, 3.28 |
 | 3.71 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.92, 3.67, 6.45, 3.55, 3.27 |
 | 4.32 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 3.91, DNF, 3.39, 5.04, 4.02 |
+| 4.33 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 5.23, 3.75, 4.05, 4.57, 4.37 |
 
 ### Square-1
 
