@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -140,6 +140,7 @@
 | 1 | [Hessen Open 2024](https://www.worldcubeassociation.org/competitions/HessenOpen2024) |
 | 1 | [Hobart Open 2019](https://www.worldcubeassociation.org/competitions/HobartOpen2019) |
 | 1 | [Honey Cube Barcin 2024](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2024) |
+| 1 | [Hong Kong Championship 2024](https://www.worldcubeassociation.org/competitions/HongKongChampionship2024) |
 | 1 | [Hungarian All-Rounder 5 2024](https://www.worldcubeassociation.org/competitions/HungarianAllRounder52024) |
 | 1 | [Hungarian Open 2023](https://www.worldcubeassociation.org/competitions/HungarianOpen2023) |
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
@@ -256,6 +257,7 @@
 | 1 | [Sunmarke Dubai Open 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2017) |
 | 1 | [Sunmarke Dubai Open II 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpenII2017) |
 | 1 | [Swisscubing Cup III 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2022) |
+| 1 | [Sydney Spring Saturday 2024](https://www.worldcubeassociation.org/competitions/SydneySpringSaturday2024) |
 | 1 | [Tallinn Spring 2024](https://www.worldcubeassociation.org/competitions/TallinnSpring2024) |
 | 1 | [Tapiola Winter Open 2018](https://www.worldcubeassociation.org/competitions/TapiolaWinterOpen2018) |
 | 1 | [That's Odd Trondheim 2022](https://www.worldcubeassociation.org/competitions/ThatsOddTrondheim2022) |
