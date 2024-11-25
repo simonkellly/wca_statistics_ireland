@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 
 ### Rubik's Cube - Single
@@ -219,30 +219,30 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **20** | Ukraine | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | DNF, 23, 20 |
-| [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | **27** | Ireland | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 27, DNF, DNF |
+| [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | **25** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 25, 30, 28 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **27** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 31, 27, 27 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **27** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 27, 43, 41 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **29** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | DNF, 29, 37 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **28** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 39, 38, 28 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **32** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 40, 32, 36 |
-| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **34** | Ireland | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 34, 40, 37 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **34** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 48, 34, 46 |
-| [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **35** | Ireland | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 35, DNF, 38 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **35** | Ireland | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | DNF, DNF, 35 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **32** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 38, 37, 32 |
+| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **33** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 33, 41, 38 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **33** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 39, 33, 41 |
+| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **33** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | DNF, 37, 33 |
 
 ### 3x3x3 Fewest Moves - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **24.33** | Ukraine | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 24, 25, 24 |
+| [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | **27.67** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 25, 30, 28 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **28.33** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 31, 27, 27 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **34.00** | Ireland | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) | 34, 37, 31 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **36.00** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 40, 32, 36 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **34.67** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 35, 35, 34 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **35.67** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 38, 37, 32 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **37.00** | Ireland | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 34, 40, 37 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **37.00** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 27, 43, 41 |
-| [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **38.00** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 39, 38, 37 |
-| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **39.67** | Ireland | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 40, 40, 39 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **40.00** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 42, 37, 41 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **41.00** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 41, 46, 36 |
-| [Jamie Blennerhassett](https://www.worldcubeassociation.org/persons/2022BLEN01) | **41.00** | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 38, 48, 37 |
+| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **37.33** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 33, 41, 38 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **37.67** | Ireland | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 39, 33, 41 |
 
 ### 3x3x3 One-Handed - Single
 

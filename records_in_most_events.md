@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 
 ### World
@@ -24,10 +24,10 @@
 | 0 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) |  |
 | 0 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |  |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |  |
+| 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |  |
 | 0 | [Seán Mooney](https://www.worldcubeassociation.org/persons/2015MOON02) |  |
 | 0 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) |  |
 | 0 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |  |
-| 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |  |
 
 ### Continental
 
@@ -49,10 +49,10 @@
 | 0 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) |  |
 | 0 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |  |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |  |
+| 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |  |
 | 0 | [Seán Mooney](https://www.worldcubeassociation.org/persons/2015MOON02) |  |
 | 0 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) |  |
 | 0 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |  |
-| 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |  |
 
 ### National
 

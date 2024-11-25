@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 
 ### Rubik's Cube
@@ -113,16 +113,16 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 24 | **24.33** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 19 |
+| [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | 25 | **27.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 34 |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 28 | **32.00** | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020/results/all#e333fm_f) | 6 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 31 | **34.00** | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024/results/all#e333fm_f) | 18 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 28 | **34.67** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e333fm_f) | 63 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 34 | **34.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 68 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 28 | **35.00** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 70 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 32 | **35.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 74 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 34 | **37.00** | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/all#e333fm_f) | 4 |
-| [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 37 | **38.00** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 4 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 35 | **39.00** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e333fm_f) | 104 |
-| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 39 | **39.67** | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/all#e333fm_f) | 5 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 37 | **40.00** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 5 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 36 | **41.00** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 6 |
-| [Jamie Blennerhassett](https://www.worldcubeassociation.org/persons/2022BLEN01) | 37 | **41.00** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) | 7 |
+| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 33 | **37.33** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 84 |
 
 ### 3x3x3 One-Handed
 

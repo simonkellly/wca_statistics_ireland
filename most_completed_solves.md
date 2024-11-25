@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 
 ### Competition
@@ -32,25 +32,25 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7774** | 7944 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3068** | 3223 |
-| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **2746** | 3042 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **2688** | 2746 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2658** | 2795 |
-| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2610** | 2737 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2524** | 2663 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2437** | 2490 |
-| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2346** | 2476 |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **2075** | 2195 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2047** | 2096 |
-| [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | **2007** | 2066 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1998** | 2142 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1904** | 2015 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **7777** | 7947 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3071** | 3226 |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **2747** | 3045 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **2690** | 2749 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2661** | 2798 |
+| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2612** | 2740 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2524** | 2666 |
+| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2440** | 2493 |
+| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2349** | 2479 |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **2078** | 2198 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2047** | 2099 |
+| [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | **2009** | 2069 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1999** | 2145 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1907** | 2018 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1750** | 1834 |
 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **1701** | 1803 |
-| [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1659** | 1777 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1624** | 1701 |
-| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **1498** | 1628 |
+| [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1662** | 1780 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1627** | 1704 |
+| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **1501** | 1631 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **1467** | 1544 |
 
 ### Country
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **179182** | 187791 |
+| Europe | **179240** | 187868 |
 | North America | **1710** | 1800 |
 | Oceania | **406** | 433 |
 | Asia | **307** | 317 |
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2024 | **65544** | 68975 |
+| 2024 | **65602** | 69052 |
 | 2023 | **61953** | 64774 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
@@ -129,7 +129,7 @@
 | 6x6x6 Cube | **1861** | 1939 |
 | 7x7x7 Cube | **1348** | 1448 |
 | 3x3x3 Blindfolded | **706** | 2129 |
-| 3x3x3 Fewest Moves | **301** | 512 |
+| 3x3x3 Fewest Moves | **359** | 589 |
 | 3x3x3 Multi-Blind | **157** | 247 |
 | 3x3x3 With Feet | **69** | 76 |
 | Magic | **56** | 65 |
