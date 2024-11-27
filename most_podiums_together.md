@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 25 November 2024*
+*Updated on 26 November 2024*
 
 
 ### Pairs
