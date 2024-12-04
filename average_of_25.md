@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### Rubik's Cube
@@ -67,6 +67,12 @@
 | 3.86 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.38, 3.53, 4.66, DNF, 4.21, 3.46, 3.55, 4.54, 3.47, 3.49, 3.42, 3.74, 3.66, 3.60, DNF, 3.94, 3.61, 3.33, 4.06, 3.69, 5.47, 4.66, 3.21, 3.68, 3.15 |
 | 4.48 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.83, 5.27, 4.13, DNF, 4.06, 4.82, 4.15, 4.40, 6.60, 3.92, 3.67, 6.45, 3.55, 3.27, 6.29, 3.19, 4.80, 5.34, 4.17, 3.89, 4.06, 3.65, DNF, 3.68, 3.11 |
 | 5.50 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 5.28, 4.51, 5.76, 4.85, 7.71, 3.91, 9.08, 5.33, 5.92, 3.42, DNF, 6.57, 6.09, 7.93, 5.93, 4.31, 4.03, 4.96, 4.71, DNF, 4.75, 3.80, 5.00, 4.07, 4.88 |
+
+### Skewb
+
+| Ao25 | Person | Times |
+| ---: | :--- | :--- |
+| 3.11 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 2.71, 1.84, 3.98, 2.50, 2.35, 2.82, 2.50, 3.57, 2.15, 5.21, 3.56, 2.15, 2.93, 2.18, 4.51, 6.72, 3.45, 3.56, 2.87, 4.87, 4.57, 2.98, 2.98, 2.13, 2.13 |
 
 ### Square-1
 

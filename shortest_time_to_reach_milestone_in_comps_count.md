@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### 100 Competitions
@@ -26,6 +26,7 @@
 | 736 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 818 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 819 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
+| 834 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) |
 | 882 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 903 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 919 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
@@ -40,7 +41,6 @@
 | 1828 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 1870 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
 | 1919 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
-| 1933 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 
 ### 10 Competitions
 
@@ -53,6 +53,7 @@
 | 287 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 288 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 309 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) |
+| 309 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) |
 | 322 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 323 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) |
 | 324 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
@@ -65,7 +66,6 @@
 | 365 | [Aran Mitchell](https://www.worldcubeassociation.org/persons/2023MITC04) |
 | 365 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 365 | [Liam Pike](https://www.worldcubeassociation.org/persons/2023PIKE03) |
-| 365 | [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) |
 
 ### 5 Competitions
 

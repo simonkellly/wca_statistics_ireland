@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -26,6 +26,7 @@
 | 5 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | Ireland | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) |
 | 5 | [Rudy Faye](https://www.worldcubeassociation.org/persons/2015FAYE01) | Ireland | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |
 | 5 | [Mikey Whelan](https://www.worldcubeassociation.org/persons/2015WHEL02) | Ireland | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |
+| 5 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |  |
 | 5 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | Ireland | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |
 | 5 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | Ireland | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |
 | 5 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | Ireland | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |
@@ -50,7 +51,6 @@
 | 5 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | Ireland | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) |
 | 5 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | Ireland | [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) |
 | 5 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | Ireland | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |
-| 4 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | Ireland | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) |
 | 4 | [Eoin Carolan](https://www.worldcubeassociation.org/persons/2016CARO03) | Ireland | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |
 | 4 | [Alex Cullen](https://www.worldcubeassociation.org/persons/2016CULL02) | Ireland | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |
 | 4 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) | Ireland | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |
@@ -99,7 +99,7 @@
 | 3 | [Darragh Boylan](https://www.worldcubeassociation.org/persons/2019BOYL03) | Ireland | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |
 | 3 | [Eoin Ryan-Preston](https://www.worldcubeassociation.org/persons/2019RYAN03) | Ireland | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |
 | 3 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | Ireland | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |
-| 3 | [Daithi O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | Ireland | [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022) | [Tuam Open Saturday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSaturday2022) |
+| 3 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | Ireland | [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022) | [Tuam Open Saturday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSaturday2022) |
 | 3 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | Ireland | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) |
 | 3 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | Ireland | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) |
 | 3 | [Clara O'Brien](https://www.worldcubeassociation.org/persons/2021OBRI04) | Ireland | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023) |

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### Rubik's Cube
@@ -69,6 +69,7 @@
 | First average | Person |
 | ---: | :--- |
 | 2:00.38 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
+| 2:29.03 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 2:35.26 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 2:38.66 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 2:44.77 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
@@ -77,7 +78,6 @@
 | 3:05.05 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 3:06.06 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 3:07.68 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 3:11.40 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 
 ### 7x7x7 Cube
 

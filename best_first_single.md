@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### Rubik's Cube
@@ -69,6 +69,7 @@
 | First single | Person |
 | ---: | :--- |
 | 2:07.55 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
+| 2:16.76 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 2:38.87 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 2:39.99 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 2:40.93 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
@@ -77,7 +78,6 @@
 | 3:01.31 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 3:05.30 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 3:06.30 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 3:11.85 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 
 ### 7x7x7 Cube
 

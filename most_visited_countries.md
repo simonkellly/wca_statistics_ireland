@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -86,7 +86,7 @@
 | 2 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 2 | [Thea Hanna-Agnew](https://www.worldcubeassociation.org/persons/2022HANN08) |
 | 2 | [Sebastian Bunting](https://www.worldcubeassociation.org/persons/2022BUNT04) |
-| 2 | [Daithi O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
+| 2 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 2 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |
 | 2 | [Cian Ruane](https://www.worldcubeassociation.org/persons/2013RUAN01) |
 | 2 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) |

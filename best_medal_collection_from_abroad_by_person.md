@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **158** | 66 | 36 | 260 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **14** | 7 | 13 | 34 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **13** | 21 | 27 | 61 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **13** | 21 | 28 | 62 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **2** | 9 | 9 | 20 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2** | 1 | 5 | 8 |
@@ -23,10 +23,10 @@
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **0** | 2 | 0 | 2 |
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **0** | 1 | 7 | 8 |
+| [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **0** | 1 | 4 | 5 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | **0** | 1 | 2 | 3 |
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 0 | 1 |
 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) | **0** | 1 | 0 | 1 |
-| [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **0** | 0 | 3 | 3 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **0** | 0 | 3 | 3 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **0** | 0 | 2 | 2 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **0** | 0 | 2 | 2 |
