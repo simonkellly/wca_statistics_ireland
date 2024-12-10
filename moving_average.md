@@ -7,14 +7,14 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube
 
 | Moving average | Person |
 | ---: | :--- |
-| 7.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 7.27 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 7.61 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 7.81 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 7.86 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
@@ -124,7 +124,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 24.53 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 25.30 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 30.12 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 35.46 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 35.64 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
@@ -179,7 +179,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 43.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 43.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 55.22 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 55.76 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 1:05.58 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
@@ -360,8 +360,8 @@
 | 42.11 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 43.87 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 46.27 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
-| 57.64 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 58.68 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
+| 58.75 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 58.89 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 1:02.65 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 1:04.13 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |

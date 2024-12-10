@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -9,7 +9,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **4.92** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 6.41, 8.48, 7.20, 4.92, 7.20 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **5.42** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 7.60, 5.42, 8.07, 5.87, 9.24 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **5.40** | Ireland | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 5.40, 6.36, 8.29, 7.99, 8.12 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **5.42** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 7.76, 7.94, 7.35, 5.42, 6.88 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **5.60** | Ireland | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | 7.87, 8.56, 5.60, 11.18, 10.84 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **5.78** | Ireland | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) | 8.90, 9.57, 9.85, 5.78, 8.56 |
