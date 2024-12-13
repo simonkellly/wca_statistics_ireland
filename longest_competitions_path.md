@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 | Person | Distance |
 | :--- | ---: |
@@ -256,6 +256,7 @@
 | [Aidan McDonagh](https://www.worldcubeassociation.org/persons/2022MCDO04) | 588 km |
 | [Tommy Roulston](https://www.worldcubeassociation.org/persons/2023ROUL01) | 584 km |
 | [Charlie McCormack](https://www.worldcubeassociation.org/persons/2022MCCO08) | 581 km |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 581 km |
 | [Noah Duffy](https://www.worldcubeassociation.org/persons/2024DUFF01) | 581 km |
 | [Seth Blackman](https://www.worldcubeassociation.org/persons/2022BLAC03) | 578 km |
 | [Oliver Schuch](https://www.worldcubeassociation.org/persons/2021SCHU02) | 577 km |
@@ -276,7 +277,6 @@
 | [Rhys Friel](https://www.worldcubeassociation.org/persons/2022FRIE06) | 524 km |
 | [Asad Adil Butt](https://www.worldcubeassociation.org/persons/2019BUTT01) | 520 km |
 | [Maia Green](https://www.worldcubeassociation.org/persons/2022GREE13) | 520 km |
-| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 518 km |
 | [Thea Hanna-Agnew](https://www.worldcubeassociation.org/persons/2022HANN08) | 517 km |
 | [Liam O’Neill](https://www.worldcubeassociation.org/persons/2022ONEI07) | 503 km |
 | [Connall Rodgers](https://www.worldcubeassociation.org/persons/2024RODG02) | 499 km |

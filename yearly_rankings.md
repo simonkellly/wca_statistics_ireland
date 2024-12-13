@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -282,7 +282,7 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **32.32** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 37.57, 32.32, 43.78, 34.92, 43.85 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **33.64** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 51.02, 33.64, 42.88, 42.46, 40.50 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **36.80** | Ireland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 45.86, 36.80, 44.57, 44.90, 48.88 |
-| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **44.85** | Ireland | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) | 58.95, 51.56, DNF, 52.66, 44.85 |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **43.55** | Ireland | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024) | 43.55, 57.52, 48.22, 55.72, 48.39 |
 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **46.72** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 58.04, 46.72, 54.81, 1:05.22, 55.87 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **47.01** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 48.35, 1:02.65, 49.22, 47.01, 59.78 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **48.83** | Ireland | [Get the Average TN 2024](https://www.worldcubeassociation.org/competitions/GettheAverageTN2024) | 1:05.85, 48.83, 1:04.03, 1:02.61, 1:09.02 |
@@ -297,8 +297,8 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **37.38** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 35.07, 43.41, 40.76, 34.71, 36.30 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **38.46** | Ireland | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 38.92, 37.31, 39.16, 36.86, 39.19 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **44.40** | Ireland | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 45.39, 49.69, 43.31, 43.36, 44.44 |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **49.92** | Ireland | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024) | 46.16, 47.75, 49.38, 52.62, 59.19 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **52.45** | Ireland | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 48.35, 1:02.65, 49.22, 47.01, 59.78 |
-| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **54.39** | Ireland | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) | 58.95, 51.56, DNF, 52.66, 44.85 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **54.53** | Ireland | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024) | 52.45, 58.63, 51.55, 56.22, 54.93 |
 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **54.69** | Ireland | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | 1:01.42, 50.01, 54.72, 54.08, 55.28 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **55.11** | Ireland | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | 1:09.50, 55.77, 52.16, 54.53, 55.04 |

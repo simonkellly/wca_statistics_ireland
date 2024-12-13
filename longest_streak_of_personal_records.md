@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -69,6 +69,7 @@
 | 13 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) |
 | 13 | [Clara O'Brien](https://www.worldcubeassociation.org/persons/2021OBRI04) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |  |
 | 13 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) |
+| 13 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |  |
 | 13 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |  |
 | 13 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 12 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |  |
@@ -78,7 +79,6 @@
 | 12 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | [Swisscubing Cup III 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2022) | [Muggiò & Chill Open 2023](https://www.worldcubeassociation.org/competitions/MuggioChillOpen2023) |
 | 12 | [Cormac Coffey](https://www.worldcubeassociation.org/persons/2022COFF01) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |  |
 | 12 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) |
-| 12 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |  |
 | 12 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
 | 12 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
 | 12 | [Charles Mac Alister](https://www.worldcubeassociation.org/persons/2022ALIS02) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) |  |

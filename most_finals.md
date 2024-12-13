@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -85,12 +85,12 @@
 | 42 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) |
 | 42 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) |
 | 42 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) |
+| 41 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 39 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
 | 39 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) |
 | 39 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
 | 38 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) |
-| 38 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 38 | [Clara O'Brien](https://www.worldcubeassociation.org/persons/2021OBRI04) |
 | 38 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) |
 | 37 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |

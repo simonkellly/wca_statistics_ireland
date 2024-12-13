@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 
 ### Rubik's Cube
@@ -148,11 +148,11 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 41.04 | **46.29** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 7 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 39.99 | **47.36** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 9 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 43.13 | **48.13** | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/all#eminx_c) | 4 |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 43.55 | **50.78** | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024/results/all#eminx_c) | 4 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 47.01 | **52.45** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 12 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 44.85 | **54.39** | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024/results/all#eminx_f) | 9 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 51.55 | **54.53** | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024/results/all#eminx_f) | 10 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 53.37 | **54.65** | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/all#eminx_c) | 4 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 50.91 | **55.49** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#eminx_c) | 6 |
 
 ### Pyraminx
 
