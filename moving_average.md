@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -58,12 +58,12 @@
 | 11.87 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) |
 | 11.99 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 12.01 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) |
+| 12.08 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 12.12 | [Conor O'Loughlin](https://www.worldcubeassociation.org/persons/2018OLOU01) |
 | 12.16 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
 | 12.25 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) |
 | 12.26 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 12.30 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) |
-| 12.30 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 
 ### 2x2x2 Cube
 
@@ -80,10 +80,10 @@
 | 3.26 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 3.27 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 3.29 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
-| 3.41 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 3.43 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 3.46 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 3.51 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 3.54 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 3.56 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) |
 | 3.56 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) |
 | 3.62 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
@@ -158,10 +158,10 @@
 | 48.49 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 48.62 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 48.92 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
+| 49.97 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 50.04 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 50.07 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 50.74 | [Andy Lee Mitchell](https://www.worldcubeassociation.org/persons/2017MITC05) |
-| 50.86 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 50.87 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
 | 50.97 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 51.10 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
@@ -434,10 +434,10 @@
 | 5.35 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) |
 | 5.36 | [Luke Daniel Savage](https://www.worldcubeassociation.org/persons/2022SAVA01) |
 | 5.45 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
-| 5.46 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 5.47 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) |
 | 5.52 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
 | 5.62 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
+| 5.72 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 5.73 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 5.77 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 5.83 | [Charlie Maxwell](https://www.worldcubeassociation.org/persons/2022MAXW02) |
@@ -491,8 +491,8 @@
 | 8.64 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
 | 8.70 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 8.74 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
+| 8.74 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 8.87 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
-| 8.93 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 9.51 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 9.60 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 9.73 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |

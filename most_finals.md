@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -49,9 +49,9 @@
 | 81 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
 | 81 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 79 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
+| 73 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 72 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
 | 72 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
-| 70 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 68 | [Leon Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
 | 67 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 67 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |

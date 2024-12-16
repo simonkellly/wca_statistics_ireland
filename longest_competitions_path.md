@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Person | Distance |
 | :--- | ---: |
@@ -12,7 +12,7 @@
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 24 028 km |
 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 22 193 km |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 21 227 km |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 19 695 km |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 19 903 km |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 18 880 km |
 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | 16 249 km |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 16 071 km |
@@ -983,6 +983,7 @@
 | [Antek Smalec](https://www.worldcubeassociation.org/persons/2022SMAL02) | 0 km |
 | [Marc Eoin Villepreux](https://www.worldcubeassociation.org/persons/2022VILL14) | 0 km |
 | [Zhuoye Wu](https://www.worldcubeassociation.org/persons/2022WUZH02) | 0 km |
+| [Roxy Irvine](https://www.worldcubeassociation.org/persons/2022IRVI01) | 0 km |
 | [Cian Lynch](https://www.worldcubeassociation.org/persons/2022LYNC04) | 0 km |
 | [Richard Nwabueze](https://www.worldcubeassociation.org/persons/2022NWAB01) | 0 km |
 | [Charlie Ryan Smith](https://www.worldcubeassociation.org/persons/2022SMIT39) | 0 km |
@@ -990,7 +991,6 @@
 | [Jakub Budzynski](https://www.worldcubeassociation.org/persons/2022BUDZ03) | 0 km |
 | [Caoimhe Ní Chasarlaigh](https://www.worldcubeassociation.org/persons/2022CHAS05) | 0 km |
 | [Satvik Desai](https://www.worldcubeassociation.org/persons/2022DESA03) | 0 km |
-| [Roxy Irvine](https://www.worldcubeassociation.org/persons/2022IRVI01) | 0 km |
 | [Miles Baeyens](https://www.worldcubeassociation.org/persons/2022BAEY01) | 0 km |
 | [James Bond](https://www.worldcubeassociation.org/persons/2022BOND06) | 0 km |
 | [Roman Carters](https://www.worldcubeassociation.org/persons/2022CART06) | 0 km |

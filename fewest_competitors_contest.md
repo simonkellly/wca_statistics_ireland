@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -68,6 +68,7 @@
 | 1 | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024) |
 | 1 | [Sagrado Corazón Open 2023](https://www.worldcubeassociation.org/competitions/ColegioSagradoCorazondeJesus2023) |
 | 1 | [Connecticut Spring 2023](https://www.worldcubeassociation.org/competitions/ConnecticutSpring2023) |
+| 1 | [Coosa Cubing Clash 2024](https://www.worldcubeassociation.org/competitions/CoosaCubingClash2024) |
 | 1 | [Crystal Open 2018](https://www.worldcubeassociation.org/competitions/CrystalOpen2018) |
 | 1 | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
 | 1 | [Cubing in Cambridge 2023](https://www.worldcubeassociation.org/competitions/CubinginCambridge2023) |
