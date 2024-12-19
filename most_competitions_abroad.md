@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -18,10 +18,10 @@
 | 13 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 13 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 13 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
-| 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
+| 12 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
+| 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
 | 11 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) |
-| 11 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 10 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 10 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) |
 | 9 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -227,6 +227,7 @@
 | 1 | [Rhein-Neckar Beginners 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarBeginners2024) |
 | 1 | [Rhein-Neckar Open 2019](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2019) |
 | 1 | [Rhein-Neckar Open A 2021](https://www.worldcubeassociation.org/competitions/RheinNeckarOpenA2021) |
+| 1 | [Rhein-Neckar Winter 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarWinter2024) |
 | 1 | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
 | 1 | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023) |
 | 1 | [Roskilde For Alle 2023](https://www.worldcubeassociation.org/competitions/RoskildeForAlle2023) |

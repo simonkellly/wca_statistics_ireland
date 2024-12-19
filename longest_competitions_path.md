@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | Person | Distance |
 | :--- | ---: |
@@ -182,12 +182,12 @@
 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) | 947 km |
 | [Rian McDermott](https://www.worldcubeassociation.org/persons/2024MCDE03) | 944 km |
 | [Charlie Maxwell](https://www.worldcubeassociation.org/persons/2022MAXW02) | 937 km |
+| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 935 km |
 | [Liam Daniel Rocha Oliveira](https://www.worldcubeassociation.org/persons/2022OLIV10) | 904 km |
 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) | 893 km |
 | [Mairéad Togher](https://www.worldcubeassociation.org/persons/2023TOGH01) | 893 km |
 | [Ronan Dempsey](https://www.worldcubeassociation.org/persons/2017DEMP01) | 886 km |
 | [Benas Navickas](https://www.worldcubeassociation.org/persons/2022NAVI03) | 876 km |
-| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 874 km |
 | [Charlie Osborne](https://www.worldcubeassociation.org/persons/2022OSBO02) | 873 km |
 | [Síobhradh Cunningham](https://www.worldcubeassociation.org/persons/2023CUNN04) | 869 km |
 | [Rose O'Neill](https://www.worldcubeassociation.org/persons/2022ONEI04) | 868 km |

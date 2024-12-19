@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 
 ### Rubik's Cube
@@ -105,9 +105,9 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **46.45** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 5 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **47.66** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 6 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **48.02** | 55.92 | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024/results/all#e333bf_f) | 6 |
+| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **49.98** | DNF | [Rhein-Neckar Winter 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarWinter2024/results/all#e333bf_f) | 4 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **53.19** | DNF | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024/results/all#e333bf_f) | 5 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **54.01** | DNF | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024/results/all#e333bf_f) | 5 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **54.48** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 7 |
 
 ### 3x3x3 Fewest Moves
 

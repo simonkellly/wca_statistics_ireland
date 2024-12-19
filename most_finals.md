@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -63,17 +63,17 @@
 | 63 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
 | 63 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
 | 63 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 62 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 61 | [Alex Kelly](https://www.worldcubeassociation.org/persons/2022KELL03) |
 | 61 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 60 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 59 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) |
-| 58 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
+| 58 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
 | 58 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 58 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) |
-| 58 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
+| 58 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 57 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |
 | 57 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
-| 57 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 57 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 55 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) |
 | 55 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |

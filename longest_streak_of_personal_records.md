@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -76,6 +76,7 @@
 | 12 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) |
 | 12 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
 | 12 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) |
+| 12 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | [Franconia Mini Open B 2022](https://www.worldcubeassociation.org/competitions/FranconiaMiniOpenB2022) |  |
 | 12 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | [Swisscubing Cup III 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2022) | [Muggiò & Chill Open 2023](https://www.worldcubeassociation.org/competitions/MuggioChillOpen2023) |
 | 12 | [Cormac Coffey](https://www.worldcubeassociation.org/persons/2022COFF01) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |  |
 | 12 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) |
@@ -88,7 +89,6 @@
 | 11 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 11 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |
 | 11 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |  |
-| 11 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | [Franconia Mini Open B 2022](https://www.worldcubeassociation.org/competitions/FranconiaMiniOpenB2022) |  |
 | 11 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022) | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) |
 | 11 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
 | 11 | [Rose O'Neill](https://www.worldcubeassociation.org/persons/2022ONEI04) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |  |
