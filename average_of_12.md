@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### Rubik's Cube
@@ -30,7 +30,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:17.53 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:16.33, 1:15.82, 1:22.73, 1:11.58, 1:19.78, 1:16.05, 1:13.27, 1:21.62, 1:10.58, 1:20.77, 1:21.41, 1:18.71 |
+| 1:16.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:16.67, 1:22.01, 1:15.74, 1:13.50, 1:19.91, 1:15.51, 1:16.27, 1:15.39, 1:16.90, 1:13.14, 1:12.01, 1:20.53 |
 
 ### 7x7x7 Cube
 

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -143,7 +143,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:16.31** | Ireland | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | 1:13.50, 1:19.91, 1:15.51 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:15.23** | Ireland | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024) | 1:13.14, 1:12.01, 1:20.53 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:46.70** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:58.24, 1:40.84, 1:41.03 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **1:53.11** | Ireland | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) | 1:51.97, 1:51.15, 1:56.20 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:54.23** | Ireland | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1:55.75, 1:45.01, 2:01.94 |

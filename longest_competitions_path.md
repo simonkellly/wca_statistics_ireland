@@ -1,11 +1,11 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Person | Distance |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 117 745 km |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 136 697 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 55 739 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 42 896 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 25 508 km |
@@ -692,11 +692,11 @@
 | [Kelvin Yau](https://www.worldcubeassociation.org/persons/2019KELV02) | 34 km |
 | [Jóhannes Vollertsen](https://www.worldcubeassociation.org/persons/2019VOLL02) | 34 km |
 | [Calum Tighe](https://www.worldcubeassociation.org/persons/2022TIGH02) | 34 km |
+| [Ruairi Horohoe](https://www.worldcubeassociation.org/persons/2024HORO02) | 33 km |
 | [Jaydan Lee](https://www.worldcubeassociation.org/persons/2024LEEJ17) | 33 km |
 | [Isaac McCormack](https://www.worldcubeassociation.org/persons/2024MCCO11) | 33 km |
 | [Ryan Biggs](https://www.worldcubeassociation.org/persons/2024BIGG01) | 33 km |
 | [Oleksii Bodeichuk](https://www.worldcubeassociation.org/persons/2024BODE01) | 33 km |
-| [Ruairi Horohoe](https://www.worldcubeassociation.org/persons/2024HORO02) | 33 km |
 | [Liam Hunter Hardy Assedou](https://www.worldcubeassociation.org/persons/2024ASSE01) | 32 km |
 | [Isobel Byrne](https://www.worldcubeassociation.org/persons/2024BYRN01) | 32 km |
 | [Aaron McDermott](https://www.worldcubeassociation.org/persons/2024MCDE05) | 32 km |

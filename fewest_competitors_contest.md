@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -163,6 +163,7 @@
 | 1 | [Little Village Open 2022](https://www.worldcubeassociation.org/competitions/LittleVillageOpen2022) |
 | 1 | [Liverpool Winter 2023](https://www.worldcubeassociation.org/competitions/LiverpoolWinter2023) |
 | 1 | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |
+| 1 | [Lužice Winter 2024](https://www.worldcubeassociation.org/competitions/LuziceWinter2024) |
 | 1 | [Macclesfield Open 2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016) |
 | 1 | [Madrid Open Rubik 2010](https://www.worldcubeassociation.org/competitions/MadridOpenRubik2010) |
 | 1 | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024) |
@@ -204,12 +205,14 @@
 | 1 | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) |
 | 1 | [NxN Minnesota 2022](https://www.worldcubeassociation.org/competitions/NxNMinnesota2022) |
 | 1 | [North Island Championship 2021](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2021) |
+| 1 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024) |
 | 1 | [Oldham County Cubing 2024](https://www.worldcubeassociation.org/competitions/OldhamCountyCubing2024) |
 | 1 | [Oslo Open 2023](https://www.worldcubeassociation.org/competitions/OsloOpen2023) |
 | 1 | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) |
 | 1 | [Paris Open 2022](https://www.worldcubeassociation.org/competitions/ParisOpen2022) |
 | 1 | [Parla Open 2022](https://www.worldcubeassociation.org/competitions/ParlaOpen2022) |
 | 1 | [Pegasus 2023](https://www.worldcubeassociation.org/competitions/Pegasus2023) |
+| 1 | [Penang Cube Masters 2024](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2024) |
 | 1 | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) |
 | 1 | [Phoenix Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/PhoenixCubeChallenge2022) |
 | 1 | [PIB Itaim Open 2024](https://www.worldcubeassociation.org/competitions/PIBItaimOpen2024) |

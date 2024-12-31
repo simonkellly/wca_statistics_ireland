@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### Rubik's Cube
@@ -72,12 +72,12 @@
 | 0.31 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2:04.68 | 2:04.99 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022LAUR09) |
 | 0.43 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 2:31.93 | 2:32.36 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2019NATS02) |
 | 0.56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:20.61 | 1:21.17 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
+| 0.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:15.39 | 1:16.19 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2012BEAH01) |
 | 0.80 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2:36.96 | 2:37.76 | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/by_person#2015OCON03) |
 | 0.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:23.65 | 1:24.52 | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021/results/by_person#2012BEAH01) |
 | 0.87 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | 2:20.17 | 2:21.04 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2017HELO01) |
 | 0.89 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:29.14 | 1:30.03 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012BEAH01) |
 | 0.95 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 2:36.33 | 2:37.28 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022/results/by_person#2017FITZ01) |
-| 1.03 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 3:03.30 | 3:04.33 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2017FITZ01) |
 
 ### 7x7x7 Cube
 

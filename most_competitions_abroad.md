@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Competitions | Person |
 | ---: | :--- |
-| 69 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 37 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 30 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
 | 26 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |

@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### World
@@ -225,6 +225,7 @@
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018MCCA02) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2012BEAH01) |
 | 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/by_person#2019GREG04) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2012BEAH01) |
 
 ### Continental
 
