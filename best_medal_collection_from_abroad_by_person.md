@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 31 December 2024*
+*Updated on  1 January 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -28,9 +28,9 @@
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 0 | 1 |
 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) | **0** | 1 | 0 | 1 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **0** | 0 | 3 | 3 |
+| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **0** | 0 | 2 | 2 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **0** | 0 | 2 | 2 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **0** | 0 | 2 | 2 |
-| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **0** | 0 | 1 | 1 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **0** | 0 | 1 | 1 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **0** | 0 | 1 | 1 |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | **0** | 0 | 1 | 1 |
