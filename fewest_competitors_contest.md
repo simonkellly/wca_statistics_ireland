@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
