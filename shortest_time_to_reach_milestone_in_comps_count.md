@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### 100 Competitions
@@ -21,9 +21,10 @@
 
 | Days | Person |
 | ---: | :--- |
-| 512 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
+| 512 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 728 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 736 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
+| 770 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 818 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 819 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 834 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) |
@@ -32,6 +33,7 @@
 | 919 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 945 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 951 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
+| 1135 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 1534 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 1590 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 1632 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
@@ -39,14 +41,12 @@
 | 1723 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
 | 1751 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 1828 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
-| 1870 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
-| 1919 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 
 ### 10 Competitions
 
 | Days | Person |
 | ---: | :--- |
-| 232 | [Lucas Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
+| 232 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 254 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 267 | [Joanna Byik](https://www.worldcubeassociation.org/persons/2023BYIK01) |
 | 282 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |

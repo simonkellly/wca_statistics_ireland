@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -36,6 +36,7 @@
 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | 5.47 | 91 | Ireland |
 | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) | 5.39 | 114 | Ireland |
 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | 5.32 | 134 | Ireland |
+| [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 5.21 | 33 | Ireland |
 | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) | 5.16 | 45 | Ireland |
 | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) | 5.15 | 59 | Ireland |
 | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | 5.14 | 56 | Ireland |

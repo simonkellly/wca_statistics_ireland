@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -23,6 +23,7 @@
 | 1 | [Banja Luka Open 2024](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2024) |
 | 1 | [Bara Multi-Blind i Borås 2024](https://www.worldcubeassociation.org/competitions/BaraMultiBlindiBoras2024) |
 | 1 | [BASC 31B - Mill Valley 2022](https://www.worldcubeassociation.org/competitions/BASC31BMillValley2022) |
+| 1 | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) |
 | 1 | [Battersea Autumn 2024](https://www.worldcubeassociation.org/competitions/BatterseaAutumn2024) |
 | 1 | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024) |
 | 1 | [Belgian Open 2009](https://www.worldcubeassociation.org/competitions/BelgianOpen2009) |

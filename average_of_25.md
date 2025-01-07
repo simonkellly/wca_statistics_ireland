@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -48,9 +48,9 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 36.65 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 34.76, 38.88, 38.25, 40.43, 36.07, 44.28, 42.40, 38.69, 41.70, 35.28, 36.43, 35.64, 38.81, 33.82, 29.48, 35.21, 36.70, 33.84, 37.02, 35.05, 33.19, 35.87, 36.68, 32.92, 37.32 |
-| 39.33 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 43.38, 50.79, 40.07, 42.39, 38.18, 38.53, 43.47, 38.88, 36.98, 40.88, 35.07, 43.41, 40.76, 34.71, 36.30, 37.57, 32.32, 43.78, 34.92, 43.85, 39.73, 36.07, 36.35, 36.33, 42.86 |
-| 40.64 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 39.12, 42.38, 44.57, 47.00, 46.68, 51.02, 33.64, 42.88, 42.46, 40.50, 40.19, 38.48, 37.05, 35.52, 42.69, 38.81, 35.98, 45.55, 46.30, 38.33, 38.92, 37.31, 39.16, 36.86, 39.19 |
+| 35.22 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 35.28, 36.43, 35.64, 38.81, 33.82, 29.48, 35.21, 36.70, 33.84, 37.02, 35.05, 33.19, 35.87, 36.68, 32.92, 37.32, 35.96, 33.88, 38.34, 35.33, 36.37, 34.52, 34.61, 33.92, 32.48 |
+| 37.37 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 36.98, 40.88, 35.07, 43.41, 40.76, 34.71, 36.30, 37.57, 32.32, 43.78, 34.92, 43.85, 39.73, 36.07, 36.35, 36.33, 42.86, 35.43, 34.58, 38.30, 34.91, 38.31, 36.15, 35.14, 34.68 |
+| 38.49 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 40.50, 40.19, 38.48, 37.05, 35.52, 42.69, 38.81, 35.98, 45.55, 46.30, 38.33, 38.92, 37.31, 39.16, 36.86, 39.19, 42.48, 37.20, 38.29, 33.37, 36.29, 36.45, 38.47, 40.12, 32.68 |
 
 ### Pyraminx
 
@@ -65,6 +65,7 @@
 | ---: | :--- | :--- |
 | 3.86 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.38, 3.53, 4.66, DNF, 4.21, 3.46, 3.55, 4.54, 3.47, 3.49, 3.42, 3.74, 3.66, 3.60, DNF, 3.94, 3.61, 3.33, 4.06, 3.69, 5.47, 4.66, 3.21, 3.68, 3.15 |
 | 4.48 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.83, 5.27, 4.13, DNF, 4.06, 4.82, 4.15, 4.40, 6.60, 3.92, 3.67, 6.45, 3.55, 3.27, 6.29, 3.19, 4.80, 5.34, 4.17, 3.89, 4.06, 3.65, DNF, 3.68, 3.11 |
+| 5.27 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 5.70, 9.21, 6.88, 4.74, 3.84, 6.38, 5.12, 4.54, 4.46, 4.90, 4.69, 4.91, 4.16, 5.64, 3.92, DNF, 11.05, 4.44, 4.99, 4.31, 4.45, 5.62, 4.45, 5.72, 5.43 |
 | 5.50 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 5.28, 4.51, 5.76, 4.85, 7.71, 3.91, 9.08, 5.33, 5.92, 3.42, DNF, 6.57, 6.09, 7.93, 5.93, 4.31, 4.03, 4.96, 4.71, DNF, 4.75, 3.80, 5.00, 4.07, 4.88 |
 
 ### Skewb
