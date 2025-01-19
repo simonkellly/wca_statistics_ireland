@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 16 January 2025*
+*Updated on 19 January 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -81,11 +81,11 @@
 | 52 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 50 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 48 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
+| 47 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 44 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
 | 42 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) |
 | 42 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) |
 | 42 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) |
-| 41 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 39 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
 | 39 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) |

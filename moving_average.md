@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 16 January 2025*
+*Updated on 19 January 2025*
 
 
 ### Rubik's Cube
@@ -24,7 +24,7 @@
 | 8.99 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 9.14 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 9.16 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
-| 9.38 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
+| 9.28 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 9.43 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 9.57 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 9.65 | [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) |
@@ -87,7 +87,7 @@
 | 3.56 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) |
 | 3.60 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 3.62 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
-| 3.67 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
+| 3.65 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 3.68 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 3.81 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 3.83 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
@@ -329,13 +329,13 @@
 | 23.82 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 23.87 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 23.89 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
+| 24.12 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 24.45 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 24.59 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
 | 24.92 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 24.98 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 24.99 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 25.05 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
-| 25.28 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 25.38 | [Edvin Kurjak](https://www.worldcubeassociation.org/persons/2022KURJ01) |
 | 25.52 | [Nicolàs Keane Conesa](https://www.worldcubeassociation.org/persons/2021CONE01) |
 | 25.56 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
@@ -363,7 +363,7 @@
 | 39.93 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 41.61 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 45.83 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
-| 55.65 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
+| 53.30 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 58.32 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 58.68 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 58.89 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
@@ -438,13 +438,13 @@
 | 5.36 | [Luke Daniel Savage](https://www.worldcubeassociation.org/persons/2022SAVA01) |
 | 5.45 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 5.47 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) |
+| 5.50 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 5.52 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
 | 5.62 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 5.72 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 5.73 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 5.77 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 5.83 | [Charlie Maxwell](https://www.worldcubeassociation.org/persons/2022MAXW02) |
-| 5.83 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 5.97 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 6.10 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 6.18 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |

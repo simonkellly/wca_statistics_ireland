@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 16 January 2025*
+*Updated on 19 January 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -256,8 +256,8 @@
 | [Charlie Graham McCormack](https://www.worldcubeassociation.org/persons/2022MCCO12) | 590 km |
 | [Aidan McDonagh](https://www.worldcubeassociation.org/persons/2022MCDO04) | 588 km |
 | [Tommy Roulston](https://www.worldcubeassociation.org/persons/2023ROUL01) | 584 km |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 582 km |
 | [Charlie McCormack](https://www.worldcubeassociation.org/persons/2022MCCO08) | 581 km |
-| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 581 km |
 | [Noah Duffy](https://www.worldcubeassociation.org/persons/2024DUFF01) | 581 km |
 | [Seth Blackman](https://www.worldcubeassociation.org/persons/2022BLAC03) | 578 km |
 | [Oliver Schuch](https://www.worldcubeassociation.org/persons/2021SCHU02) | 577 km |

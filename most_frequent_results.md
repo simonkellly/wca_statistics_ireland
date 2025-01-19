@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on 16 January 2025*
+*Updated on 19 January 2025*
 
 
 ### Rubik's Cube
@@ -162,10 +162,10 @@
 | 30 | 5.50 |
 | 30 | 8.30 |
 | 29 | 8.21 |
+| 29 | 7.91 |
 | 29 | 9.94 |
 | 29 | 8.82 |
 | 28 | 8.97 |
-| 28 | 7.91 |
 | 28 | 8.27 |
 
 ### Rubik's Clock
