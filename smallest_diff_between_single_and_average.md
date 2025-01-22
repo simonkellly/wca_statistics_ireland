@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube
@@ -90,9 +90,9 @@
 | 0.73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:04.67 | 2:05.40 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
 | 0.84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.64 | 1:57.48 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
 | 0.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:07.11 | 2:08.10 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2012BEAH01) |
+| 1.12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.58 | 1:57.70 | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025/results/by_person#2012BEAH01) |
 | 1.12 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 4:14.81 | 4:15.93 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2019NATS02) |
 | 1.22 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:57.31 | 1:58.53 | [Vienna Summer 2023](https://www.worldcubeassociation.org/competitions/ViennaBigCubeSummer2023/results/by_person#2012BEAH01) |
-| 1.37 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) | 5:50.91 | 5:52.28 | [Guildford Open 2017](https://www.worldcubeassociation.org/competitions/GuildfordOpen2017/results/by_person#2016MCAT01) |
 
 ### 3x3x3 Blindfolded
 

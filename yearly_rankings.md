@@ -1,20 +1,22 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **5.85** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 6.56, 6.74, 11.08, 5.85, 7.59 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **7.16** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 7.16, 9.73, 8.84, 10.27, 9.00 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **9.12** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 11.98, 13.53, 9.12, 11.24, 11.30 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **9.10** | Ireland | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) | 12.15, 12.58, 13.82, 13.60, 9.10 |
 
 ### Rubik's Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **6.96** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 6.56, 6.74, 11.08, 5.85, 7.59 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **8.96** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 9.48, 8.94, 8.12, 8.45, 12.07 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **10.20** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 10.19, 12.04, 10.40, 10.00, 9.28 |
 
@@ -22,32 +24,63 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **1.94** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 3.03, 1.94, 4.54, 3.64, 3.59 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1.04** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 3.42, 1.04, 3.16, 3.67, 3.07 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **1.73** | Ireland | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) | 5.75, 3.19, 3.05, 1.73, 5.59 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **2.26** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 3.13, 4.19, 3.28, DNF, 2.26 |
 
 ### 2x2x2 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **3.42** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 3.03, 1.94, 4.54, 3.64, 3.59 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **3.04** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 2.65, 3.75, 1.55, 3.46, 3.01 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **3.15** | Ireland | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) | 3.36, 2.06, 2.81, 3.28, 3.80 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **3.53** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 3.13, 4.19, 3.28, DNF, 2.26 |
 
 ### 4x4x4 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **21.37** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 22.61, 21.37, 24.30, 24.69, 26.44 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **37.17** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 37.17, 41.65, 47.73, 46.08, 40.29 |
 
 ### 4x4x4 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **22.81** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 21.47, 22.65, 25.33, 23.05, 22.72 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **42.67** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 37.17, 41.65, 47.73, 46.08, 40.29 |
+
+### 5x5x5 Cube - Single
+
+| Person | Result | Country | Competition | Details |
+| :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **39.28** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 44.73, 51.52, 39.28, 44.17, 47.16 |
+
+### 5x5x5 Cube - Average
+
+| Person | Result | Country | Competition | Details |
+| :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **43.97** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 42.07, 44.21, 45.62, 46.58, 41.83 |
+
+### 6x6x6 Cube - Single
+
+| Person | Result | Country | Competition | Details |
+| :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:16.99** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 1:27.12, 1:16.99, 1:22.62 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2:31.84** | Ireland | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) | 2:43.72, 2:58.46, 2:31.84 |
+
+### 6x6x6 Cube - Average
+
+| Person | Result | Country | Competition | Details |
+| :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:20.57** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 1:20.77, 1:21.37, 1:19.56 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2:44.67** | Ireland | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) | 2:43.72, 2:58.46, 2:31.84 |
 
 ### 7x7x7 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:56.58** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 1:57.90, 1:58.61, 1:56.58 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:48.24** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:10.98, 2:48.24, 2:56.40 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **2:48.65** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 2:48.65, 3:03.87, 2:55.95 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **3:08.10** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:08.10, 3:18.07, 3:39.44 |
@@ -57,12 +90,12 @@
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **3:36.32** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:53.46, 3:36.32, 3:42.45 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **3:45.17** | India | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:49.72, 4:04.66, 3:45.17 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **3:54.55** | Mongolia | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:54.55, 4:02.91, 4:14.89 |
-| [Matthew A. Horan](https://www.worldcubeassociation.org/persons/2017HORA02) | **4:14.01** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 4:35.80, 4:35.85, 4:14.01 |
 
 ### 7x7x7 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:57.70** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 1:57.90, 1:58.61, 1:56.58 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **2:56.16** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 2:48.65, 3:03.87, 2:55.95 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:58.54** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:10.98, 2:48.24, 2:56.40 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **3:21.87** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:08.10, 3:18.07, 3:39.44 |
@@ -72,7 +105,6 @@
 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) | **3:45.21** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:57.93, 3:29.11, 3:48.60 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **3:53.18** | India | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:49.72, 4:04.66, 3:45.17 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **4:04.12** | Mongolia | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:54.55, 4:02.91, 4:14.89 |
-| [Matthew A. Horan](https://www.worldcubeassociation.org/persons/2017HORA02) | **4:28.55** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 4:35.80, 4:35.85, 4:14.01 |
 
 ### 3x3x3 Blindfolded - Single
 
@@ -101,6 +133,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **10.63** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 11.80, 10.63, 13.77, 13.53, 13.69 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **16.76** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 18.73, 19.57, 16.76, 22.48, 21.28 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **22.43** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 22.43, 24.64, 23.74, 32.22, 28.40 |
 
@@ -108,6 +141,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **13.01** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 11.80, 10.63, 13.77, 13.53, 13.69 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **19.86** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 18.73, 19.57, 16.76, 22.48, 21.28 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **25.59** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 22.43, 24.64, 23.74, 32.22, 28.40 |
 
@@ -121,10 +155,10 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **39.79** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 54.17, 40.93, 44.88, 46.39, 39.79 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **40.02** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 47.84, 40.02, 54.61, 53.82, 53.83 |
 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **46.10** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 52.56, 48.56, 50.74, 50.87, 46.10 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **49.52** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 1:02.38, 49.52, 54.50, 1:00.99, 1:00.10 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **50.10** | Mongolia | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 57.84, 50.10, 57.98, 1:02.67, 1:06.70 |
 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) | **50.91** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:08.21, 1:10.76, 50.91, 1:16.42, 1:15.07 |
 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) | **52.30** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:02.99, 54.42, 1:03.31, 56.48, 52.30 |
-| [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | **56.47** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:03.77, 57.70, 56.47, 1:02.07, 1:12.06 |
 
 ### Megaminx - Average
 
@@ -137,21 +171,23 @@
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **48.53** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 45.77, 48.93, 48.03, 50.89, 48.62 |
 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **50.06** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 52.56, 48.56, 50.74, 50.87, 46.10 |
 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) | **55.68** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 56.68, 55.81, 53.49, 54.56, 1:04.82 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **55.68** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 50.37, 1:00.99, 1:10.55, 55.67, 49.99 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **59.04** | Mongolia | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 56.79, 57.98, 1:10.42, 56.17, 1:02.36 |
 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | **1:01.18** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:03.77, 57.70, 56.47, 1:02.07, 1:12.06 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:03.63** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:02.73, 1:07.99, 1:04.08, 1:00.68, 1:04.09 |
 
 ### Pyraminx - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **3.11** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 3.11, 5.04, 7.91, 3.85, 6.47 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **5.69** | Ireland | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) | 6.50, 7.27, 8.58, 9.01, 5.69 |
 
 ### Pyraminx - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **4.69** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 4.82, 4.99, 8.85, 4.25, 3.38 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **7.45** | Ireland | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) | 6.50, 7.27, 8.58, 9.01, 5.69 |
 
 ### Rubik's Clock - Single
 

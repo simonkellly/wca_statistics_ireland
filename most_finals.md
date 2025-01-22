@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 | Finals | Person |
 | ---: | :--- |
-| 830 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 838 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 358 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 352 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 315 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
@@ -48,8 +48,8 @@
 | 83 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
 | 82 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 81 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
+| 80 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 79 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
-| 78 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 72 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
 | 72 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
 | 70 | [Leon Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |

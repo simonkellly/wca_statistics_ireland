@@ -1,11 +1,12 @@
 ## Fewest competitors contest
 
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
 | 1 | [Aachen Open 2010](https://www.worldcubeassociation.org/competitions/AachenOpen2010) |
 | 1 | [Aachen Open 2011](https://www.worldcubeassociation.org/competitions/AachenOpen2011) |
+| 1 | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) |
 | 1 | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) |
 | 1 | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022) |
 | 1 | [Adelaide Autumn 2022](https://www.worldcubeassociation.org/competitions/AdelaideAutumn2022) |
@@ -281,6 +282,7 @@
 | 1 | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) |
 | 1 | [U.R.A. Funky Cubes 2022](https://www.worldcubeassociation.org/competitions/URAFunkyCubes2022) |
 | 1 | [Valsugana Speedcubing 2024](https://www.worldcubeassociation.org/competitions/ValsuganaSpeedcubing2024) |
+| 1 | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) |
 | 1 | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) |
 | 1 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) |
 | 1 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |

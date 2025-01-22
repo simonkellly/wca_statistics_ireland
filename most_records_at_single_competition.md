@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### World
@@ -230,6 +230,7 @@
 | 0 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2017TIMM01) |
 | 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2019NATS02) |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2020BERM02) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025/results/by_person#2012BEAH01) |
 
 ### Continental
 
