@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -135,9 +135,9 @@
 | 1:24.43 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 1:31.22 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 1:32.49 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
+| 1:34.80 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) |
 | 1:35.21 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 1:35.67 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
-| 1:37.39 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 
 ### Pyraminx
 

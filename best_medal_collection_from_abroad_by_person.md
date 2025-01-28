@@ -1,16 +1,17 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **167** | 69 | 38 | 274 |
-| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **15** | 7 | 13 | 35 |
+| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **15** | 13 | 13 | 41 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **14** | 21 | 28 | 63 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **3** | 1 | 5 | 9 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **2** | 9 | 9 | 20 |
+| [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **2** | 1 | 7 | 10 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **2** | 1 | 1 | 4 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
@@ -22,7 +23,6 @@
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **1** | 0 | 0 | 1 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **0** | 2 | 0 | 2 |
-| [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **0** | 1 | 7 | 8 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **0** | 1 | 4 | 5 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | **0** | 1 | 2 | 3 |
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 0 | 1 |

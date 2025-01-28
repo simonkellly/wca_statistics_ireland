@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### World
@@ -231,6 +231,9 @@
 | 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2019NATS02) |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2020BERM02) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025/results/by_person#2012BEAH01) |
+| 0 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2023MARA10) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2022CORR06) |
+| 0 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2018GRYT01) |
 
 ### Continental
 

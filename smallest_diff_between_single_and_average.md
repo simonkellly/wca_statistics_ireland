@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -144,6 +144,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.07 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.39 | 2.46 | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
+| 0.11 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 4.38 | 4.49 | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2020BERM02) |
 | 0.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5.38 | 5.49 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012BEAH01) |
 | 0.11 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 9.07 | 9.18 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023/results/by_person#2019CLEA04) |
 | 0.14 | [Liam Daniel Rocha Oliveira](https://www.worldcubeassociation.org/persons/2022OLIV10) | 9.82 | 9.96 | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023/results/by_person#2022OLIV10) |
@@ -152,7 +153,6 @@
 | 0.21 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) | 8.23 | 8.44 | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/by_person#2023ODRI01) |
 | 0.22 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 6.31 | 6.53 | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2022MOLL03) |
 | 0.22 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) | 12.97 | 13.19 | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024/results/by_person#2022MOON08) |
-| 0.23 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.97 | 3.20 | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024/results/by_person#2022ANDZ01) |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -9,15 +9,15 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 6.39 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.54, 6.43, 8.28, 6.19, 6.03 |
+| 6.59 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 7.47, 6.26, 6.44, 6.05, 7.08 |
 | 6.73 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 8.25, 6.54, 6.58, 6.60, 7.00 |
-| 6.73 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 6.20, 6.56, 6.62, 8.96, 7.01 |
 
 ### 4x4x4 Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 22.81 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.47, 22.65, 25.33, 23.05, 22.72 |
-| 26.50 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 27.94, 24.86, 26.70, 32.17, 24.71 |
+| 26.12 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 25.82, 27.81, 25.21, 25.96, 26.58 |
 
 ### 5x5x5 Cube
 
@@ -60,7 +60,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 34.29 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 33.82, 29.48, 35.21, 36.70, 33.84 |
+| 33.67 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 34.61, 33.92, 32.48, 37.14, 29.95 |
 | 35.40 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 34.91, 38.31, 36.15, 35.14, 34.68 |
 | 36.65 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.20, 38.29, 33.37, 36.29, 36.45 |
 
