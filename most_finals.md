@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -25,7 +25,7 @@
 | 151 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 144 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 142 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
-| 133 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 136 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 132 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 130 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 128 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |

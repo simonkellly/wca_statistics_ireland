@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -8,11 +8,11 @@
 | 7 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 7 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 6 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 6 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 6 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
 | 5 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 5 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 5 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
-| 5 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 4 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 4 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
 | 4 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 30 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
 | 28 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 26 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
-| 25 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 26 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 24 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 16 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
