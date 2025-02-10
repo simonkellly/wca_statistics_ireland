@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -22,10 +22,10 @@
 | 24 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022) |  |
 | 24 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
 | 23 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |  |
+| 23 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) |  |
 | 22 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [PIB Itaim Open 2024](https://www.worldcubeassociation.org/competitions/PIBItaimOpen2024) |
 | 22 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
 | 22 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) |
-| 22 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) |  |
 | 21 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | [Frankfurt Cube Days 2017](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2017) | [German Nationals 2022](https://www.worldcubeassociation.org/competitions/GermanNationals2022) |
 | 21 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |
 | 21 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |  |

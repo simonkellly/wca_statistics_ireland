@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -45,10 +45,10 @@
 | 90 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
 | 89 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
 | 86 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
+| 85 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 83 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
 | 82 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 81 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
-| 80 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 79 | [Leon Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
 | 79 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
 | 76 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |

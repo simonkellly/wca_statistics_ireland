@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -186,6 +186,7 @@
 | 1 | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) |
 | 1 | [Mini Mental Milano II 2025](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoII2025) |
 | 1 | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024) |
+| 1 | [Minxing in Memphis 2025](https://www.worldcubeassociation.org/competitions/MinxinginMemphis2025) |
 | 1 | [Mississippi Cubing Dawgs 2024](https://www.worldcubeassociation.org/competitions/MississippiCubingDawgs2024) |
 | 1 | [MIT Fall 2018](https://www.worldcubeassociation.org/competitions/MITFall2018) |
 | 1 | [Moonbow Mega Kentucky 2024](https://www.worldcubeassociation.org/competitions/MoonbowMegaKentucky2024) |

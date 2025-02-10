@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 
 ### Rubik's Cube - Single
@@ -16,8 +16,8 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **7.38** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 8.73, 10.03, 9.36, 10.22, 7.38 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **7.81** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 10.10, 7.81, 8.34, 12.57, 10.23 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **8.09** | Mongolia | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 8.09, 8.67, 9.51, 11.51, 8.28 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **8.14** | Ireland | [Minxing in Memphis 2025](https://www.worldcubeassociation.org/competitions/MinxinginMemphis2025) | 11.11, 9.95, 9.21, 11.80, 8.14 |
 | [Leon Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) | **8.15** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 9.07, 8.15, 11.40, 13.51, 11.39 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **8.37** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 12.90, 8.37, 9.92, 11.16, 11.56 |
 
 ### Rubik's Cube - Average
 
@@ -32,7 +32,7 @@
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **8.96** | Ireland | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | 9.48, 8.94, 8.12, 8.45, 12.07 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **9.56** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 10.10, 7.81, 8.34, 12.57, 10.23 |
 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) | **9.85** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 10.15, 10.09, 9.30, 10.99, 9.24 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **10.20** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 10.19, 12.04, 10.40, 10.00, 9.28 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **10.09** | Ireland | [Minxing in Memphis 2025](https://www.worldcubeassociation.org/competitions/MinxinginMemphis2025) | 11.11, 9.95, 9.21, 11.80, 8.14 |
 
 ### 2x2x2 Cube - Single
 
@@ -265,7 +265,7 @@
 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) | **55.68** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 56.68, 55.81, 53.49, 54.56, 1:04.82 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **55.68** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 50.37, 1:00.99, 1:10.55, 55.67, 49.99 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **56.89** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 1:02.83, 58.18, 55.25, 56.38, 56.11 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **59.04** | Mongolia | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 56.79, 57.98, 1:10.42, 56.17, 1:02.36 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **57.68** | Ireland | [Minxing in Memphis 2025](https://www.worldcubeassociation.org/competitions/MinxinginMemphis2025) | 59.47, 1:05.60, 52.23, 59.65, 53.93 |
 
 ### Pyraminx - Single
 
