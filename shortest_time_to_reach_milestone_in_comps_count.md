@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### 100 Competitions
@@ -14,6 +14,7 @@
 | Days | Person |
 | ---: | :--- |
 | 2569 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 2633 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 3278 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 3528 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 
@@ -31,16 +32,16 @@
 | 834 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) |
 | 882 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 903 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
+| 911 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
 | 919 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 945 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 951 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
+| 960 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
+| 1044 | [Basil McGrath](https://www.worldcubeassociation.org/persons/2022MCGR01) |
 | 1135 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 1534 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 1590 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 1632 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
-| 1632 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
-| 1723 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
-| 1751 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 
 ### 10 Competitions
 
@@ -60,12 +61,12 @@
 | 324 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
 | 332 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
 | 337 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
+| 337 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) |
 | 349 | [Cormac Coffey](https://www.worldcubeassociation.org/persons/2022COFF01) |
 | 349 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
 | 352 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 359 | [Charley Kubiak-Hart](https://www.worldcubeassociation.org/persons/2023KUBI01) |
 | 365 | [Aran Mitchell](https://www.worldcubeassociation.org/persons/2023MITC04) |
-| 365 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 
 ### 5 Competitions
 

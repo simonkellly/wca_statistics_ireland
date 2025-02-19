@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -133,11 +133,11 @@
 | 1:18.31 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:20.28 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 1:24.43 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
+| 1:25.45 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 1:31.22 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 1:32.49 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 1:34.80 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) |
 | 1:35.21 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
-| 1:35.67 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 
 ### Pyraminx
 
@@ -193,11 +193,11 @@
 | 20.74 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 22.48 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
 | 24.18 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
+| 26.36 | [Chloe O'Loughlin](https://www.worldcubeassociation.org/persons/2023OLOU01) |
 | 26.43 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 26.78 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) |
 | 26.95 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 27.50 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
-| 27.72 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 
 ### 3x3x3 With Feet
 
