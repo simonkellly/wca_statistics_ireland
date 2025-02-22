@@ -1,7 +1,7 @@
 ## Average of 50
 
 *Note: 50 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 
 ### Rubik's Cube
@@ -63,7 +63,6 @@
 | Ao50 | Person | Times |
 | ---: | :--- | :--- |
 | 7.49 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 5.95, 6.98, 6.86, 8.05, 6.87, 6.80, DNF, 8.41, 8.39, 8.50, 9.71, 10.29, 11.88, 6.51, 6.96, 8.97, 7.04, 8.07, 6.81, 6.04, 6.75, 6.64, 9.05, 6.38, DNF, 7.14, 6.50, DNF, 7.09, 5.27, 9.14, 7.53, 7.14, 5.24, 10.62, 6.22, 4.84, 8.04, 7.41, 6.00, 11.05, 4.69, 5.22, 4.23, 6.42, 9.19, 6.12, 5.82, 8.57, 6.09 |
-| 7.54 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 9.22, 7.70, 8.13, 8.96, 11.46, 6.32, 6.85, 8.29, 6.27, 7.23, 8.10, 7.50, 7.65, 6.95, 5.70, 6.31, 12.75, 8.37, 7.00, 7.93, 6.43, 5.66, 6.32, 7.68, DNF, 7.14, 6.03, 10.82, 5.39, 7.60, 5.21, 7.52, 7.67, 8.53, 8.88, DNF, 6.13, DNF, 6.19, 7.02, 8.50, 9.99, 6.27, 6.93, 4.92, 7.71, 6.15, 6.36, 4.89, 6.28 |
 
 ### Skewb
 
