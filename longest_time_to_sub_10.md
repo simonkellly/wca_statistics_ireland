@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -18,6 +18,7 @@
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 2.68 |
 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) | 2.28 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 2.18 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 1.97 |
 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) | 1.94 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 1.49 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 1.44 |

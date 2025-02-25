@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -177,6 +177,7 @@
 | 1 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022) |
 | 1 | [Marathon Open 2017](https://www.worldcubeassociation.org/competitions/MarathonOpen2017) |
 | 1 | [Marikina City 2 Open 2014](https://www.worldcubeassociation.org/competitions/MarikinaCity2014) |
+| 1 | [Maritimes 2025](https://www.worldcubeassociation.org/competitions/Maritimes2025) |
 | 1 | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |
 | 1 | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) |
 | 1 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) |
@@ -187,6 +188,7 @@
 | 1 | [Mini Mental Milano II 2025](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoII2025) |
 | 1 | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024) |
 | 1 | [Minxing in Memphis 2025](https://www.worldcubeassociation.org/competitions/MinxinginMemphis2025) |
+| 1 | [Mississippi Championship 2025](https://www.worldcubeassociation.org/competitions/MississippiChampionship2025) |
 | 1 | [Mississippi Cubing Dawgs 2024](https://www.worldcubeassociation.org/competitions/MississippiCubingDawgs2024) |
 | 1 | [MIT Fall 2018](https://www.worldcubeassociation.org/competitions/MITFall2018) |
 | 1 | [Moonbow Mega Kentucky 2024](https://www.worldcubeassociation.org/competitions/MoonbowMegaKentucky2024) |

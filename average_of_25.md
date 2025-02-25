@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### Rubik's Cube
@@ -16,14 +16,14 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 24.04 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 20.76, 25.55, 24.13, 22.41, 24.77, 26.69, 26.79, 25.67, 24.75, 22.14, 23.29, 24.85, 26.38, 21.47, 22.65, 25.33, 23.05, 22.72, 27.39, 22.73, 24.30, 25.99, 23.37, 22.61, 21.37 |
-| 28.91 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 30.51, 27.94, 24.86, 26.70, 32.17, 24.71, 27.99, 27.27, 32.90, 27.12, 29.80, 31.24, 28.98, 28.75, 28.96, 33.86, 33.04, 28.34, 27.71, 28.50, 25.91, 1:09.60, 28.38, 27.01, 27.79 |
+| 28.52 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 28.55, 32.17, 32.75, 28.06, 29.18, 25.82, 27.81, 25.21, 25.96, 26.58, 32.19, 29.58, 33.07, 28.84, 29.64, 27.43, 26.06, 28.30, 29.08, 28.97, 29.31, 25.97, 29.11, 27.49, 28.57 |
 
 ### 5x5x5 Cube
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 41.90 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 39.47, 42.79, 41.51, 39.18, 43.48, 43.39, 40.62, 39.95, 41.34, 44.64, 44.12, 44.08, 38.35, 43.31, 41.54, 39.67, 42.00, 43.74, 42.88, 43.24, 41.69, 38.40, 43.42, 42.66, 39.90 |
-| 53.95 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 51.72, 56.26, 1:03.85, 57.85, 57.44, 52.89, 52.24, 56.79, 48.27, 44.71, 55.56, 50.98, 55.68, 47.78, 50.77, 54.52, 52.59, 54.95, 53.68, 52.63, 50.12, 1:07.86, 57.35, 56.96, 53.68 |
+| 53.52 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 48.27, 44.71, 55.56, 50.98, 55.68, 47.78, 50.77, 54.52, 52.59, 54.95, 53.68, 52.63, 50.12, 1:07.86, 57.35, 56.96, 53.68, 1:01.36, 56.19, 58.32, 57.71, 51.14, 52.99, 49.89, 49.97 |
 
 ### 6x6x6 Cube
 
