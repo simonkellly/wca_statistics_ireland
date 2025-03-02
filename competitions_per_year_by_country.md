@@ -5,19 +5,19 @@
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 8.57 | 134 | 15.64 | United Kingdom |
-| 6.66 | 62 | 9.31 | United States |
+| 6.65 | 62 | 9.32 | United States |
 | 5.13 | 67 | 13.05 | Ireland |
-| 3.82 | 9 | 2.36 | Austria |
-| 3.62 | 7 | 1.94 | Slovakia |
-| 2.68 | 16 | 5.98 | Australia |
+| 3.81 | 9 | 2.36 | Austria |
+| 3.61 | 7 | 1.94 | Slovakia |
+| 2.67 | 16 | 5.98 | Australia |
 | 2.52 | 40 | 15.85 | Germany |
-| 1.97 | 2 | 1.02 | Portugal |
-| 1.72 | 3 | 1.74 | Hungary |
+| 1.96 | 2 | 1.02 | Portugal |
+| 1.72 | 3 | 1.75 | Hungary |
 | 1.55 | 3 | 1.94 | Sweden |
 | 1.32 | 7 | 5.31 | Poland |
 | 1.21 | 4 | 3.30 | Norway |
-| 1.18 | 9 | 7.63 | France |
-| 1.17 | 7 | 5.96 | Denmark |
+| 1.18 | 9 | 7.64 | France |
+| 1.17 | 7 | 5.97 | Denmark |
 | 0.99 | 5 | 5.04 | Switzerland |
 | 0.81 | 1 | 1.23 | Greece |
 | 0.81 | 13 | 16.04 | Italy |
@@ -25,21 +25,21 @@
 | 0.74 | 6 | 8.13 | United Arab Emirates |
 | 0.70 | 10 | 14.34 | Spain |
 | 0.66 | 1 | 1.52 | Slovenia |
-| 0.64 | 1 | 1.55 | Republic of Korea |
-| 0.57 | 4 | 7.05 | Finland |
-| 0.56 | 1 | 1.80 | Kenya |
+| 0.64 | 1 | 1.56 | Republic of Korea |
+| 0.57 | 4 | 7.06 | Finland |
+| 0.55 | 1 | 1.80 | Kenya |
 | 0.43 | 1 | 2.32 | Romania |
 | 0.39 | 3 | 7.67 | Russia |
 | 0.39 | 4 | 10.28 | Netherlands |
 | 0.36 | 2 | 5.62 | India |
 | 0.35 | 2 | 5.71 | Multiple Countries (World) |
 | 0.34 | 2 | 5.94 | Multiple Countries (Europe) |
-| 0.31 | 5 | 16.00 | Belgium |
+| 0.31 | 5 | 16.01 | Belgium |
 | 0.30 | 2 | 6.60 | Ukraine |
 | 0.29 | 1 | 3.43 | Jordan |
 | 0.28 | 1 | 3.55 | New Zealand |
 | 0.28 | 5 | 17.79 | Canada |
-| 0.20 | 2 | 10.04 | Singapore |
+| 0.20 | 2 | 10.05 | Singapore |
 | 0.20 | 2 | 10.25 | South Africa |
 | 0.19 | 3 | 15.62 | Czech Republic |
 | 0.18 | 2 | 11.04 | Philippines |
