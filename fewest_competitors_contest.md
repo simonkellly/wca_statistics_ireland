@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -126,6 +126,7 @@
 | 1 | [German Open 2019](https://www.worldcubeassociation.org/competitions/GermanOpen2019) |
 | 1 | [German Nationals 2010](https://www.worldcubeassociation.org/competitions/Germany2010) |
 | 1 | [Get the Average TN 2024](https://www.worldcubeassociation.org/competitions/GettheAverageTN2024) |
+| 1 | [Gigiri Cubing Open AM 2025](https://www.worldcubeassociation.org/competitions/GigiriCubingOpenAM2025) |
 | 1 | [Gijzegem Open 2022](https://www.worldcubeassociation.org/competitions/GijzegemOpen2022) |
 | 1 | [Glasgow Autumn 2023](https://www.worldcubeassociation.org/competitions/GlasgowAutumn2023) |
 | 1 | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) |
