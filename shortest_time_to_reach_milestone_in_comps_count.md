@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 
 ### 100 Competitions
@@ -23,6 +23,7 @@
 | Days | Person |
 | ---: | :--- |
 | 512 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
+| 582 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 597 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 687 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 728 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
@@ -41,7 +42,6 @@
 | 960 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 1044 | [Basil McGrath](https://www.worldcubeassociation.org/persons/2022MCGR01) |
 | 1135 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
-| 1534 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 
 ### 10 Competitions
 

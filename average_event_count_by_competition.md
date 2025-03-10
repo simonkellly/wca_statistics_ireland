@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -32,6 +32,7 @@
 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) | 5.67 | 98 | Ireland |
 | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) | 5.67 | 91 | Ireland |
 | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022) | 5.66 | 64 | Ireland |
+| [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 5.63 | 89 | Ireland |
 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) | 5.62 | 99 | Ireland |
 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 5.59 | 88 | Ireland |
 | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | 5.56 | 80 | Ireland |

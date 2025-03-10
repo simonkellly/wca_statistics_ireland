@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 
 ### Rubik's Cube
@@ -180,9 +180,9 @@
 | 0.18 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 5.06 | 5.24 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
 | 0.19 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 2.47 | 2.66 | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/by_person#2021BURK03) |
 | 0.20 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.95 | 3.15 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2019CARE02) |
+| 0.20 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 5.72 | 5.92 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2021FINK01) |
 | 0.21 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 4.47 | 4.68 | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/by_person#2021LOFT01) |
 | 0.22 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3.09 | 3.31 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019CARE02) |
-| 0.22 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 5.66 | 5.88 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/by_person#2021TSPO01) |
 
 ### Square-1
 
@@ -193,11 +193,11 @@
 | 0.54 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 13.06 | 13.60 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2019NATS02) |
 | 0.60 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.09 | 9.69 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2019BURK05) |
 | 0.65 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.50 | 10.15 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019BURK05) |
+| 0.68 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.20 | 9.88 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2019BURK05) |
 | 0.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 18.91 | 19.62 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016/results/by_person#2012BEAH01) |
 | 0.72 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 9.29 | 10.01 | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023/results/by_person#2017MADD04) |
 | 0.74 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.28 | 10.02 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2019BURK05) |
-| 0.84 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 18.16 | 19.00 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2017TIMM01) |
-| 0.86 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 26.14 | 27.00 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2018SMIT37) |
+| 0.82 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 10.09 | 10.91 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2021FINK01) |
 
 ### 4x4x4 Blindfolded
 

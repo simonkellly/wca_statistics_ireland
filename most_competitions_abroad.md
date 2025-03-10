@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -45,32 +45,32 @@
 | 6 | [Daithi Heffernan](https://www.worldcubeassociation.org/persons/2018HEFF01) |
 | 6 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 6 | [Dimitar Ignatov](https://www.worldcubeassociation.org/persons/2023IGNA05) |
-| 5 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
+| 5 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
 | 5 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
 | 5 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
+| 5 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
 | 5 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
 | 5 | [Samuel Dalton](https://www.worldcubeassociation.org/persons/2017DALT01) |
 | 5 | [Dara Okan](https://www.worldcubeassociation.org/persons/2023OKAN02) |
 | 5 | [Marceli Wieczorek](https://www.worldcubeassociation.org/persons/2022WIEC03) |
-| 5 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
-| 4 | [Raghav Raturi](https://www.worldcubeassociation.org/persons/2024RATU01) |
+| 5 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
+| 4 | [Antoni Nowicki](https://www.worldcubeassociation.org/persons/2023NOWI02) |
 | 4 | [Pal Illes](https://www.worldcubeassociation.org/persons/2022ILLE01) |
+| 4 | [Raghav Raturi](https://www.worldcubeassociation.org/persons/2024RATU01) |
 | 4 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
 | 4 | [Gabriella Pita](https://www.worldcubeassociation.org/persons/2022PITA01) |
-| 4 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
 | 4 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 4 | [Jake Hartley-Trimble](https://www.worldcubeassociation.org/persons/2023HART19) |
 | 4 | [Darragh Cronin](https://www.worldcubeassociation.org/persons/2022CRON01) |
+| 4 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
+| 4 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
+| 4 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
+| 4 | [Benedek Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK01) |
+| 4 | [James Rainey](https://www.worldcubeassociation.org/persons/2023RAIN01) |
+| 4 | [Taylor Smyth](https://www.worldcubeassociation.org/persons/2019SMYT02) |
+| 4 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 4 | [Peter Illes](https://www.worldcubeassociation.org/persons/2022ILLE02) |
 | 4 | [Aidan Murdock Glynn](https://www.worldcubeassociation.org/persons/2022GLYN02) |
-| 4 | [Antoni Nowicki](https://www.worldcubeassociation.org/persons/2023NOWI02) |
-| 4 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
-| 4 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
-| 4 | [Taylor Smyth](https://www.worldcubeassociation.org/persons/2019SMYT02) |
-| 4 | [James Rainey](https://www.worldcubeassociation.org/persons/2023RAIN01) |
-| 4 | [Benedek Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK01) |
-| 4 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
-| 4 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 3 | [Ava Ings](https://www.worldcubeassociation.org/persons/2024INGS02) |
 | 3 | [Owen Rafferty](https://www.worldcubeassociation.org/persons/2023RAFF01) |
 | 3 | [Patrick Chishti](https://www.worldcubeassociation.org/persons/2023CHIS01) |
