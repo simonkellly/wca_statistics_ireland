@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -15,6 +15,7 @@
 | 1 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) |
 | 1 | [Angers ESEOpen 2022](https://www.worldcubeassociation.org/competitions/AngersESEOpen2022) |
 | 1 | [Appalachian Highlands TN 2024](https://www.worldcubeassociation.org/competitions/AppalachianHighlandsTN2024) |
+| 1 | [Atlanta Algs at AIS 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAIS2025) |
 | 1 | [ABHC 2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015) |
 | 1 | [August Bank Holiday Crawley 2024](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCrawley2024) |
 | 1 | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023) |
@@ -164,6 +165,7 @@
 | 1 | [LETI Open 2017](https://www.worldcubeassociation.org/competitions/LETIOpen2017) |
 | 1 | [Let's Even the Odds Alabama 2022](https://www.worldcubeassociation.org/competitions/LetsEventheOddsAlabama2022) |
 | 1 | [Lincolnshire Summer 2023](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2023) |
+| 1 | [Lipovljani Newcomer Day 2025](https://www.worldcubeassociation.org/competitions/LipovljaniNewcomerDay2025) |
 | 1 | [Little Village Open 2022](https://www.worldcubeassociation.org/competitions/LittleVillageOpen2022) |
 | 1 | [Liverpool Winter 2023](https://www.worldcubeassociation.org/competitions/LiverpoolWinter2023) |
 | 1 | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |

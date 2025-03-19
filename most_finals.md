@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -41,8 +41,8 @@
 | 109 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 105 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 103 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
+| 102 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 98 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
-| 97 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 97 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 95 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 90 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
