@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 
 ### Rubik's Cube
@@ -180,9 +180,9 @@
 | 0.18 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 5.06 | 5.24 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
 | 0.19 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 2.47 | 2.66 | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/by_person#2021BURK03) |
 | 0.20 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.95 | 3.15 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2019CARE02) |
+| 0.20 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | 3.98 | 4.18 | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025/results/by_person#2023KNOX02) |
 | 0.20 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 5.72 | 5.92 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2021FINK01) |
 | 0.21 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 4.47 | 4.68 | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/by_person#2021LOFT01) |
-| 0.22 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3.09 | 3.31 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2019CARE02) |
 
 ### Square-1
 

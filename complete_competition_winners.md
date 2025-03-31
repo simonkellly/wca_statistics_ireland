@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -75,6 +75,7 @@
 | 1 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | Mongolia | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |
 | 1 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | Ireland | [BASC 31B - Mill Valley 2022](https://www.worldcubeassociation.org/competitions/BASC31BMillValley2022) |
 | 1 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | Ireland | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) |
+| 1 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | Ireland | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) |
 | 1 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | Ireland | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022) |
 | 1 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | Ireland | [Isle of Wight Summer 2023](https://www.worldcubeassociation.org/competitions/IsleofWightSummer2023) |
 | 1 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | Ireland | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) |

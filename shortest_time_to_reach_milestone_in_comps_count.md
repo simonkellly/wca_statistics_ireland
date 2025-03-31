@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 
 ### 100 Competitions
@@ -15,6 +15,7 @@
 | ---: | :--- |
 | 2569 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 2633 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 3200 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 3278 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 3528 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 

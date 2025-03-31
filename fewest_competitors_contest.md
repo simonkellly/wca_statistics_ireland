@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -47,6 +47,7 @@
 | 1 | [Brisbane Summer 2023](https://www.worldcubeassociation.org/competitions/BrisbaneSummer2023) |
 | 1 | [Bristol Summer 2023](https://www.worldcubeassociation.org/competitions/BristolSummer2023) |
 | 1 | [Bristol Winter 2024](https://www.worldcubeassociation.org/competitions/BristolWinter2024) |
+| 1 | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) |
 | 1 | [Brooklyn 2019](https://www.worldcubeassociation.org/competitions/Brooklyn2019) |
 | 1 | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009) |
 | 1 | [Budapest Summer 2023](https://www.worldcubeassociation.org/competitions/BudapestSummer2023) |
@@ -292,6 +293,7 @@
 | 1 | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) |
 | 1 | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) |
 | 1 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) |
+| 1 | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) |
 | 1 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
 | 1 | [Vienna Summer 2024](https://www.worldcubeassociation.org/competitions/ViennaSummer2024) |
 | 1 | [Volunteer State Cubing 2024](https://www.worldcubeassociation.org/competitions/VolunteerStateCubing2024) |

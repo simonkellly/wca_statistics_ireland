@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 
 ### World
@@ -239,6 +239,7 @@
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2018MCCA02) |
 | 0 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2021FINK02) |
 | 0 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2019BURK05) |
+| 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025/results/by_person#2018MCCA02) |
 
 ### Continental
 

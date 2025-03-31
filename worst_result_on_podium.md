@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 
 ### Rubik's Cube
@@ -233,6 +233,7 @@
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **14:49.00** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/podiums#e555bf) | 3 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **14:23.00** | DNF | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/podiums#e555bf) | 2 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **11:44.00** | DNF | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/podiums#e555bf) | 1 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **9:59.11** | DNF | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025/results/podiums#e555bf) | 1 |
 
 ### 3x3x3 Multi-Blind
 

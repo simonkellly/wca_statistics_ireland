@@ -1,12 +1,12 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **167** | 69 | 38 | 274 |
-| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **16** | 13 | 15 | 44 |
+| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **17** | 13 | 17 | 47 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 21 | 28 | 64 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **4** | 1 | 6 | 11 |
@@ -17,6 +17,7 @@
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 3 | 3 | 7 |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **1** | 1 | 0 | 2 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1** | 0 | 2 | 3 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1** | 0 | 0 | 1 |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **1** | 0 | 0 | 1 |
@@ -27,7 +28,6 @@
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | **0** | 1 | 2 | 3 |
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 0 | 1 |
 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) | **0** | 1 | 0 | 1 |
-| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **0** | 1 | 0 | 1 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **0** | 0 | 3 | 3 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **0** | 0 | 2 | 2 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **0** | 0 | 2 | 2 |

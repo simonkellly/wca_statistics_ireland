@@ -1,21 +1,21 @@
 ## Most competitions abroad
 
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 | Competitions | Person |
 | ---: | :--- |
 | 72 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 40 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 30 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
-| 29 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
+| 30 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 27 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 27 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 26 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
-| 26 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 16 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 15 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 15 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
-| 14 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 14 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 14 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
@@ -25,10 +25,10 @@
 | 10 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 10 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) |
 | 9 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |
+| 9 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 9 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) |
 | 9 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 9 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) |
-| 8 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 8 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
 | 8 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 7 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
