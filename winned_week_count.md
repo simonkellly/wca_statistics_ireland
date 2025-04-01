@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 31 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -195,11 +195,11 @@
 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) | 2 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 2 |
 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | 2 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2 |
 | [JaeYoung Chun (천재영)](https://www.worldcubeassociation.org/persons/2006JAEY01) | 1 |
 | [Sander Kaspers](https://www.worldcubeassociation.org/persons/2006KASP02) | 1 |
 | [Takumi Yoshida (吉田匠)](https://www.worldcubeassociation.org/persons/2007YOSH01) | 1 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 1 |
-| [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | 1 |
 
 ### 3x3x3 One-Handed
 

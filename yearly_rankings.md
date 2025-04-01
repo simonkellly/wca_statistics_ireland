@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 31 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube - Single
@@ -219,10 +219,16 @@
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **34** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 34 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **35** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 35 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **39** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 39 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **42** | Ireland | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) | 42, 47, 43 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **43** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 43 |
 | [Matthew A. Horan](https://www.worldcubeassociation.org/persons/2017HORA02) | **43** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 43 |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **43** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 43 |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **44** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 44 |
+
+### 3x3x3 Fewest Moves - Average
+
+| Person | Result | Country | Competition | Details |
+| :--- | ---: | :--- | :--- | :--- |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **44.00** | Ireland | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) | 42, 47, 43 |
 
 ### 3x3x3 One-Handed - Single
 

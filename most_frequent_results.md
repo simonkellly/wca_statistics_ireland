@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on 31 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -112,8 +112,8 @@
 
 | Count | Result |
 | ---: | ---: |
+| 22 | 47 |
 | 22 | 37 |
-| 21 | 47 |
 | 20 | 38 |
 | 18 | 53 |
 | 17 | 46 |
