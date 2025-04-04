@@ -1,48 +1,48 @@
 ## Competitions per year by country
 
-*Updated on  1 April 2025*
+*Updated on  4 April 2025*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 8.52 | 134 | 15.73 | United Kingdom |
-| 6.81 | 64 | 9.40 | United States |
+| 6.80 | 64 | 9.41 | United States |
 | 5.25 | 69 | 13.14 | Ireland |
-| 4.09 | 10 | 2.45 | Austria |
-| 3.46 | 7 | 2.03 | Slovakia |
-| 2.64 | 16 | 6.07 | Australia |
+| 4.08 | 10 | 2.45 | Austria |
+| 3.45 | 7 | 2.03 | Slovakia |
+| 2.63 | 16 | 6.07 | Australia |
 | 2.51 | 40 | 15.94 | Germany |
-| 1.81 | 2 | 1.11 | Portugal |
-| 1.64 | 3 | 1.83 | Hungary |
+| 1.80 | 2 | 1.11 | Portugal |
+| 1.63 | 3 | 1.84 | Hungary |
 | 1.48 | 8 | 5.40 | Poland |
 | 1.48 | 3 | 2.03 | Sweden |
 | 1.18 | 4 | 3.39 | Norway |
-| 1.17 | 9 | 7.72 | France |
-| 1.16 | 7 | 6.05 | Denmark |
+| 1.16 | 9 | 7.73 | France |
+| 1.16 | 7 | 6.06 | Denmark |
 | 1.06 | 2 | 1.89 | Kenya |
 | 0.97 | 5 | 5.13 | Switzerland |
-| 0.94 | 1 | 1.07 | Estonia |
+| 0.93 | 1 | 1.07 | Estonia |
 | 0.81 | 13 | 16.13 | Italy |
 | 0.76 | 2 | 2.63 | Israel |
 | 0.76 | 1 | 1.32 | Greece |
 | 0.73 | 6 | 8.22 | United Arab Emirates |
 | 0.69 | 10 | 14.43 | Spain |
 | 0.62 | 1 | 1.61 | Slovenia |
-| 0.61 | 1 | 1.64 | Republic of Korea |
-| 0.56 | 4 | 7.14 | Finland |
-| 0.42 | 1 | 2.41 | Romania |
+| 0.61 | 1 | 1.65 | Republic of Korea |
+| 0.56 | 4 | 7.15 | Finland |
+| 0.41 | 1 | 2.41 | Romania |
 | 0.39 | 3 | 7.76 | Russia |
 | 0.39 | 4 | 10.37 | Netherlands |
 | 0.35 | 2 | 5.71 | India |
 | 0.34 | 2 | 5.80 | Multiple Countries (World) |
 | 0.33 | 2 | 6.03 | Multiple Countries (Europe) |
-| 0.31 | 5 | 16.09 | Belgium |
+| 0.31 | 5 | 16.10 | Belgium |
 | 0.30 | 2 | 6.69 | Ukraine |
 | 0.28 | 1 | 3.52 | Jordan |
 | 0.28 | 5 | 17.88 | Canada |
 | 0.27 | 1 | 3.64 | New Zealand |
-| 0.20 | 2 | 10.13 | Singapore |
+| 0.20 | 2 | 10.14 | Singapore |
 | 0.19 | 2 | 10.34 | South Africa |
-| 0.19 | 3 | 15.71 | Czech Republic |
+| 0.19 | 3 | 15.72 | Czech Republic |
 | 0.18 | 2 | 11.13 | Philippines |
 
 
