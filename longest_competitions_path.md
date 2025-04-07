@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -283,6 +283,7 @@
 | [Hayden Barry](https://www.worldcubeassociation.org/persons/2022BARR11) | 529 km |
 | [Rhys Friel](https://www.worldcubeassociation.org/persons/2022FRIE06) | 524 km |
 | [Liam O’Neill](https://www.worldcubeassociation.org/persons/2022ONEI07) | 524 km |
+| [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | 521 km |
 | [Asad Adil Butt](https://www.worldcubeassociation.org/persons/2019BUTT01) | 520 km |
 | [Maia Green](https://www.worldcubeassociation.org/persons/2022GREE13) | 520 km |
 | [Thea Hanna-Agnew](https://www.worldcubeassociation.org/persons/2022HANN08) | 517 km |
@@ -421,7 +422,6 @@
 | [David Akasheh](https://www.worldcubeassociation.org/persons/2024AKAS02) | 270 km |
 | [Oisín Clarke](https://www.worldcubeassociation.org/persons/2021CLAR08) | 266 km |
 | [Clíona Curran](https://www.worldcubeassociation.org/persons/2024CURR06) | 266 km |
-| [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | 265 km |
 | [Aditya Kulkarni](https://www.worldcubeassociation.org/persons/2022KULK10) | 264 km |
 | [Cian Wherity](https://www.worldcubeassociation.org/persons/2023WHER01) | 260 km |
 | [Daniel Wherity](https://www.worldcubeassociation.org/persons/2023WHER02) | 260 km |

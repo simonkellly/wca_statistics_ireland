@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -62,6 +62,7 @@
 | 1 | [Carquef'Open 2022](https://www.worldcubeassociation.org/competitions/CarquefOpen2022) |
 | 1 | [Cavarzere Cube Days 2023](https://www.worldcubeassociation.org/competitions/CavarzereCubeDays2023) |
 | 1 | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) |
+| 1 | [Charlottetown 2025](https://www.worldcubeassociation.org/competitions/Charlottetown2025) |
 | 1 | [Charlottetown Mini 2024](https://www.worldcubeassociation.org/competitions/CharlottetownMini2024) |
 | 1 | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) |
 | 1 | [Chester Open 2019](https://www.worldcubeassociation.org/competitions/ChesterOpen2019) |
@@ -195,6 +196,7 @@
 | 1 | [Mississippi Championship 2025](https://www.worldcubeassociation.org/competitions/MississippiChampionship2025) |
 | 1 | [Mississippi Cubing Dawgs 2024](https://www.worldcubeassociation.org/competitions/MississippiCubingDawgs2024) |
 | 1 | [MIT Fall 2018](https://www.worldcubeassociation.org/competitions/MITFall2018) |
+| 1 | [Moncton 2025](https://www.worldcubeassociation.org/competitions/Moncton2025) |
 | 1 | [Moonbow Mega Kentucky 2024](https://www.worldcubeassociation.org/competitions/MoonbowMegaKentucky2024) |
 | 1 | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023) |
 | 1 | [Muggiò & Chill Open 2023](https://www.worldcubeassociation.org/competitions/MuggioChillOpen2023) |

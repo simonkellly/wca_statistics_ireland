@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -123,6 +123,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | 43.92 | **48.82** | [Charlottetown 2025](https://www.worldcubeassociation.org/competitions/Charlottetown2025/results/podiums#e333oh) | 3 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 21.57 | **24.79** | [Turnin' in Termonfeckin Sat 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSat2023/results/podiums#e333oh) | 3 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 23.11 | **24.29** | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012/results/podiums#e333oh) | 2 |
 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) | 20.13 | **24.02** | [Turnin' in Termonfeckin Sat 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSat2023/results/podiums#e333oh) | 2 |
@@ -132,7 +133,6 @@
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 21.17 | **22.84** | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/podiums#e333oh) | 2 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 19.74 | **21.58** | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023/results/podiums#e333oh) | 3 |
 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | 19.19 | **21.54** | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022/results/podiums#e333oh) | 2 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 18.63 | **20.92** | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022/results/podiums#e333oh) | 2 |
 
 ### Megaminx
 

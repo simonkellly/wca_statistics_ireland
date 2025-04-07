@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -36,6 +36,7 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **0** | 0 | 1 | 1 |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | **0** | 0 | 1 | 1 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **0** | 0 | 1 | 1 |
+| [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | **0** | 0 | 1 | 1 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **0** | 0 | 1 | 1 |
 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | **0** | 0 | 1 | 1 |
 
