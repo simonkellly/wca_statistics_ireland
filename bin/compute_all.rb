@@ -10,8 +10,13 @@ Helpers.timed_task("Computing all statistics") do
   STATISTICS.each do |statistic_id, statistic_object|
     destination_path = File.join(build_path, "#{statistic_id}.md")
     Helpers.timed_task("Generating file at #{destination_path}") do
-      markdown_result = statistic_object.markdown
-      File.write(destination_path, markdown_result)
+      begin
+        markdown_result = statistic_object.markdown
+        File.write(destination_path, markdown_result)
+      rescue StandardError => e
+        puts "Error computing #{statistic_object.title}: #{e.message}"
+        next
+      end
     end
   end
 end
