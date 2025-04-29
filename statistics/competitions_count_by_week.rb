@@ -1,10 +1,10 @@
 require_relative "../core/statistic"
 
-class competitionsCountByWeek < Statistic
+class CompetitionsCountByWeek < Statistic
   def initialize
-    @title = "competitions count by week"
+    @title = "Competitions count by week"
     @note = "Week is considered to start on Monday and end on Sunday."
-    @table_header = { "competitions" => :center, "Week start" => :right, "Week end" => :right, "List on WCA" => :center }
+    @table_header = { "Competitions" => :center, "Week start" => :right, "Week end" => :right, "List on WCA" => :center }
   end
 
   def query

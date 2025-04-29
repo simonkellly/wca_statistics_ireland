@@ -1,6 +1,6 @@
 require_relative "../core/statistic"
 
-class LongestStreakOfcompetitionsInOwnCountry < Statistic
+class LongestStreakOfCompetitionsInOwnCountry < Statistic
   def initialize
     @title = "Longest streak of competitions in own country"
     @note = "The streak ends whenever the person doesn't participate in a competition in own country."

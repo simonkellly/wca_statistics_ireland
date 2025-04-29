@@ -1,9 +1,9 @@
 require_relative "../core/statistic"
 
-class MostAttendedcompetitionsInSingleWeek < Statistic
+class MostAttendedCompetitionsInSingleWeek < Statistic
   def initialize
     @title = "Most attended competitions in a single week"
-    @table_header = { "competitions" => :right, "Person" => :left, "Start date" => :left, "End date" => :left, "List" => :left }
+    @table_header = { "Competitions" => :right, "Person" => :left, "Start date" => :left, "End date" => :left, "List" => :left }
   end
 
   def query

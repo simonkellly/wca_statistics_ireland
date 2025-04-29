@@ -1,9 +1,9 @@
 require_relative "../core/statistic"
 
-class competitionsPerYearByPerson < Statistic
+class CompetitionsPerYearByPerson < Statistic
   def initialize
-    @title = "competitions per year by person"
-    @table_header = { "competitions per year" => :right, "competitions" => :right, "Years" => :right, "Person" => :left }
+    @title = "Competitions per year by person"
+    @table_header = { "Competitions per year" => :right, "Competitions" => :right, "Years" => :right, "Person" => :left }
   end
 
   def query

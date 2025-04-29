@@ -1,6 +1,6 @@
 require_relative "../core/statistic"
 
-class LongestcompetitionsPath < Statistic
+class LongestCompetitionsPath < Statistic
   def initialize
     @title = "Longest competitions path"
     @note = "Calculated as the sum of direct distance between subsequent competitions."
