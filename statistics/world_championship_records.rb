@@ -20,9 +20,9 @@ class WorldChampionshipRecords < GroupedStatistic
         average
       FROM IrishResults
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
-      JOIN competitions competition ON competition.id = competition_id
+      JOIN competitions competition ON competition.id = IrishResults.competition_id
       JOIN countries country ON country.id = person.country_id
-      JOIN championships ON championships.competition_id = competition_id
+      JOIN championships ON championships.competition_id = IrishResults.competition_id
       WHERE championship_type = 'world'
     SQL
   end

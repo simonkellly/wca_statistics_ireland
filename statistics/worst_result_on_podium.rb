@@ -14,16 +14,16 @@ class WorstResultOnPodium < GroupedStatistic
       SELECT
         format.sort_by,
         format.sort_by_second,
-        event_id event_id,
+        IrishResults.event_id event_id,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/podiums#e', event_id, ')') podium_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/podiums#e', IrishResults.event_id, ')') podium_link,
         pos place
       FROM IrishResults
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
-      JOIN preferred_formats preferred_format ON preferred_format.event_id = event_id AND ranking = 1
+      JOIN preferred_formats preferred_format ON preferred_format.event_id = IrishResults.event_id AND ranking = 1
       JOIN formats format ON format.id = preferred_format.format_id
       WHERE round_type_id IN ('c', 'f') AND pos <= 3
     SQL

@@ -18,7 +18,7 @@ class BestResultOffPodium < GroupedStatistic
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/all#e', event_id, '_', round_type_id, ')') podium_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/all#e', IrishResults.event_id, '_', round_type_id, ')') podium_link,
         pos place
       FROM IrishResults
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
