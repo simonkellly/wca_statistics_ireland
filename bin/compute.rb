@@ -8,6 +8,7 @@ $stdout.sync = true
 statistic_path = ARGV[0] || abort("Please provide the statistic file path.")
 statistic_id = File.basename(statistic_path, ".rb")
 statistic_object = STATISTICS[statistic_id]
+puts statistic_object.inspect
 Helpers.timed_task("Computing: #{statistic_object.title}") do
   markdown_result = statistic_object.markdown
   destination_path = File.expand_path("../build/#{statistic_id}.md", __dir__)
