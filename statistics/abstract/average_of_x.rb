@@ -20,21 +20,21 @@ class AverageOfX < GroupedStatistic
     <<-SQL
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        result.eventId event_id,
+        result.event_id,
         value1, value2, value3, value4, value5
-      FROM IrishResults result
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN RoundTypes round_type ON round_type.id = roundTypeId
-      JOIN RanksSingle ranks_single ON ranks_single.eventId = result.eventId AND ranks_single.personId = result.personId
+      FROM Irishresults result
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN round_types round_type ON round_type.id = round_type_id
+      JOIN ranks_single ranks_single ON ranks_single.event_id = result.event_id AND ranks_single.person_id = result.person_id
       -- Take people from top 200 single for optimization reasons.
-      WHERE ranks_single.worldRank <= 200 AND result.eventId NOT IN ('333mbf', '333mbo')
+      WHERE ranks_single.world_rank <= 200 AND result.event_id NOT IN ('333mbf', '333mbo')
       ORDER BY competition.start_date, round_type.rank
     SQL
   end
 
   def transform(query_results)
-    Events::ALL.map do |event_id, event_name|
+    events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }

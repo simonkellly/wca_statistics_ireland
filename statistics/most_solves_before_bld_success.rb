@@ -9,21 +9,21 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id event_id,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         value1, value2, value3, value4, value5
-      FROM IrishResults
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN RoundTypes round_type ON round_type.id = roundTypeId
-      JOIN Events event ON event.id = eventId
-      WHERE eventId IN ('333bf', '444bf', '555bf', '333mbf')
+      FROM Irishresults
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN round_types round_type ON round_type.id = round_type_id
+      JOIN events event ON event.id = event_id
+      WHERE event_id IN ('333bf', '444bf', '555bf', '333mbf')
       ORDER BY competition.start_date, round_type.rank
     SQL
   end
 
   def transform(query_results)
-    Events::BLD.map do |event_id, event_name|
+    events::BLD.map do |event_id, event_name|
       attempts_with_people = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }

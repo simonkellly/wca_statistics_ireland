@@ -12,19 +12,19 @@ class BestFirstAverage < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id event_id,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         average
-      FROM IrishResults
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN RoundTypes round_type ON round_type.id = roundTypeId
+      FROM Irishresults
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN round_types round_type ON round_type.id = round_type_id
       ORDER BY competition.start_date, round_type.rank
     SQL
   end
 
   def transform(query_results)
-    Events::ALL.map do |event_id, event_name|
+    events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }

@@ -10,22 +10,22 @@ class AverageEventCountByCompetition < Statistic
   def query
     <<-SQL
       SELECT
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         AVG(event_count) average_event_count,
         COUNT(*) competitors,
         country.name country
       FROM (
         SELECT
-          competitionId,
-          personId,
-          COUNT(DISTINCT eventId) event_count
-        FROM IrishResults
-        GROUP BY competitionId, personId
+          competition_id,
+          person_id,
+          COUNT(DISTINCT event_id) event_count
+        FROM Irishresults
+        GROUP BY competition_id, person_id
       ) AS competitors_with_event_count
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN Countries country ON country.id = competition.countryId
-      where competition.countryId='Ireland'
-      GROUP BY competitionId
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN countries country ON country.id = competition.country_id
+      where competition.country_id='Ireland'
+      GROUP BY competition_id
       ORDER BY average_event_count DESC
       LIMIT 100
     SQL

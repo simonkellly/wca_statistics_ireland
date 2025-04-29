@@ -6,26 +6,26 @@ class SmallestDiffBetweenSingleAndAverage < GroupedStatistic
   def initialize
     @title = "Smallest difference between a single and an average"
     @note = "FMC is ignored because values are integers, thus it's likely to get the same single and average."
-    @table_header = { "Diff" => :right, "Person" => :left, "Single" => :right, "Average" => :right, "Results" => :left }
+    @table_header = { "Diff" => :right, "Person" => :left, "Single" => :right, "Average" => :right, "results" => :left }
   end
 
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id event_id,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
-      FROM IrishResults
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      WHERE eventId != '333fm' AND average > 0
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
+      FROM Irishresults
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      WHERE event_id != '333fm' AND average > 0
     SQL
   end
 
   def transform(query_results)
-    Events::ALL.map do |event_id, event_name|
+    events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .each { |result| result["diff"] = result["average"] - result["single"] }

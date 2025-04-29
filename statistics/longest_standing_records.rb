@@ -11,22 +11,22 @@ class LongestStandingRecords < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        regionalSingleRecord regional_single_record,
-        regionalAverageRecord regional_average_record,
+        regional_single_record regional_single_record,
+        regional_average_record regional_average_record,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link,
         competition.start_date competition_date,
-        eventId event_id,
+        event_id event_id,
         continent.name continent
-      FROM IrishResults result
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN Countries country ON country.id = result.countryId
-      JOIN Continents continent ON continent.id = country.continentId
-      WHERE regionalSingleRecord IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
-         OR regionalAverageRecord IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
+      FROM Irishresults result
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN countries country ON country.id = result.country_id
+      JOIN continents continent ON continent.id = country.continent_id
+      WHERE regional_single_record IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
+         OR regional_average_record IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
       ORDER BY competition_date
     SQL
   end
@@ -46,7 +46,7 @@ class LongestStandingRecords < GroupedStatistic
           .select do |result|
             record_ids.include?(result["regional_#{type}_record"]) &&
             (region == "World" || region == result["continent"]) &&
-            Events::OFFICIAL.has_key?(result["event_id"])
+            events::OFFICIAL.has_key?(result["event_id"])
           end
           .group_by { |result| result["event_id"] }
           .flat_map do |event_id, results|
@@ -58,7 +58,7 @@ class LongestStandingRecords < GroupedStatistic
             results
           end
           .map! do |result|
-            event_name = Events::ALL[result["event_id"]]
+            event_name = events::ALL[result["event_id"]]
             solve_time = SolveTime.new(result["event_id"], type, result[type])
             [event_name, type.capitalize, result["days"].to_i, solve_time.clock_format, result["person_link"], result["results_link"]]
           end

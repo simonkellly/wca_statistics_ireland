@@ -11,19 +11,19 @@ class BestSingleCountingIntoAverage < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id event_id,
         value1, value2, value3, value4, value5,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
-      FROM IrishResults
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      WHERE formatId = 'a'
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
+      FROM Irishresults
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      WHERE format_id = 'a'
     SQL
   end
 
   def transform(query_results)
-    Events::ALL.map do |event_id, event_name|
+    events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .flat_map do |result|

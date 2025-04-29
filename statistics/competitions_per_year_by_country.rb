@@ -1,9 +1,9 @@
 require_relative "../core/statistic"
 
-class CompetitionsPerYearByCountry < Statistic
+class competitionsPerYearByCountry < Statistic
   def initialize
-    @title = "Competitions per year by country"
-    @table_header = { "Competitions per year" => :right, "Competitions" => :right, "Years" => :right, "Country" => :left }
+    @title = "competitions per year by country"
+    @table_header = { "competitions per year" => :right, "competitions" => :right, "Years" => :right, "Country" => :left }
   end
 
   def query
@@ -15,15 +15,15 @@ class CompetitionsPerYearByCountry < Statistic
         country.name country
       FROM (
           SELECT
-            COUNT(DISTINCT competitionId) competitions,
+            COUNT(DISTINCT competition_id) competitions,
             (DATEDIFF(CURDATE(), MIN(start_date)) / 365.25) years,
-            competition.countryId
-          FROM IrishResults result
-          JOIN Competitions competition ON competition.id = competitionId
-          GROUP BY competition.countryId
+            competition.country_id
+          FROM Irishresults result
+          JOIN competitions competition ON competition.id = competition_id
+          GROUP BY competition.country_id
           HAVING years >= 1
       ) AS data_by_country
-      JOIN Countries country ON country.id = countryId
+      JOIN countries country ON country.id = country_id
       ORDER BY competitions_per_year DESC
     SQL
   end

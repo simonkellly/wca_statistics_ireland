@@ -9,23 +9,23 @@ class LongestStreakOfWorldRecords < Statistic
   def query
     <<-SQL
       SELECT
-        regionalSingleRecord regional_single_record,
-        regionalAverageRecord regional_average_record,
+        regional_single_record regional_single_record,
+        regional_average_record regional_average_record,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         competition.start_date competition_date,
-        eventId event_id
-      FROM IrishResults result
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      WHERE regionalSingleRecord = 'WR' OR regionalAverageRecord = 'WR'
+        event_id event_id
+      FROM Irishresults result
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      WHERE regional_single_record = 'WR' OR regional_average_record = 'WR'
     SQL
   end
 
   def transform(query_results)
-    Events::ALL.flat_map do |event_id, event_name|
+    events::ALL.flat_map do |event_id, event_name|
       %w(single average).flat_map do |type|
         query_results
           .select { |result| result["event_id"] == event_id && result["regional_#{type}_record"] == "WR" }

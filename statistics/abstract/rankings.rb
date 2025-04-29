@@ -14,23 +14,23 @@ class Rankings < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id,
         best single,
         average,
         value1, value2, value3, value4, value5,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         country.name country
-      FROM IrishResults
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Countries country ON country.id = person.countryId
-      JOIN Competitions competition ON competition.id = competitionId
+      FROM Irishresults
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN countries country ON country.id = person.country_id
+      JOIN competitions competition ON competition.id = competition_id
       #{@condition}
     SQL
   end
 
   def transform(query_results)
-    Events::ALL.flat_map do |event_id, event_name|
+    events::ALL.flat_map do |event_id, event_name|
       %w(single average).map do |type|
         results = query_results
           .select { |result| result["event_id"] == event_id && result[type] > 0 }

@@ -3,7 +3,7 @@ require_relative "../core/grouped_statistic"
 class CompetitionDaysCountByRegion < GroupedStatistic
   def initialize
     @title = "Competition days count by region"
-    @table_header = { "Days" => :right, "Region" => :left, "Competitions" => :right }
+    @table_header = { "Days" => :right, "Region" => :left, "competitions" => :right }
   end
 
   def query
@@ -12,20 +12,20 @@ class CompetitionDaysCountByRegion < GroupedStatistic
         (DATEDIFF(end_date, start_date) + 1) days,
         country.name country,
         continent.name continent
-      FROM Competitions
-      JOIN Countries country ON country.id = countryId
-      JOIN Continents continent ON continent.id = continentId
-      WHERE countryId -- Ignore Multiple Countries used for continental FMC competitions.
+      FROM competitions
+      JOIN countries country ON country.id = country_id
+      JOIN continents continent ON continent.id = continent_id
+      WHERE country_id -- Ignore Multiple countries used for continental FMC competitions.
         NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
-        AND continentId != "_Multiple Continents"
+        AND continent_id != "_Multiple continents"
     SQL
   end
 
   def transform(query_results)
     {
       "World" => ->(result) { "World" },
-      "Continents" => ->(result) { result["continent"] },
-      "Countries" => ->(result) { result["country"] }
+      "continents" => ->(result) { result["continent"] },
+      "countries" => ->(result) { result["country"] }
     }.map do |header, grouping_function|
       results = query_results
         .group_by(&grouping_function)

@@ -14,23 +14,23 @@ class BestResultOffPodium < GroupedStatistic
       SELECT
         format.sort_by,
         format.sort_by_second,
-        eventId event_id,
+        event_id event_id,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/all#e', eventId, '_', roundTypeId, ')') podium_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/all#e', event_id, '_', round_type_id, ')') podium_link,
         pos place
-      FROM IrishResults
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN preferred_formats preferred_format ON preferred_format.event_id = eventId AND ranking = 1
-      JOIN Formats format ON format.id = preferred_format.format_id
-      WHERE roundTypeId IN ('c', 'f') AND pos > 3
+      FROM Irishresults
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN preferred_formats preferred_format ON preferred_format.event_id = event_id AND ranking = 1
+      JOIN formats format ON format.id = preferred_format.format_id
+      WHERE round_type_id IN ('c', 'f') AND pos > 3
     SQL
   end
 
   def transform(query_results)
-    Events::ALL.map do |event_id, event_name|
+    events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .each do |result|

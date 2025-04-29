@@ -88,21 +88,21 @@ Dir.mktmpdir do |tmp_direcory|
     export_timestamp = File.mtime(filename)
     store_metadata_sql = "CREATE TABLE wca_statistics_metadata (field varchar(255), value varchar(255)); INSERT INTO wca_statistics_metadata (field, value) VALUES ('export_timestamp', '#{export_timestamp.iso8601}')"
     `#{mysql_with_credentials} #{config["database"]} -e "#{store_metadata_sql}" #{filter_out_mysql_warning}`
-    
-    extra_query_1 = "create table IrishResults like Results"
+
+    extra_query_1 = "create table IrishResults like results"
     `#{mysql_with_credentials} #{config["database"]} -e "#{extra_query_1}" #{filter_out_mysql_warning}`
 
-    extra_query_2 = "insert into IrishResults select * from Results where
-      (personId in (
-        select personId
+    extra_query_2 = "insert into IrishResults select * from results where
+      (person_id in (
+        select person_id
         from
-            (select distinct personName, personId, competitionId
-            from Results
-            where countryId != 'Ireland'
+            (select distinct person_name, person_id, competition_id
+            from results
+            where country_id != 'Ireland'
             ) data
-        group by personName, personId
-        having 2 * sum(if(competitionId in (select id from Competitions where countryId='Ireland'), 1, 0)) > count(*))
-        ) or (countryId = 'Ireland')"
+        group by person_name, person_id
+        having 2 * sum(if(competition_id in (select id from competitions where country_id='Ireland'), 1, 0)) > count(*))
+        ) or (country_id = 'Ireland')"
     `#{mysql_with_credentials} #{config["database"]} -e "#{extra_query_2}" #{filter_out_mysql_warning}`
   end
 end

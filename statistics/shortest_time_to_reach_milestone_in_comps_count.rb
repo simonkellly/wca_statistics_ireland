@@ -13,13 +13,13 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
         start_date
       FROM (
         SELECT DISTINCT
-          personId,
-          competitionId,
+          person_id,
+          competition_id,
           start_date
-        FROM IrishResults
-        JOIN Competitions competition ON competition.id = competitionId
+        FROM Irishresults
+        JOIN competitions competition ON competition.id = competition_id
       ) AS competition_dates_with_people
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
       ORDER BY start_date
     SQL
   end
@@ -37,7 +37,7 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
         end
         .sort_by! { |days, person_link| days }
         .first(20)
-      ["#{competitions_count} Competitions", days_with_people]
+      ["#{competitions_count} competitions", days_with_people]
     end
   end
 end

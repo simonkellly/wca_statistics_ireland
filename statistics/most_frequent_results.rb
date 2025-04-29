@@ -1,7 +1,7 @@
 require_relative "../core/grouped_statistic"
 require_relative "../core/events"
 
-class MostFrequentResults < GroupedStatistic
+class MostFrequentresults < GroupedStatistic
   def initialize
     @title = "Most frequent results"
     @table_header = { "Count" => :right, "Result" => :right }
@@ -10,19 +10,19 @@ class MostFrequentResults < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id event_id,
         value1,
         value2,
         value3,
         value4,
         value5
-      FROM IrishResults
-      WHERE eventId != '333mbo'
+      FROM Irishresults
+      WHERE event_id != '333mbo'
     SQL
   end
 
   def transform(query_results)
-    Events::ALL.map do |event_id, event_name|
+    events::ALL.map do |event_id, event_name|
       counts_with_results = query_results
         .select { |result| result["event_id"] == event_id }
         .flat_map do |result|

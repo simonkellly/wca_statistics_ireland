@@ -10,7 +10,7 @@ class DnfRateByEvent < Statistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id event_id,
         SUM(
             IF(value1 = -1, 1, 0)
           + IF(value2 = -1, 1, 0)
@@ -25,8 +25,8 @@ class DnfRateByEvent < Statistic
           + IF(value4 NOT IN (-2, 0), 1, 0)
           + IF(value5 NOT IN (-2, 0), 1, 0)
         ) attempts
-      FROM IrishResults
-      GROUP BY eventId
+      FROM Irishresults
+      GROUP BY event_id
     SQL
   end
 
@@ -35,7 +35,7 @@ class DnfRateByEvent < Statistic
       .each { |result| result["dnf_rate"] = 100.0 * result["dnfs"] / result["attempts"] }
       .sort_by! { |result| -result["dnf_rate"] }
       .map! do |result|
-        ["%0.2f %%" % result["dnf_rate"], Events::ALL[result["event_id"]], result["dnfs"], result["attempts"]]
+        ["%0.2f %%" % result["dnf_rate"], events::ALL[result["event_id"]], result["dnfs"], result["attempts"]]
       end
   end
 end
