@@ -30,7 +30,7 @@ class Rankings < GroupedStatistic
   end
 
   def transform(query_results)
-    events::ALL.flat_map do |event_id, event_name|
+    Events::ALL.flat_map do |event_id, event_name|
       %w(single average).map do |type|
         results = query_results
           .select { |result| result["event_id"] == event_id && result[type] > 0 }

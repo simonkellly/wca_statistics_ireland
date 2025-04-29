@@ -23,7 +23,7 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
   end
 
   def transform(query_results)
-    events::BLD.map do |event_id, event_name|
+    Events::BLD.map do |event_id, event_name|
       attempts_with_people = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }

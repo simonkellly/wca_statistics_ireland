@@ -34,7 +34,7 @@ class AverageOfX < GroupedStatistic
   end
 
   def transform(query_results)
-    events::ALL.map do |event_id, event_name|
+    Events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }

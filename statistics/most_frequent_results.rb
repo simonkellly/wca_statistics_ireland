@@ -22,7 +22,7 @@ class MostFrequentresults < GroupedStatistic
   end
 
   def transform(query_results)
-    events::ALL.map do |event_id, event_name|
+    Events::ALL.map do |event_id, event_name|
       counts_with_results = query_results
         .select { |result| result["event_id"] == event_id }
         .flat_map do |result|

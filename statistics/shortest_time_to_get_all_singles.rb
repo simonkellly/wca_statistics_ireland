@@ -22,7 +22,7 @@ class ShortestTimeToGetAllSingles < Statistic
         JOIN events event ON event.id = event_id
         WHERE event.rank < 900
         GROUP BY person_id
-        HAVING COUNT(event_id) = #{events::OFFICIAL.length}
+        HAVING COUNT(event_id) = #{Events::OFFICIAL.length}
       ) AS all_events_people
       JOIN results result ON result.person_id = all_events_people.person_id
       JOIN persons person ON person.wca_id = result.person_id and person.sub_id = 1

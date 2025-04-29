@@ -9,7 +9,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
   end
 
   # All events except 3x3x3 MBLD have an average.
-  NUM_EVENTS_WITH_AVERAGES = events::OFFICIAL.length - 1
+  NUM_EVENTS_WITH_AVERAGES = Events::OFFICIAL.length - 1
 
   def query
     <<-SQL
@@ -26,7 +26,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
         JOIN events event ON event.id = event_id
         WHERE event.rank < 900
         GROUP BY person_id
-        HAVING COUNT(event_id) = #{events::OFFICIAL.length}
+        HAVING COUNT(event_id) = #{Events::OFFICIAL.length}
       ) AS all_events_people
       JOIN (
         -- People who have average for every official event.

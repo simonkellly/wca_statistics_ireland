@@ -46,7 +46,7 @@ class LongestStandingRecords < GroupedStatistic
           .select do |result|
             record_ids.include?(result["regional_#{type}_record"]) &&
             (region == "World" || region == result["continent"]) &&
-            events::OFFICIAL.has_key?(result["event_id"])
+            Events::OFFICIAL.has_key?(result["event_id"])
           end
           .group_by { |result| result["event_id"] }
           .flat_map do |event_id, results|
@@ -58,7 +58,7 @@ class LongestStandingRecords < GroupedStatistic
             results
           end
           .map! do |result|
-            event_name = events::ALL[result["event_id"]]
+            event_name = Events::ALL[result["event_id"]]
             solve_time = SolveTime.new(result["event_id"], type, result[type])
             [event_name, type.capitalize, result["days"].to_i, solve_time.clock_format, result["person_link"], result["results_link"]]
           end

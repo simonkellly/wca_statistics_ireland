@@ -37,7 +37,7 @@ class WorldChampionshipRecords < GroupedStatistic
             records_by_event[result["event_id"]] = result
           end
         end
-      records = events::OFFICIAL
+      records = Events::OFFICIAL
         .map { |event_id, event_name| [event_name, records_by_event[event_id]] }
         .select { |event_name, result| result[type].complete? }
         .map! do |event_name, result|

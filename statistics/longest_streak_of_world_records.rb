@@ -25,7 +25,7 @@ class LongestStreakOfWorldRecords < Statistic
   end
 
   def transform(query_results)
-    events::ALL.flat_map do |event_id, event_name|
+    Events::ALL.flat_map do |event_id, event_name|
       %w(single average).flat_map do |type|
         query_results
           .select { |result| result["event_id"] == event_id && result["regional_#{type}_record"] == "WR" }
