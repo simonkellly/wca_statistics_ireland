@@ -1,12 +1,12 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 April 2025*
+*Updated on 28 April 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **167** | 69 | 38 | 274 |
-| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **17** | 13 | 17 | 47 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **171** | 69 | 38 | 278 |
+| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **18** | 15 | 18 | 51 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 21 | 28 | 64 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **4** | 1 | 6 | 11 |
@@ -25,6 +25,7 @@
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **1** | 0 | 0 | 1 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **0** | 2 | 0 | 2 |
+| [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **0** | 2 | 0 | 2 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | **0** | 1 | 2 | 3 |
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 0 | 1 |
 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) | **0** | 1 | 0 | 1 |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 April 2025*
+*Updated on 28 April 2025*
 
 
 ### Rubik's Cube
@@ -34,13 +34,14 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:52.72 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:53.55, 1:54.90, 1:51.46, 1:52.33, 1:52.29 |
+| 1:51.41 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:05.47, 1:51.90, 1:52.28, 1:50.04, 1:46.44 |
 
 ### 3x3x3 Blindfolded
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 32.98 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 31.19, 27.59, 38.83, DNF, 28.93 |
+| 1:35.66 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1:44.78, 2:01.99, 1:00.20, DNF, 53.19 |
 
 ### 3x3x3 Fewest Moves
 
@@ -58,8 +59,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 32.20 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 29.39, 33.12, 31.84, 35.01, 31.65 |
 | 32.51 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 32.26, 33.00, 29.93, 36.69, 32.27 |
-| 35.40 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 34.91, 38.31, 36.15, 35.14, 34.68 |
 | 36.65 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.20, 38.29, 33.37, 36.29, 36.45 |
 
 ### Pyraminx

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 April 2025*
+*Updated on 28 April 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -32,6 +32,7 @@
 | 1 | [Belgian Open 2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019) |
 | 1 | [Berkeley Summer 2024](https://www.worldcubeassociation.org/competitions/BerkeleySummer2024) |
 | 1 | [Berkeley Winter A 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterA2023) |
+| 1 | [Birmingham Spring 2025](https://www.worldcubeassociation.org/competitions/BirminghamSpring2025) |
 | 1 | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024) |
 | 1 | [Bishop's Stortford - BBO 2022](https://www.worldcubeassociation.org/competitions/BishopsStortfordAutumnBBO2022) |
 | 1 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023) |
@@ -120,6 +121,7 @@
 | 1 | [Frankfurt Cube Days 2020](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2020) |
 | 1 | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024) |
 | 1 | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
+| 1 | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) |
 | 1 | [FSUbers 2.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers202022) |
 | 1 | [FSUbers 3.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers302022) |
 | 1 | [FSUbers 5.0 2024](https://www.worldcubeassociation.org/competitions/FSUbers502024) |
@@ -258,6 +260,7 @@
 | 1 | [Slovak Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovakNationals2023) |
 | 1 | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) |
 | 1 | [Slovenian Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianNationals2023) |
+| 1 | [Slovenska Bistrica Open 2025](https://www.worldcubeassociation.org/competitions/SlovenskaBistricaOpen2025) |
 | 1 | [Smartcube Fest Kyiv 2019](https://www.worldcubeassociation.org/competitions/SmartcubeFestKyiv2019) |
 | 1 | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) |
 | 1 | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) |
@@ -347,6 +350,7 @@
 | 2 | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |
 | 2 | [Lincolnshire Winter 2023](https://www.worldcubeassociation.org/competitions/LincolnshireWinter2023) |
 | 2 | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016) |
+| 2 | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) |
 | 2 | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |
 | 2 | [Newcastle-under-Lyme Open 2017](https://www.worldcubeassociation.org/competitions/NewcastleunderLyme2017) |
 | 2 | [Norwich Summer 2022](https://www.worldcubeassociation.org/competitions/NorwichSummer2022) |

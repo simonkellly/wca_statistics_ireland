@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 April 2025*
+*Updated on 28 April 2025*
 
 
 ### Rubik's Cube
@@ -46,8 +46,8 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 33.88 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 29.95, 38.07, 34.32, 37.07, 36.22, 32.76, 31.64, 33.50, DNF, 32.26, 33.00, 29.93 |
-| 36.17 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 36.07, 36.35, 36.33, 42.86, 35.43, 34.58, 38.30, 34.91, 38.31, 36.15, 35.14, 34.68 |
+| 33.30 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 32.24, 35.25, 34.76, 29.65, 33.82, 36.34, 35.65, 29.39, 33.12, 31.84, 35.01, 31.65 |
+| 33.31 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 32.26, 33.00, 29.93, 36.69, 32.27, 36.21, 31.68, DNF, 29.17, 29.74, 37.03, 34.27 |
 | 37.54 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 39.16, 36.86, 39.19, 42.48, 37.20, 38.29, 33.37, 36.29, 36.45, 38.47, 40.12, 32.68 |
 
 ### Pyraminx

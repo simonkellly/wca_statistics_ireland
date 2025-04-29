@@ -1,11 +1,11 @@
 ## Most records at a single competition
 
-*Updated on 13 April 2025*
+*Updated on 28 April 2025*
 
 
 ### World
 
-| Records | Person | Results |
+| Records | Person | results |
 | ---: | :--- | :--- |
 | 0 | [Jesse Harper](https://www.worldcubeassociation.org/persons/2007HARP01) | [Toronto Open Fall 2007](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2007/results/by_person#2007HARP01) |
 | 0 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Belgian Open 2009](https://www.worldcubeassociation.org/competitions/BelgianOpen2009/results/by_person#2009BAUM01) |
@@ -240,10 +240,13 @@
 | 0 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2021FINK02) |
 | 0 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2019BURK05) |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025/results/by_person#2018MCCA02) |
+| 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2018MCCA02) |
+| 0 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2023MARA10) |
+| 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2019NATS02) |
 
 ### Continental
 
-| Records | Person | Results |
+| Records | Person | results |
 | ---: | :--- | :--- |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019/results/by_person#2012BEAH01) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/by_person#2012BEAH01) |
@@ -272,7 +275,7 @@
 
 ### National
 
-| Records | Person | Results |
+| Records | Person | results |
 | ---: | :--- | :--- |
 | 21 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009BAUM01) |
 | 16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014/results/by_person#2012BEAH01) |

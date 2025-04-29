@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 April 2025*
+*Updated on 28 April 2025*
 
 
 ### Rubik's Cube
@@ -10,6 +10,7 @@
 | ---: | :--- |
 | 9.60 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 9.64 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
+| 9.80 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 10.75 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 10.80 | [Malek Almendeel](https://www.worldcubeassociation.org/persons/2023ALME15) |
 | 10.82 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
@@ -17,12 +18,12 @@
 | 11.41 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 11.70 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 12.48 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
-| 12.49 | [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) |
 
 ### 2x2x2 Cube
 
 | First average | Person |
 | ---: | :--- |
+| 2.67 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 3.38 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 3.70 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 3.70 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
@@ -32,13 +33,13 @@
 | 4.46 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 4.52 | [Jakub Budzynski](https://www.worldcubeassociation.org/persons/2022BUDZ03) |
 | 4.56 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
-| 4.60 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) |
 
 ### 4x4x4 Cube
 
 | First average | Person |
 | ---: | :--- |
 | 33.32 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
+| 38.86 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 42.02 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 44.36 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 46.72 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
@@ -47,13 +48,13 @@
 | 52.74 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
 | 52.94 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 54.60 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
-| 55.02 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 
 ### 5x5x5 Cube
 
 | First average | Person |
 | ---: | :--- |
 | 55.71 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
+| 1:13.01 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 1:19.21 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:22.49 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
 | 1:26.37 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
@@ -62,13 +63,13 @@
 | 1:34.40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 1:39.61 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 1:39.93 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
-| 1:41.23 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 
 ### 6x6x6 Cube
 
 | First average | Person |
 | ---: | :--- |
 | 2:00.38 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
+| 2:12.81 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 2:29.03 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 2:35.26 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 2:38.66 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
@@ -77,12 +78,12 @@
 | 3:00.01 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 3:05.05 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 3:06.06 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
-| 3:07.68 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 
 ### 7x7x7 Cube
 
 | First average | Person |
 | ---: | :--- |
+| 4:07.09 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 4:07.98 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
 | 4:10.17 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 4:27.34 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
@@ -92,7 +93,6 @@
 | 5:01.89 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
 | 5:07.88 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 5:09.51 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
-| 5:18.64 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 
 ### 3x3x3 Blindfolded
 
@@ -113,6 +113,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 15.68 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 17.25 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 18.79 | [Dominic Mckeon](https://www.worldcubeassociation.org/persons/2021MCKE03) |
 | 23.48 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
@@ -122,28 +123,29 @@
 | 26.93 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 26.98 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 28.01 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
-| 28.33 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 
 ### Megaminx
 
 | First average | Person |
 | ---: | :--- |
 | 1:00.28 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
+| 1:01.65 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 1:10.00 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 1:18.31 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:20.28 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
+| 1:21.78 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 | 1:24.43 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 1:25.45 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 1:31.22 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 1:32.49 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
-| 1:34.80 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) |
-| 1:35.21 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 
 ### Pyraminx
 
 | First average | Person |
 | ---: | :--- |
+| 3.36 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 | 3.56 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
+| 5.53 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 5.55 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 5.78 | [Daragh Mortimer](https://www.worldcubeassociation.org/persons/2022MORT01) |
 | 5.94 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
@@ -151,28 +153,27 @@
 | 6.25 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
 | 6.88 | [Ted Bloxam](https://www.worldcubeassociation.org/persons/2019BLOX01) |
 | 7.04 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) |
-| 7.21 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
-| 7.48 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
 
 ### Rubik's Clock
 
 | First average | Person |
 | ---: | :--- |
+| 7.94 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 8.04 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 8.38 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
+| 8.80 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 | 9.45 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 9.59 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 10.33 | [Síobhradh Cunningham](https://www.worldcubeassociation.org/persons/2023CUNN04) |
 | 10.66 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 10.83 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
-| 11.15 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
-| 12.06 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
-| 12.11 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 11.15 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 
 ### Skewb
 
 | First average | Person |
 | ---: | :--- |
+| 3.84 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 6.08 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 6.76 | [Peter Illes](https://www.worldcubeassociation.org/persons/2022ILLE02) |
 | 7.15 | [Joshua O'Neill](https://www.worldcubeassociation.org/persons/2024ONEI01) |
@@ -180,16 +181,16 @@
 | 7.21 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 7.30 | [Ted Bloxam](https://www.worldcubeassociation.org/persons/2019BLOX01) |
 | 7.49 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
+| 7.50 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 | 7.57 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 7.69 | [Aran Hutzler](https://www.worldcubeassociation.org/persons/2019HUTZ02) |
-| 7.80 | [Adam Ahern](https://www.worldcubeassociation.org/persons/2017AHER02) |
 
 ### Square-1
 
 | First average | Person |
 | ---: | :--- |
+| 11.25 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 17.42 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 19.20 | [Conor McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
+| 19.20 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 20.74 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 22.48 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
 | 24.18 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
@@ -197,7 +198,6 @@
 | 26.43 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 26.78 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) |
 | 26.95 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
-| 27.50 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 
 ### 3x3x3 With Feet
 

@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 13 April 2025*
+*Updated on 28 April 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -38,6 +38,7 @@
 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 5.59 | 88 | Ireland |
 | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | 5.56 | 80 | Ireland |
 | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) | 5.54 | 52 | Ireland |
+| [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 5.47 | 95 | Ireland |
 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | 5.47 | 91 | Ireland |
 | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) | 5.39 | 114 | Ireland |
 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | 5.32 | 134 | Ireland |
@@ -48,6 +49,7 @@
 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) | 5.08 | 76 | Ireland |
 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | 5.05 | 122 | Ireland |
 | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | 5.04 | 112 | Ireland |
+| [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 5.00 | 106 | Ireland |
 | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | 4.91 | 70 | Ireland |
 | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) | 4.88 | 43 | Ireland |
 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | 4.86 | 22 | Ireland |
