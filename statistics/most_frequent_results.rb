@@ -1,7 +1,7 @@
 require_relative "../core/grouped_statistic"
 require_relative "../core/events"
 
-class MostFrequentresults < GroupedStatistic
+class MostFrequentResults < GroupedStatistic
   def initialize
     @title = "Most frequent results"
     @table_header = { "Count" => :right, "Result" => :right }
