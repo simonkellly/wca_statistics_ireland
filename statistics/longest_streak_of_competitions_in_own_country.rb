@@ -15,7 +15,7 @@ class LongestStreakOfCompetitionsInOwnCountry < Statistic
         country.name country
       FROM (
         SELECT DISTINCT person_id, competition_id
-        FROM Irishresults
+        FROM IrishResults
       ) AS people_with_competitions
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id

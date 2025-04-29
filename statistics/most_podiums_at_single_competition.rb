@@ -17,7 +17,7 @@ class MostPodiumsAtSingleCompetition < Statistic
           COUNT(*) podiums_count,
           person_id,
           competition_id
-        FROM Irishresults
+        FROM IrishResults
         WHERE 1
           AND round_type_id IN ('f', 'c')
           AND best > 0

@@ -19,7 +19,7 @@ class CompleteCompetitionWinners < Statistic
           competition_id,
           GROUP_CONCAT(DISTINCT person_id) person_id,
           COUNT(DISTINCT event_id) events_count
-        FROM Irishresults
+        FROM IrishResults
         WHERE round_type_id IN ('c', 'f') AND pos = 1 AND best > 0
         GROUP BY competition_id
         HAVING COUNT(DISTINCT person_id) = 1

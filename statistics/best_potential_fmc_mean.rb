@@ -20,7 +20,7 @@ class BestPotentialFmcMean < Statistic
           MIN(IF(value3 > 0, value3, NULL)) best3,
           competition_id,
           round_type_id
-        FROM Irishresults
+        FROM IrishResults
         WHERE event_id = '333fm'
         GROUP BY competition_id, round_type_id
       ) AS best_attempts_by_competition_and_round

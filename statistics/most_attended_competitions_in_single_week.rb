@@ -27,7 +27,7 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
           ) competition_links
         FROM (
           SELECT DISTINCT competition_id, person_id
-          FROM Irishresults
+          FROM IrishResults
         ) AS results
         JOIN competitions competition ON competition.id = competition_id
         GROUP BY person_id, week_start_date, week_end_date, YEAR(competition.start_date)

@@ -21,7 +21,7 @@ class BestMedalCollectionFromAbroadByPerson < Statistic
           SUM(IF(pos = 1, 1, 0)) gold_medals,
           SUM(IF(pos = 2, 1, 0)) silver_medals,
           SUM(IF(pos = 3, 1, 0)) bronze_medals
-        FROM Irishresults result
+        FROM IrishResults result
         JOIN competitions competition ON competition.id = competition_id
         WHERE 1
           AND round_type_id IN ('c', 'f')

@@ -15,7 +15,7 @@ class FewestCompetitorsContest < Statistic
         SELECT
           COUNT(DISTINCT person_id) competitors_count,
           competition_id
-        FROM Irishresults
+        FROM IrishResults
         GROUP BY competition_id
         HAVING competitors_count <= 15
       ) AS competitors_count_by_competition

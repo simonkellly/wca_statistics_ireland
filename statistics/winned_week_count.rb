@@ -24,7 +24,7 @@ class WinnedWeekCount < GroupedStatistic
             MIN(best) week_best,
             DATE_ADD(start_date, INTERVAL(-WEEKDAY(start_date)) DAY) week_start_date,
             DATE_ADD(start_date, INTERVAL(6 - WEEKDAY(start_date)) DAY) week_end_date
-          FROM Irishresults
+          FROM IrishResults
           JOIN competitions competition ON competition.id = competition_id
           WHERE best > 0
           GROUP BY event_id, week_start_date, week_end_date

@@ -17,7 +17,7 @@ class LongestStreakOfWorldRecords < Statistic
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         competition.start_date competition_date,
         event_id event_id
-      FROM Irishresults result
+      FROM IrishResults result
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
       WHERE regional_single_record = 'WR' OR regional_average_record = 'WR'

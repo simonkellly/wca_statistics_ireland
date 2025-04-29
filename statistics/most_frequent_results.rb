@@ -16,7 +16,7 @@ class MostFrequentResults < GroupedStatistic
         value3,
         value4,
         value5
-      FROM Irishresults
+      FROM IrishResults
       WHERE event_id != '333mbo'
     SQL
   end

@@ -15,7 +15,7 @@ class MostCompetitionsAbroad < Statistic
         SELECT
           person_id,
           COUNT(DISTINCT competition_id) competitions_abroad
-        FROM Irishresults result
+        FROM IrishResults result
         JOIN competitions competition ON competition.id = competition_id
         WHERE 1
           AND result.country_id != competition.country_id

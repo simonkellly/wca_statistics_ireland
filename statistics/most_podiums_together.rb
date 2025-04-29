@@ -13,7 +13,7 @@ class MostPodiumsTogether < GroupedStatistic
           CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')')
           ORDER BY person.name
         ) people
-      FROM Irishresults
+      FROM IrishResults
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN round_types round_type ON round_type.id = round_type_id
       WHERE 1

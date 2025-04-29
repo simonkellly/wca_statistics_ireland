@@ -16,12 +16,12 @@ class PotentiallySeenWorldRecords < Statistic
         SELECT
           person_id,
           SUM(wrs_count) potentially_seen_wrs_count
-        FROM (SELECT DISTINCT person_id, competition_id FROM Irishresults) AS person_with_competition
+        FROM (SELECT DISTINCT person_id, competition_id FROM IrishResults) AS person_with_competition
         JOIN (
           SELECT
             competition_id,
             SUM((IF(regional_single_record = 'WR', 1, 0) + IF(regional_average_record = 'WR', 1, 0))) wrs_count
-          FROM Irishresults
+          FROM IrishResults
           GROUP BY competition_id
           HAVING wrs_count > 0
         ) AS wrs_count_by_competition ON person_with_competition.competition_id = wrs_count_by_competition.competition_id

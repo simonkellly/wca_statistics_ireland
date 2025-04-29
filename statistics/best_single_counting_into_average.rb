@@ -15,7 +15,7 @@ class BestSingleCountingIntoAverage < GroupedStatistic
         value1, value2, value3, value4, value5,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
-      FROM Irishresults
+      FROM IrishResults
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
       WHERE format_id = 'a'
