@@ -1,10 +1,10 @@
 require_relative "../core/grouped_statistic"
 
-class RecordsInMostevents < GroupedStatistic
+class RecordsInMostEvents < GroupedStatistic
   def initialize
     @title = "Records in the highest number of events"
     @note = "All historical records are taken into account (i.e. not only the current ones)."
-    @table_header = { "events" => :right, "Person" => :left, "List" => :left }
+    @table_header = { "Events" => :right, "Person" => :left, "List" => :left }
   end
 
   def query
