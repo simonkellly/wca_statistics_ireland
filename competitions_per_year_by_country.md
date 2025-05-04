@@ -1,48 +1,48 @@
 ## Competitions per year by country
 
-*Updated on  1 May 2025*
+*Updated on  4 May 2025*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 8.60 | 136 | 15.81 | United Kingdom |
-| 6.75 | 64 | 9.49 | United States |
-| 5.37 | 71 | 13.22 | Ireland |
+| 6.74 | 64 | 9.49 | United States |
+| 5.37 | 71 | 13.23 | Ireland |
 | 3.95 | 10 | 2.53 | Austria |
 | 3.32 | 7 | 2.11 | Slovakia |
 | 2.60 | 16 | 6.15 | Australia |
 | 2.50 | 40 | 16.02 | Germany |
 | 1.68 | 2 | 1.19 | Portugal |
-| 1.57 | 3 | 1.92 | Hungary |
+| 1.56 | 3 | 1.92 | Hungary |
 | 1.46 | 8 | 5.48 | Poland |
 | 1.42 | 3 | 2.11 | Sweden |
 | 1.28 | 10 | 7.81 | France |
 | 1.18 | 2 | 1.69 | Slovenia |
 | 1.15 | 4 | 3.47 | Norway |
 | 1.14 | 7 | 6.14 | Denmark |
-| 1.01 | 2 | 1.97 | Kenya |
-| 0.96 | 5 | 5.21 | Switzerland |
+| 1.01 | 2 | 1.98 | Kenya |
+| 0.96 | 5 | 5.22 | Switzerland |
 | 0.87 | 1 | 1.15 | Estonia |
-| 0.80 | 13 | 16.21 | Italy |
-| 0.74 | 2 | 2.71 | Israel |
+| 0.80 | 13 | 16.22 | Italy |
+| 0.74 | 2 | 2.72 | Israel |
 | 0.72 | 6 | 8.30 | United Arab Emirates |
 | 0.71 | 1 | 1.40 | Greece |
 | 0.69 | 10 | 14.51 | Spain |
-| 0.58 | 1 | 1.72 | Republic of Korea |
+| 0.58 | 1 | 1.73 | Republic of Korea |
 | 0.55 | 4 | 7.23 | Finland |
 | 0.40 | 1 | 2.49 | Romania |
 | 0.39 | 7 | 17.96 | Canada |
 | 0.38 | 4 | 10.45 | Netherlands |
 | 0.38 | 3 | 7.84 | Russia |
 | 0.35 | 2 | 5.79 | India |
-| 0.34 | 2 | 5.88 | Multiple Countries (World) |
-| 0.33 | 2 | 6.11 | Multiple Countries (Europe) |
+| 0.34 | 2 | 5.89 | Multiple Countries (World) |
+| 0.33 | 2 | 6.12 | Multiple Countries (Europe) |
 | 0.31 | 5 | 16.18 | Belgium |
 | 0.30 | 2 | 6.77 | Ukraine |
-| 0.28 | 1 | 3.60 | Jordan |
+| 0.28 | 1 | 3.61 | Jordan |
 | 0.27 | 1 | 3.72 | New Zealand |
-| 0.20 | 2 | 10.21 | Singapore |
-| 0.19 | 2 | 10.42 | South Africa |
-| 0.19 | 3 | 15.79 | Czech Republic |
+| 0.20 | 2 | 10.22 | Singapore |
+| 0.19 | 2 | 10.43 | South Africa |
+| 0.19 | 3 | 15.80 | Czech Republic |
 | 0.18 | 2 | 11.21 | Philippines |
 
 
