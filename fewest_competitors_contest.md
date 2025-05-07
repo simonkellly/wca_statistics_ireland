@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 May 2025*
+*Updated on  7 May 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -257,6 +257,7 @@
 | 1 | [SC Open 2014](https://www.worldcubeassociation.org/competitions/ShoeCapital2014) |
 | 1 | [Singapore AMK CC Cubing A 2023](https://www.worldcubeassociation.org/competitions/SingaporeAMKCCCubingA2023) |
 | 1 | [Singapore Open 2015](https://www.worldcubeassociation.org/competitions/SingaporeOpen2015) |
+| 1 | [Skewbing in School Kennesaw 2025](https://www.worldcubeassociation.org/competitions/SkewbinginSchoolKennesaw2025) |
 | 1 | [Slovak Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovakNationals2023) |
 | 1 | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) |
 | 1 | [Slovenian Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianNationals2023) |

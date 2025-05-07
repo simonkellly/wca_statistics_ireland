@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 May 2025*
+*Updated on  7 May 2025*
 
 
 ### Rubik's Cube - Single
@@ -356,6 +356,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **1.25** | Ireland | [Skewbing in School Kennesaw 2025](https://www.worldcubeassociation.org/competitions/SkewbinginSchoolKennesaw2025) | 2.64, DNF, 1.25, 2.56, 2.77 |
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **1.31** | Ukraine | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 1.31, 4.63, 2.55, 2.62, 2.42 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **1.51** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 6.52, 1.51, 3.26, 3.19, 4.28 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | **1.67** | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 1.67, 3.90, 3.95, 3.45, 4.53 |
@@ -365,7 +366,6 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1.95** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 3.40, 6.83, 1.95, 6.14, 6.29 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **1.97** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 4.30, 5.83, 5.22, 5.12, 1.97 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2.00** | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 4.04, 2.00, 4.09, 10.93, 5.09 |
-| [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **2.27** | Ireland | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) | 3.61, 4.45, 3.64, 2.27, 3.33 |
 
 ### Skewb - Average
 
@@ -373,8 +373,8 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **2.53** | Ukraine | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 1.31, 4.63, 2.55, 2.62, 2.42 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2.55** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 2.24, 2.71, 2.42, 2.65, 2.58 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2.66** | Ireland | [Skewbing in School Kennesaw 2025](https://www.worldcubeassociation.org/competitions/SkewbinginSchoolKennesaw2025) | 2.64, DNF, 1.25, 2.56, 2.77 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2.81** | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 1.75, 2.53, 3.30, 4.75, 2.61 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **3.07** | Ireland | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | 3.07, 2.85, 3.28, 2.68, 4.20 |
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | **3.18** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 2.57, 3.93, 2.68, 2.92, DNF |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3.31** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 3.38, 2.55, 3.28, 3.27, 3.62 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | **3.47** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 3.11, 4.53, 3.48, 3.83, 2.44 |

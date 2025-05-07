@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  4 May 2025*
+*Updated on  7 May 2025*
 
 
 ### World
@@ -243,6 +243,7 @@
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2018MCCA02) |
 | 0 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2023MARA10) |
 | 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2019NATS02) |
+| 0 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Skewbing in School Kennesaw 2025](https://www.worldcubeassociation.org/competitions/SkewbinginSchoolKennesaw2025/results/by_person#2023MANG02) |
 
 ### Continental
 

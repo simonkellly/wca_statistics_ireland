@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 May 2025*
+*Updated on  7 May 2025*
 
 
 ### Rubik's Cube
@@ -69,6 +69,7 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 3.11 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 2.71, 1.84, 3.98, 2.50, 2.35, 2.82, 2.50, 3.57, 2.15, 5.21, 3.56, 2.15, 2.93, 2.18, 4.51, 6.72, 3.45, 3.56, 2.87, 4.87, 4.57, 2.98, 2.98, 2.13, 2.13 |
+| 3.39 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 3.07, 2.85, 3.28, 2.68, 4.20, 5.46, 3.15, 5.59, 4.35, 2.91, 3.98, 3.28, 3.18, 2.46, 5.51, 3.59, 2.17, 3.13, 2.42, 3.67, 2.64, DNF, 1.25, 2.56, 2.77 |
 
 ### Square-1
 
