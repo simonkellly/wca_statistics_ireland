@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -41,7 +41,7 @@
 | 116 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 111 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
 | 109 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
-| 106 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 108 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 105 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 103 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
 | 101 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |

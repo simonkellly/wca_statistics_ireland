@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -82,6 +82,7 @@
 | 1 | [Cubing in HD 2023](https://www.worldcubeassociation.org/competitions/CubinginHD2023) |
 | 1 | [Cubing in HD 2024](https://www.worldcubeassociation.org/competitions/CubinginHD2024) |
 | 1 | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) |
+| 1 | [Cubing Westminster 2025](https://www.worldcubeassociation.org/competitions/CubinginSchoolWestminster2025) |
 | 1 | [Cubing in the Clouds 2023](https://www.worldcubeassociation.org/competitions/CubingintheClouds2023) |
 | 1 | [Cubing Returns Munich A 2023](https://www.worldcubeassociation.org/competitions/CubingReturnsMunichA2023) |
 | 1 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) |
@@ -137,6 +138,7 @@
 | 1 | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) |
 | 1 | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) |
 | 1 | [Gotland Open 2023](https://www.worldcubeassociation.org/competitions/GotlandOpen2023) |
+| 1 | [Granada Open 2025](https://www.worldcubeassociation.org/competitions/GranadaOpen2025) |
 | 1 | [Greek Nationals 2023](https://www.worldcubeassociation.org/competitions/GreekNationals2023) |
 | 1 | [Guildford Open 2013](https://www.worldcubeassociation.org/competitions/GuildfordOpen2013) |
 | 1 | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) |
