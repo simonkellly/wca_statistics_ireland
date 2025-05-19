@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### Rubik's Cube
@@ -22,7 +22,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 40.51 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 40.74, 46.74, 41.54, 39.24, 38.54 |
-| 49.98 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 47.47, 52.11, 48.29, 55.30, 49.53 |
+| 49.97 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 52.30, 46.22, 54.68, 50.59, 47.02 |
 
 ### 6x6x6 Cube
 
@@ -40,7 +40,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 32.98 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 31.19, 27.59, 38.83, DNF, 28.93 |
+| 31.68 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 33.83, 27.68, 36.20, 31.56, 29.66 |
 | 1:35.66 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1:44.78, 2:01.99, 1:00.20, DNF, 53.19 |
 
 ### 3x3x3 Fewest Moves

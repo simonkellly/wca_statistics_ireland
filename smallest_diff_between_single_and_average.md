@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### Rubik's Cube
@@ -39,6 +39,7 @@
 | Diff | Person | Single | Average | results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 26.22 | 26.37 | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020/results/by_person#2012BEAH01) |
+| 0.27 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | 48.35 | 48.62 | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025/results/by_person#2021OCON01) |
 | 0.34 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 32.58 | 32.92 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2012BEAH01) |
 | 0.35 | [Kim Hackett](https://www.worldcubeassociation.org/persons/2022HACK05) | 54.01 | 54.36 | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/by_person#2022HACK05) |
 | 0.35 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 55.51 | 55.86 | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023/results/by_person#2017KELL08) |
@@ -47,7 +48,6 @@
 | 0.53 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 29.12 | 29.65 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2022HAIN04) |
 | 0.57 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 31.53 | 32.10 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2012BEAH01) |
 | 0.64 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.33 | 23.97 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
-| 0.65 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 37.24 | 37.89 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2018GRYT01) |
 
 ### 5x5x5 Cube
 
@@ -197,7 +197,7 @@
 | 0.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 18.91 | 19.62 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016/results/by_person#2012BEAH01) |
 | 0.72 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 9.29 | 10.01 | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023/results/by_person#2017MADD04) |
 | 0.74 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.28 | 10.02 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2019BURK05) |
-| 0.82 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 10.09 | 10.91 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2021FINK01) |
+| 0.77 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | 15.46 | 16.23 | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025/results/by_person#2021OCON01) |
 
 ### 4x4x4 Blindfolded
 

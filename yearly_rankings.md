@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### Rubik's Cube - Single
@@ -11,8 +11,8 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **4.72** | Ireland | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) | 6.90, DNF, 4.72, 6.37, 8.63 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **5.02** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 5.02, 7.44, 10.57, 8.29, 9.09 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **5.84** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 9.93, 5.84, 9.29, 10.15, 8.12 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **5.93** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 5.93, 6.79, 6.36, 7.25, 6.78 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **6.12** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 10.50, 8.58, 6.12, 12.51, 8.36 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **6.25** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 6.32, 6.25, 8.02, 8.03, 7.10 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **6.42** | India | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 8.25, 8.16, 8.03, 6.42, 7.49 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **6.60** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 9.63, 7.53, 6.60, 8.74, 12.07 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **6.63** | Ireland | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) | 6.63, 8.52, 9.47, 8.08, DNF |
@@ -23,9 +23,9 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **6.64** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 5.93, 6.79, 6.36, 7.25, 6.78 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **6.73** | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 8.20, 6.41, 7.58, 5.60, 6.21 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **7.01** | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 6.35, 7.42, 6.64, 7.35, 7.05 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **7.08** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 6.53, 6.33, 8.00, 6.70, 9.24 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **6.84** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 6.71, 6.17, DNF, 6.64, 7.16 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **7.45** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 6.42, 6.41, 7.95, 7.98, 9.00 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **7.67** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 7.22, 7.33, 8.47, 6.90, 9.05 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **7.68** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 7.68, 7.44, 7.01, 7.91, 8.15 |
@@ -70,7 +70,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **20.48** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 25.44, 28.44, 24.56, 23.61, 20.48 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **24.61** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 24.61, 27.90, 32.51, 30.29, 28.99 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **25.21** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 27.81, 25.21, 25.96, 26.58, 32.19 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **24.89** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 29.86, 26.81, 24.89, 26.89, 34.51 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **27.19** | Ukraine | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 31.15, 31.90, 45.19, 27.19, 34.59 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **27.54** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 27.54, 33.01, 42.85, 31.74, 38.02 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **29.02** | India | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 32.70, 39.50, 36.13, 29.02, 36.73 |
@@ -104,10 +104,10 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **50.47** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 54.70, 55.65, 50.47, 55.89, 1:00.04 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **54.58** | Ukraine | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 58.86, 1:03.13, 1:02.16, 54.58, 1:02.34 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **58.51** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 1:02.75, 58.60, 1:13.32, 1:04.57, 58.51 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **58.58** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 59.60, 1:34.76, 59.94, 58.58, 1:08.66 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **58.81** | India | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 1:00.91, 1:24.06, 1:09.79, 58.81, 1:00.09 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **58.92** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 58.92, 1:07.33, 1:20.84, 1:06.09, 1:26.55 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **59.09** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 1:12.48, 1:02.66, 1:06.97, 59.09, 59.67 |
-| [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | **59.36** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 1:05.93, 1:06.32, 1:07.23, 59.36, 1:04.61 |
 
 ### 5x5x5 Cube - Average
 
@@ -119,10 +119,10 @@
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **58.57** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 1:02.98, 50.78, 56.38, 56.66, 1:02.66 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **1:01.12** | Ukraine | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 58.86, 1:03.13, 1:02.16, 54.58, 1:02.34 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **1:01.97** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 1:02.75, 58.60, 1:13.32, 1:04.57, 58.51 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **1:02.73** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 59.60, 1:34.76, 59.94, 58.58, 1:08.66 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1:03.10** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 1:12.48, 1:02.66, 1:06.97, 59.09, 59.67 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **1:03.60** | India | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 1:00.91, 1:24.06, 1:09.79, 58.81, 1:00.09 |
-| [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | **1:05.62** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 1:05.93, 1:06.32, 1:07.23, 59.36, 1:04.61 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:07.09** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 1:08.99, 1:08.19, 1:04.09, 1:19.25, 1:03.36 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1:04.47** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 1:08.07, 1:02.50, 1:02.85, 59.13, 1:13.59 |
 
 ### 6x6x6 Cube - Single
 
@@ -134,10 +134,10 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:41.66** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 1:52.64, 1:46.96, 1:41.66 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:50.04** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 2:07.69, 1:50.98, 1:50.04 |
 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) | **1:52.27** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 1:52.27, 2:29.24, 2:13.49 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **1:53.40** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 2:09.80, 2:04.41, 1:53.40 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:57.36** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 2:07.96, 1:57.36, 2:28.66 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **1:57.92** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 1:57.92, 1:59.81, 2:08.00 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **2:03.67** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 2:09.66, 2:08.82, 2:03.67 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **2:04.28** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 2:04.28, 2:09.03, 2:25.12 |
-| [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **2:04.61** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 3:05.66, 2:04.61, 2:07.53 |
 
 ### 6x6x6 Cube - Average
 
@@ -149,8 +149,8 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:47.09** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 1:52.64, 1:46.96, 1:41.66 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:56.24** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 2:07.69, 1:50.98, 1:50.04 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2:01.91** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 1:57.92, 1:59.81, 2:08.00 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **2:02.54** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 2:09.80, 2:04.41, 1:53.40 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **2:07.38** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 2:09.66, 2:08.82, 2:03.67 |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **2:09.37** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 2:05.46, 2:04.88, 2:17.78 |
 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) | **2:11.67** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 1:52.27, 2:29.24, 2:13.49 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **2:12.81** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 2:04.28, 2:09.03, 2:25.12 |
 
@@ -215,36 +215,43 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **23** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 34, 25, 23 |
 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | **25** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 25 |
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **28** | Ukraine | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 28 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **28** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 28 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **29** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 29, 42, DNF |
+| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **32** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 39, 36, 32 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **33** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 33 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **34** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 34 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **34** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 34, 36, 35 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **35** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 35 |
-| [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **38** | Ireland | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) | 38 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **38** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 38 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **39** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 39 |
-| [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) | **41** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 41 |
 
 ### 3x3x3 Fewest Moves - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **27.33** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 34, 25, 23 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **35.00** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 32, 32, 41 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **35.00** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 34, 36, 35 |
+| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **35.67** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 39, 36, 32 |
+| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **40.00** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 41, 40, 39 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **44.00** | Ireland | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) | 42, 47, 43 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **46.33** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 36, 49, 54 |
+| [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | **52.67** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 52, 48, 58 |
 
 ### 3x3x3 One-Handed - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **10.04** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 11.93, 10.04, 15.69, 13.94, 15.03 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **10.58** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 14.70, 12.10, 10.58, 13.95, 12.32 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **11.53** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 13.12, 11.53, 15.62, 15.71, 20.49 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **11.87** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 19.55, 13.14, 11.87, 15.87, 15.37 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **11.96** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 17.96, 11.96, 17.75, DNF, 17.07 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **12.10** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 13.22, 12.10, 13.79, 14.81, 13.58 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **12.64** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 32.42, 18.99, 12.64, 18.25, 24.10 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **12.69** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 13.28, 12.69, 13.03, 13.70, 13.35 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **13.00** | Ireland | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) | 13.00, 16.56, 16.63, 13.85, 16.62 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **13.10** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 18.48, 13.57, 13.57, 13.10, 19.61 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **13.51** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 13.51, 23.14, 13.86, 16.38, 18.51 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **13.68** | India | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 17.57, 15.26, 16.51, DNF, 13.68 |
 
 ### 3x3x3 One-Handed - Average
@@ -260,7 +267,7 @@
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **15.23** | Ukraine | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 13.70, 15.65, 18.95, 14.57, 15.47 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **15.62** | India | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 16.19, 15.82, 14.86, 17.65, 14.15 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **15.68** | Ireland | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) | 13.00, 16.56, 16.63, 13.85, 16.62 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **15.78** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 14.13, 21.77, 16.32, 16.12, 14.90 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **15.73** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 18.30, 13.85, 13.82, 15.05, DNF |
 
 ### Megaminx - Single
 
@@ -326,7 +333,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2.82** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 3.19, 2.82, 3.60, DNF, 5.58 |
+| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2.80** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 3.79, 2.80, DNF, 6.21, 4.79 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **3.12** | Mongolia | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | DNF, 5.82, 3.12, 3.61, 5.36 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3.33** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 4.08, 3.33, 4.13, 6.44, 3.99 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **3.34** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3.84, 3.34, DNF, 4.73, 5.35 |
@@ -402,15 +409,15 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **9.10** | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 9.05, 10.45, 7.80, 6.41, 13.08 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **9.74** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 11.27, 8.53, 10.76, 8.99, 9.47 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **9.63** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 10.22, 8.06, 8.60, 12.23, 10.06 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **9.98** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 9.29, 10.23, 10.42, 8.09, 11.53 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **10.43** | India | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 8.76, 9.08, 12.94, 10.81, 11.40 |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **10.88** | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 7.92, 11.75, 9.37, 12.18, 11.52 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **11.01** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 10.47, 11.19, 10.99, 10.86, 20.04 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **11.25** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 10.34, 10.56, 12.15, 14.79, 11.04 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **12.17** | Mongolia | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 12.89, 12.13, 8.18, 14.31, 11.48 |
+| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **12.38** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 11.79, 11.89, 13.87, 10.47, 13.47 |
 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | **12.71** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 11.08, 9.81, 15.49, 12.31, 14.75 |
-| [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **12.87** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 12.09, 15.30, 13.60, 12.91, 9.76 |
 
 ### 4x4x4 Blindfolded - Single
 
@@ -419,7 +426,7 @@
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **3:21.56** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:21.56, DNF, DNF |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4:16.23** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 4:16.23, 5:38.44, 7:35.26 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:27.82** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | DNF, DNF, 4:27.82 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **6:29.63** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 6:29.63, DNF, DNF |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **5:33.84** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | DNF, DNF, 5:33.84 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **6:42.58** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | DNF, 8:25.62, 6:42.58 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **7:37.17** | Mongolia | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 7:37.17, 8:40.76, 11:29.00 |
 

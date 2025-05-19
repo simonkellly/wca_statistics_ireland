@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -18,6 +18,7 @@
 | 8 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 8 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
 | 6 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
+| 6 | [Chloe O'Loughlin](https://www.worldcubeassociation.org/persons/2023OLOU01) |
 | 5 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 5 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 4 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) |
@@ -26,7 +27,6 @@
 | 4 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 3 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 3 | [Robert Riordan](https://www.worldcubeassociation.org/persons/2016RIOR01) |
-| 3 | [Oliver Grace](https://www.worldcubeassociation.org/persons/2019GRAC02) |
 
 ### 4x4x4 Blindfolded
 
