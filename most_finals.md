@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 22 May 2025*
+*Updated on 25 May 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -29,8 +29,8 @@
 | 154 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 150 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 143 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
+| 141 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 139 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
-| 137 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 134 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 128 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 126 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |

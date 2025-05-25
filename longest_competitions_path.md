@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 22 May 2025*
+*Updated on 25 May 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -13,7 +13,7 @@
 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 23 856 km |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 23 023 km |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 22 214 km |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 20 282 km |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 21 707 km |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 19 673 km |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 16 443 km |
 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | 16 249 km |

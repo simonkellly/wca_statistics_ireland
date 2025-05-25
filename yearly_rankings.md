@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 May 2025*
+*Updated on 25 May 2025*
 
 
 ### Rubik's Cube - Single
@@ -449,8 +449,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **15/16 57:16** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 15/16 57:16, DNF |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **15/18 51:23** | Ireland | [Scottish Championship Blind 2025](https://www.worldcubeassociation.org/competitions/ScottishChampionshipBlindOff2025) | 15/18 51:23, DNF |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **15/18 57:19** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 15/18 57:19 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **15/18 58:26** | Ireland | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | 15/18 58:26, DNF |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **17/24 52:15** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 17/24 52:15 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **10/11 48:08** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 8/11 47:55, 10/11 48:08 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **10/11 53:42** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 9/13 58:00, 10/11 53:42 |
