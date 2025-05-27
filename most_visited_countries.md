@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 25 May 2025*
+*Updated on 26 May 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -16,26 +16,26 @@
 | 4 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 4 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
 | 4 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
+| 4 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 4 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
 | 4 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 4 | [Aidan Murdock Glynn](https://www.worldcubeassociation.org/persons/2022GLYN02) |
-| 4 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) |
 | 4 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 4 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
 | 4 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 4 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |
+| 4 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) |
+| 3 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
 | 3 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
 | 3 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 3 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
-| 3 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 3 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) |
 | 3 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 3 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 3 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 3 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) |
-| 3 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
 | 3 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
-| 3 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
+| 3 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 3 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 3 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 3 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |

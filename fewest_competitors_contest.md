@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 May 2025*
+*Updated on 26 May 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -163,6 +163,7 @@
 | 1 | [Italian Championship 2023](https://www.worldcubeassociation.org/competitions/ItalianChampionship2023) |
 | 1 | [Italian Open 2009](https://www.worldcubeassociation.org/competitions/ItalianOpen2009) |
 | 1 | [Italian Open 2024](https://www.worldcubeassociation.org/competitions/ItalianOpen2024) |
+| 1 | [Ivanka pri Dunaji Open 2025](https://www.worldcubeassociation.org/competitions/IvankapriDunajiOpen2025) |
 | 1 | [Jay House of Cubes 2023](https://www.worldcubeassociation.org/competitions/JayHouseofCubes2023) |
 | 1 | [Jordan Fall Open 2021](https://www.worldcubeassociation.org/competitions/JordanFallOpen2021) |
 | 1 | [Lakewood Newcomers 2024](https://www.worldcubeassociation.org/competitions/LakewoodNewcomers2024) |
@@ -370,6 +371,7 @@
 | 2 | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) |
 | 2 | [UK Open 2011](https://www.worldcubeassociation.org/competitions/UKOpen2011) |
 | 2 | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) |
+| 2 | [Uppsalaligan 5: Ancient - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan5Ancient2025) |
 | 2 | [Valsugana Speedcubing 2023](https://www.worldcubeassociation.org/competitions/ValsuganaSpeedcubing2023) |
 | 2 | [Vienna Summer 2023](https://www.worldcubeassociation.org/competitions/ViennaBigCubeSummer2023) |
 | 2 | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) |
