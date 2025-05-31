@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -281,7 +281,7 @@
 | [Addhrit Bhushan](https://www.worldcubeassociation.org/persons/2024BHUS01) | 557 km |
 | [Adhiraj Bhushan](https://www.worldcubeassociation.org/persons/2024BHUS02) | 557 km |
 | [Oran McDermott](https://www.worldcubeassociation.org/persons/2024MCDE07) | 557 km |
-| [Stanislaw Ulbrych](https://www.worldcubeassociation.org/persons/2023ULBR01) | 554 km |
+| [Anonymous](https://www.worldcubeassociation.org/persons/2023ANON11) | 554 km |
 | [Logan Moriarty](https://www.worldcubeassociation.org/persons/2024MORI08) | 551 km |
 | [Tom Smyth](https://www.worldcubeassociation.org/persons/2023SMYT01) | 549 km |
 | [Eóin Willam Wayne](https://www.worldcubeassociation.org/persons/2017WAYN01) | 548 km |
