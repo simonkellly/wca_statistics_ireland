@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### 100 competitions
@@ -13,6 +13,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 2444 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 2569 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 2633 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 2850 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
@@ -41,9 +42,9 @@
 | 918 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 918 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 919 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 939 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 945 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 951 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
-| 960 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 
 ### 10 competitions
 

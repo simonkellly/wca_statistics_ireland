@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### Rubik's Cube
@@ -15,7 +15,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 22.81 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.47, 22.65, 25.33, 23.05, 22.72 |
-| 26.12 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 25.82, 27.81, 25.21, 25.96, 26.58 |
+| 25.58 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 24.11, 28.81, 27.97, 23.49, 24.65 |
 
 ### 5x5x5 Cube
 

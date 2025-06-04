@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. results where the main statistic is DNF are ignored.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### Rubik's Cube
@@ -217,6 +217,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **18:05.00** | DNF | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/podiums#e444bf) | 3 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **16:35.00** | DNF | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025/results/podiums#e444bf) | 3 |
 | [Oliver Grace](https://www.worldcubeassociation.org/persons/2019GRAC02) | **16:07.00** | DNF | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/podiums#e444bf) | 3 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **12:58.00** | DNF | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020/results/podiums#e444bf) | 1 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **12:03.00** | DNF | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/podiums#e444bf) | 2 |
@@ -225,7 +226,6 @@
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **8:53.25** | DNF | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/podiums#e444bf) | 1 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **8:42.30** | DNF | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/podiums#e444bf) | 1 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **8:29.77** | DNF | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/podiums#e444bf) | 3 |
-| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **8:08.05** | DNF | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022/results/podiums#e444bf) | 3 |
 
 ### 5x5x5 Blindfolded
 
@@ -233,8 +233,10 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **34:38.00** | DNF | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/podiums#e555bf) | 2 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **17:31.00** | DNF | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/podiums#e555bf) | 1 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **16:02.00** | DNF | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025/results/podiums#e555bf) | 2 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **14:49.00** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/podiums#e555bf) | 3 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **14:23.00** | DNF | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/podiums#e555bf) | 2 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **13:22.00** | DNF | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025/results/podiums#e555bf) | 1 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **11:44.00** | DNF | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/podiums#e555bf) | 1 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **9:59.11** | DNF | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025/results/podiums#e555bf) | 1 |
 

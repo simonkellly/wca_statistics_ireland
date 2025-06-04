@@ -1,43 +1,43 @@
 ## Competitions per year by country
 
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 8.62 | 137 | 15.90 | United Kingdom |
-| 6.90 | 66 | 9.57 | United States |
-| 5.41 | 72 | 13.31 | Ireland |
-| 3.82 | 10 | 2.61 | Austria |
-| 3.65 | 8 | 2.19 | Slovakia |
-| 2.57 | 16 | 6.24 | Australia |
+| 8.68 | 138 | 15.90 | United Kingdom |
+| 6.89 | 66 | 9.57 | United States |
+| 5.48 | 73 | 13.31 | Ireland |
+| 3.82 | 10 | 2.62 | Austria |
+| 3.64 | 8 | 2.20 | Slovakia |
+| 2.72 | 17 | 6.24 | Australia |
 | 2.48 | 40 | 16.11 | Germany |
-| 1.82 | 4 | 2.19 | Sweden |
-| 1.57 | 2 | 1.27 | Portugal |
+| 1.82 | 4 | 2.20 | Sweden |
+| 1.57 | 2 | 1.28 | Portugal |
 | 1.50 | 3 | 2.00 | Hungary |
 | 1.44 | 8 | 5.57 | Poland |
 | 1.27 | 10 | 7.89 | France |
-| 1.13 | 2 | 1.77 | Slovenia |
-| 1.13 | 7 | 6.22 | Denmark |
+| 1.13 | 2 | 1.78 | Slovenia |
+| 1.12 | 7 | 6.22 | Denmark |
 | 1.12 | 4 | 3.56 | Norway |
 | 0.97 | 2 | 2.06 | Kenya |
 | 0.94 | 5 | 5.30 | Switzerland |
-| 0.81 | 1 | 1.23 | Estonia |
+| 0.81 | 1 | 1.24 | Estonia |
 | 0.80 | 13 | 16.30 | Italy |
-| 0.75 | 11 | 14.59 | Spain |
-| 0.72 | 6 | 8.38 | United Arab Emirates |
+| 0.75 | 11 | 14.60 | Spain |
+| 0.72 | 6 | 8.39 | United Arab Emirates |
 | 0.71 | 2 | 2.80 | Israel |
 | 0.67 | 1 | 1.49 | Greece |
 | 0.55 | 1 | 1.81 | Republic of Korea |
 | 0.55 | 4 | 7.31 | Finland |
+| 0.39 | 7 | 18.05 | Canada |
 | 0.39 | 1 | 2.58 | Romania |
-| 0.39 | 7 | 18.04 | Canada |
-| 0.38 | 4 | 10.53 | Netherlands |
-| 0.38 | 3 | 7.92 | Russia |
-| 0.34 | 2 | 5.87 | India |
-| 0.34 | 2 | 5.97 | Multiple Countries (World) |
+| 0.38 | 4 | 10.54 | Netherlands |
+| 0.38 | 3 | 7.93 | Russia |
+| 0.34 | 2 | 5.88 | India |
+| 0.33 | 2 | 5.97 | Multiple Countries (World) |
 | 0.32 | 2 | 6.20 | Multiple Countries (Europe) |
 | 0.31 | 5 | 16.26 | Belgium |
-| 0.29 | 2 | 6.85 | Ukraine |
+| 0.29 | 2 | 6.86 | Ukraine |
 | 0.27 | 1 | 3.69 | Jordan |
 | 0.26 | 1 | 3.81 | New Zealand |
 | 0.19 | 2 | 10.30 | Singapore |

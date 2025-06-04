@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### Rubik's Cube
@@ -104,10 +104,10 @@
 | 1.27 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 2:18.63 | 2:19.90 | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2019BURK05) |
 | 1.56 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1:16.59 | 1:18.15 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2021DOHE02) |
 | 1.73 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 35.64 | 37.37 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2018MCCA02) |
+| 2.31 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 25.44 | 27.75 | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025/results/by_person#2018MCCA02) |
 | 3.11 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1:41.34 | 1:44.45 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021LOFT01) |
 | 3.29 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 1:12.41 | 1:15.70 | [Glasgow Summer - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowSummerSBO2024/results/by_person#2019MCCA09) |
 | 3.32 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 57.10 | 1:00.42 | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024/results/by_person#2019CARE02) |
-| 3.49 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 1:52.72 | 1:56.21 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024/results/by_person#2020BERM02) |
 
 ### 3x3x3 One-Handed
 
@@ -192,12 +192,12 @@
 | 0.54 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 10.47 | 11.01 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2022MENA01) |
 | 0.54 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 13.06 | 13.60 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2019NATS02) |
 | 0.60 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.09 | 9.69 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2019BURK05) |
+| 0.62 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 22.88 | 23.50 | [Kewbz Scottish Championship 2025](https://www.worldcubeassociation.org/competitions/KewbzScottishChampionship2025/results/by_person#2023MANG02) |
 | 0.65 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.50 | 10.15 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019BURK05) |
 | 0.68 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.20 | 9.88 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2019BURK05) |
 | 0.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 18.91 | 19.62 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016/results/by_person#2012BEAH01) |
 | 0.72 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 9.29 | 10.01 | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023/results/by_person#2017MADD04) |
 | 0.74 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.28 | 10.02 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2019BURK05) |
-| 0.77 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | 15.46 | 16.23 | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025/results/by_person#2021OCON01) |
 
 ### 4x4x4 Blindfolded
 

@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -36,7 +36,9 @@
 | 10 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 10 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 8 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
+| 7 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 6 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 6 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 5 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 5 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |

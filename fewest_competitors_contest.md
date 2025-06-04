@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -302,6 +302,7 @@
 | 1 | [U.R.A. Funky Cubes 2022](https://www.worldcubeassociation.org/competitions/URAFunkyCubes2022) |
 | 1 | [Valsugana Speedcubing 2024](https://www.worldcubeassociation.org/competitions/ValsuganaSpeedcubing2024) |
 | 1 | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) |
+| 1 | [VIC State Championship 2025](https://www.worldcubeassociation.org/competitions/VICStateChampionship2025) |
 | 1 | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) |
 | 1 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) |
 | 1 | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) |
@@ -391,6 +392,7 @@
 | 4 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 4 | [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024) |
 | 4 | [Glasgow Winter 2023](https://www.worldcubeassociation.org/competitions/GlasgowWinter2023) |
+| 4 | [Kewbz Scottish Championship 2025](https://www.worldcubeassociation.org/competitions/KewbzScottishChampionship2025) |
 | 4 | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 4 | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |
 | 4 | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |
