@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  4 June 2025*
+*Updated on  8 June 2025*
 
 
 ### Competition
@@ -20,8 +20,8 @@
 | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) | **3847** | 4066 |
 | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | **3769** | 3950 |
 | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | **3756** | 3911 |
-| [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | **3696** | 3893 |
 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | **3694** | 3898 |
+| [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | **3691** | 3888 |
 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) | **3638** | 3815 |
 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | **3626** | 3784 |
 | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | **3622** | 3771 |
@@ -57,7 +57,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Ireland | **188391** | 197562 |
+| Ireland | **188386** | 197557 |
 | United Kingdom | **17113** | 17961 |
 | Spain | **2067** | 2134 |
 | United States | **2018** | 2119 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **213546** | 223917 |
+| Europe | **213541** | 223912 |
 | North America | **2186** | 2295 |
 | Oceania | **493** | 524 |
 | Asia | **315** | 326 |
@@ -96,7 +96,7 @@
 | :--- | ---: | ---: |
 | 2024 | **69536** | 73178 |
 | 2023 | **61953** | 64774 |
-| 2025 | **30948** | 32523 |
+| 2025 | **30943** | 32518 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -117,7 +117,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **55727** | 56899 |
+| 3x3x3 Cube | **55722** | 56894 |
 | 2x2x2 Cube | **39067** | 40142 |
 | Pyraminx | **28590** | 29324 |
 | Skewb | **22586** | 23159 |

@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  4 June 2025*
+*Updated on  8 June 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -51,7 +51,7 @@
 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) | 5.08 | 76 | Ireland |
 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | 5.05 | 122 | Ireland |
 | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | 5.04 | 112 | Ireland |
-| [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 5.00 | 106 | Ireland |
+| [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 5.04 | 105 | Ireland |
 | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | 4.91 | 70 | Ireland |
 | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) | 4.88 | 43 | Ireland |
 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | 4.86 | 22 | Ireland |
