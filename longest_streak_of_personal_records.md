@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 | competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -37,11 +37,11 @@
 | 21 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |  |
 | 20 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) |
 | 20 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) |
+| 20 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |  |
 | 20 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023) |  |
 | 20 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |
 | 19 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 19 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
-| 19 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |  |
 | 19 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
 | 18 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |  |
 | 18 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |

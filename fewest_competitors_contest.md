@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -61,6 +61,7 @@
 | 1 | [Cape Town 2014](https://www.worldcubeassociation.org/competitions/CapeTown2014) |
 | 1 | [Cape Town 2016](https://www.worldcubeassociation.org/competitions/CapeTown2016) |
 | 1 | [Carquef'Open 2022](https://www.worldcubeassociation.org/competitions/CarquefOpen2022) |
+| 1 | [Cartagena UPCT Open 2025](https://www.worldcubeassociation.org/competitions/CartagenaUPCTOpen2025) |
 | 1 | [Cavarzere Cube Days 2023](https://www.worldcubeassociation.org/competitions/CavarzereCubeDays2023) |
 | 1 | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) |
 | 1 | [Charlottetown 2025](https://www.worldcubeassociation.org/competitions/Charlottetown2025) |
@@ -285,6 +286,7 @@
 | 1 | [Suffolk Summer 2023](https://www.worldcubeassociation.org/competitions/SuffolkSummer2023) |
 | 1 | [Sunmarke Dubai Open 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2017) |
 | 1 | [Sunmarke Dubai Open II 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpenII2017) |
+| 1 | [Swedish Championship 2025](https://www.worldcubeassociation.org/competitions/SwedishChampionship2025) |
 | 1 | [Swisscubing Cup III 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2022) |
 | 1 | [Sydney Spring Saturday 2024](https://www.worldcubeassociation.org/competitions/SydneySpringSaturday2024) |
 | 1 | [Tallinn Spring 2024](https://www.worldcubeassociation.org/competitions/TallinnSpring2024) |

@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### Rubik's Cube
@@ -45,6 +45,7 @@
 | 10.72 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
 | 10.86 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 10.92 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 10.97 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 11.03 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 11.09 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 11.17 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
@@ -52,7 +53,6 @@
 | 11.30 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 11.46 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
 | 11.46 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
-| 11.49 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 11.61 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 11.65 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
 | 11.70 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
@@ -118,7 +118,7 @@
 | 4.22 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 4.24 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 4.24 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
-| 4.29 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
+| 4.24 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 
 ### 4x4x4 Cube
 
@@ -357,9 +357,9 @@
 | 25.38 | [Edvin Kurjak](https://www.worldcubeassociation.org/persons/2022KURJ01) |
 | 25.47 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 25.52 | [Nicolàs Keane Conesa](https://www.worldcubeassociation.org/persons/2021CONE01) |
+| 25.67 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 25.84 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) |
 | 26.04 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
-| 26.21 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 26.36 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 26.50 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 26.53 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |

@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -83,6 +83,7 @@
 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | 3 391 km |
 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) | 3 239 km |
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 3 214 km |
+| [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | 3 202 km |
 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | 3 186 km |
 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) | 3 167 km |
 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) | 3 159 km |
@@ -137,7 +138,6 @@
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 1 598 km |
 | [Clara O'Brien](https://www.worldcubeassociation.org/persons/2021OBRI04) | 1 580 km |
 | [Jack Leger](https://www.worldcubeassociation.org/persons/2022LEGE01) | 1 536 km |
-| [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | 1 490 km |
 | [Odhran Albuquerque](https://www.worldcubeassociation.org/persons/2023ALBU01) | 1 476 km |
 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) | 1 466 km |
 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) | 1 449 km |
