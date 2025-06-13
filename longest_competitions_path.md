@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 June 2025*
+*Updated on 13 June 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -103,6 +103,7 @@
 | [Zayd Vawda](https://www.worldcubeassociation.org/persons/2022VAWD01) | 2 403 km |
 | [Joanna Byik](https://www.worldcubeassociation.org/persons/2023BYIK01) | 2 401 km |
 | [Manel O'Reilly](https://www.worldcubeassociation.org/persons/2023OREI02) | 2 383 km |
+| [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | 2 373 km |
 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | 2 358 km |
 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | 2 253 km |
 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) | 2 153 km |
@@ -119,7 +120,6 @@
 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) | 1 861 km |
 | [Eoin Brereton Hurley](https://www.worldcubeassociation.org/persons/2014HURL01) | 1 857 km |
 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) | 1 847 km |
-| [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | 1 821 km |
 | [Aoife Dowling](https://www.worldcubeassociation.org/persons/2024DOWL02) | 1 802 km |
 | [Ronan Hanley](https://www.worldcubeassociation.org/persons/2017HANL05) | 1 785 km |
 | [Kaspian Kopczynski](https://www.worldcubeassociation.org/persons/2022KOPC01) | 1 775 km |

@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 June 2025*
+*Updated on 13 June 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -32,8 +32,8 @@
 | 8 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 8 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |
 | 8 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3x3x3 Blindfolded | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |  |
-| 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 5x5x5 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) |  |
 | 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4x4x4 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) |  |
+| 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 5x5x5 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) |  |
 | 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 6x6x6 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) |  |
 | 8 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2x2x2 Cube | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) |
 | 8 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2x2x2 Cube | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |  |
