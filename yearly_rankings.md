@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 
 ### Rubik's Cube - Single
@@ -195,9 +195,9 @@
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **53.49** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:05.12, 1:15.55, 53.49 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **54.48** | Mongolia | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 54.48, 1:10.34, 1:29.81 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1:00.91** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:00.91, 1:42.93, DNF |
+| [Killian Heanue](https://www.worldcubeassociation.org/persons/2025HEAN01) | **1:05.01** | Ireland | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025) | DNF, DNF, 1:05.01 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:09.11** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | DNF, 1:09.11, 1:10.29 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1:17.60** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:17.60, 1:20.40, 1:18.44 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1:18.49** | Ireland | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) | 1:18.49, DNF, 1:28.16 |
 
 ### 3x3x3 Blindfolded - Average
 

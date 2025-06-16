@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 
 ### Rubik's Cube
@@ -176,6 +176,7 @@
 | [Oliver Grace](https://www.worldcubeassociation.org/persons/2019GRAC02) | 1 |
 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) | 1 |
 | [Sunny You](https://www.worldcubeassociation.org/persons/2024YOUS01) | 1 |
+| [Killian Heanue](https://www.worldcubeassociation.org/persons/2025HEAN01) | 1 |
 
 ### 3x3x3 Fewest Moves
 

@@ -1,12 +1,12 @@
 ## DNF rate by event
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
 | 90.97 % | 5x5x5 Blindfolded | 141 | 155 |
 | 83.68 % | 4x4x4 Blindfolded | 323 | 386 |
-| 67.84 % | 3x3x3 Blindfolded | 1871 | 2758 |
+| 67.87 % | 3x3x3 Blindfolded | 1878 | 2767 |
 | 38.04 % | 3x3x3 Fewest Moves | 264 | 694 |
 | 37.80 % | 3x3x3 Multi-Blind | 124 | 328 |
 | 14.05 % | Rubik's Clock | 1644 | 11704 |
