@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -41,13 +41,13 @@
 | 33.32 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 38.86 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 42.02 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
+| 42.77 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
 | 44.36 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 46.72 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 48.88 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 50.04 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 52.74 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
 | 52.94 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
-| 54.60 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 
 ### 5x5x5 Cube
 
@@ -167,7 +167,7 @@
 | 10.33 | [Síobhradh Cunningham](https://www.worldcubeassociation.org/persons/2023CUNN04) |
 | 10.66 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 10.83 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
-| 11.15 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
+| 11.14 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
 
 ### Skewb
 

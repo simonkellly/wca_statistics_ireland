@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -10,12 +10,18 @@
 | ---: | :--- | :--- |
 | 7.03 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.43, 5.69, 7.34, 6.74, 6.93, 9.29, 7.02, 10.12, 8.17, 6.29, 7.04, 6.75, 7.39, 6.28, 7.02, 7.24, 6.10, 8.12, 7.72, 6.52, 7.03, 6.31, 6.31, 7.53, 7.50 |
 
+### 2x2x2 Cube
+
+| Ao25 | Person | Times |
+| ---: | :--- | :--- |
+| 2.83 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 1.99, 1.95, 3.35, 2.73, 3.00, 3.81, 2.31, 3.07, 2.18, 3.34, 4.04, 2.52, 5.16, 2.86, 2.97, 2.63, 3.32, 3.04, 3.28, DNF, 1.87, 2.86, 1.86, 1.55, 2.23 |
+
 ### 4x4x4 Cube
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 24.04 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 20.76, 25.55, 24.13, 22.41, 24.77, 26.69, 26.79, 25.67, 24.75, 22.14, 23.29, 24.85, 26.38, 21.47, 22.65, 25.33, 23.05, 22.72, 27.39, 22.73, 24.30, 25.99, 23.37, 22.61, 21.37 |
-| 27.81 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 25.09, 28.23, 34.76, 27.72, 29.51, 29.86, 26.81, 24.89, 26.89, 34.51, 25.88, 27.79, 28.26, 29.52, 24.95, 30.69, 25.23, 26.41, DNF, 30.34, 24.11, 28.81, 27.97, 23.49, 24.65 |
+| 27.74 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 34.76, 27.72, 29.51, 29.86, 26.81, 24.89, 26.89, 34.51, 25.88, 27.79, 28.26, 29.52, 24.95, 30.69, 25.23, 26.41, DNF, 30.34, 24.11, 28.81, 27.97, 23.49, 24.65, 27.63, 24.23 |
 
 ### 5x5x5 Cube
 

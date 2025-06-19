@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -11,6 +11,7 @@
 | 1 | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022) |
 | 1 | [Adelaide Autumn 2022](https://www.worldcubeassociation.org/competitions/AdelaideAutumn2022) |
 | 1 | [Alabama Championship 2024](https://www.worldcubeassociation.org/competitions/AlabamaChampionship2024) |
+| 1 | [Albacete Ágora Open 2025](https://www.worldcubeassociation.org/competitions/AlbaceteAgoraOpen2025) |
 | 1 | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024) |
 | 1 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) |
 | 1 | [Angers ESEOpen 2022](https://www.worldcubeassociation.org/competitions/AngersESEOpen2022) |
@@ -272,6 +273,7 @@
 | 1 | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) |
 | 1 | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) |
 | 1 | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024) |
+| 1 | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) |
 | 1 | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) |
 | 1 | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
 | 1 | [South Germany 2023](https://www.worldcubeassociation.org/competitions/SouthGermany2023) |
@@ -301,6 +303,7 @@
 | 1 | [UK Championship 2013](https://www.worldcubeassociation.org/competitions/UKChampionship2013) |
 | 1 | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) |
 | 1 | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009) |
+| 1 | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025) |
 | 1 | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) |
 | 1 | [U.R.A. Funky Cubes 2022](https://www.worldcubeassociation.org/competitions/URAFunkyCubes2022) |
 | 1 | [Valsugana Speedcubing 2024](https://www.worldcubeassociation.org/competitions/ValsuganaSpeedcubing2024) |

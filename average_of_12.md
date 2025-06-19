@@ -1,21 +1,27 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 6.74 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 10.05, 6.02, 7.34, 7.07, 6.18, 6.50, 6.87, 6.64, 6.93, 6.86, 6.33, 6.68 |
+| 6.72 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.02, 7.34, 7.07, 6.18, 6.50, 6.87, 6.64, 6.93, 6.86, 6.33, 6.68, 7.13 |
+
+### 2x2x2 Cube
+
+| Ao12 | Person | Times |
+| ---: | :--- | :--- |
+| 2.60 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 1.18, 1.59, 4.17, 1.99, 1.95, 3.35, 2.73, 3.00, 3.81, 2.31, 3.07, 2.18 |
 
 ### 4x4x4 Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 23.42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.47, 22.65, 25.33, 23.05, 22.72, 27.39, 22.73, 24.30, 25.99, 23.37, 22.61, 21.37 |
-| 27.24 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 26.81, 24.89, 26.89, 34.51, 25.88, 27.79, 28.26, 29.52, 24.95, 30.69, 25.23, 26.41 |
+| 27.01 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 30.69, 25.23, 26.41, DNF, 30.34, 24.11, 28.81, 27.97, 23.49, 24.65, 27.63, 24.23 |
 
 ### 5x5x5 Cube
 
@@ -34,7 +40,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:55.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:50.68, 1:56.20, 2:02.22, 2:05.47, 1:51.90, 1:52.28, 1:50.04, 1:46.44, 2:01.64, 1:59.54, 1:57.76, 1:50.09 |
+| 1:54.75 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:05.47, 1:51.90, 1:52.28, 1:50.04, 1:46.44, 2:01.64, 1:59.54, 1:57.76, 1:50.09, 1:53.85, 1:51.64, 1:58.74 |
 
 ### 3x3x3 One-Handed
 

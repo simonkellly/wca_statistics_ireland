@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### 100 competitions
@@ -13,6 +13,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 2116 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 2444 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 2569 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 2633 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |

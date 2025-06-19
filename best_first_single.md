@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -40,6 +40,7 @@
 | ---: | :--- |
 | 31.15 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 38.62 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
+| 38.80 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
 | 44.37 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 47.07 | [Conor O'Loughlin](https://www.worldcubeassociation.org/persons/2018OLOU01) |
 | 47.90 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
@@ -47,7 +48,6 @@
 | 50.72 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 51.19 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 52.59 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
-| 52.85 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 
 ### 5x5x5 Cube
 

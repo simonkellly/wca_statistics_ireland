@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -68,6 +68,7 @@
 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) | 4.13 | 70 | Ireland |
 | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) | 4.11 | 65 | Ireland |
 | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | 3.95 | 79 | Ireland |
+| [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025) | 3.88 | 85 | Ireland |
 | [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022) | 3.88 | 75 | Ireland |
 | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) | 3.86 | 92 | Ireland |
 | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) | 3.79 | 70 | Ireland |

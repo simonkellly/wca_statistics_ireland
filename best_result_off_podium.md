@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -86,13 +86,13 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:55.35 | **1:57.84** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e777_f) | 4 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2:38.59 | **2:48.36** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#e777_f) | 4 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2:46.80 | **2:51.34** | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/all#e777_c) | 4 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 2:45.80 | **2:53.17** | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025/results/all#e777_c) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:49.70 | **2:54.05** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e777_f) | 10 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:58.30 | **3:02.20** | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/all#e777_f) | 6 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 2:53.97 | **3:05.48** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e777_f) | 8 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 3:03.86 | **3:08.62** | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025/results/all#e777_c) | 4 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2:59.01 | **3:08.76** | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025/results/all#e777_c) | 5 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 2:53.16 | **3:12.89** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#e777_f) | 5 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:35.54 | **3:13.34** | [Crawley Open 2017](https://www.worldcubeassociation.org/competitions/CrawleyOpen2017/results/all#e777_f) | 4 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 3:08.38 | **3:15.74** | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025/results/all#e777_c) | 5 |
 
 ### 3x3x3 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -31,8 +31,8 @@
 | 0.08 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) | 4.71 | 4.79 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2021WALS04) |
 | 0.10 | [Hayden Barry](https://www.worldcubeassociation.org/persons/2022BARR11) | 4.79 | 4.89 | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/by_person#2022BARR11) |
 | 0.11 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 2.86 | 2.97 | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/by_person#2017MADD04) |
+| 0.11 | [Peter Illes](https://www.worldcubeassociation.org/persons/2022ILLE02) | 3.49 | 3.60 | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025/results/by_person#2022ILLE02) |
 | 0.12 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.58 | 1.70 | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/by_person#2021DOHE02) |
-| 0.12 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.16 | 2.28 | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024/results/by_person#2023DOWL01) |
 
 ### 4x4x4 Cube
 
@@ -47,7 +47,7 @@
 | 0.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25.63 | 26.10 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012BEAH01) |
 | 0.53 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 29.12 | 29.65 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2022HAIN04) |
 | 0.57 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 31.53 | 32.10 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2012BEAH01) |
-| 0.64 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.33 | 23.97 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
+| 0.62 | [Luca Hennessy](https://www.worldcubeassociation.org/persons/2021HENN01) | 57.99 | 58.61 | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025/results/by_person#2021HENN01) |
 
 ### 5x5x5 Cube
 
@@ -56,13 +56,13 @@
 | 0.43 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 45.27 | 45.70 | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/by_person#2012BEAH01) |
 | 0.46 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 1:38.52 | 1:38.98 | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023/results/by_person#2019FROG01) |
 | 0.48 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 52.93 | 53.41 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2022HAIN04) |
+| 0.61 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 1:24.62 | 1:25.23 | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025/results/by_person#2018SMIT37) |
 | 0.70 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | 1:11.26 | 1:11.96 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022/results/by_person#2019FURL04) |
 | 0.79 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 42.16 | 42.95 | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021/results/by_person#2012BEAH01) |
 | 0.81 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | 52.53 | 53.34 | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022/results/by_person#2022SUNI01) |
 | 0.81 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | 1:05.72 | 1:06.53 | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023/results/by_person#2017HELO01) |
 | 0.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 47.29 | 48.11 | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022/results/by_person#2012BEAH01) |
 | 0.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 43.37 | 44.24 | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/by_person#2012BEAH01) |
-| 0.88 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 1:03.04 | 1:03.92 | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023/results/by_person#2022HAIN04) |
 
 ### 6x6x6 Cube
 

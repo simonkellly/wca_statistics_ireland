@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### World
@@ -248,6 +248,7 @@
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025/results/by_person#2022CORR06) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025/results/by_person#2012BEAH01) |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025/results/by_person#2018MCCA02) |
+| 0 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025/results/by_person#2022FURE01) |
 
 ### Continental
 
