@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube
@@ -28,7 +28,7 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 41.90 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 39.47, 42.79, 41.51, 39.18, 43.48, 43.39, 40.62, 39.95, 41.34, 44.64, 44.12, 44.08, 38.35, 43.31, 41.54, 39.67, 42.00, 43.74, 42.88, 43.24, 41.69, 38.40, 43.42, 42.66, 39.90 |
-| 52.18 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 48.69, 51.98, 50.73, 1:00.82, 52.30, 46.22, 54.68, 50.59, 47.02, 57.43, 51.53, 1:05.49, 52.15, 53.95, 54.24, 54.01, 56.72, 48.77, 52.90, 50.83, 52.80, 55.16, 45.92, 53.00, 45.18 |
+| 52.11 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 52.15, 53.95, 54.24, 54.01, 56.72, 48.77, 52.90, 50.83, 52.80, 55.16, 45.92, 53.00, 45.18, 1:00.06, 1:00.90, 57.02, 46.91, 51.93, 49.30, 47.45, 52.31, 45.78, 52.22, 54.96, 51.85 |
 
 ### 6x6x6 Cube
 
@@ -62,6 +62,7 @@
 | ---: | :--- | :--- |
 | 2.22 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.26, 2.20, 2.45, 1.30, 2.91, 3.10, 2.10, 1.82, 1.81, 2.30, 2.77, 1.87, 2.40, 2.02, 2.43, 2.46, 2.39, 2.49, 3.20, 1.90, 1.86, 1.60, 2.07, 1.80, 2.26 |
 | 2.71 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.11, 2.72, 1.60, 2.54, 2.81, 2.09, 2.89, 3.10, 3.01, 3.53, 3.92, DNF, 2.49, 2.66, 4.93, 2.76, 2.32, 1.61, 1.91, 1.67, 2.88, 2.34, 2.64, 3.21, 3.25 |
+| 3.49 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 3.65, 3.14, 3.82, 2.50, 3.33, 3.16, 5.41, 2.53, 3.29, 2.14, 3.52, 4.30, 3.12, 3.30, 4.01, 3.77, 8.56, 2.28, 2.62, 4.34, 4.38, 4.70, 2.63, 3.39, 3.75 |
 
 ### Rubik's Clock
 

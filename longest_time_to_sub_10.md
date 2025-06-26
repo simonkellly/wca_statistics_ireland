@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -15,6 +15,7 @@
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 3.22 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.18 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3.16 |
+| [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | 2.91 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 2.68 |
 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) | 2.28 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 2.18 |
@@ -25,9 +26,9 @@
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 1.44 |
 | [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) | 1.36 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 1.32 |
-| [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | 1.24 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1.24 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 1.24 |
+| [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | 1.24 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.07 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.00 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 0.99 |

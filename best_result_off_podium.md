@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube
@@ -163,11 +163,11 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3.09 | **3.38** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#epyram_f) | 4 |
 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 2.57 | **3.40** | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/all#epyram_f) | 4 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3.15 | **3.44** | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/all#epyram_f) | 4 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3.21 | **3.46** | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/all#epyram_f) | 4 |
 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.96 | **3.47** | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/all#epyram_f) | 5 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 2.06 | **3.53** | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/all#epyram_f) | 6 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 2.50 | **3.66** | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/all#epyram_f) | 4 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 3.13 | **3.67** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#epyram_f) | 5 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 2.50 | **3.68** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#epyram_f) | 11 |
 
 ### Rubik's Clock
 
@@ -180,9 +180,9 @@
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4.77 | **5.32** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#eclock_f) | 4 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.74 | **5.34** | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/all#eclock_f) | 4 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 4.96 | **5.36** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#eclock_f) | 4 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.54 | **5.37** | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/all#eclock_f) | 4 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 4.81 | **5.45** | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025/results/all#eclock_c) | 4 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.35 | **5.47** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#eclock_f) | 5 |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 5.20 | **5.51** | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025/results/all#eclock_c) | 5 |
 
 ### Skewb
 
@@ -196,8 +196,8 @@
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 2.92 | **3.61** | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/all#eskewb_f) | 4 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.64 | **3.63** | [Oldham County Cubing 2024](https://www.worldcubeassociation.org/competitions/OldhamCountyCubing2024/results/all#eskewb_f) | 4 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 1.71 | **3.66** | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/all#eskewb_f) | 7 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 2.50 | **3.71** | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/all#eskewb_f) | 4 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.74 | **3.87** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eskewb_f) | 5 |
-| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 1.79 | **3.91** | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/all#eskewb_f) | 5 |
 
 ### Square-1
 

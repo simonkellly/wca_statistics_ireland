@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -20,6 +20,7 @@
 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 6.26 | 95 | Ireland |
 | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | 6.24 | 72 | Ireland |
 | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023) | 6.21 | 92 | Ireland |
+| [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 6.10 | 73 | Ireland |
 | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) | 6.00 | 66 | Ireland |
 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | 5.98 | 162 | Ireland |
 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) | 5.89 | 83 | Ireland |

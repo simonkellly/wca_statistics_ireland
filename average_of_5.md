@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube
@@ -75,6 +75,7 @@
 | ---: | :--- | :--- |
 | 1.78 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3.19, 1.39, 1.60, 1.73, 2.02 |
 | 1.97 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.76, 2.32, 1.61, 1.91, 1.67 |
+| 2.90 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.48, 3.28, 2.93, 4.95, 1.28 |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube
@@ -28,7 +28,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 41.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 41.30, 45.50, 43.18, 39.47, 42.79, 41.51, 39.18, 43.48, 43.39, 40.62, 39.95, 41.34 |
-| 51.81 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 51.14, 52.99, 49.89, 49.97, 59.86, 51.65, 55.31, 47.56, 42.11, 55.94, 56.49, 47.18 |
+| 50.97 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 45.92, 53.00, 45.18, 1:00.06, 1:00.90, 57.02, 46.91, 51.93, 49.30, 47.45, 52.31, 45.78 |
 
 ### 6x6x6 Cube
 
@@ -62,6 +62,7 @@
 | ---: | :--- | :--- |
 | 2.12 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.77, 1.82, 2.94, 2.18, 1.73, 1.74, 2.27, 2.32, 2.29, 22.49, 2.18, 1.73 |
 | 2.49 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.49, 2.66, 4.93, 2.76, 2.32, 1.61, 1.91, 1.67, 2.88, 2.34, 2.64, 3.21 |
+| 3.27 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 3.14, 3.82, 2.50, 3.33, 3.16, 5.41, 2.53, 3.29, 2.14, 3.52, 4.30, 3.12 |
 
 ### Rubik's Clock
 

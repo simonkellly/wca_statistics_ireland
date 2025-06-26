@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### World
@@ -26,8 +26,8 @@
 | 0 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |  |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |  |
 | 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |  |
+| 0 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |  |
 | 0 | [Seán Mooney](https://www.worldcubeassociation.org/persons/2015MOON02) |  |
-| 0 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) |  |
 
 ### Continental
 
@@ -51,8 +51,8 @@
 | 0 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |  |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |  |
 | 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |  |
+| 0 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |  |
 | 0 | [Seán Mooney](https://www.worldcubeassociation.org/persons/2015MOON02) |  |
-| 0 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) |  |
 
 ### National
 
