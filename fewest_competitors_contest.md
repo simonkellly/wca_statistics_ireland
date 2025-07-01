@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -16,6 +16,7 @@
 | 1 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) |
 | 1 | [Angers ESEOpen 2022](https://www.worldcubeassociation.org/competitions/AngersESEOpen2022) |
 | 1 | [Appalachian Highlands TN 2024](https://www.worldcubeassociation.org/competitions/AppalachianHighlandsTN2024) |
+| 1 | [Arnhem Open 2025](https://www.worldcubeassociation.org/competitions/ArnhemOpen2025) |
 | 1 | [Atlanta Algs at AIS 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAIS2025) |
 | 1 | [ABHC 2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015) |
 | 1 | [August Bank Holiday Crawley 2024](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCrawley2024) |
