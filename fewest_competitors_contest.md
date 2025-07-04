@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -351,6 +351,7 @@
 | 2 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 2 | [Feltre: WC Warmup 2023](https://www.worldcubeassociation.org/competitions/FeltreWCWarmup2023) |
 | 2 | [Frejus Open 2022](https://www.worldcubeassociation.org/competitions/FrejusOpen2022) |
+| 2 | [Gem City Warm Up OH 2025](https://www.worldcubeassociation.org/competitions/GemCityWarmUpOH2025) |
 | 2 | [German Nationals 2022](https://www.worldcubeassociation.org/competitions/GermanNationals2022) |
 | 2 | [Glasgow Summer - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowSummerSBO2024) |
 | 2 | [Guildford Open 2016](https://www.worldcubeassociation.org/competitions/GuildfordOpen2016) |

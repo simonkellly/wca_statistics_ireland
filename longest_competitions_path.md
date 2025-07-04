@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -16,14 +16,15 @@
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 21 707 km |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 19 818 km |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 16 633 km |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 16 578 km |
 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | 16 249 km |
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 14 505 km |
+| [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 13 735 km |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | 12 539 km |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 12 245 km |
 | [Yoel Shafat](https://www.worldcubeassociation.org/persons/2022SHAF01) | 12 119 km |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 11 505 km |
 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 10 834 km |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 10 754 km |
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 10 537 km |
 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) | 9 517 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 9 119 km |
@@ -31,7 +32,6 @@
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 8 370 km |
 | [Olivia Clarke](https://www.worldcubeassociation.org/persons/2018CLAR01) | 8 166 km |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 7 935 km |
-| [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 7 912 km |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 7 844 km |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | 7 608 km |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 7 324 km |

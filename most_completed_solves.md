@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 
 ### Competition
@@ -33,7 +33,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **8493** | 8686 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4061** | 4282 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4077** | 4304 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **3333** | 3675 |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **3257** | 3321 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **3239** | 3385 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | Ireland | **193627** | 202968 |
 | United Kingdom | **17132** | 17986 |
-| United States | **2124** | 2227 |
+| United States | **2143** | 2255 |
 | Spain | **2104** | 2173 |
 | Germany | **1695** | 1760 |
 | France | **720** | 742 |
@@ -83,7 +83,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Europe | **218976** | 229528 |
-| North America | **2292** | 2403 |
+| North America | **2311** | 2431 |
 | Oceania | **495** | 533 |
 | Asia | **315** | 326 |
 | Africa | **43** | 45 |
@@ -96,7 +96,7 @@
 | :--- | ---: | ---: |
 | 2024 | **69536** | 73178 |
 | 2023 | **61953** | 64774 |
-| 2025 | **36486** | 38251 |
+| 2025 | **36505** | 38279 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -126,11 +126,11 @@
 | 5x5x5 Cube | **10991** | 11408 |
 | Clock | **10325** | 12009 |
 | Megaminx | **7631** | 8061 |
-| Square-1 | **6286** | 6673 |
+| Square-1 | **6296** | 6683 |
 | 6x6x6 Cube | **2491** | 2590 |
 | 7x7x7 Cube | **1856** | 1974 |
-| 3x3x3 Blindfolded | **898** | 2809 |
-| 3x3x3 Fewest Moves | **430** | 694 |
+| 3x3x3 Blindfolded | **900** | 2815 |
+| 3x3x3 Fewest Moves | **437** | 706 |
 | 3x3x3 Multi-Blind | **204** | 328 |
 | 3x3x3 With Feet | **69** | 76 |
 | 4x4x4 Blindfolded | **63** | 386 |

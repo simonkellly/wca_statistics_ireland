@@ -1,7 +1,7 @@
 ## Best potential FMC mean
 
 *Note: The means are computed by taking the best result for each attempt in the given round.*
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Mean | Attempt 1 | Attempt 2 | Attempt 3 | Competition |
 | :--: | :--: | :--: | :--: | :--- |
@@ -16,6 +16,7 @@
 | 43.00 | 46 | 41 | 42 | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) |
 | 43.33 | 48 | 46 | 36 | [Newham Autumn - BBO 2023](https://www.worldcubeassociation.org/competitions/NewhamAutumnBBO2023/results/all#e333fm_f) |
 | 44.00 | 42 | 47 | 43 | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025/results/all#e333fm_f) |
+| 46.00 | 36 | 41 | 61 | [Gem City Warm Up OH 2025](https://www.worldcubeassociation.org/competitions/GemCityWarmUpOH2025/results/all#e333fm_1) |
 | 49.00 | 46 | 54 | 47 | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#e333fm_f) |
 | 52.00 | 52 | 54 | 50 | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333fm_f) |
 

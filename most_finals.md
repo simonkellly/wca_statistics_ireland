@@ -1,11 +1,11 @@
 ## Most finals
 
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Finals | Person |
 | ---: | :--- |
 | 895 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 474 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 477 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 407 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 371 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 357 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
@@ -75,8 +75,8 @@
 | 65 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 64 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
 | 64 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
-| 62 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 62 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
+| 62 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 61 | [Alex Kelly](https://www.worldcubeassociation.org/persons/2022KELL03) |
 | 60 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 59 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) |
@@ -93,9 +93,9 @@
 | 43 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |
 | 43 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) |
 | 43 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
-| 42 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
 | 42 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) |
 | 42 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) |
+| 42 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
 | 42 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) |
 | 40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 39 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |

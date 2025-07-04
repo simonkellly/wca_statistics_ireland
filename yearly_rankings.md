@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 
 ### Rubik's Cube - Single
@@ -224,7 +224,7 @@
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **33** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 33 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **34** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 34 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **34** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 34, 36, 35 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **35** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 35 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **34** | Ireland | [Gem City Warm Up OH 2025](https://www.worldcubeassociation.org/competitions/GemCityWarmUpOH2025) | 34, DNF, 36 |
 
 ### 3x3x3 Fewest Moves - Average
 

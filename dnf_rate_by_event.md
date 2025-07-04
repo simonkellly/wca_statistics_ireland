@@ -1,19 +1,19 @@
 ## DNF rate by event
 
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
 | 90.97 % | 5x5x5 Blindfolded | 141 | 155 |
 | 83.68 % | 4x4x4 Blindfolded | 323 | 386 |
-| 68.03 % | 3x3x3 Blindfolded | 1911 | 2809 |
-| 38.04 % | 3x3x3 Fewest Moves | 264 | 694 |
+| 68.03 % | 3x3x3 Blindfolded | 1915 | 2815 |
+| 38.10 % | 3x3x3 Fewest Moves | 269 | 706 |
 | 37.80 % | 3x3x3 Multi-Blind | 124 | 328 |
 | 14.02 % | Rubik's Clock | 1684 | 12009 |
 | 13.85 % | Rubik's Magic | 9 | 65 |
 | 9.21 % | 3x3x3 With Feet | 7 | 76 |
 | 5.98 % | 7x7x7 Cube | 118 | 1974 |
-| 5.80 % | Square-1 | 387 | 6673 |
+| 5.79 % | Square-1 | 387 | 6683 |
 | 5.33 % | Megaminx | 430 | 8061 |
 | 4.19 % | 3x3x3 One-Handed | 540 | 12899 |
 | 3.82 % | 6x6x6 Cube | 99 | 2590 |
