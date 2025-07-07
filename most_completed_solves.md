@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 
 ### Competition
