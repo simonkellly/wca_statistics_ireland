@@ -6,42 +6,42 @@
 | ---: | ---: | ---: | :--- |
 | 8.69 | 139 | 15.99 | United Kingdom |
 | 7.03 | 68 | 9.67 | United States |
-| 5.60 | 75 | 13.40 | Ireland |
+| 5.59 | 75 | 13.41 | Ireland |
 | 3.69 | 10 | 2.71 | Austria |
-| 3.50 | 8 | 2.29 | Slovakia |
-| 2.84 | 18 | 6.33 | Australia |
-| 2.47 | 40 | 16.20 | Germany |
+| 3.49 | 8 | 2.29 | Slovakia |
+| 2.84 | 18 | 6.34 | Australia |
+| 2.47 | 40 | 16.21 | Germany |
 | 2.18 | 5 | 2.29 | Sweden |
 | 1.46 | 2 | 1.37 | Portugal |
 | 1.43 | 3 | 2.10 | Hungary |
 | 1.41 | 8 | 5.66 | Poland |
 | 1.25 | 10 | 7.99 | France |
 | 1.11 | 7 | 6.32 | Denmark |
-| 1.10 | 4 | 3.65 | Norway |
+| 1.09 | 4 | 3.66 | Norway |
 | 1.07 | 2 | 1.87 | Slovenia |
-| 0.93 | 2 | 2.15 | Kenya |
-| 0.93 | 5 | 5.39 | Switzerland |
+| 0.93 | 2 | 2.16 | Kenya |
+| 0.93 | 5 | 5.40 | Switzerland |
 | 0.88 | 13 | 14.69 | Spain |
-| 0.79 | 13 | 16.39 | Italy |
+| 0.79 | 13 | 16.40 | Italy |
 | 0.75 | 1 | 1.33 | Estonia |
 | 0.71 | 6 | 8.48 | United Arab Emirates |
-| 0.69 | 2 | 2.89 | Israel |
-| 0.63 | 1 | 1.58 | Greece |
+| 0.69 | 2 | 2.90 | Israel |
+| 0.63 | 1 | 1.59 | Greece |
 | 0.54 | 4 | 7.41 | Finland |
 | 0.52 | 1 | 1.91 | Republic of Korea |
 | 0.47 | 5 | 10.63 | Netherlands |
 | 0.43 | 3 | 6.95 | Ukraine |
 | 0.39 | 7 | 18.14 | Canada |
-| 0.37 | 1 | 2.67 | Romania |
 | 0.37 | 3 | 8.02 | Russia |
-| 0.34 | 2 | 5.97 | India |
-| 0.33 | 2 | 6.06 | Multiple Countries (World) |
-| 0.32 | 2 | 6.29 | Multiple Countries (Europe) |
+| 0.37 | 1 | 2.67 | Romania |
+| 0.33 | 2 | 5.97 | India |
+| 0.33 | 2 | 6.07 | Multiple Countries (World) |
+| 0.32 | 2 | 6.30 | Multiple Countries (Europe) |
 | 0.31 | 5 | 16.36 | Belgium |
-| 0.26 | 1 | 3.78 | Jordan |
+| 0.26 | 1 | 3.79 | Jordan |
 | 0.26 | 1 | 3.90 | New Zealand |
 | 0.19 | 2 | 10.40 | Singapore |
-| 0.19 | 2 | 10.60 | South Africa |
+| 0.19 | 2 | 10.61 | South Africa |
 | 0.19 | 3 | 15.98 | Czech Republic |
 | 0.18 | 2 | 11.39 | Philippines |
 
