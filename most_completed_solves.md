@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 
 ### Competition
@@ -32,17 +32,17 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **8493** | 8686 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4077** | 4304 |
-| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **3333** | 3675 |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **3257** | 3321 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **8561** | 8754 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4139** | 4374 |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **3366** | 3718 |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **3279** | 3343 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **3239** | 3385 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **3231** | 3401 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3157** | 3338 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **3005** | 3172 |
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | **2768** | 2871 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2617** | 2675 |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **2509** | 2660 |
+| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2682** | 2741 |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **2537** | 2689 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2438** | 2501 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **2409** | 2591 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2385** | 2523 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | Ireland | **193627** | 202968 |
 | United Kingdom | **17132** | 17986 |
-| United States | **2143** | 2255 |
+| United States | **2659** | 2801 |
 | Spain | **2104** | 2173 |
 | Germany | **1695** | 1760 |
 | France | **720** | 742 |
@@ -83,7 +83,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Europe | **218976** | 229528 |
-| North America | **2311** | 2431 |
+| North America | **2827** | 2977 |
 | Oceania | **495** | 533 |
 | Asia | **315** | 326 |
 | Africa | **43** | 45 |
@@ -96,7 +96,7 @@
 | :--- | ---: | ---: |
 | 2024 | **69536** | 73178 |
 | 2023 | **61953** | 64774 |
-| 2025 | **36505** | 38279 |
+| 2025 | **37021** | 38825 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -117,23 +117,23 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **57090** | 58279 |
-| 2x2x2 Cube | **40103** | 41207 |
-| Pyraminx | **29108** | 29859 |
-| Skewb | **23335** | 23924 |
-| 4x4x4 Cube | **18812** | 19443 |
-| 3x3x3 One-Handed | **12359** | 12899 |
-| 5x5x5 Cube | **10991** | 11408 |
-| Clock | **10325** | 12009 |
-| Megaminx | **7631** | 8061 |
-| Square-1 | **6296** | 6683 |
-| 6x6x6 Cube | **2491** | 2590 |
-| 7x7x7 Cube | **1856** | 1974 |
-| 3x3x3 Blindfolded | **900** | 2815 |
+| 3x3x3 Cube | **57164** | 58354 |
+| 2x2x2 Cube | **40158** | 41262 |
+| Pyraminx | **29161** | 29914 |
+| Skewb | **23383** | 23974 |
+| 4x4x4 Cube | **18862** | 19493 |
+| 3x3x3 One-Handed | **12402** | 12944 |
+| 5x5x5 Cube | **11028** | 11445 |
+| Clock | **10378** | 12069 |
+| Megaminx | **7658** | 8088 |
+| Square-1 | **6321** | 6710 |
+| 6x6x6 Cube | **2514** | 2613 |
+| 7x7x7 Cube | **1878** | 1996 |
+| 3x3x3 Blindfolded | **905** | 2827 |
 | 3x3x3 Fewest Moves | **437** | 706 |
-| 3x3x3 Multi-Blind | **204** | 328 |
+| 3x3x3 Multi-Blind | **204** | 330 |
 | 3x3x3 With Feet | **69** | 76 |
-| 4x4x4 Blindfolded | **63** | 386 |
+| 4x4x4 Blindfolded | **64** | 392 |
 | Magic | **56** | 65 |
 | Master Magic | **34** | 35 |
 | 5x5x5 Blindfolded | **14** | 155 |

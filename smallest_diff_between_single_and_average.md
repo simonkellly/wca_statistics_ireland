@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 
 ### Rubik's Cube
@@ -45,9 +45,9 @@
 | 0.35 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 55.51 | 55.86 | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023/results/by_person#2017KELL08) |
 | 0.44 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 38.42 | 38.86 | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025/results/by_person#2023HAMI12) |
 | 0.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25.63 | 26.10 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012BEAH01) |
+| 0.47 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 28.40 | 28.87 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2022LAUR09) |
 | 0.53 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 29.12 | 29.65 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2022HAIN04) |
 | 0.57 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 31.53 | 32.10 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2012BEAH01) |
-| 0.62 | [Luca Hennessy](https://www.worldcubeassociation.org/persons/2021HENN01) | 57.99 | 58.61 | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025/results/by_person#2021HENN01) |
 
 ### 5x5x5 Cube
 

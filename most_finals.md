@@ -1,12 +1,12 @@
 ## Most finals
 
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 | Finals | Person |
 | ---: | :--- |
-| 895 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 477 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
-| 407 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 899 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 478 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 409 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 371 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 357 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 333 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |

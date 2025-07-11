@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 
 ### World
@@ -251,6 +251,7 @@
 | 0 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025/results/by_person#2022FURE01) |
 | 0 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2023BROW36) |
 | 0 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2023OLWI01) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
 
 ### Continental
 

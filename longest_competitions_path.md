@@ -1,25 +1,29 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 | Person | Distance |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 149 448 km |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 56 883 km |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 156 725 km |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 64 147 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 43 792 km |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 35 848 km |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 39 241 km |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 29 611 km |
+| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 27 095 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 26 078 km |
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 24 436 km |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 23 909 km |
 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 23 856 km |
-| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 22 347 km |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 21 707 km |
-| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 19 818 km |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 16 633 km |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 16 578 km |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 19 742 km |
+| [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 16 899 km |
 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | 16 249 km |
+| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 15 651 km |
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 14 505 km |
-| [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 13 735 km |
+| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 13 746 km |
+| [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 13 462 km |
+| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 12 632 km |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | 12 539 km |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 12 245 km |
 | [Yoel Shafat](https://www.worldcubeassociation.org/persons/2022SHAF01) | 12 119 km |
@@ -29,7 +33,6 @@
 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) | 9 517 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 9 119 km |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 9 118 km |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 8 370 km |
 | [Olivia Clarke](https://www.worldcubeassociation.org/persons/2018CLAR01) | 8 166 km |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 7 935 km |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 7 844 km |
@@ -39,9 +42,7 @@
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 6 930 km |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 6 905 km |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 6 851 km |
-| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 6 482 km |
 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) | 6 309 km |
-| [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 6 232 km |
 | [Stepan Potapov](https://www.worldcubeassociation.org/persons/2017POTA04) | 6 218 km |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 6 148 km |
 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | 6 132 km |
@@ -55,7 +56,6 @@
 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | 5 449 km |
 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | 5 332 km |
 | [Robert Riordan](https://www.worldcubeassociation.org/persons/2016RIOR01) | 5 331 km |
-| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 5 328 km |
 | [Eamonn O'Dwyer](https://www.worldcubeassociation.org/persons/2019ODWY02) | 5 199 km |
 | [Darragh Cronin](https://www.worldcubeassociation.org/persons/2022CRON01) | 5 167 km |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 5 140 km |
