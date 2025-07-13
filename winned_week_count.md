@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 July 2025*
+*Updated on 13 July 2025*
 
 
 ### Rubik's Cube
@@ -34,7 +34,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 37 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 24 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 25 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 12 |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 9 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 8 |
@@ -50,9 +50,9 @@
 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | 3 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 3 |
 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 3 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 3 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 3 |
 | [Xavier Ye](https://www.worldcubeassociation.org/persons/2021YEXA01) | 3 |
+| [Taiyo Berčič](https://www.worldcubeassociation.org/persons/2022BERC01) | 3 |
 
 ### 4x4x4 Cube
 

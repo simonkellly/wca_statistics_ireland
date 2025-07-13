@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 July 2025*
+*Updated on 13 July 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -19,7 +19,7 @@
 | 15 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 15 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 13 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
-| 12 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 13 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 12 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 11 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 10 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |

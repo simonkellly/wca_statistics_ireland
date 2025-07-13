@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 July 2025*
+*Updated on 13 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -34,13 +34,14 @@
 | 8 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
 | 8 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 8 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |
+| 7 | [Benedek Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK01) |
 | 7 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 7 | [Seven Yang (杨子熙)](https://www.worldcubeassociation.org/persons/2022YANG21) |
 | 7 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
 | 7 | [Odhran Albuquerque](https://www.worldcubeassociation.org/persons/2023ALBU01) |
 | 7 | [Finnbar McGovern](https://www.worldcubeassociation.org/persons/2022GOVE02) |
 | 7 | [Paul Cotter](https://www.worldcubeassociation.org/persons/2022COTT06) |
-| 7 | [Benedek Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK01) |
+| 7 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 6 | [Chun Yin Man](https://www.worldcubeassociation.org/persons/2023MANC03) |
 | 6 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 6 | [Daithi Heffernan](https://www.worldcubeassociation.org/persons/2018HEFF01) |
@@ -50,7 +51,6 @@
 | 6 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 6 | [Olin Long](https://www.worldcubeassociation.org/persons/2023LONG10) |
 | 6 | [Dimitar Ignatov](https://www.worldcubeassociation.org/persons/2023IGNA05) |
-| 6 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 5 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
 | 5 | [Oleksii Bodeichuk](https://www.worldcubeassociation.org/persons/2024BODE01) |
 | 5 | [Marceli Wieczorek](https://www.worldcubeassociation.org/persons/2022WIEC03) |

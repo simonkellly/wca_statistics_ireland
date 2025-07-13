@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 July 2025*
+*Updated on 13 July 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -65,6 +65,7 @@
 | 1 | [Carquef'Open 2022](https://www.worldcubeassociation.org/competitions/CarquefOpen2022) |
 | 1 | [Cartagena UPCT Open 2025](https://www.worldcubeassociation.org/competitions/CartagenaUPCTOpen2025) |
 | 1 | [Cavarzere Cube Days 2023](https://www.worldcubeassociation.org/competitions/CavarzereCubeDays2023) |
+| 1 | [CCM Baltar Open 2025](https://www.worldcubeassociation.org/competitions/CCMBaltarOpen2025) |
 | 1 | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) |
 | 1 | [Charlottetown 2025](https://www.worldcubeassociation.org/competitions/Charlottetown2025) |
 | 1 | [Charlottetown Mini 2024](https://www.worldcubeassociation.org/competitions/CharlottetownMini2024) |
@@ -78,6 +79,7 @@
 | 1 | [Sagrado Corazón Open 2023](https://www.worldcubeassociation.org/competitions/ColegioSagradoCorazondeJesus2023) |
 | 1 | [Connecticut Spring 2023](https://www.worldcubeassociation.org/competitions/ConnecticutSpring2023) |
 | 1 | [Coosa Cubing Clash 2024](https://www.worldcubeassociation.org/competitions/CoosaCubingClash2024) |
+| 1 | [Coping in Auckland 2025](https://www.worldcubeassociation.org/competitions/CopinginAuckland2025) |
 | 1 | [Crystal Open 2018](https://www.worldcubeassociation.org/competitions/CrystalOpen2018) |
 | 1 | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
 | 1 | [Cubing in Cambridge 2023](https://www.worldcubeassociation.org/competitions/CubinginCambridge2023) |

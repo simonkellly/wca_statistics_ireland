@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 July 2025*
+*Updated on 13 July 2025*
 
 
 ### Competition
@@ -46,8 +46,8 @@
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2438** | 2501 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **2409** | 2591 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2385** | 2523 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **2351** | 2489 |
 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **2325** | 2475 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **2310** | 2446 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **2296** | 2479 |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **2075** | 2243 |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **1962** | 2118 |
@@ -82,9 +82,9 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **218976** | 229528 |
+| Europe | **218996** | 229548 |
 | North America | **2827** | 2977 |
-| Oceania | **495** | 533 |
+| Oceania | **536** | 576 |
 | Asia | **315** | 326 |
 | Africa | **43** | 45 |
 | South America | **29** | 33 |
@@ -96,7 +96,7 @@
 | :--- | ---: | ---: |
 | 2024 | **69536** | 73178 |
 | 2023 | **61953** | 64774 |
-| 2025 | **37021** | 38825 |
+| 2025 | **37082** | 38888 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -117,19 +117,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **57164** | 58354 |
-| 2x2x2 Cube | **40158** | 41262 |
-| Pyraminx | **29161** | 29914 |
-| Skewb | **23383** | 23974 |
+| 3x3x3 Cube | **57179** | 58369 |
+| 2x2x2 Cube | **40173** | 41277 |
+| Pyraminx | **29175** | 29929 |
+| Skewb | **23388** | 23979 |
 | 4x4x4 Cube | **18862** | 19493 |
 | 3x3x3 One-Handed | **12402** | 12944 |
-| 5x5x5 Cube | **11028** | 11445 |
+| 5x5x5 Cube | **11038** | 11455 |
 | Clock | **10378** | 12069 |
 | Megaminx | **7658** | 8088 |
 | Square-1 | **6321** | 6710 |
 | 6x6x6 Cube | **2514** | 2613 |
 | 7x7x7 Cube | **1878** | 1996 |
-| 3x3x3 Blindfolded | **905** | 2827 |
+| 3x3x3 Blindfolded | **907** | 2830 |
 | 3x3x3 Fewest Moves | **437** | 706 |
 | 3x3x3 Multi-Blind | **204** | 330 |
 | 3x3x3 With Feet | **69** | 76 |
