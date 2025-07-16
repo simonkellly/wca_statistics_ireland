@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -52,7 +52,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 33.69 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 32.76, 31.64, 33.50, DNF, 32.26, 33.00, 29.93, 36.69, 32.27, 36.21, 31.68, DNF, 29.17, 29.74, 37.03, 34.27, 36.62, 30.82, 35.93, 31.98, 37.43, 36.82, 32.87, 29.62, 34.14 |
+| 33.07 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 34.27, 36.62, 30.82, 35.93, 31.98, 37.43, 36.82, 32.87, 29.62, 34.14, 40.81, 36.37, 39.79, 32.44, 30.93, 30.68, 30.59, 33.99, 30.59, 30.97, 30.41, 31.52, 32.49, 32.03, 31.09 |
 | 34.99 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 35.43, 34.58, 38.30, 34.91, 38.31, 36.15, 35.14, 34.68, 37.30, 40.79, 30.92, 39.32, 39.39, 32.24, 35.25, 34.76, 29.65, 33.82, 36.34, 35.65, 29.39, 33.12, 31.84, 35.01, 31.65 |
 | 38.49 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 40.50, 40.19, 38.48, 37.05, 35.52, 42.69, 38.81, 35.98, 45.55, 46.30, 38.33, 38.92, 37.31, 39.16, 36.86, 39.19, 42.48, 37.20, 38.29, 33.37, 36.29, 36.45, 38.47, 40.12, 32.68 |
 

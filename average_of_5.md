@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -65,8 +65,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 30.72 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.59, 33.99, 30.59, 30.97, 30.41 |
 | 32.20 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 29.39, 33.12, 31.84, 35.01, 31.65 |
-| 32.51 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 32.26, 33.00, 29.93, 36.69, 32.27 |
 | 36.65 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.20, 38.29, 33.37, 36.29, 36.45 |
 
 ### Pyraminx
@@ -75,7 +75,7 @@
 | ---: | :--- | :--- |
 | 1.78 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3.19, 1.39, 1.60, 1.73, 2.02 |
 | 1.97 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.76, 2.32, 1.61, 1.91, 1.67 |
-| 2.90 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.48, 3.28, 2.93, 4.95, 1.28 |
+| 2.64 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 3.54, 2.11, 1.91, 3.50, 2.32 |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -75,9 +75,9 @@
 | 2:39.99 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 2:40.93 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
 | 2:45.89 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 2:55.76 | [Reuben Kiernan](https://www.worldcubeassociation.org/persons/2024KIER01) |
 | 2:58.76 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 3:01.31 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
-| 3:05.30 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 
 ### 7x7x7 Cube
 
@@ -165,9 +165,9 @@
 | 5.69 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 5.70 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 5.90 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
+| 5.93 | [Ronan Casey](https://www.worldcubeassociation.org/persons/2025CASE04) |
 | 6.29 | [Daragh Mortimer](https://www.worldcubeassociation.org/persons/2022MORT01) |
 | 6.35 | [Rory Farren](https://www.worldcubeassociation.org/persons/2024FARR10) |
-| 6.37 | [Raife Fitzmaurice](https://www.worldcubeassociation.org/persons/2023FITZ05) |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -10,6 +10,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.07 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.88 | 7.95 | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/by_person#2012BEAH01) |
 | 0.08 | [Dara Okan](https://www.worldcubeassociation.org/persons/2023OKAN02) | 14.71 | 14.79 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/by_person#2023OKAN02) |
+| 0.09 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 10.05 | 10.14 | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2020BERM02) |
 | 0.09 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | 12.61 | 12.70 | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2022CUNN04) |
 | 0.11 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) | 15.06 | 15.17 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2022KENN12) |
 | 0.11 | [Ethan Moloney-Illien](https://www.worldcubeassociation.org/persons/2019MOLO02) | 17.21 | 17.32 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2019MOLO02) |
@@ -17,7 +18,6 @@
 | 0.14 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 10.17 | 10.31 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/by_person#2022GREE14) |
 | 0.15 | [Rory Power Breen](https://www.worldcubeassociation.org/persons/2022BREE02) | 15.26 | 15.41 | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023/results/by_person#2022BREE02) |
 | 0.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.11 | 7.27 | [Weston-super-Mare Spring 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareSpring2024/results/by_person#2012BEAH01) |
-| 0.17 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) | 11.24 | 11.41 | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020/results/by_person#2019JACK03) |
 
 ### 2x2x2 Cube
 
@@ -128,6 +128,7 @@
 
 | Diff | Person | Single | Average | results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.16 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.59 | 30.75 | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
 | 0.64 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 1:46.55 | 1:47.19 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017FITZ01) |
 | 0.67 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 45.61 | 46.28 | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2019MCMO01) |
 | 0.69 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 1:52.36 | 1:53.05 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022HUGH08) |
@@ -137,7 +138,6 @@
 | 0.91 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | 1:04.21 | 1:05.12 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2022KEAT02) |
 | 1.08 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:01.04 | 1:02.12 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2012BEAH01) |
 | 1.09 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 43.31 | 44.40 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
-| 1.11 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 50.15 | 51.26 | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023/results/by_person#2019NAYA01) |
 
 ### Pyraminx
 

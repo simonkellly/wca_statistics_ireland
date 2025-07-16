@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### World
@@ -252,6 +252,7 @@
 | 0 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2023BROW36) |
 | 0 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2023OLWI01) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
+| 0 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
 
 ### Continental
 
