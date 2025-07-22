@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 
 ### Rubik's Cube
@@ -28,10 +28,10 @@
 | 1.28 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2021DOHE02) |
 | 1.31 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2023DOWL01) |
 | 1.31 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2023DOWL01) |
+| 1.31 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/by_person#2021DOHE02) |
 | 1.32 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2022FURE01) |
 | 1.32 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2021DOHE02) |
 | 1.34 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021DOHE02) |
-| 1.34 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2023DOWL01) |
 
 ### 4x4x4 Cube
 

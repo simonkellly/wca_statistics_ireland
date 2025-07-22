@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -17,7 +17,7 @@
 | 272 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 264 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 259 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
-| 242 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 256 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 230 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 228 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 223 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 
 ### Rubik's Cube
@@ -91,8 +91,8 @@
 | 0.72 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 3:51.88 | 3:52.60 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2021FINK02) |
 | 0.73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:04.67 | 2:05.40 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
 | 0.84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.64 | 1:57.48 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
+| 0.84 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3:42.97 | 3:43.81 | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/by_person#2021DOHE02) |
 | 0.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:07.11 | 2:08.10 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2012BEAH01) |
-| 1.12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.58 | 1:57.70 | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025/results/by_person#2012BEAH01) |
 
 ### 3x3x3 Blindfolded
 

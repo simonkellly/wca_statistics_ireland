@@ -1,11 +1,11 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 | competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
+| 43 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
 | 42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |
-| 42 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
 | 40 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |  |
 | 35 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |  |
 | 35 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) |

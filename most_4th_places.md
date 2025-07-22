@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -15,11 +15,11 @@
 | 23 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 19 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 19 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
+| 18 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 16 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 15 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 15 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 14 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
-| 13 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 12 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 11 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 10 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |

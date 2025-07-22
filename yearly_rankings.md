@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 
 ### Rubik's Cube - Single
@@ -91,8 +91,8 @@
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **32.22** | Ukraine | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 33.91, 33.02, 28.96, 29.72, 35.39 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **33.20** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 32.76, 33.59, 31.57, 33.25, 34.99 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **33.27** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 45.66, 31.11, 34.26, 33.19, 32.36 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **34.32** | Ireland | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) | 31.82, 36.54, 34.61, 37.26, 31.66 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **34.67** | India | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 32.85, 35.32, 34.82, 33.87, 40.31 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **35.66** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 33.38, 35.96, 37.20, 38.19, 33.81 |
 
 ### 5x5x5 Cube - Single
 
@@ -151,8 +151,8 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:56.24** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 2:07.69, 1:50.98, 1:50.04 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **1:58.38** | Ireland | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) | 1:49.06, 1:59.21, 2:06.87 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:58.77** | Ireland | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 2:05.16, 1:48.20, 2:02.95 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **2:07.14** | Ireland | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) | 2:07.97, 2:05.41, 2:08.04 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2:11.59** | Mongolia | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 2:20.62, 1:55.72, 2:18.43 |
-| [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) | **2:11.67** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 1:52.27, 2:29.24, 2:13.49 |
 
 ### 7x7x7 Cube - Single
 
@@ -191,8 +191,8 @@
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **24.03** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 24.03, DNF, DNF |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **26.27** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | DNF, 45.36, 26.27 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **44.26** | Ireland | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 52.70, 1:00.44, 44.26 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **45.76** | Ireland | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) | 50.79, 45.76, DNF |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **47.72** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | DNF, 2:06.02, 47.72 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **53.06** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | DNF, 57.72, 53.06 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **53.49** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:05.12, 1:15.55, 53.49 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **54.48** | Mongolia | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 54.48, 1:10.34, 1:29.81 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1:00.91** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:00.91, 1:42.93, DNF |
@@ -252,7 +252,7 @@
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **11.88** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 14.97, 11.88, 14.16, 14.63, 13.17 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **12.47** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 14.64, 22.44, 14.34, 14.94, 12.47 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **12.64** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 32.42, 18.99, 12.64, 18.25, 24.10 |
-| [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **13.00** | Ireland | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) | 13.00, 16.56, 16.63, 13.85, 16.62 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **12.74** | Ireland | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) | 17.75, 27.38, 12.74, 17.03, 21.72 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -426,8 +426,8 @@
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **3:21.56** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 3:21.56, DNF, DNF |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4:16.23** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 4:16.23, 5:38.44, 7:35.26 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:27.82** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | DNF, DNF, 4:27.82 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **4:30.29** | Ireland | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) | 4:58.31, DNF, 4:30.29 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **5:16.81** | Ireland | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) | DNF, 5:16.81, DNF |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **5:33.84** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | DNF, DNF, 5:33.84 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **6:42.58** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | DNF, 8:25.62, 6:42.58 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **7:37.17** | Mongolia | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 7:37.17, 8:40.76, 11:29.00 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **16:35.00** | Ireland | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) | 21:33.00, 16:35.00, DNF |
@@ -456,10 +456,10 @@
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **15/18 51:23** | Ireland | [Scottish Championship Blind 2025](https://www.worldcubeassociation.org/competitions/ScottishChampionshipBlindOff2025) | 15/18 51:23, DNF |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **15/18 57:19** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 15/18 57:19 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **17/24 52:15** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 17/24 52:15 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **10/11 30:37** | Ireland | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) | 10/11 30:37, DNS |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **11/13 47:59** | Ireland | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 11/13 47:59 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **10/11 48:08** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 8/11 47:55, 10/11 48:08 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **10/11 53:42** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 9/13 58:00, 10/11 53:42 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **8/9 40:46** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 8/9 40:46, 7/10 46:48 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **7/7 58:30** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 7/7 58:30 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **6/7 44:07** | Mongolia | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 6/7 44:07 |
 

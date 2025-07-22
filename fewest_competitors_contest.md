@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -228,6 +228,7 @@
 | 1 | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) |
 | 1 | [NxN Minnesota 2022](https://www.worldcubeassociation.org/competitions/NxNMinnesota2022) |
 | 1 | [North Island Championship 2021](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2021) |
+| 1 | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) |
 | 1 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024) |
 | 1 | [Oldham County Cubing 2024](https://www.worldcubeassociation.org/competitions/OldhamCountyCubing2024) |
 | 1 | [Oslo Open 2023](https://www.worldcubeassociation.org/competitions/OsloOpen2023) |
