@@ -4,15 +4,15 @@
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 8.67 | 139 | 16.04 | United Kingdom |
+| 8.66 | 139 | 16.04 | United Kingdom |
 | 7.10 | 69 | 9.72 | United States |
-| 5.65 | 76 | 13.45 | Ireland |
+| 5.65 | 76 | 13.46 | Ireland |
 | 3.62 | 10 | 2.76 | Austria |
 | 3.42 | 8 | 2.34 | Slovakia |
 | 2.82 | 18 | 6.38 | Australia |
 | 2.46 | 40 | 16.25 | Germany |
 | 2.14 | 5 | 2.34 | Sweden |
-| 2.12 | 3 | 1.42 | Portugal |
+| 2.11 | 3 | 1.42 | Portugal |
 | 1.40 | 8 | 5.71 | Poland |
 | 1.40 | 3 | 2.15 | Hungary |
 | 1.24 | 10 | 8.04 | France |
@@ -20,31 +20,31 @@
 | 1.08 | 4 | 3.70 | Norway |
 | 1.04 | 2 | 1.92 | Slovenia |
 | 0.98 | 1 | 1.02 | Bosnia and Herzegovina |
-| 0.97 | 1 | 1.03 | Brazil |
-| 0.92 | 5 | 5.44 | Switzerland |
-| 0.91 | 2 | 2.20 | Kenya |
+| 0.96 | 1 | 1.04 | Brazil |
+| 0.92 | 5 | 5.45 | Switzerland |
+| 0.91 | 2 | 2.21 | Kenya |
 | 0.88 | 13 | 14.74 | Spain |
-| 0.79 | 13 | 16.44 | Italy |
+| 0.79 | 13 | 16.45 | Italy |
 | 0.76 | 3 | 3.95 | New Zealand |
 | 0.72 | 1 | 1.38 | Estonia |
 | 0.70 | 6 | 8.53 | United Arab Emirates |
-| 0.68 | 2 | 2.94 | Israel |
+| 0.68 | 2 | 2.95 | Israel |
 | 0.61 | 1 | 1.63 | Greece |
 | 0.54 | 4 | 7.46 | Finland |
-| 0.51 | 1 | 1.95 | Republic of Korea |
+| 0.51 | 1 | 1.96 | Republic of Korea |
 | 0.47 | 5 | 10.68 | Netherlands |
 | 0.43 | 3 | 7.00 | Ukraine |
 | 0.38 | 7 | 18.19 | Canada |
 | 0.37 | 3 | 8.07 | Russia |
 | 0.37 | 1 | 2.72 | Romania |
 | 0.33 | 2 | 6.02 | India |
-| 0.33 | 2 | 6.11 | Multiple Countries (World) |
-| 0.32 | 2 | 6.34 | Multiple Countries (Europe) |
+| 0.33 | 2 | 6.12 | Multiple Countries (World) |
+| 0.32 | 2 | 6.35 | Multiple Countries (Europe) |
 | 0.30 | 5 | 16.41 | Belgium |
-| 0.26 | 1 | 3.83 | Jordan |
-| 0.19 | 2 | 10.44 | Singapore |
-| 0.19 | 2 | 10.65 | South Africa |
-| 0.19 | 3 | 16.02 | Czech Republic |
+| 0.26 | 1 | 3.84 | Jordan |
+| 0.19 | 2 | 10.45 | Singapore |
+| 0.19 | 2 | 10.66 | South Africa |
+| 0.19 | 3 | 16.03 | Czech Republic |
 | 0.17 | 2 | 11.44 | Philippines |
 
 
