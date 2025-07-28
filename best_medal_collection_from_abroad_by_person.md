@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -18,9 +18,9 @@
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 3 | 3 | 7 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1** | 1 | 0 | 2 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **1** | 1 | 0 | 2 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1** | 0 | 2 | 3 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1** | 0 | 0 | 1 |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **1** | 0 | 0 | 1 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **1** | 0 | 0 | 1 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 48 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 39 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 29 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
-| 27 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
+| 29 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 25 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 23 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 23 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |

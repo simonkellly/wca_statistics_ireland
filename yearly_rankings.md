@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### Rubik's Cube - Single
@@ -10,8 +10,8 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **4.72** | Ireland | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) | 6.90, DNF, 4.72, 6.37, 8.63 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **5.02** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 5.02, 7.44, 10.57, 8.29, 9.09 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **5.53** | Ireland | [Hungarian All-Rounder 8 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder82025) | 7.85, 7.27, 12.73, 5.53, 10.49 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **5.84** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 9.93, 5.84, 9.29, 10.15, 8.12 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **5.93** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 5.93, 6.79, 6.36, 7.25, 6.78 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **6.12** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 10.50, 8.58, 6.12, 12.51, 8.36 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **6.42** | India | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 8.25, 8.16, 8.03, 6.42, 7.49 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **6.60** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 9.63, 7.53, 6.60, 8.74, 12.07 |
@@ -62,7 +62,7 @@
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **2.25** | India | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 2.45, 1.88, 2.88, 2.41, 1.84 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2.32** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 1.75, 1.58, 4.37, 3.30, 1.90 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2.32** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 2.03, 2.26, 1.43, 5.90, 2.67 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **2.55** | Ireland | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 6.39, 2.60, 2.71, 2.34, 2.26 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2.52** | Ireland | [Hungarian All-Rounder 8 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder82025) | 2.62, 2.39, 2.54, 2.02, 3.95 |
 
 ### 4x4x4 Cube - Single
 

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -99,6 +99,7 @@
 | 1 | [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) |
 | 1 | [Dolné Orešany Open 2023](https://www.worldcubeassociation.org/competitions/DolneOresanyOpen2023) |
 | 1 | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) |
+| 1 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
 | 1 | [Dutch Nationals 2016](https://www.worldcubeassociation.org/competitions/DutchNationals2016) |
 | 1 | [Dutch Winter 2017](https://www.worldcubeassociation.org/competitions/DutchWinter2017) |
 | 1 | [East London Autumn 2022](https://www.worldcubeassociation.org/competitions/EastLondonAutumn2022) |
@@ -159,6 +160,7 @@
 | 1 | [Honey Cube Barcin 2024](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2024) |
 | 1 | [Hong Kong Championship 2024](https://www.worldcubeassociation.org/competitions/HongKongChampionship2024) |
 | 1 | [Hungarian All-Rounder 5 2024](https://www.worldcubeassociation.org/competitions/HungarianAllRounder52024) |
+| 1 | [Hungarian All-Rounder 8 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder82025) |
 | 1 | [Hungarian Open 2023](https://www.worldcubeassociation.org/competitions/HungarianOpen2023) |
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
 | 1 | [High Wycombe Open 2018](https://www.worldcubeassociation.org/competitions/HWO2018) |

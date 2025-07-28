@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### Rubik's Cube
@@ -14,7 +14,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 2.60 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 1.18, 1.59, 4.17, 1.99, 1.95, 3.35, 2.73, 3.00, 3.81, 2.31, 3.07, 2.18 |
+| 2.59 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 0.93, 3.06, 1.58, 3.83, 3.09, 2.62, 2.39, 2.54, 2.02, 3.95, 1.77, 3.02 |
 
 ### 4x4x4 Cube
 
