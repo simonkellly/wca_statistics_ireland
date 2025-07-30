@@ -5,46 +5,46 @@
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 8.66 | 139 | 16.05 | United Kingdom |
-| 7.10 | 69 | 9.72 | United States |
-| 5.65 | 76 | 13.46 | Ireland |
-| 3.62 | 10 | 2.77 | Austria |
-| 3.41 | 8 | 2.34 | Slovakia |
+| 7.09 | 69 | 9.73 | United States |
+| 5.64 | 76 | 13.46 | Ireland |
+| 3.61 | 10 | 2.77 | Austria |
+| 3.41 | 8 | 2.35 | Slovakia |
 | 2.82 | 18 | 6.39 | Australia |
 | 2.46 | 40 | 16.26 | Germany |
-| 2.13 | 5 | 2.34 | Sweden |
-| 2.11 | 3 | 1.42 | Portugal |
-| 1.86 | 4 | 2.15 | Hungary |
+| 2.13 | 5 | 2.35 | Sweden |
+| 2.10 | 3 | 1.43 | Portugal |
+| 1.85 | 4 | 2.16 | Hungary |
 | 1.57 | 9 | 5.72 | Poland |
-| 1.24 | 10 | 8.04 | France |
-| 1.10 | 7 | 6.37 | Denmark |
+| 1.24 | 10 | 8.05 | France |
+| 1.10 | 7 | 6.38 | Denmark |
 | 1.08 | 4 | 3.71 | Norway |
-| 1.04 | 2 | 1.92 | Slovenia |
-| 0.98 | 1 | 1.02 | Bosnia and Herzegovina |
-| 0.96 | 1 | 1.04 | Brazil |
+| 1.04 | 2 | 1.93 | Slovenia |
+| 0.97 | 1 | 1.03 | Bosnia and Herzegovina |
+| 0.96 | 1 | 1.05 | Brazil |
 | 0.92 | 5 | 5.45 | Switzerland |
-| 0.91 | 2 | 2.21 | Kenya |
-| 0.88 | 13 | 14.74 | Spain |
+| 0.90 | 2 | 2.21 | Kenya |
+| 0.88 | 13 | 14.75 | Spain |
 | 0.79 | 13 | 16.45 | Italy |
 | 0.76 | 3 | 3.96 | New Zealand |
 | 0.72 | 1 | 1.39 | Estonia |
-| 0.70 | 6 | 8.53 | United Arab Emirates |
+| 0.70 | 6 | 8.54 | United Arab Emirates |
 | 0.68 | 2 | 2.95 | Israel |
 | 0.61 | 1 | 1.64 | Greece |
-| 0.54 | 4 | 7.46 | Finland |
-| 0.51 | 1 | 1.96 | Republic of Korea |
-| 0.47 | 5 | 10.68 | Netherlands |
-| 0.43 | 3 | 7.00 | Ukraine |
-| 0.38 | 7 | 18.19 | Canada |
-| 0.37 | 3 | 8.07 | Russia |
+| 0.54 | 4 | 7.47 | Finland |
+| 0.51 | 1 | 1.97 | Republic of Korea |
+| 0.47 | 5 | 10.69 | Netherlands |
+| 0.43 | 3 | 7.01 | Ukraine |
+| 0.38 | 7 | 18.20 | Canada |
+| 0.37 | 3 | 8.08 | Russia |
 | 0.37 | 1 | 2.73 | Romania |
-| 0.33 | 2 | 6.02 | India |
+| 0.33 | 2 | 6.03 | India |
 | 0.33 | 2 | 6.12 | Multiple Countries (World) |
-| 0.32 | 2 | 6.35 | Multiple Countries (Europe) |
-| 0.30 | 5 | 16.41 | Belgium |
+| 0.31 | 2 | 6.35 | Multiple Countries (Europe) |
+| 0.30 | 5 | 16.42 | Belgium |
 | 0.26 | 1 | 3.84 | Jordan |
-| 0.19 | 2 | 10.45 | Singapore |
+| 0.19 | 2 | 10.46 | Singapore |
 | 0.19 | 2 | 10.66 | South Africa |
-| 0.19 | 3 | 16.03 | Czech Republic |
+| 0.19 | 3 | 16.04 | Czech Republic |
 | 0.17 | 2 | 11.45 | Philippines |
 
 
