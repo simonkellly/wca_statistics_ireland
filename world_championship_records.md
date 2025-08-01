@@ -1,7 +1,7 @@
 ## World Championship records
 
 *Note: This is a list of the best results from all World Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Single
@@ -17,9 +17,9 @@
 | 3x3x3 Blindfolded | 29.30 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 3x3x3 Fewest Moves | 28 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | Ireland | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 3x3x3 One-Handed | 11.65 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
-| Megaminx | 29.62 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | India | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
+| Megaminx | 29.62 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | Pyraminx | 2.53 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
-| Rubik's Clock | 3.83 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | India | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
+| Rubik's Clock | 3.83 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | Skewb | 2.80 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | Square-1 | 7.63 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 4x4x4 Blindfolded | 5:20.62 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
@@ -36,7 +36,7 @@
 | 7x7x7 Cube | 1:57.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 3x3x3 Fewest Moves | 34.67 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | Ireland | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 3x3x3 One-Handed | 12.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
-| Megaminx | 34.61 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | India | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
+| Megaminx | 34.61 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | Pyraminx | 3.95 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | Rubik's Clock | 4.69 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | Skewb | 3.40 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |

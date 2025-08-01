@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Rubik's Cube
@@ -72,12 +72,12 @@
 | 0.31 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2:04.68 | 2:04.99 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022LAUR09) |
 | 0.43 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 2:31.93 | 2:32.36 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2019NATS02) |
 | 0.56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:20.61 | 1:21.17 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
+| 0.67 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | 2:21.11 | 2:21.78 | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023BROW36) |
 | 0.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:15.39 | 1:16.19 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2012BEAH01) |
 | 0.80 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2:36.96 | 2:37.76 | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/by_person#2015OCON03) |
 | 0.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:23.65 | 1:24.52 | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021/results/by_person#2012BEAH01) |
 | 0.87 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | 2:20.17 | 2:21.04 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2017HELO01) |
 | 0.89 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:29.14 | 1:30.03 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012BEAH01) |
-| 0.95 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 2:36.33 | 2:37.28 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022/results/by_person#2017FITZ01) |
 
 ### 7x7x7 Cube
 
@@ -149,10 +149,10 @@
 | 0.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5.38 | 5.49 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012BEAH01) |
 | 0.11 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 9.07 | 9.18 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023/results/by_person#2019CLEA04) |
 | 0.14 | [Liam Daniel Rocha Oliveira](https://www.worldcubeassociation.org/persons/2022OLIV10) | 9.82 | 9.96 | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023/results/by_person#2022OLIV10) |
+| 0.15 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | 2.53 | 2.68 | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2022MCCO09) |
 | 0.16 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.79 | 2.95 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2019CARE02) |
 | 0.18 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.04 | 2.22 | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023/results/by_person#2021LOFT01) |
 | 0.19 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.73 | 1.92 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
-| 0.21 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) | 8.23 | 8.44 | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/by_person#2023ODRI01) |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -29,6 +29,7 @@
 | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 5.86 | 58 | Ireland |
 | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | 5.83 | 29 | Ireland |
 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 5.76 | 72 | Ireland |
+| [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) | 5.75 | 67 | Ireland |
 | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 5.69 | 109 | Ireland |
 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | 5.69 | 80 | Ireland |
 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | 5.68 | 200 | Ireland |

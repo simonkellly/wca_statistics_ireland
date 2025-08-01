@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Rubik's Cube
@@ -27,14 +27,14 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 41.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 41.30, 45.50, 43.18, 39.47, 42.79, 41.51, 39.18, 43.48, 43.39, 40.62, 39.95, 41.34 |
-| 50.97 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 45.92, 53.00, 45.18, 1:00.06, 1:00.90, 57.02, 46.91, 51.93, 49.30, 47.45, 52.31, 45.78 |
+| 41.58 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 48.56, 40.53, 41.85, 33.20, 42.48, 40.00, 45.10, 39.49, 42.81, 42.22, 40.08, 41.24 |
+| 50.01 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 54.96, 51.85, 53.53, 55.26, 50.85, 49.14, 49.74, 49.40, 47.72, 45.96, 44.11, 46.93 |
 
 ### 6x6x6 Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:16.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:16.67, 1:22.01, 1:15.74, 1:13.50, 1:19.91, 1:15.51, 1:16.27, 1:15.39, 1:16.90, 1:13.14, 1:12.01, 1:20.53 |
+| 1:16.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:08.12, 1:16.71, 1:16.04, 1:11.56, 1:18.75, 1:16.60, 1:20.30, 1:18.80, 1:12.22, 1:26.46, 1:18.13, 1:12.45 |
 
 ### 7x7x7 Cube
 
@@ -52,8 +52,8 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 30.64 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 29.39, 33.12, 31.84, 35.01, 31.65, 29.42, 28.35, 32.51, 30.07, 31.53, 28.53, 27.07 |
 | 31.33 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 32.44, 30.93, 30.68, 30.59, 33.99, 30.59, 30.97, 30.41, 31.52, 32.49, 32.03, 31.09 |
-| 33.30 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 32.24, 35.25, 34.76, 29.65, 33.82, 36.34, 35.65, 29.39, 33.12, 31.84, 35.01, 31.65 |
 | 37.54 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 39.16, 36.86, 39.19, 42.48, 37.20, 38.29, 33.37, 36.29, 36.45, 38.47, 40.12, 32.68 |
 
 ### Pyraminx
@@ -62,7 +62,7 @@
 | ---: | :--- | :--- |
 | 2.12 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.77, 1.82, 2.94, 2.18, 1.73, 1.74, 2.27, 2.32, 2.29, 22.49, 2.18, 1.73 |
 | 2.49 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.49, 2.66, 4.93, 2.76, 2.32, 1.61, 1.91, 1.67, 2.88, 2.34, 2.64, 3.21 |
-| 3.20 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 3.15, 2.48, 3.28, 2.93, 4.95, 1.28, 3.98, 3.69, 5.38, 3.54, 2.11, 1.91 |
+| 2.98 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.70, 3.50, 1.77, 2.51, 3.35, 2.96, DNF, 2.49, 3.51, 1.95, 3.51, 3.31 |
 
 ### Rubik's Clock
 

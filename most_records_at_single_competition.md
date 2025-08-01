@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### World
@@ -253,6 +253,8 @@
 | 0 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2023OLWI01) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
 | 0 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
+| 0 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2022CORR06) |
 
 ### Continental
 

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Rubik's Cube
@@ -149,10 +149,10 @@
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 41.04 | **46.29** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 7 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 39.99 | **47.36** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 9 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 43.13 | **48.13** | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/all#eminx_c) | 4 |
+| [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) | 47.40 | **50.17** | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/all#eminx_f) | 4 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 43.55 | **50.78** | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024/results/all#eminx_c) | 4 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 49.92 | **51.90** | [Mississippi Championship 2025](https://www.worldcubeassociation.org/competitions/MississippiChampionship2025/results/all#eminx_f) | 4 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 50.19 | **52.16** | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#eminx_f) | 5 |
-| [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 47.01 | **52.45** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 12 |
 
 ### Pyraminx
 
@@ -212,7 +212,7 @@
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 10.76 | **11.88** | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/all#esq1_c) | 4 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 10.03 | **11.94** | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/all#esq1_c) | 5 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 8.18 | **12.17** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#esq1_c) | 5 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 9.77 | **12.57** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#esq1_f) | 8 |
+| [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | 11.64 | **12.55** | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/all#esq1_f) | 4 |
 
 ### 4x4x4 Blindfolded
 

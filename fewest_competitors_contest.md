@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -173,6 +173,7 @@
 | 1 | [Ivanka pri Dunaji Open 2025](https://www.worldcubeassociation.org/competitions/IvankapriDunajiOpen2025) |
 | 1 | [Jay House of Cubes 2023](https://www.worldcubeassociation.org/competitions/JayHouseofCubes2023) |
 | 1 | [Jordan Fall Open 2021](https://www.worldcubeassociation.org/competitions/JordanFallOpen2021) |
+| 1 | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025) |
 | 1 | [Lakewood Newcomers 2024](https://www.worldcubeassociation.org/competitions/LakewoodNewcomers2024) |
 | 1 | [Leicester Open 2013](https://www.worldcubeassociation.org/competitions/Leicester2013) |
 | 1 | [Les Santes Open 2014](https://www.worldcubeassociation.org/competitions/LesSantesOpen2014) |
@@ -284,6 +285,7 @@
 | 1 | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
 | 1 | [South Germany 2023](https://www.worldcubeassociation.org/competitions/SouthGermany2023) |
 | 1 | [Sowega Solving 2023](https://www.worldcubeassociation.org/competitions/SowegaSolving2023) |
+| 1 | [Spark Melbourne July 2025](https://www.worldcubeassociation.org/competitions/SparkMelbourneJuly2025) |
 | 1 | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022) |
 | 1 | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) |
 | 1 | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023) |

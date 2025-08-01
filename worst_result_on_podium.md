@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. results where the main statistic is DNF are ignored.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Rubik's Cube
@@ -73,11 +73,11 @@
 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) | 2:55.99 | **3:03.47** | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022/results/podiums#e666) | 2 |
 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) | 2:47.46 | **3:01.90** | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023/results/podiums#e666) | 3 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2:58.37 | **3:00.37** | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023/results/podiums#e666) | 2 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 2:24.14 | **2:46.10** | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025/results/podiums#e666) | 2 |
 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | 2:37.15 | **2:44.01** | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022/results/podiums#e666) | 1 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2:37.13 | **2:43.45** | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023/results/podiums#e666) | 3 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2:20.98 | **2:32.95** | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023/results/podiums#e666) | 2 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2:20.48 | **2:32.29** | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/podiums#e666) | 3 |
-| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 2:26.09 | **2:30.80** | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024/results/podiums#e666) | 3 |
 
 ### 7x7x7 Cube
 
@@ -134,8 +134,8 @@
 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 20.83 | **23.03** | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/podiums#e333oh) | 3 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 20.50 | **22.87** | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013/results/podiums#e333oh) | 3 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 21.17 | **22.84** | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/podiums#e333oh) | 2 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 19.18 | **21.98** | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025/results/podiums#e333oh) | 3 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 19.74 | **21.58** | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023/results/podiums#e333oh) | 3 |
-| [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | 19.19 | **21.54** | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022/results/podiums#e333oh) | 2 |
 
 ### Megaminx
 

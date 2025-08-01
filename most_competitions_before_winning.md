@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Rubik's Cube
@@ -29,16 +29,17 @@
 | 15 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) |
 | 15 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) |
 | 13 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) |
+| 12 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |
 | 11 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |
 | 11 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) |
 | 9 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) |
-| 8 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) |
 
 ### 4x4x4 Cube
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 33 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024) |
+| 33 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025) |
 | 12 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) |
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |
 | 10 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
@@ -47,7 +48,6 @@
 | 7 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) |
 | 5 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) |
 | 4 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |
-| 3 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) |
 
 ### 5x5x5 Cube
 
@@ -188,7 +188,9 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 32 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025) |
 | 25 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) |
+| 19 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |
 | 9 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) |
 | 7 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) |

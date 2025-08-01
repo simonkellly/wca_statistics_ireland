@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Rubik's Cube
@@ -11,12 +11,12 @@
 | 5.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
 | 6.05 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025/results/by_person#2022FURE01) |
 | 6.09 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025/results/by_person#2012BEAH01) |
+| 6.12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2012BEAH01) |
 | 6.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2012BEAH01) |
 | 6.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018/results/by_person#2012BEAH01) |
 | 6.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024/results/by_person#2012BEAH01) |
 | 6.21 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2012BEAH01) |
 | 6.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [NxN Minnesota 2022](https://www.worldcubeassociation.org/competitions/NxNMinnesota2022/results/by_person#2012BEAH01) |
-| 6.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2012BEAH01) |
 
 ### 2x2x2 Cube
 
@@ -82,16 +82,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 28.53 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
+| 28.96 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
+| 29.42 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
 | 29.74 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2019NAYA01) |
+| 30.07 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
 | 30.59 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
 | 30.68 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
 | 30.97 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
+| 30.98 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2019NAYA01) |
 | 31.09 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
-| 31.52 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
-| 31.65 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2023MARA10) |
-| 31.68 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2019NAYA01) |
-| 31.84 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2023MARA10) |
-| 31.98 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2019NAYA01) |
 
 ### Pyraminx
 

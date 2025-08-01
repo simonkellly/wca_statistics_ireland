@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Rubik's Cube
@@ -20,7 +20,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 22.69 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 26.30, 24.76, 21.14, 22.18, 20.90 |
+| 22.06 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 24.76, 21.14, 22.18, 20.90, 22.87 |
 | 25.50 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 27.97, 23.49, 24.65, 27.63, 24.23 |
 
 ### 5x5x5 Cube
@@ -28,7 +28,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 40.51 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 40.74, 46.74, 41.54, 39.24, 38.54 |
-| 49.56 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 57.02, 46.91, 51.93, 49.30, 47.45 |
+| 46.87 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 49.40, 47.72, 45.96, 44.11, 46.93 |
 
 ### 6x6x6 Cube
 
@@ -65,8 +65,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 29.69 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.53, 27.07, 31.59, 34.77, 28.96 |
 | 30.72 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.59, 33.99, 30.59, 30.97, 30.41 |
-| 32.20 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 29.39, 33.12, 31.84, 35.01, 31.65 |
 | 36.65 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.20, 38.29, 33.37, 36.29, 36.45 |
 
 ### Pyraminx

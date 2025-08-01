@@ -1,16 +1,16 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 | competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
-| 43 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
+| 44 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
 | 42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |
 | 40 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |  |
 | 35 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |  |
 | 35 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) |
 | 34 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023) |
-| 33 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
+| 34 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
 | 32 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |
 | 31 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) |  |
 | 31 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
@@ -19,10 +19,10 @@
 | 30 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025) |
 | 28 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) |
 | 27 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
-| 26 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
+| 27 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
+| 27 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
+| 26 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) |  |
 | 26 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) |
-| 26 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
-| 25 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) |  |
 | 25 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) |
 | 24 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) |
 | 23 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |
@@ -32,30 +32,32 @@
 | 22 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [PIB Itaim Open 2024](https://www.worldcubeassociation.org/competitions/PIBItaimOpen2024) |
 | 22 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) |
 | 21 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | [Frankfurt Cube Days 2017](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2017) | [German Nationals 2022](https://www.worldcubeassociation.org/competitions/GermanNationals2022) |
+| 21 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |  |
 | 21 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |
 | 21 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) |
 | 21 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) |
 | 21 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023) |  |
+| 21 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) |  |
 | 21 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |  |
 | 20 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) |
-| 20 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |  |
+| 20 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 20 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) |
 | 20 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
-| 20 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) |  |
 | 20 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |
-| 19 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 19 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
+| 19 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
 | 19 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
 | 18 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |  |
 | 18 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022) |  |
 | 18 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
-| 18 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |  |
 | 18 | [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) |  |
 | 17 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | [Brent Cross Winter 2023](https://www.worldcubeassociation.org/competitions/BrentCrossWinter2023) |
 | 17 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |
 | 17 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024) |
 | 17 | [Eoin Ryan-Preston](https://www.worldcubeassociation.org/persons/2019RYAN03) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) |  |
 | 16 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | [Norwich Summer 2022](https://www.worldcubeassociation.org/competitions/NorwichSummer2022) | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) |
+| 16 | [Efrain Tharian](https://www.worldcubeassociation.org/persons/2023THAR03) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) |  |
+| 16 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) |  |
 | 15 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) |  |
 | 15 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |
 | 15 | [Matthew Horan](https://www.worldcubeassociation.org/persons/2017HORA02) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) |  |
@@ -67,8 +69,6 @@
 | 15 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) |
 | 15 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |  |
 | 15 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |  |
-| 15 | [Efrain Tharian](https://www.worldcubeassociation.org/persons/2023THAR03) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) |  |
-| 15 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) |  |
 | 14 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) |
 | 14 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) |
 | 13 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |  |
@@ -83,6 +83,7 @@
 | 13 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |  |
 | 13 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 13 | [Eoin McCooey](https://www.worldcubeassociation.org/persons/2023MCCO20) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |  |
+| 13 | [Mairéad Togher](https://www.worldcubeassociation.org/persons/2023TOGH01) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |  |
 | 12 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) |
 | 12 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
 | 12 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) |
@@ -94,7 +95,6 @@
 | 12 | [Charles Mac Alister](https://www.worldcubeassociation.org/persons/2022ALIS02) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) |  |
 | 12 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) |
 | 12 | [Róisín Brennan](https://www.worldcubeassociation.org/persons/2023BREN08) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) |
-| 12 | [Mairéad Togher](https://www.worldcubeassociation.org/persons/2023TOGH01) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |  |
 | 12 | [Rian McDermott](https://www.worldcubeassociation.org/persons/2024MCDE03) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |  |
 | 12 | [Rory Pappas](https://www.worldcubeassociation.org/persons/2024PAPP01) | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) |  |
 | 12 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) |

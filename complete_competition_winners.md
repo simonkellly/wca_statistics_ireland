@@ -1,26 +1,26 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 28 July 2025*
+*Updated on  1 August 2025*
 
 | events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
 | 8 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018) |
+| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Vienna Fasching 2023](https://www.worldcubeassociation.org/competitions/ViennaFasching2023) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020) |
+| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) |
+| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Bristol Winter 2024](https://www.worldcubeassociation.org/competitions/BristolWinter2024) |
-| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Vienna Fasching 2023](https://www.worldcubeassociation.org/competitions/ViennaFasching2023) |
-| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) |
-| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) |
-| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) |
-| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019) |
-| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |
-| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024) |
-| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) |
-| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) |
+| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024) |
+| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) |
+| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) |
+| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024) |
+| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |
+| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [High Wycombe Open 2018](https://www.worldcubeassociation.org/competitions/HWO2018) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Budapest Summer 2023](https://www.worldcubeassociation.org/competitions/BudapestSummer2023) |
@@ -30,6 +30,7 @@
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Kirkkonummi Time Trial 2023](https://www.worldcubeassociation.org/competitions/KirkkonummiTimeTrial2023) |
+| 4 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | Mongolia | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025) |
 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) |
 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018) |
 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023) |
