@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -66,6 +66,7 @@
 | 1 | [Cartagena UPCT Open 2025](https://www.worldcubeassociation.org/competitions/CartagenaUPCTOpen2025) |
 | 1 | [Cavarzere Cube Days 2023](https://www.worldcubeassociation.org/competitions/CavarzereCubeDays2023) |
 | 1 | [CCM Baltar Open 2025](https://www.worldcubeassociation.org/competitions/CCMBaltarOpen2025) |
+| 1 | [CF Goes Crazy Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesCrazyBrzeziny2025) |
 | 1 | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) |
 | 1 | [Charlottetown 2025](https://www.worldcubeassociation.org/competitions/Charlottetown2025) |
 | 1 | [Charlottetown Mini 2024](https://www.worldcubeassociation.org/competitions/CharlottetownMini2024) |

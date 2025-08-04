@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube
@@ -132,11 +132,11 @@
 | 11 | 26.31 |
 | 10 | 16.42 |
 | 10 | 30.16 |
+| 10 | 30.91 |
 | 10 | 22.40 |
 | 10 | 22.88 |
 | 9 | 36.30 |
 | 9 | 21.77 |
-| 9 | 25.57 |
 
 ### Megaminx
 

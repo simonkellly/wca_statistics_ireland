@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -72,8 +72,8 @@
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 4 313 km |
 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) | 4 308 km |
 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | 4 191 km |
+| [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) | 4 116 km |
 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) | 4 112 km |
-| [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) | 3 922 km |
 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) | 3 860 km |
 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) | 3 838 km |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 3 757 km |
