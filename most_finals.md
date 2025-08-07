@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -28,7 +28,7 @@
 | 187 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 165 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 161 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
-| 156 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
+| 159 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 152 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 151 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 141 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
@@ -44,7 +44,7 @@
 | 128 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 120 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 116 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
-| 115 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 116 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 107 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
 | 105 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 103 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |

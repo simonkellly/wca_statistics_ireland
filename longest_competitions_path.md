@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -9,7 +9,7 @@
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 71 405 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 46 240 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 43 814 km |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 39 241 km |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 41 996 km |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 37 010 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 32 866 km |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 31 167 km |
@@ -18,13 +18,13 @@
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 24 436 km |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 24 298 km |
 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 23 856 km |
+| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 22 178 km |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 21 707 km |
 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 20 750 km |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 20 032 km |
 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) | 16 249 km |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 15 651 km |
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 14 505 km |
-| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 13 746 km |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 13 410 km |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | 12 539 km |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 12 245 km |

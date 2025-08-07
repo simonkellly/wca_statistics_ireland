@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -146,6 +146,7 @@
 | 1 | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) |
 | 1 | [Gotland Open 2023](https://www.worldcubeassociation.org/competitions/GotlandOpen2023) |
 | 1 | [Granada Open 2025](https://www.worldcubeassociation.org/competitions/GranadaOpen2025) |
+| 1 | [Great Lakes Championship 2025](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2025) |
 | 1 | [Greek Nationals 2023](https://www.worldcubeassociation.org/competitions/GreekNationals2023) |
 | 1 | [Guildford Open 2013](https://www.worldcubeassociation.org/competitions/GuildfordOpen2013) |
 | 1 | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) |
@@ -203,6 +204,7 @@
 | 1 | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023) |
 | 1 | [Middle Georgia Speedsolving 2024](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaSpeedsolving2024) |
 | 1 | [Milwaukee First 2022](https://www.worldcubeassociation.org/competitions/MilwaukeeFirst2022) |
+| 1 | [Mi'Lyon Open 2025](https://www.worldcubeassociation.org/competitions/MiLyonOpen2025) |
 | 1 | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) |
 | 1 | [Mini Mental Milano II 2025](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoII2025) |
 | 1 | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024) |

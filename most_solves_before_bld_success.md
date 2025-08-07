@@ -1,12 +1,13 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 
 ### 3x3x3 Blindfolded
 
 | Attempts | Person |
 | ---: | :--- |
+| 24 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 17 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
 | 17 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 14 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
@@ -26,7 +27,6 @@
 | 4 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 4 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 3 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
-| 3 | [Robert Riordan](https://www.worldcubeassociation.org/persons/2016RIOR01) |
 
 ### 4x4x4 Blindfolded
 

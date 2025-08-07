@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -28,9 +28,9 @@
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 1.44 |
 | [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) | 1.36 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 1.32 |
-| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1.24 |
-| [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | 1.24 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 1.24 |
+| [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | 1.24 |
+| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1.24 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.07 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.00 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 0.99 |
