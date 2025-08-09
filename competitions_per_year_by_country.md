@@ -4,40 +4,40 @@
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 8.65 | 139 | 16.08 | United Kingdom |
-| 7.18 | 70 | 9.75 | United States |
+| 8.64 | 139 | 16.08 | United Kingdom |
+| 7.18 | 70 | 9.76 | United States |
 | 5.71 | 77 | 13.49 | Ireland |
-| 3.58 | 10 | 2.80 | Austria |
-| 3.37 | 8 | 2.37 | Slovakia |
+| 3.57 | 10 | 2.80 | Austria |
+| 3.37 | 8 | 2.38 | Slovakia |
 | 2.96 | 19 | 6.42 | Australia |
 | 2.46 | 40 | 16.29 | Germany |
-| 2.11 | 5 | 2.37 | Sweden |
-| 2.06 | 3 | 1.45 | Portugal |
+| 2.10 | 5 | 2.38 | Sweden |
+| 2.06 | 3 | 1.46 | Portugal |
 | 1.83 | 4 | 2.18 | Hungary |
 | 1.74 | 10 | 5.75 | Poland |
 | 1.36 | 11 | 8.07 | France |
 | 1.09 | 7 | 6.40 | Denmark |
 | 1.07 | 4 | 3.74 | Norway |
-| 1.02 | 2 | 1.95 | Slovenia |
+| 1.02 | 2 | 1.96 | Slovenia |
 | 0.95 | 1 | 1.05 | Bosnia and Herzegovina |
 | 0.93 | 1 | 1.07 | Brazil |
 | 0.91 | 5 | 5.48 | Switzerland |
 | 0.89 | 2 | 2.24 | Kenya |
-| 0.88 | 13 | 14.77 | Spain |
+| 0.88 | 13 | 14.78 | Spain |
 | 0.79 | 13 | 16.48 | Italy |
 | 0.75 | 3 | 3.99 | New Zealand |
 | 0.71 | 1 | 1.42 | Estonia |
-| 0.70 | 6 | 8.56 | United Arab Emirates |
+| 0.70 | 6 | 8.57 | United Arab Emirates |
 | 0.67 | 2 | 2.98 | Israel |
 | 0.60 | 1 | 1.67 | Greece |
 | 0.53 | 4 | 7.49 | Finland |
 | 0.50 | 1 | 1.99 | Republic of Korea |
-| 0.47 | 5 | 10.71 | Netherlands |
-| 0.43 | 3 | 7.03 | Ukraine |
-| 0.38 | 7 | 18.22 | Canada |
-| 0.37 | 3 | 8.10 | Russia |
+| 0.47 | 5 | 10.72 | Netherlands |
+| 0.43 | 3 | 7.04 | Ukraine |
+| 0.38 | 7 | 18.23 | Canada |
+| 0.37 | 3 | 8.11 | Russia |
 | 0.36 | 1 | 2.76 | Romania |
-| 0.33 | 2 | 6.05 | India |
+| 0.33 | 2 | 6.06 | India |
 | 0.33 | 2 | 6.15 | Multiple Countries (World) |
 | 0.31 | 2 | 6.38 | Multiple Countries (Europe) |
 | 0.30 | 5 | 16.44 | Belgium |
