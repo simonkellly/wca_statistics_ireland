@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### Rubik's Cube
@@ -115,6 +115,7 @@
 | ---: | :--- |
 | 27 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |
 | 29 | [Robert Riordan](https://www.worldcubeassociation.org/persons/2016RIOR01) |
+| 35 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 38 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 38 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 39 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
@@ -122,7 +123,6 @@
 | 43 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) |
 | 44 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 45 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
-| 45 | [Charles Mac Alister](https://www.worldcubeassociation.org/persons/2022ALIS02) |
 
 ### 3x3x3 One-Handed
 
@@ -182,7 +182,7 @@
 | 9.96 | [Síobhradh Cunningham](https://www.worldcubeassociation.org/persons/2023CUNN04) |
 | 10.06 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 10.38 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
-| 11.44 | [Jake Hartley-Trimble](https://www.worldcubeassociation.org/persons/2023HART19) |
+| 11.09 | [Ben Messabih](https://www.worldcubeassociation.org/persons/2023MESS04) |
 
 ### Skewb
 

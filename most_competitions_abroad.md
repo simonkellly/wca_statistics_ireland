@@ -1,11 +1,11 @@
 ## Most competitions abroad
 
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 | Competitions | Person |
 | ---: | :--- |
 | 74 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 45 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
+| 46 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 35 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 34 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 30 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
@@ -13,28 +13,29 @@
 | 26 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
 | 17 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
+| 16 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 15 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
+| 15 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 15 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 15 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
-| 14 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 12 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
+| 12 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
 | 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
 | 11 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) |
 | 11 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
-| 11 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 10 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 10 | [Aarush Srivastava](https://www.worldcubeassociation.org/persons/2021SRIV01) |
 | 9 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |
+| 9 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
 | 9 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) |
 | 9 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) |
-| 8 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
-| 8 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
-| 8 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
-| 8 | [Dara Okan](https://www.worldcubeassociation.org/persons/2023OKAN02) |
-| 8 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |
 | 8 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 8 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
+| 8 | [Raghav Raturi](https://www.worldcubeassociation.org/persons/2024RATU01) |
+| 8 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
+| 8 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |
+| 8 | [Dara Okan](https://www.worldcubeassociation.org/persons/2023OKAN02) |
 | 7 | [Seven Yang (杨子熙)](https://www.worldcubeassociation.org/persons/2022YANG21) |
 | 7 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 7 | [Odhran Albuquerque](https://www.worldcubeassociation.org/persons/2023ALBU01) |
@@ -42,7 +43,7 @@
 | 7 | [Benedek Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK01) |
 | 7 | [Finnbar McGovern](https://www.worldcubeassociation.org/persons/2022GOVE02) |
 | 7 | [Paul Cotter](https://www.worldcubeassociation.org/persons/2022COTT06) |
-| 6 | [Raghav Raturi](https://www.worldcubeassociation.org/persons/2024RATU01) |
+| 6 | [Blanka Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK04) |
 | 6 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 6 | [Daithi Heffernan](https://www.worldcubeassociation.org/persons/2018HEFF01) |
 | 6 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
@@ -50,21 +51,20 @@
 | 6 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 6 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 6 | [Dimitar Ignatov](https://www.worldcubeassociation.org/persons/2023IGNA05) |
-| 6 | [Blanka Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK04) |
 | 6 | [Oleksii Bodeichuk](https://www.worldcubeassociation.org/persons/2024BODE01) |
 | 6 | [Olin Long](https://www.worldcubeassociation.org/persons/2023LONG10) |
-| 5 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
-| 5 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) |
-| 5 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
-| 5 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
+| 5 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
 | 5 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
+| 5 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
+| 5 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
+| 5 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
+| 5 | [Samuel Dalton](https://www.worldcubeassociation.org/persons/2017DALT01) |
 | 5 | [Marceli Wieczorek](https://www.worldcubeassociation.org/persons/2022WIEC03) |
 | 5 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
 | 5 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
-| 5 | [Samuel Dalton](https://www.worldcubeassociation.org/persons/2017DALT01) |
+| 5 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) |
 | 4 | [Antoni Nowicki](https://www.worldcubeassociation.org/persons/2023NOWI02) |
 | 4 | [Darragh Cronin](https://www.worldcubeassociation.org/persons/2022CRON01) |
-| 4 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
 | 4 | [Gabriella Pita](https://www.worldcubeassociation.org/persons/2022PITA01) |
 | 4 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
 | 4 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |

@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### World
@@ -255,6 +255,16 @@
 | 0 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
 | 0 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2022CORR06) |
+| 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025/results/by_person#2020BERM02) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2012BEAH01) |
+| 0 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2023MARA10) |
+| 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2019NATS02) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022CORR06) |
+| 0 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2021BURK03) |
+| 0 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022HUGH08) |
+| 0 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2019BURK05) |
+| 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2018MCCA02) |
+| 0 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2021LOFT01) |
 
 ### Continental
 

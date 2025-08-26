@@ -1,11 +1,12 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 8.19 | 70 | Ireland |
+| [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 8.08 | 158 | Ireland |
 | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 7.96 | 70 | Ireland |
 | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 7.93 | 58 | Ireland |
 | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) | 7.52 | 56 | Ireland |
@@ -80,6 +81,7 @@
 | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) | 3.31 | 68 | Ireland |
 | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) | 3.16 | 68 | Ireland |
 | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020) | 3.00 | 54 | Ireland |
+| [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025) | 1.00 | 22 | Ireland |
 | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) | 1.00 | 28 | Ireland |
 | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) | 1.00 | 21 | Ireland |
 

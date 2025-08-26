@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -315,6 +315,7 @@
 | 1 | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) |
 | 1 | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009) |
 | 1 | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025) |
+| 1 | [UNICAMP Cube 2025](https://www.worldcubeassociation.org/competitions/UNICAMPCube2025) |
 | 1 | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) |
 | 1 | [U.R.A. Funky Cubes 2022](https://www.worldcubeassociation.org/competitions/URAFunkyCubes2022) |
 | 1 | [Valsugana Speedcubing 2024](https://www.worldcubeassociation.org/competitions/ValsuganaSpeedcubing2024) |

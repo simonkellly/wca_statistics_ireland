@@ -1,11 +1,12 @@
 ## Best potential FMC mean
 
 *Note: The means are computed by taking the best result for each attempt in the given round.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 | Mean | Attempt 1 | Attempt 2 | Attempt 3 | Competition |
 | :--: | :--: | :--: | :--: | :--- |
 | 23.33 | 27 | 23 | 20 | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) |
+| 23.33 | 24 | 24 | 22 | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025/results/all#e333fm_f) |
 | 24.33 | 24 | 25 | 24 | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) |
 | 25.67 | 29 | 25 | 23 | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025/results/all#e333fm_f) |
 | 29.00 | 32 | 27 | 28 | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023/results/all#e333fm_f) |

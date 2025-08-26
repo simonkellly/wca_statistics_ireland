@@ -1,14 +1,14 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### Rubik's Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 6.72 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.02, 7.34, 7.07, 6.18, 6.50, 6.87, 6.64, 6.93, 6.86, 6.33, 6.68, 7.13 |
+| 6.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.62, 6.81, 6.67, 6.36, 8.02, 5.77, 6.88, 6.47, 6.44, 7.46, 6.87, 6.40 |
 
 ### 2x2x2 Cube
 
@@ -21,20 +21,20 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 23.42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.47, 22.65, 25.33, 23.05, 22.72, 27.39, 22.73, 24.30, 25.99, 23.37, 22.61, 21.37 |
-| 27.01 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 30.69, 25.23, 26.41, DNF, 30.34, 24.11, 28.81, 27.97, 23.49, 24.65, 27.63, 24.23 |
+| 26.98 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 30.67, 27.51, 23.14, 26.17, 34.01, 22.27, 23.34, 27.01, 28.45, 30.32, 29.44, 23.72 |
 
 ### 5x5x5 Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 41.58 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 48.56, 40.53, 41.85, 33.20, 42.48, 40.00, 45.10, 39.49, 42.81, 42.22, 40.08, 41.24 |
-| 50.01 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 54.96, 51.85, 53.53, 55.26, 50.85, 49.14, 49.74, 49.40, 47.72, 45.96, 44.11, 46.93 |
+| 46.62 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 44.11, 46.93, 50.25, 49.13, 48.47, 44.42, 47.18, 45.85, 44.10, 57.63, 44.60, 45.21 |
 
 ### 6x6x6 Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:16.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:08.12, 1:16.71, 1:16.04, 1:11.56, 1:18.75, 1:16.60, 1:20.30, 1:18.80, 1:12.22, 1:26.46, 1:18.13, 1:12.45 |
+| 1:16.08 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:11.56, 1:18.75, 1:16.60, 1:20.30, 1:18.80, 1:12.22, 1:26.46, 1:18.13, 1:12.45, 1:17.60, 1:10.21, 1:14.41 |
 
 ### 7x7x7 Cube
 
@@ -52,9 +52,10 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 30.64 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 29.39, 33.12, 31.84, 35.01, 31.65, 29.42, 28.35, 32.51, 30.07, 31.53, 28.53, 27.07 |
+| 30.41 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 30.07, 31.53, 28.53, 27.07, 31.59, 34.77, 28.96, 34.61, 33.74, 29.95, 26.94, 28.01 |
 | 31.33 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 32.44, 30.93, 30.68, 30.59, 33.99, 30.59, 30.97, 30.41, 31.52, 32.49, 32.03, 31.09 |
 | 37.54 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 39.16, 36.86, 39.19, 42.48, 37.20, 38.29, 33.37, 36.29, 36.45, 38.47, 40.12, 32.68 |
+| 42.15 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 40.56, 41.69, 58.53, 35.54, 44.86, 43.96, 44.81, 42.25, 42.84, 36.78, 47.21, 36.58 |
 
 ### Pyraminx
 
@@ -62,14 +63,14 @@
 | ---: | :--- | :--- |
 | 2.12 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.77, 1.82, 2.94, 2.18, 1.73, 1.74, 2.27, 2.32, 2.29, 22.49, 2.18, 1.73 |
 | 2.49 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.49, 2.66, 4.93, 2.76, 2.32, 1.61, 1.91, 1.67, 2.88, 2.34, 2.64, 3.21 |
-| 2.98 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.70, 3.50, 1.77, 2.51, 3.35, 2.96, DNF, 2.49, 3.51, 1.95, 3.51, 3.31 |
+| 2.91 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 1.77, 2.51, 3.35, 2.96, DNF, 2.49, 3.51, 1.95, 3.51, 3.31, 3.64, 1.88 |
 
 ### Rubik's Clock
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 3.67 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.47, 3.49, 3.42, 3.74, 3.66, 3.60, DNF, 3.94, 3.61, 3.33, 4.06, 3.69 |
-| 4.23 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.27, 6.29, 3.19, 4.80, 5.34, 4.17, 3.89, 4.06, 3.65, DNF, 3.68, 3.11 |
+| 4.18 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 4.52, 3.69, 4.02, 4.74, 3.91, 4.75, 3.83, 3.66, 5.03, 3.59, DNF, 3.61 |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### Rubik's Cube
@@ -21,14 +21,14 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 22.06 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 24.76, 21.14, 22.18, 20.90, 22.87 |
-| 25.50 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 27.97, 23.49, 24.65, 27.63, 24.23 |
+| 24.22 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 23.14, 26.17, 34.01, 22.27, 23.34 |
 
 ### 5x5x5 Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 40.51 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 40.74, 46.74, 41.54, 39.24, 38.54 |
-| 46.87 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 49.40, 47.72, 45.96, 44.11, 46.93 |
+| 40.45 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 40.53, 41.82, 40.64, 40.13, 40.18 |
+| 45.22 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 45.85, 44.10, 57.63, 44.60, 45.21 |
 
 ### 6x6x6 Cube
 
@@ -40,7 +40,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:51.41 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:05.47, 1:51.90, 1:52.28, 1:50.04, 1:46.44 |
+| 1:49.46 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:47.55, 1:50.67, 1:59.64, 1:47.86, 1:49.84 |
 
 ### 3x3x3 Blindfolded
 
@@ -65,9 +65,10 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 29.69 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.53, 27.07, 31.59, 34.77, 28.96 |
-| 30.72 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.59, 33.99, 30.59, 30.97, 30.41 |
+| 29.47 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 26.94, 28.01, 31.77, 33.10, 28.62 |
+| 30.53 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.48, 27.66, 31.27, 30.20, 30.90 |
 | 36.65 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.20, 38.29, 33.37, 36.29, 36.45 |
+| 40.62 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 42.25, 42.84, 36.78, 47.21, 36.58 |
 
 ### Pyraminx
 
@@ -81,7 +82,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 3.33 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.21, DNF, 3.19, 2.82, 3.60 |
+| 3.20 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.67, 3.40, 3.01, 3.14, 3.05 |
 | 3.71 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.92, 3.67, 6.45, 3.55, 3.27 |
 
 ### Skewb

@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. results where the main statistic is DNF are ignored.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### Rubik's Cube
@@ -121,6 +121,8 @@
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 27 | **29.00** | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023/results/podiums#e333fm) | 1 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 27 | **28.33** | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/podiums#e333fm) | 1 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 23 | **27.33** | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025/results/podiums#e333fm) | 1 |
+| [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | 24 | **26.67** | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025/results/podiums#e333fm) | 2 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 24 | **25.33** | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025/results/podiums#e333fm) | 1 |
 
 ### 3x3x3 One-Handed
 

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### Rubik's Cube
@@ -107,6 +107,7 @@
 | 44.67 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 49.67 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |
 | 51.00 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
+| 63.00 | [Jeremy Bohua Wei](https://www.worldcubeassociation.org/persons/2023WEIJ01) |
 | 67.67 | [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) |
 
 ### 3x3x3 One-Handed
@@ -136,8 +137,8 @@
 | 1:21.78 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 | 1:24.43 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 1:25.45 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
+| 1:30.04 | [Tiarnan Hogan](https://www.worldcubeassociation.org/persons/2023HOGA04) |
 | 1:31.22 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
-| 1:32.49 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 
 ### Pyraminx
 

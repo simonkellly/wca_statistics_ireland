@@ -1,11 +1,12 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 | Days | Person |
 | ---: | :--- |
 | 902 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
+| 1357 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 1484 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 1581 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 2002 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |

@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -56,6 +56,7 @@
 | 25 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 10 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 6 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
+| 6 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 4 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 0 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 0 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
