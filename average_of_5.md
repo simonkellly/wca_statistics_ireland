@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 
 ### Rubik's Cube
@@ -34,7 +34,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:14.77 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:24.62, 1:08.12, 1:16.71, 1:16.04, 1:11.56 |
+| 1:13.49 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:14.22, 1:11.15, 1:15.10, 1:17.42, 1:10.87 |
 
 ### 7x7x7 Cube
 

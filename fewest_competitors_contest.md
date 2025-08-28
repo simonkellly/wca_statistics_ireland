@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -429,6 +429,7 @@
 | 7 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
 | 8 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |
 | 8 | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) |
+| 10 | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025) |
 | 12 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 
 
