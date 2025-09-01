@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -60,9 +60,9 @@
 | 1:30.48 | [Dominic Mckeon](https://www.worldcubeassociation.org/persons/2021MCKE03) |
 | 1:30.94 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 1:31.30 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 1:35.97 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 1:38.10 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 1:38.65 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
-| 1:40.83 | [Charlie Vaidie](https://www.worldcubeassociation.org/persons/2021VAID01) |
 
 ### 6x6x6 Cube
 

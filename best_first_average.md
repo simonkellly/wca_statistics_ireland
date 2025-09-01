@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -61,8 +61,8 @@
 | 1:32.29 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 1:33.97 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 1:34.40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
+| 1:38.46 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 1:39.61 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
-| 1:39.93 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
 
 ### 6x6x6 Cube
 

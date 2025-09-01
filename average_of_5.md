@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -27,7 +27,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 40.45 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 40.53, 41.82, 40.64, 40.13, 40.18 |
+| 40.41 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 39.51, 38.34, 42.27, 43.36, 39.44 |
 | 45.22 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 45.85, 44.10, 57.63, 44.60, 45.21 |
 
 ### 6x6x6 Cube
@@ -65,7 +65,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 29.47 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 26.94, 28.01, 31.77, 33.10, 28.62 |
+| 28.72 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 27.34, 30.34, 28.52, 29.16, 28.47 |
 | 30.53 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.48, 27.66, 31.27, 30.20, 30.90 |
 | 36.65 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.20, 38.29, 33.37, 36.29, 36.45 |
 | 40.62 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 42.25, 42.84, 36.78, 47.21, 36.58 |
@@ -76,13 +76,13 @@
 | ---: | :--- | :--- |
 | 1.78 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3.19, 1.39, 1.60, 1.73, 2.02 |
 | 1.97 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.76, 2.32, 1.61, 1.91, 1.67 |
-| 2.64 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 3.54, 2.11, 1.91, 3.50, 2.32 |
+| 2.12 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.42, 2.01, 3.01, 1.92, 1.92 |
 
 ### Rubik's Clock
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 3.20 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.67, 3.40, 3.01, 3.14, 3.05 |
+| 3.06 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.01, 3.14, 3.05, 3.11, 2.82 |
 | 3.71 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.92, 3.67, 6.45, 3.55, 3.27 |
 
 ### Skewb
