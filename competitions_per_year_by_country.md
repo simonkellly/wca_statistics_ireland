@@ -6,45 +6,45 @@
 | ---: | ---: | ---: | :--- |
 | 8.67 | 140 | 16.15 | United Kingdom |
 | 7.12 | 70 | 9.83 | United States |
-| 5.90 | 80 | 13.56 | Ireland |
-| 3.49 | 10 | 2.87 | Austria |
-| 3.27 | 8 | 2.45 | Slovakia |
+| 5.90 | 80 | 13.57 | Ireland |
+| 3.48 | 10 | 2.87 | Austria |
+| 3.26 | 8 | 2.45 | Slovakia |
 | 2.93 | 19 | 6.49 | Australia |
 | 2.44 | 40 | 16.36 | Germany |
 | 2.04 | 5 | 2.45 | Sweden |
 | 1.96 | 3 | 1.53 | Portugal |
 | 1.77 | 4 | 2.26 | Hungary |
-| 1.75 | 2 | 1.14 | Brazil |
+| 1.74 | 2 | 1.15 | Brazil |
 | 1.72 | 10 | 5.82 | Poland |
 | 1.48 | 3 | 2.03 | Slovenia |
 | 1.35 | 11 | 8.15 | France |
 | 1.08 | 7 | 6.48 | Denmark |
 | 1.05 | 4 | 3.81 | Norway |
-| 0.90 | 5 | 5.55 | Switzerland |
+| 0.90 | 5 | 5.56 | Switzerland |
 | 0.89 | 1 | 1.13 | Bosnia and Herzegovina |
 | 0.88 | 13 | 14.85 | Spain |
-| 0.86 | 2 | 2.31 | Kenya |
-| 0.79 | 13 | 16.55 | Italy |
+| 0.86 | 2 | 2.32 | Kenya |
+| 0.79 | 13 | 16.56 | Italy |
 | 0.74 | 3 | 4.06 | New Zealand |
 | 0.69 | 6 | 8.64 | United Arab Emirates |
 | 0.67 | 1 | 1.49 | Estonia |
-| 0.66 | 2 | 3.05 | Israel |
+| 0.65 | 2 | 3.06 | Israel |
 | 0.57 | 1 | 1.74 | Greece |
-| 0.53 | 4 | 7.56 | Finland |
-| 0.48 | 1 | 2.06 | Republic of Korea |
+| 0.53 | 4 | 7.57 | Finland |
+| 0.48 | 1 | 2.07 | Republic of Korea |
 | 0.46 | 5 | 10.79 | Netherlands |
 | 0.42 | 3 | 7.11 | Ukraine |
 | 0.38 | 7 | 18.30 | Canada |
 | 0.37 | 3 | 8.18 | Russia |
 | 0.35 | 1 | 2.83 | Romania |
 | 0.33 | 2 | 6.13 | India |
-| 0.32 | 2 | 6.22 | Multiple Countries (World) |
-| 0.31 | 2 | 6.45 | Multiple Countries (Europe) |
-| 0.30 | 5 | 16.51 | Belgium |
-| 0.25 | 1 | 3.94 | Jordan |
-| 0.19 | 2 | 10.55 | Singapore |
-| 0.19 | 3 | 16.13 | Czech Republic |
-| 0.19 | 2 | 10.76 | South Africa |
+| 0.32 | 2 | 6.23 | Multiple Countries (World) |
+| 0.31 | 2 | 6.46 | Multiple Countries (Europe) |
+| 0.30 | 5 | 16.52 | Belgium |
+| 0.25 | 1 | 3.95 | Jordan |
+| 0.19 | 2 | 10.56 | Singapore |
+| 0.19 | 3 | 16.14 | Czech Republic |
+| 0.19 | 2 | 10.77 | South Africa |
 | 0.17 | 2 | 11.55 | Philippines |
 
 
