@@ -1,10 +1,10 @@
 ## Most visited countries
 
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 | Countries | Person |
 | ---: | :--- |
-| 15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 8 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 8 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 7 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -264,6 +264,7 @@
 | 1 | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
 | 1 | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023) |
 | 1 | [Roskilde For Alle 2023](https://www.worldcubeassociation.org/competitions/RoskildeForAlle2023) |
+| 1 | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025) |
 | 1 | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) |
 | 1 | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) |
 | 1 | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024) |
