@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### Rubik's Cube
@@ -69,15 +69,15 @@
 | Diff | Person | Single | Average | results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.24 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | 3:26.11 | 3:26.35 | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024/results/by_person#2022KEAT02) |
+| 0.28 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 1:54.20 | 1:54.48 | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2018MCCA02) |
 | 0.31 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2:04.68 | 2:04.99 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022LAUR09) |
+| 0.34 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | 3:20.78 | 3:21.12 | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2022TULL02) |
 | 0.43 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 2:31.93 | 2:32.36 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2019NATS02) |
 | 0.56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:20.61 | 1:21.17 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
 | 0.67 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | 2:21.11 | 2:21.78 | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023BROW36) |
 | 0.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:15.39 | 1:16.19 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2012BEAH01) |
 | 0.80 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2:36.96 | 2:37.76 | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/by_person#2015OCON03) |
 | 0.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:23.65 | 1:24.52 | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021/results/by_person#2012BEAH01) |
-| 0.87 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | 2:20.17 | 2:21.04 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2017HELO01) |
-| 0.89 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:29.14 | 1:30.03 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012BEAH01) |
 
 ### 7x7x7 Cube
 

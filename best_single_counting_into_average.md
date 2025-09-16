@@ -1,12 +1,13 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### Rubik's Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 5.62 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2022FURE01) |
 | 5.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 | 5.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2012BEAH01) |
 | 5.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
@@ -16,7 +17,6 @@
 | 6.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2012BEAH01) |
 | 6.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018/results/by_person#2012BEAH01) |
 | 6.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2012BEAH01) |
-| 6.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024/results/by_person#2012BEAH01) |
 
 ### 2x2x2 Cube
 
@@ -91,7 +91,7 @@
 | 29.16 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
 | 29.42 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
 | 29.74 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2019NAYA01) |
-| 29.95 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2023MARA10) |
+| 29.77 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2023MARA10) |
 
 ### Pyraminx
 
@@ -105,8 +105,8 @@
 | 1.81 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023/results/by_person#2021LOFT01) |
 | 1.82 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021LOFT01) |
 | 1.82 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
+| 1.82 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2021LOFT01) |
 | 1.85 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023DOWL01) |
-| 1.86 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
 
 ### Rubik's Clock
 

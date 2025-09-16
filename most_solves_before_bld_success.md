@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -23,10 +23,10 @@
 | 6 | [Chloe O'Loughlin](https://www.worldcubeassociation.org/persons/2023OLOU01) |
 | 5 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 5 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
+| 5 | [Nathan Quinlan](https://www.worldcubeassociation.org/persons/2024QUIN29) |
 | 4 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) |
 | 4 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 4 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
-| 4 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 
 ### 4x4x4 Blindfolded
 

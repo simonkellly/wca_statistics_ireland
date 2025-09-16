@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### World
@@ -269,6 +269,7 @@
 | 0 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
 | 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2019NATS02) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2022CORR06) |
+| 0 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2021LOFT01) |
 
 ### Continental
 
