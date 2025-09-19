@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 
 ### Rubik's Cube
@@ -27,7 +27,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 41.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 40.53, 41.82, 40.64, 40.13, 40.18, 41.63, 44.58, 40.05, 44.17, 40.28, 43.70, 45.19, 42.79, 39.51, 38.34, 42.27, 43.36, 39.44, 42.46, 39.88, 42.50, 42.57, 42.19, 44.30, 40.65 |
+| 41.55 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 44.17, 40.28, 43.70, 45.19, 42.79, 39.51, 38.34, 42.27, 43.36, 39.44, 42.46, 39.88, 42.50, 42.57, 42.19, 44.30, 40.65, 42.79, 41.08, 40.73, 39.71, 41.28, 39.49, 41.79, 39.18 |
 | 47.41 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 49.40, 47.72, 45.96, 44.11, 46.93, 50.25, 49.13, 48.47, 44.42, 47.18, 45.85, 44.10, 57.63, 44.60, 45.21, 49.50, 44.46, 57.38, 46.42, 52.52, 47.04, 44.25, 49.78, 49.29, 47.18 |
 
 ### 6x6x6 Cube

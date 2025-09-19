@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -177,6 +177,7 @@
 | 1 | [Jordan Fall Open 2021](https://www.worldcubeassociation.org/competitions/JordanFallOpen2021) |
 | 1 | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025) |
 | 1 | [Lakewood Newcomers 2024](https://www.worldcubeassociation.org/competitions/LakewoodNewcomers2024) |
+| 1 | [La Montagne Open 2025](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2025) |
 | 1 | [Leicester Open 2013](https://www.worldcubeassociation.org/competitions/Leicester2013) |
 | 1 | [Les Santes Open 2014](https://www.worldcubeassociation.org/competitions/LesSantesOpen2014) |
 | 1 | [LETI Open 2017](https://www.worldcubeassociation.org/competitions/LETIOpen2017) |
@@ -329,6 +330,7 @@
 | 1 | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) |
 | 1 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
 | 1 | [Vienna Summer 2024](https://www.worldcubeassociation.org/competitions/ViennaSummer2024) |
+| 1 | [Visé Sunday Open 2025](https://www.worldcubeassociation.org/competitions/ViseSundayOpen2025) |
 | 1 | [Volunteer State Cubing 2024](https://www.worldcubeassociation.org/competitions/VolunteerStateCubing2024) |
 | 1 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 1 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) |
