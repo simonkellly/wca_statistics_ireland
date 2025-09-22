@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -81,6 +81,7 @@
 | 1 | [Connecticut Spring 2023](https://www.worldcubeassociation.org/competitions/ConnecticutSpring2023) |
 | 1 | [Coosa Cubing Clash 2024](https://www.worldcubeassociation.org/competitions/CoosaCubingClash2024) |
 | 1 | [Coping in Auckland 2025](https://www.worldcubeassociation.org/competitions/CopinginAuckland2025) |
+| 1 | [Corby Autumn 2025](https://www.worldcubeassociation.org/competitions/CorbyAutumn2025) |
 | 1 | [Crystal Open 2018](https://www.worldcubeassociation.org/competitions/CrystalOpen2018) |
 | 1 | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
 | 1 | [Cubing in Cambridge 2023](https://www.worldcubeassociation.org/competitions/CubinginCambridge2023) |
@@ -105,6 +106,7 @@
 | 1 | [Dutch Winter 2017](https://www.worldcubeassociation.org/competitions/DutchWinter2017) |
 | 1 | [East London Autumn 2022](https://www.worldcubeassociation.org/competitions/EastLondonAutumn2022) |
 | 1 | [Eberstädter Einsteiger 2023](https://www.worldcubeassociation.org/competitions/EberstadterEinsteigerEvent2023) |
+| 1 | [Edinburgh Autumn 2025](https://www.worldcubeassociation.org/competitions/EdinburghAutumn2025) |
 | 1 | [Edinburgh Open 2013](https://www.worldcubeassociation.org/competitions/EdinburghOpen2013) |
 | 1 | [Edinburgh Spring 2023](https://www.worldcubeassociation.org/competitions/EdinburghSpring2023) |
 | 1 | [Edinburgh Winter 2024](https://www.worldcubeassociation.org/competitions/EdinburghWinter2024) |
@@ -203,6 +205,7 @@
 | 1 | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) |
 | 1 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) |
 | 1 | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023) |
+| 1 | [Middle Georgia Mega Mania 2025](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaMegaMania2025) |
 | 1 | [Middle Georgia Speedsolving 2024](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaSpeedsolving2024) |
 | 1 | [Milwaukee First 2022](https://www.worldcubeassociation.org/competitions/MilwaukeeFirst2022) |
 | 1 | [Mi'Lyon Open 2025](https://www.worldcubeassociation.org/competitions/MiLyonOpen2025) |
@@ -387,6 +390,7 @@
 | 2 | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |
 | 2 | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018) |
 | 2 | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022) |
+| 2 | [SEK-Alborán Almerimar Open 2025](https://www.worldcubeassociation.org/competitions/SEKAlboranAlmerimarOpen2025) |
 | 2 | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) |
 | 2 | [Sunmarke Open 2018](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2018) |
 | 2 | [Swisscubing Cup I 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2023) |

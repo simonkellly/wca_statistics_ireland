@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -44,7 +44,7 @@
 | 131 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 128 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 127 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
-| 118 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 123 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 116 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 111 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
 | 106 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |

@@ -1,13 +1,13 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 | Person | Distance |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 166 407 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 71 689 km |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 48 063 km |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 54 373 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 46 524 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 44 296 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 39 717 km |
@@ -350,6 +350,7 @@
 | [Lorcan Mc Dermott](https://www.worldcubeassociation.org/persons/2024DERM02) | 445 km |
 | [Seimí Murphy](https://www.worldcubeassociation.org/persons/2022MURP02) | 443 km |
 | [Jeremy Bohua Wei](https://www.worldcubeassociation.org/persons/2023WEIJ01) | 439 km |
+| [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) | 438 km |
 | [Grace Farrell](https://www.worldcubeassociation.org/persons/2009FARR01) | 437 km |
 | [Eric Yazhuo Han](https://www.worldcubeassociation.org/persons/2019HANE01) | 435 km |
 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) | 435 km |
@@ -571,7 +572,6 @@
 | [Gagik Barcegyn](https://www.worldcubeassociation.org/persons/2024BARC01) | 174 km |
 | [Ben McDonald](https://www.worldcubeassociation.org/persons/2024MCDO03) | 174 km |
 | [Liam Kelly](https://www.worldcubeassociation.org/persons/2024KELL11) | 172 km |
-| [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) | 172 km |
 | [Brian Donlon](https://www.worldcubeassociation.org/persons/2022DONL01) | 171 km |
 | [Eric Radecki](https://www.worldcubeassociation.org/persons/2024RADE01) | 171 km |
 | [Ephrem Xavio Richard](https://www.worldcubeassociation.org/persons/2023RICH22) | 169 km |

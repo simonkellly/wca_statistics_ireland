@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 | competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 | 33 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) |  |
 | 33 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
 | 33 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022) |  |
-| 33 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) |  |
+| 33 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) | [Middle Georgia Mega Mania 2025](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaMegaMania2025) |
 | 32 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |
 | 30 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
 | 30 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025) |
