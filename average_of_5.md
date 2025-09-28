@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 September 2025*
+*Updated on 28 September 2025*
 
 
 ### Rubik's Cube
@@ -68,7 +68,6 @@
 | 28.72 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 27.34, 30.34, 28.52, 29.16, 28.47 |
 | 30.53 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.48, 27.66, 31.27, 30.20, 30.90 |
 | 36.65 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.20, 38.29, 33.37, 36.29, 36.45 |
-| 40.62 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 42.25, 42.84, 36.78, 47.21, 36.58 |
 
 ### Pyraminx
 
