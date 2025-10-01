@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -20,7 +20,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 22.06 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 24.76, 21.14, 22.18, 20.90, 22.87 |
+| 21.79 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.80, 21.53, 22.30, 22.04, 20.92 |
 | 24.22 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 23.14, 26.17, 34.01, 22.27, 23.34 |
 
 ### 5x5x5 Cube
@@ -53,7 +53,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 23.67 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 23, 20, 24, 25, 24 |
+| 23.67 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 23, 20, 24, 25, 24 |
 
 ### 3x3x3 One-Handed
 
@@ -88,7 +88,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 2.15 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 2.21, 2.61, 1.59, 5.33, 1.62 |
+| 2.15 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 2.21, 2.61, 1.59, 5.33, 1.62 |
 | 2.46 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 4.41, 2.94, 2.09, 1.84, 2.36 |
 
 

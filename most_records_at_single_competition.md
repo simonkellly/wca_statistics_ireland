@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### World
@@ -233,7 +233,7 @@
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025/results/by_person#2012BEAH01) |
 | 0 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2023MARA10) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2022CORR06) |
-| 0 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2018GRYT01) |
+| 0 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2018GRYT01) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/by_person#2022CORR06) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2012BEAH01) |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2018MCCA02) |
@@ -270,6 +270,8 @@
 | 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2019NATS02) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2022CORR06) |
 | 0 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2021LOFT01) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2022CORR06) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 
 ### Continental
 

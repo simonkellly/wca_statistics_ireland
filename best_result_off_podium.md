@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -113,7 +113,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
-| [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 24 | **24.33** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 19 |
+| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 24 | **24.33** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 19 |
 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | 25 | **27.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 34 |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 28 | **32.00** | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020/results/all#e333fm_f) | 6 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 28 | **33.33** | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025/results/all#e333fm_f) | 4 |
@@ -129,6 +129,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 11.80 | **12.22** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333oh_f) | 9 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 11.20 | **12.24** | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/all#e333oh_f) | 6 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 10.59 | **12.48** | [Isle of Wight Summer 2023](https://www.worldcubeassociation.org/competitions/IsleofWightSummer2023/results/all#e333oh_c) | 4 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 9.21 | **12.88** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e333oh_f) | 8 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 11.11 | **13.01** | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/all#e333oh_f) | 9 |
@@ -137,7 +138,6 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 12.08 | **13.34** | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/all#e333oh_f) | 6 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 11.24 | **13.47** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e333oh_f) | 8 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 12.02 | **13.61** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 17 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 11.43 | **13.62** | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021/results/all#e333oh_f) | 4 |
 
 ### Megaminx
 

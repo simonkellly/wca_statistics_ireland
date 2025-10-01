@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -14,7 +14,7 @@
 | 5 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 5 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 5 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
-| 5 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
+| 5 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 4 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
 | 4 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 4 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |

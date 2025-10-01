@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -17,16 +17,16 @@
 | 10 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 10 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 10 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
+| 9 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
+| 8 | [Oliver Bacon](https://www.worldcubeassociation.org/persons/2019BACO02) |
 | 8 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 8 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
-| 6 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
+| 6 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 6 | [Chloe O'Loughlin](https://www.worldcubeassociation.org/persons/2023OLOU01) |
 | 5 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 5 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 5 | [Nathan Quinlan](https://www.worldcubeassociation.org/persons/2024QUIN29) |
 | 4 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) |
-| 4 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
-| 4 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 
 ### 4x4x4 Blindfolded
 
@@ -77,7 +77,7 @@
 | 1 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 1 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 1 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 1 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
+| 1 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 1 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 1 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) |
 | 1 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |

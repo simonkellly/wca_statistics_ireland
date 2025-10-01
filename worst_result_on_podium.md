@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. results where the main statistic is DNF are ignored.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -101,13 +101,13 @@
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | **3:24.14** | DNF | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023/results/podiums#e333bf) | 3 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **3:12.40** | DNF | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022/results/podiums#e333bf) | 3 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **2:14.95** | DNF | [Tuam Open Saturday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSaturday2022/results/podiums#e333bf) | 2 |
+| [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | **2:08.58** | DNF | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/podiums#e333bf) | 3 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:58.43** | DNF | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/podiums#e333bf) | 3 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:57.96** | 2:36.94 | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/podiums#e333bf) | 3 |
-| [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **1:50.45** | DNF | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/podiums#e333bf) | 3 |
+| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **1:50.45** | DNF | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/podiums#e333bf) | 3 |
 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | **1:48.06** | DNF | [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023/results/podiums#e333bf) | 3 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **1:46.31** | 2:15.11 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012/results/podiums#e333bf) | 3 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:44.35** | DNF | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/podiums#e333bf) | 3 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:38.96** | DNF | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/podiums#e333bf) | 2 |
 
 ### 3x3x3 Fewest Moves
 

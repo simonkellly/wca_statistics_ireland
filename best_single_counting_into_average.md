@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -41,12 +41,12 @@
 | 21.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 | 21.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2012BEAH01) |
 | 21.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025/results/by_person#2012BEAH01) |
+| 21.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 | 21.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025/results/by_person#2012BEAH01) |
+| 22.04 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 | 22.06 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025/results/by_person#2012BEAH01) |
 | 22.17 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
 | 22.18 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
-| 22.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2012BEAH01) |
-| 22.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 
 ### 5x5x5 Cube
 
@@ -54,14 +54,14 @@
 | ---: | :--- | :--- |
 | 39.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2012BEAH01) |
 | 39.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2012BEAH01) |
+| 39.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 | 39.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
 | 39.49 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [La Montagne Open 2025](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2025/results/by_person#2012BEAH01) |
 | 39.51 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 | 39.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2012BEAH01) |
 | 39.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024/results/by_person#2012BEAH01) |
+| 39.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 | 39.88 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2012BEAH01) |
-| 40.00 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
-| 40.01 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025/results/by_person#2012BEAH01) |
 
 ### 3x3x3 One-Handed
 
@@ -112,6 +112,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 2.98 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2022CORR06) |
 | 3.05 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022CORR06) |
 | 3.08 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2022CORR06) |
 | 3.10 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2022CORR06) |
@@ -120,15 +121,15 @@
 | 3.13 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2019NATS02) |
 | 3.14 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2022CORR06) |
 | 3.14 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022CORR06) |
-| 3.19 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/by_person#2022CORR06) |
-| 3.21 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022CORR06) |
+| 3.16 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2022CORR06) |
 
 ### Skewb
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 1.62 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2018GRYT01) |
+| 1.62 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2018GRYT01) |
 | 1.77 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021FINK02) |
+| 1.82 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2018GRYT01) |
 | 1.92 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2019CARE02) |
 | 2.01 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2019CARE02) |
 | 2.06 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2021FINK02) |
@@ -136,7 +137,6 @@
 | 2.10 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2021FINK02) |
 | 2.11 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021BURK03) |
 | 2.13 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2019CARE02) |
-| 2.13 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2018GRYT01) |
 
 ### Square-1
 

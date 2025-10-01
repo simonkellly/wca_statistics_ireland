@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -20,14 +20,14 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 23.30 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.39, 29.33, 18.90, 23.67, 22.98, 21.71, 25.93, 23.62, 21.66, 21.95, 25.37, 22.70 |
+| 22.76 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 27.00, 25.16, 21.80, 21.53, 22.30, 22.04, 20.92, 25.37, 24.36, 22.24, 21.82, 20.95 |
 | 25.99 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 26.66, 22.94, 25.28, 47.89, 25.90, 29.05, 27.53, 27.19, 24.55, 22.76, 26.68, 24.16 |
 
 ### 5x5x5 Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 41.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 42.57, 42.19, 44.30, 40.65, 42.79, 41.08, 40.73, 39.71, 41.28, 39.49, 41.79, 39.18 |
+| 41.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 40.65, 42.79, 41.08, 40.73, 39.71, 41.28, 39.49, 41.79, 39.18, 45.67, 41.87, 41.67 |
 | 46.62 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 44.11, 46.93, 50.25, 49.13, 48.47, 44.42, 47.18, 45.85, 44.10, 57.63, 44.60, 45.21 |
 
 ### 6x6x6 Cube
@@ -75,7 +75,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 2.80 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 1.44, 4.44, 1.31, 4.63, 2.55, 2.62, 2.42, 2.16, 4.54, 2.61, 2.27, 2.90 |
+| 2.80 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 1.44, 4.44, 1.31, 4.63, 2.55, 2.62, 2.42, 2.16, 4.54, 2.61, 2.27, 2.90 |
 | 3.04 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.17, 3.13, 2.42, 3.67, 2.64, DNF, 1.25, 2.56, 2.77, 3.97, 3.85, 3.23 |
 
 

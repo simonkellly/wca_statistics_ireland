@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -77,7 +77,7 @@
 | 0.67 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | 2:21.11 | 2:21.78 | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023BROW36) |
 | 0.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:15.39 | 1:16.19 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2012BEAH01) |
 | 0.80 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2:36.96 | 2:37.76 | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/by_person#2015OCON03) |
-| 0.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:23.65 | 1:24.52 | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021/results/by_person#2012BEAH01) |
+| 0.84 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | 2:35.30 | 2:36.14 | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2024LOZO01) |
 
 ### 7x7x7 Cube
 

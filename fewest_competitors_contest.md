@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -18,6 +18,7 @@
 | 1 | [Appalachian Highlands TN 2024](https://www.worldcubeassociation.org/competitions/AppalachianHighlandsTN2024) |
 | 1 | [Arnhem Open 2025](https://www.worldcubeassociation.org/competitions/ArnhemOpen2025) |
 | 1 | [Atlanta Algs at AIS 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAIS2025) |
+| 1 | [Atlanta Algs at AIS Autumn 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAISAutumn2025) |
 | 1 | [ABHC 2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015) |
 | 1 | [August Bank Holiday Crawley 2024](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCrawley2024) |
 | 1 | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023) |
@@ -269,6 +270,7 @@
 | 1 | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023) |
 | 1 | [Roskilde For Alle 2023](https://www.worldcubeassociation.org/competitions/RoskildeForAlle2023) |
 | 1 | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025) |
+| 1 | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025) |
 | 1 | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) |
 | 1 | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) |
 | 1 | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024) |

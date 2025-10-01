@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -66,6 +66,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 37 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) |
 | 17 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |
 | 10 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) |
 | 7 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) |
@@ -104,7 +105,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 11 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) |
-| 6 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) |
+| 6 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) |
 | 5 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) |
 | 4 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) |
 | 3 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) |
@@ -119,7 +120,8 @@
 | 35 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |
 | 14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |
 | 10 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022) |
-| 8 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |
+| 8 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |
+| 8 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) |
 | 8 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
 | 6 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) |
 | 5 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) |
@@ -136,10 +138,10 @@
 | 12 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) |
 | 7 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) |
 | 7 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) |
+| 6 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) |
 | 4 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) |
 | 4 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) |
 | 2 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) |
-| 1 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) |
 
 ### Pyraminx
 
@@ -175,7 +177,7 @@
 | ---: | :--- | :--- |
 | 13 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) |
 | 11 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |
-| 11 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |
+| 11 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |
 | 8 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |
 | 8 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) |
 | 7 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Middle Georgia Speedsolving 2024](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaSpeedsolving2024) |
