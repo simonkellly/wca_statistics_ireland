@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -22,6 +22,7 @@
 | 1 | [ABHC 2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015) |
 | 1 | [August Bank Holiday Crawley 2024](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCrawley2024) |
 | 1 | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023) |
+| 1 | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) |
 | 1 | [AZCF 2015](https://www.worldcubeassociation.org/competitions/AZCubingFall2015) |
 | 1 | [Back to School Utah 2022](https://www.worldcubeassociation.org/competitions/BacktoSchoolUtah2022) |
 | 1 | [Baden-Württemberg Open 2019](https://www.worldcubeassociation.org/competitions/BadenWurttembergOpen2019) |

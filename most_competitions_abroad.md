@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -73,10 +73,10 @@
 | 4 | [Gabriella Pita](https://www.worldcubeassociation.org/persons/2022PITA01) |
 | 4 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
 | 4 | [Pal Illes](https://www.worldcubeassociation.org/persons/2022ILLE01) |
+| 4 | [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) |
 | 4 | [Jake Hartley-Trimble](https://www.worldcubeassociation.org/persons/2023HART19) |
-| 4 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 4 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 4 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
+| 4 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 4 | [James Rainey](https://www.worldcubeassociation.org/persons/2023RAIN01) |
 | 4 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 4 | [Peter Illes](https://www.worldcubeassociation.org/persons/2022ILLE02) |
@@ -84,6 +84,7 @@
 | 4 | [Elijah Gillespie](https://www.worldcubeassociation.org/persons/2023GILL01) |
 | 4 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 4 | [Sahasra Avinashilingam](https://www.worldcubeassociation.org/persons/2024AVIN03) |
+| 4 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 3 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 3 | [Patrick Chishti](https://www.worldcubeassociation.org/persons/2023CHIS01) |
 | 3 | [Tomasz Żymuła](https://www.worldcubeassociation.org/persons/2018ZYMU03) |
@@ -92,7 +93,6 @@
 | 3 | [Luka Botlik](https://www.worldcubeassociation.org/persons/2023BOTL01) |
 | 3 | [Advaith Simha](https://www.worldcubeassociation.org/persons/2023SIMH02) |
 | 3 | [Said Shytaj](https://www.worldcubeassociation.org/persons/2023SHYT01) |
-| 3 | [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) |
 | 3 | [Yohanush Anuradha Senthilkumar](https://www.worldcubeassociation.org/persons/2023SENT07) |
 | 3 | [Cian Doyle](https://www.worldcubeassociation.org/persons/2022DOYL02) |
 | 3 | [Octavian Butnaru](https://www.worldcubeassociation.org/persons/2022BUTN01) |

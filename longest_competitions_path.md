@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -154,6 +154,7 @@
 | [Connell Quinlan](https://www.worldcubeassociation.org/persons/2023QUIN24) | 1 451 km |
 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 1 446 km |
 | [Mairéad Togher](https://www.worldcubeassociation.org/persons/2023TOGH01) | 1 434 km |
+| [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) | 1 432 km |
 | [Alex Kelly](https://www.worldcubeassociation.org/persons/2022KELL03) | 1 416 km |
 | [Zac Looney](https://www.worldcubeassociation.org/persons/2019LOON02) | 1 415 km |
 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | 1 410 km |
@@ -733,7 +734,6 @@
 | [Virgil Lizheng Bracken](https://www.worldcubeassociation.org/persons/2023BRAC10) | 74 km |
 | [Lubdhak Jyoti De](https://www.worldcubeassociation.org/persons/2024DELU01) | 74 km |
 | [Patryk Hunia](https://www.worldcubeassociation.org/persons/2024HUNI01) | 74 km |
-| [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) | 73 km |
 | [Patrick Chishti](https://www.worldcubeassociation.org/persons/2023CHIS01) | 69 km |
 | [Eamon Jaber](https://www.worldcubeassociation.org/persons/2019JABE04) | 68 km |
 | [John O’Reilly](https://www.worldcubeassociation.org/persons/2025OREI01) | 68 km |
