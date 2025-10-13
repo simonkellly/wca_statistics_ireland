@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### Rubik's Cube
@@ -39,14 +39,14 @@
 | ---: | :--- | :--- |
 | 21.14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
 | 21.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
+| 21.31 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2012BEAH01) |
+| 21.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2012BEAH01) |
 | 21.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2012BEAH01) |
 | 21.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025/results/by_person#2012BEAH01) |
 | 21.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 | 21.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025/results/by_person#2012BEAH01) |
 | 22.04 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 | 22.06 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025/results/by_person#2012BEAH01) |
-| 22.17 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
-| 22.18 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
 
 ### 5x5x5 Cube
 
@@ -83,15 +83,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 28.01 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2023MARA10) |
+| 28.16 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2023MARA10) |
+| 28.24 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2023MARA10) |
 | 28.52 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
 | 28.53 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
 | 28.62 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2023MARA10) |
+| 28.86 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2023MARA10) |
 | 28.87 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
 | 28.96 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
 | 29.16 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
-| 29.42 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2023MARA10) |
-| 29.74 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2019NAYA01) |
-| 29.77 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2023MARA10) |
 
 ### Pyraminx
 
@@ -135,8 +135,8 @@
 | 2.06 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2021FINK02) |
 | 2.09 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2023MANG02) |
 | 2.10 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2021FINK02) |
+| 2.10 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2018GRYT01) |
 | 2.11 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021BURK03) |
-| 2.13 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2019CARE02) |
 
 ### Square-1
 

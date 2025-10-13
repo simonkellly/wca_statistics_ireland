@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -84,6 +84,7 @@
 | 1 | [Coosa Cubing Clash 2024](https://www.worldcubeassociation.org/competitions/CoosaCubingClash2024) |
 | 1 | [Coping in Auckland 2025](https://www.worldcubeassociation.org/competitions/CopinginAuckland2025) |
 | 1 | [Corby Autumn 2025](https://www.worldcubeassociation.org/competitions/CorbyAutumn2025) |
+| 1 | [Croatian Championship 2025](https://www.worldcubeassociation.org/competitions/CroatianChampionship2025) |
 | 1 | [Crystal Open 2018](https://www.worldcubeassociation.org/competitions/CrystalOpen2018) |
 | 1 | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
 | 1 | [Cubing in Cambridge 2023](https://www.worldcubeassociation.org/competitions/CubinginCambridge2023) |

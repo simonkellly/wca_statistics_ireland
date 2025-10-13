@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### World
@@ -272,6 +272,8 @@
 | 0 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2021LOFT01) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2022CORR06) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
+| 0 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2022FURE01) |
+| 0 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2021DOHE02) |
 
 ### Continental
 

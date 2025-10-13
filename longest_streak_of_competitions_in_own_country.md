@@ -1,12 +1,12 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
-| 24 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |  |
-| 18 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |  |
+| 25 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |  |
+| 19 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |  |
 | 17 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | Ireland | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) |
 | 16 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | Ireland | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025) |
 | 13 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) |
@@ -80,7 +80,7 @@
 | 4 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | Ireland | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) |
 | 4 | [Efrain Tharian](https://www.worldcubeassociation.org/persons/2023THAR03) | Ireland | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025) | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025) |
 | 4 | [Oisin West](https://www.worldcubeassociation.org/persons/2024WEST20) | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) |
-| 4 | [Venice Chia Hang Yuie](https://www.worldcubeassociation.org/persons/2025YUIE01) | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |  |
+| 4 | [Venice Chia Hang Yuie](https://www.worldcubeassociation.org/persons/2025YUIE01) | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) |
 | 3 | [Eoin Brereton Hurley](https://www.worldcubeassociation.org/persons/2014HURL01) | Ireland | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) |
 | 3 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) | Ireland | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) |
 | 3 | [Pearce Mooney](https://www.worldcubeassociation.org/persons/2015MOON01) | Ireland | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) |

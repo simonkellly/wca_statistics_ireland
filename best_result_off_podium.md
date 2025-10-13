@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### Rubik's Cube
@@ -31,8 +31,8 @@
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 2.05 | **2.35** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 8 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.57 | **2.41** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 9 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.98 | **2.42** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e222_f) | 4 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.38 | **2.43** | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/all#e222_f) | 4 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.90 | **2.44** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 10 |
-| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 1.95 | **2.47** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 

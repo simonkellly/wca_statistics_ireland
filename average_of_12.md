@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 6.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.62, 6.81, 6.67, 6.36, 8.02, 5.77, 6.88, 6.47, 6.44, 7.46, 6.87, 6.40 |
+| 6.75 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 8.76, 7.06, 5.95, 5.93, 6.79, 6.36, 7.25, 6.78, 7.55, 6.49, 6.62, 6.64 |
 
 ### 2x2x2 Cube
 
@@ -75,7 +76,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 2.80 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 1.44, 4.44, 1.31, 4.63, 2.55, 2.62, 2.42, 2.16, 4.54, 2.61, 2.27, 2.90 |
+| 2.70 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 1.72, 1.82, 2.06, 4.41, 2.58, 3.40, 5.54, 2.10, 2.11, 3.18, 3.40, 1.92 |
 | 3.04 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.17, 3.13, 2.42, 3.67, 2.64, DNF, 1.25, 2.56, 2.77, 3.97, 3.85, 3.23 |
 
 

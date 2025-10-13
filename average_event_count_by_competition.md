@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -21,6 +21,7 @@
 | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | 6.54 | 39 | Ireland |
 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | 6.50 | 8 | Ireland |
 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 6.44 | 73 | Ireland |
+| [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 6.38 | 73 | Ireland |
 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 6.26 | 95 | Ireland |
 | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | 6.24 | 72 | Ireland |
 | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023) | 6.21 | 92 | Ireland |
