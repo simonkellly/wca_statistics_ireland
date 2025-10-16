@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 14 October 2025*
+*Updated on 16 October 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -305,6 +305,7 @@
 | 1 | [Stevenage June 2025](https://www.worldcubeassociation.org/competitions/StevenageJune2025) |
 | 1 | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023) |
 | 1 | [Stevenage Newcomers Sunday 2024](https://www.worldcubeassociation.org/competitions/StevenageNewcomersSunday2024) |
+| 1 | [Stevenage October 2025](https://www.worldcubeassociation.org/competitions/StevenageOctober2025) |
 | 1 | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022) |
 | 1 | [Stratford-upon-Avon Open 2018](https://www.worldcubeassociation.org/competitions/SUAO2018) |
 | 1 | [Suffolk Summer 2023](https://www.worldcubeassociation.org/competitions/SuffolkSummer2023) |
