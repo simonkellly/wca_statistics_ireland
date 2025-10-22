@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 
 ### Competition
@@ -49,7 +49,7 @@
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2793** | 2867 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **2700** | 2907 |
 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | **2598** | 2769 |
-| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2344** | 2523 |
+| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2376** | 2560 |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **2247** | 2426 |
 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | **2210** | 2262 |
 
@@ -58,8 +58,8 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Ireland | **219830** | 230334 |
-| United Kingdom | **17716** | 18588 |
-| United States | **2857** | 3007 |
+| United Kingdom | **17748** | 18625 |
+| United States | **2902** | 3052 |
 | Spain | **2146** | 2217 |
 | Germany | **1793** | 1860 |
 | France | **774** | 798 |
@@ -82,10 +82,10 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **246280** | 258028 |
-| North America | **3025** | 3183 |
+| Europe | **246312** | 258065 |
+| North America | **3070** | 3228 |
 | Oceania | **676** | 730 |
-| Asia | **375** | 387 |
+| Asia | **380** | 392 |
 | South America | **44** | 51 |
 | Africa | **43** | 45 |
 | Multiple Continents | **5** | 6 |
@@ -95,7 +95,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2024 | **69536** | 73178 |
-| 2025 | **64779** | 67807 |
+| 2025 | **64861** | 67894 |
 | 2023 | **61953** | 64774 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
@@ -117,19 +117,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **62895** | 64189 |
-| 2x2x2 Cube | **44754** | 45977 |
+| 3x3x3 Cube | **62915** | 64209 |
+| 2x2x2 Cube | **44764** | 45987 |
 | Pyraminx | **32450** | 33274 |
-| Skewb | **26636** | 27300 |
+| Skewb | **26646** | 27310 |
 | 4x4x4 Cube | **21207** | 21887 |
-| 3x3x3 One-Handed | **14144** | 14737 |
+| 3x3x3 One-Handed | **14149** | 14742 |
 | 5x5x5 Cube | **12653** | 13105 |
-| Clock | **12048** | 13985 |
-| Megaminx | **9178** | 9647 |
-| Square-1 | **7225** | 7644 |
+| Clock | **12065** | 14005 |
+| Megaminx | **9193** | 9662 |
+| Square-1 | **7230** | 7649 |
 | 6x6x6 Cube | **3043** | 3154 |
 | 7x7x7 Cube | **2156** | 2279 |
-| 3x3x3 Blindfolded | **1067** | 3287 |
+| 3x3x3 Blindfolded | **1067** | 3289 |
 | 3x3x3 Fewest Moves | **501** | 787 |
 | 3x3x3 Multi-Blind | **242** | 381 |
 | 4x4x4 Blindfolded | **73** | 444 |

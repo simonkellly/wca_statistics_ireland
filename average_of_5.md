@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 
 ### Rubik's Cube
@@ -82,7 +82,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 3.06 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.01, 3.14, 3.05, 3.11, 2.82 |
+| 2.98 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 2.67, DNF, 3.38, 2.87, 2.70 |
 | 3.71 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.92, 3.67, 6.45, 3.55, 3.27 |
 
 ### Skewb

@@ -1,29 +1,29 @@
 ## Competitions per year by country
 
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 8.78 | 143 | 16.28 | United Kingdom |
-| 7.23 | 72 | 9.95 | United States |
+| 8.84 | 144 | 16.28 | United Kingdom |
+| 7.33 | 73 | 9.96 | United States |
 | 6.06 | 83 | 13.69 | Ireland |
-| 3.34 | 10 | 3.00 | Austria |
-| 3.11 | 8 | 2.58 | Slovakia |
+| 3.33 | 10 | 3.00 | Austria |
+| 3.10 | 8 | 2.58 | Slovakia |
 | 3.02 | 20 | 6.62 | Australia |
 | 2.49 | 41 | 16.49 | Germany |
 | 1.94 | 5 | 2.58 | Sweden |
 | 1.81 | 3 | 1.66 | Portugal |
 | 1.68 | 10 | 5.95 | Poland |
-| 1.68 | 4 | 2.38 | Hungary |
-| 1.57 | 2 | 1.27 | Brazil |
-| 1.45 | 12 | 8.27 | France |
+| 1.68 | 4 | 2.39 | Hungary |
+| 1.57 | 2 | 1.28 | Brazil |
+| 1.45 | 12 | 8.28 | France |
 | 1.39 | 3 | 2.16 | Slovenia |
-| 1.06 | 7 | 6.60 | Denmark |
-| 1.02 | 4 | 3.94 | Norway |
+| 1.06 | 7 | 6.61 | Denmark |
+| 1.01 | 4 | 3.94 | Norway |
 | 0.93 | 14 | 14.98 | Spain |
 | 0.88 | 5 | 5.68 | Switzerland |
 | 0.82 | 2 | 2.44 | Kenya |
-| 0.80 | 1 | 1.25 | Bosnia and Herzegovina |
+| 0.80 | 1 | 1.26 | Bosnia and Herzegovina |
 | 0.78 | 13 | 16.68 | Italy |
 | 0.72 | 3 | 4.19 | New Zealand |
 | 0.68 | 6 | 8.77 | United Arab Emirates |
@@ -31,19 +31,19 @@
 | 0.62 | 1 | 1.62 | Estonia |
 | 0.55 | 6 | 10.92 | Netherlands |
 | 0.53 | 1 | 1.87 | Greece |
-| 0.52 | 4 | 7.69 | Finland |
-| 0.46 | 1 | 2.19 | Republic of Korea |
+| 0.52 | 4 | 7.70 | Finland |
+| 0.46 | 1 | 2.20 | Republic of Korea |
 | 0.41 | 3 | 7.24 | Ukraine |
 | 0.38 | 7 | 18.43 | Canada |
 | 0.36 | 3 | 8.31 | Russia |
-| 0.36 | 6 | 16.64 | Belgium |
+| 0.36 | 6 | 16.65 | Belgium |
 | 0.34 | 1 | 2.96 | Romania |
 | 0.32 | 2 | 6.26 | India |
 | 0.31 | 2 | 6.35 | Multiple Countries (World) |
 | 0.30 | 2 | 6.58 | Multiple Countries (Europe) |
+| 0.28 | 3 | 10.69 | Singapore |
 | 0.25 | 1 | 4.07 | Jordan |
-| 0.19 | 2 | 10.68 | Singapore |
-| 0.18 | 3 | 16.26 | Czech Republic |
+| 0.18 | 3 | 16.27 | Czech Republic |
 | 0.18 | 2 | 10.89 | South Africa |
 | 0.17 | 2 | 11.68 | Philippines |
 

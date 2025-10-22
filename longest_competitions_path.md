@@ -1,13 +1,13 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 | Person | Distance |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 168 435 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 72 100 km |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 54 502 km |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 54 509 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 46 571 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 44 296 km |
 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 41 080 km |
@@ -33,11 +33,11 @@
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 10 998 km |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 9 552 km |
 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) | 9 517 km |
+| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 8 447 km |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 8 400 km |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 8 263 km |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | 8 251 km |
 | [Olivia Clarke](https://www.worldcubeassociation.org/persons/2018CLAR01) | 8 166 km |
-| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 8 002 km |
 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) | 7 553 km |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 7 434 km |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 7 366 km |

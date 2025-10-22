@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -22,7 +22,7 @@
 | 247 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 238 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 231 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
-| 215 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
+| 217 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 214 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 207 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 202 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
@@ -44,7 +44,7 @@
 | 132 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 131 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 128 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
-| 126 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 128 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 125 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 116 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 111 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |

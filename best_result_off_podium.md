@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 
 ### Rubik's Cube
@@ -28,11 +28,11 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.71 | **1.91** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 6 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 1.31 | **1.96** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 7 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.07 | **2.32** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e222_f) | 10 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 1.34 | **2.33** | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025/results/all#e222_f) | 9 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 2.05 | **2.35** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 8 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.57 | **2.41** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 9 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.98 | **2.42** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e222_f) | 4 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.38 | **2.43** | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/all#e222_f) | 4 |
-| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1.90 | **2.44** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 10 |
 
 ### 4x4x4 Cube
 

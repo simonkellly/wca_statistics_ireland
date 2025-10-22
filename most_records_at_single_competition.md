@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 
 ### World
@@ -274,6 +274,7 @@
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 | 0 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2022FURE01) |
 | 0 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2021DOHE02) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
 
 ### Continental
 

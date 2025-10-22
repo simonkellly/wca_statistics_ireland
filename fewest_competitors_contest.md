@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -138,6 +138,7 @@
 | 1 | [FSUbers 2.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers202022) |
 | 1 | [FSUbers 3.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers302022) |
 | 1 | [FSUbers 5.0 2024](https://www.worldcubeassociation.org/competitions/FSUbers502024) |
+| 1 | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025) |
 | 1 | [GEMS Modern Academy Open 2018](https://www.worldcubeassociation.org/competitions/GEMSModernAcademyOpen2018) |
 | 1 | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) |
 | 1 | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) |
@@ -198,6 +199,7 @@
 | 1 | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024) |
 | 1 | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024) |
 | 1 | [Manchester August 2024](https://www.worldcubeassociation.org/competitions/ManchesterAugust2024) |
+| 1 | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025) |
 | 1 | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024) |
 | 1 | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) |
 | 1 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022) |
@@ -281,6 +283,7 @@
 | 1 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) |
 | 1 | [SC Open 2014](https://www.worldcubeassociation.org/competitions/ShoeCapital2014) |
 | 1 | [Singapore AMK CC Cubing A 2023](https://www.worldcubeassociation.org/competitions/SingaporeAMKCCCubingA2023) |
+| 1 | [Singapore Kempinski Open 2025](https://www.worldcubeassociation.org/competitions/SingaporeKempinskiOpen2025) |
 | 1 | [Singapore Open 2015](https://www.worldcubeassociation.org/competitions/SingaporeOpen2015) |
 | 1 | [Skewbing in School Kennesaw 2025](https://www.worldcubeassociation.org/competitions/SkewbinginSchoolKennesaw2025) |
 | 1 | [Slovak Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovakNationals2023) |

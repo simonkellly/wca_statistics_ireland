@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 
 ### Rubik's Cube - Single
@@ -353,7 +353,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **3.18** | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 3.40, 3.16, 2.98, 2.67, DNF |
+| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **3.09** | Ireland | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025) | 3.14, 3.03, DNF, 3.09, 2.98 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **3.79** | Mongolia | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 4.52, 5.39, 3.21, 3.59, 3.25 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3.97** | Ireland | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 4.24, 4.32, 3.56, 4.10, 3.42 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **3.97** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 3.98, 4.46, 3.65, 3.62, 4.27 |
@@ -387,7 +387,7 @@
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **2.46** | Ukraine | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 2.10, 2.11, 3.18, 3.40, 1.92 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2.50** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 1.89, 2.30, 2.70, 2.69, 2.52 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **2.50** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 2.10, 4.52, 2.59, 2.04, 2.80 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2.66** | Ireland | [Skewbing in School Kennesaw 2025](https://www.worldcubeassociation.org/competitions/SkewbinginSchoolKennesaw2025) | 2.64, DNF, 1.25, 2.56, 2.77 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2.63** | Ireland | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025) | 2.04, 3.30, 2.59, 2.79, 2.51 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **2.87** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 3.33, 2.48, 3.28, 2.32, 2.86 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3.27** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 2.99, 5.65, 3.49, 2.43, 3.34 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | **3.31** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 3.94, 2.83, 3.16, 4.09, 2.38 |
