@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 22 October 2025*
+*Updated on 23 October 2025*
 
 | competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
