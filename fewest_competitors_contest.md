@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -135,6 +135,7 @@
 | 1 | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024) |
 | 1 | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
 | 1 | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) |
+| 1 | [FSUbers 10.0 2025](https://www.worldcubeassociation.org/competitions/FSUbers1002025) |
 | 1 | [FSUbers 2.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers202022) |
 | 1 | [FSUbers 3.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers302022) |
 | 1 | [FSUbers 5.0 2024](https://www.worldcubeassociation.org/competitions/FSUbers502024) |
@@ -421,7 +422,9 @@
 | 3 | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) |
 | 3 | [Glasgow Spring 2023](https://www.worldcubeassociation.org/competitions/GlasgowSpring2023) |
 | 3 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) |
+| 3 | [Manchester October 2025](https://www.worldcubeassociation.org/competitions/ManchesterOctober2025) |
 | 3 | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024) |
+| 3 | [Ruta Cubera: Aigües Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaAiguesOpen2025) |
 | 3 | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) |
 | 3 | [Vienna Fasching 2023](https://www.worldcubeassociation.org/competitions/ViennaFasching2023) |
 | 3 | [Wiener Frühling 2023](https://www.worldcubeassociation.org/competitions/WienerFruhling2023) |

@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -35,6 +35,7 @@
 | 14 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 10 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 10 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
+| 9 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 8 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 7 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |

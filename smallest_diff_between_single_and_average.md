@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 
 ### Rubik's Cube
@@ -106,8 +106,8 @@
 | 1.73 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 35.64 | 37.37 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2018MCCA02) |
 | 2.31 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 25.44 | 27.75 | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025/results/by_person#2018MCCA02) |
 | 3.11 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1:41.34 | 1:44.45 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2021LOFT01) |
+| 3.27 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 1:37.76 | 1:41.03 | [Ruta Cubera: Aigües Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaAiguesOpen2025/results/by_person#2023HAMI12) |
 | 3.29 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 1:12.41 | 1:15.70 | [Glasgow Summer - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowSummerSBO2024/results/by_person#2019MCCA09) |
-| 3.32 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 57.10 | 1:00.42 | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024/results/by_person#2019CARE02) |
 
 ### 3x3x3 One-Handed
 
@@ -207,6 +207,12 @@
 | 42.12 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3:22.89 | 4:05.01 | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2021DOHE02) |
 | 93.75 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 4:16.23 | 5:49.98 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2017TIMM01) |
 | 98.47 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 7:37.17 | 9:15.64 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2019NATS02) |
+
+### 5x5x5 Blindfolded
+
+| Diff | Person | Single | Average | results |
+| ---: | :--- | ---: | ---: | :--- |
+| 130.00 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 13:41.00 | 15:51.00 | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2017TIMM01) |
 
 ### 3x3x3 With Feet
 
