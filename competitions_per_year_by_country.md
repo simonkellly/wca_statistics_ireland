@@ -4,47 +4,47 @@
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 8.90 | 145 | 16.30 | United Kingdom |
+| 8.89 | 145 | 16.30 | United Kingdom |
 | 7.42 | 74 | 9.98 | United States |
-| 6.13 | 84 | 13.71 | Ireland |
+| 6.12 | 84 | 13.72 | Ireland |
 | 3.31 | 10 | 3.02 | Austria |
 | 3.08 | 8 | 2.60 | Slovakia |
 | 3.01 | 20 | 6.64 | Australia |
 | 2.48 | 41 | 16.51 | Germany |
 | 1.92 | 5 | 2.60 | Sweden |
-| 1.79 | 3 | 1.68 | Portugal |
+| 1.78 | 3 | 1.68 | Portugal |
 | 1.67 | 10 | 5.97 | Poland |
 | 1.66 | 4 | 2.41 | Hungary |
 | 1.54 | 2 | 1.30 | Brazil |
 | 1.45 | 12 | 8.30 | France |
-| 1.38 | 3 | 2.18 | Slovenia |
+| 1.37 | 3 | 2.18 | Slovenia |
 | 1.06 | 7 | 6.63 | Denmark |
 | 1.01 | 4 | 3.96 | Norway |
 | 1.00 | 15 | 15.00 | Spain |
-| 0.88 | 5 | 5.70 | Switzerland |
-| 0.81 | 2 | 2.46 | Kenya |
+| 0.88 | 5 | 5.71 | Switzerland |
+| 0.81 | 2 | 2.47 | Kenya |
 | 0.78 | 1 | 1.28 | Bosnia and Herzegovina |
-| 0.78 | 13 | 16.70 | Italy |
+| 0.78 | 13 | 16.71 | Italy |
 | 0.71 | 3 | 4.21 | New Zealand |
 | 0.68 | 6 | 8.79 | United Arab Emirates |
-| 0.62 | 2 | 3.20 | Israel |
+| 0.62 | 2 | 3.21 | Israel |
 | 0.61 | 1 | 1.64 | Estonia |
 | 0.55 | 6 | 10.94 | Netherlands |
 | 0.53 | 1 | 1.89 | Greece |
 | 0.52 | 4 | 7.72 | Finland |
-| 0.45 | 1 | 2.21 | Republic of Korea |
+| 0.45 | 1 | 2.22 | Republic of Korea |
 | 0.41 | 3 | 7.26 | Ukraine |
 | 0.38 | 7 | 18.45 | Canada |
 | 0.36 | 3 | 8.33 | Russia |
 | 0.36 | 6 | 16.67 | Belgium |
 | 0.34 | 1 | 2.98 | Romania |
 | 0.32 | 2 | 6.28 | India |
-| 0.31 | 2 | 6.37 | Multiple Countries (World) |
-| 0.30 | 2 | 6.60 | Multiple Countries (Europe) |
-| 0.28 | 3 | 10.70 | Singapore |
-| 0.24 | 1 | 4.09 | Jordan |
-| 0.18 | 3 | 16.28 | Czech Republic |
-| 0.18 | 2 | 10.91 | South Africa |
+| 0.31 | 2 | 6.38 | Multiple Countries (World) |
+| 0.30 | 2 | 6.61 | Multiple Countries (Europe) |
+| 0.28 | 3 | 10.71 | Singapore |
+| 0.24 | 1 | 4.10 | Jordan |
+| 0.18 | 3 | 16.29 | Czech Republic |
+| 0.18 | 2 | 10.92 | South Africa |
 | 0.17 | 2 | 11.70 | Philippines |
 
 
