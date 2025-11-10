@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -87,6 +87,7 @@
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | 3 665 km |
 | [Kalle Dunne](https://www.worldcubeassociation.org/persons/2025DUNN05) | 3 623 km |
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 3 514 km |
+| [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | 3 504 km |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 3 492 km |
 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | 3 418 km |
 | [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | 3 360 km |
@@ -123,7 +124,6 @@
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 2 256 km |
 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) | 2 168 km |
 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | 2 114 km |
-| [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | 2 087 km |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 2 083 km |
 | [Oisin James Waldron](https://www.worldcubeassociation.org/persons/2023WALD04) | 2 080 km |
 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) | 2 027 km |

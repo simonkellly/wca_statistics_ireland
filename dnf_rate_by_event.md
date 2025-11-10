@@ -1,6 +1,6 @@
 ## DNF rate by event
 
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
@@ -15,7 +15,7 @@
 | 5.41 % | Square-1 | 424 | 7832 |
 | 5.24 % | 7x7x7 Cube | 123 | 2347 |
 | 4.78 % | Megaminx | 473 | 9889 |
-| 4.02 % | 3x3x3 One-Handed | 593 | 14747 |
+| 4.02 % | 3x3x3 One-Handed | 593 | 14757 |
 | 3.47 % | 6x6x6 Cube | 112 | 3232 |
 | 3.42 % | 5x5x5 Cube | 457 | 13369 |
 | 3.08 % | 4x4x4 Cube | 685 | 22239 |
