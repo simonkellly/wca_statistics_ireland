@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 
 ### Rubik's Cube
@@ -44,12 +44,6 @@
 | ---: | :--- | :--- |
 | 1:55.02 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:52.28, 1:50.04, 1:46.44, 2:01.64, 1:59.54, 1:57.76, 1:50.09, 1:53.85, 1:51.64, 1:58.74, 2:01.54, 1:53.03, 2:03.45, 1:54.14, 1:53.54, 2:13.47, 1:57.53, 1:51.84, 2:23.80, 1:56.76, 1:47.55, 1:50.67, 1:59.64, 1:47.86, 1:49.84 |
 
-### 3x3x3 One-Handed
-
-| Ao25 | Person | Times |
-| ---: | :--- | :--- |
-| 11.78 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 13.22, 9.16, 11.06, 10.49, 11.52, 12.42, 15.84, 16.70, 11.37, 10.74, 10.14, 11.25, 14.55, 11.69, 11.27, 11.01, 12.57, 14.20, 12.94, 10.70, 11.21, 10.65, 9.69, 11.88, 12.47 |
-
 ### Megaminx
 
 | Ao25 | Person | Times |
@@ -63,8 +57,6 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 2.22 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.26, 2.20, 2.45, 1.30, 2.91, 3.10, 2.10, 1.82, 1.81, 2.30, 2.77, 1.87, 2.40, 2.02, 2.43, 2.46, 2.39, 2.49, 3.20, 1.90, 1.86, 1.60, 2.07, 1.80, 2.26 |
-| 2.58 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.27, 2.13, 2.42, 2.01, 3.01, 1.92, 1.92, 2.42, 5.86, 2.24, 2.49, 1.45, 2.43, 5.40, 2.02, 3.38, 4.33, 3.39, 1.87, 2.61, 2.74, 2.60, 3.61, 2.14, 2.01 |
-| 2.71 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.11, 2.72, 1.60, 2.54, 2.81, 2.09, 2.89, 3.10, 3.01, 3.53, 3.92, DNF, 2.49, 2.66, 4.93, 2.76, 2.32, 1.61, 1.91, 1.67, 2.88, 2.34, 2.64, 3.21, 3.25 |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -25,10 +25,11 @@
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 11 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 Cube | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 11 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4x4x4 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
+| 10 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
 | 10 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 One-Handed | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 10 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | Megaminx | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 10 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 3x3x3 Cube | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) |
-| 9 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
+| 9 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
 | 9 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3x3x3 Blindfolded | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | [Gem City Warm Up OH 2025](https://www.worldcubeassociation.org/competitions/GemCityWarmUpOH2025) |
 | 9 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | Megaminx | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 9 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | Square-1 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) |  |
@@ -40,7 +41,6 @@
 | 8 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7x7x7 Cube | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 8 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |
 | 8 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6x6x6 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
-| 8 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
 | 8 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | Skewb | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 7x7x7 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 8 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2x2x2 Cube | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) |

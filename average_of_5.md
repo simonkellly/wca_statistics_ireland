@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 
 ### Rubik's Cube
@@ -57,12 +57,6 @@
 | ---: | :--- | :--- |
 | 23.67 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 23, 20, 24, 25, 24 |
 
-### 3x3x3 One-Handed
-
-| Ao5 | Person | Times |
-| ---: | :--- | :--- |
-| 10.85 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 12.94, 10.70, 11.21, 10.65, 9.69 |
-
 ### Megaminx
 
 | Ao5 | Person | Times |
@@ -76,8 +70,6 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.78 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3.19, 1.39, 1.60, 1.73, 2.02 |
-| 1.97 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.76, 2.32, 1.61, 1.91, 1.67 |
-| 2.12 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.42, 2.01, 3.01, 1.92, 1.92 |
 
 ### Rubik's Clock
 

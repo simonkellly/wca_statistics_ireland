@@ -7,14 +7,14 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 
 ### Rubik's Cube
 
 | Moving average | Person |
 | ---: | :--- |
-| 7.08 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 7.13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 7.37 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 7.71 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 7.86 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
@@ -124,7 +124,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 23.55 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 24.05 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 26.95 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 29.81 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 30.53 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
@@ -179,7 +179,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 42.57 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 43.00 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 49.14 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 54.58 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 55.76 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
@@ -411,7 +411,7 @@
 | 56.85 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 57.99 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 59.26 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
-| 59.48 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 59.55 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 1:00.20 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 1:01.07 | [Reuben Kiernan](https://www.worldcubeassociation.org/persons/2024KIER01) |
 | 1:01.13 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |

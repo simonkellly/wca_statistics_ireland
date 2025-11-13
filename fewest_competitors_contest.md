@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -304,6 +304,7 @@
 | 1 | [South Germany 2023](https://www.worldcubeassociation.org/competitions/SouthGermany2023) |
 | 1 | [Sowega Solving 2023](https://www.worldcubeassociation.org/competitions/SowegaSolving2023) |
 | 1 | [Spark Melbourne July 2025](https://www.worldcubeassociation.org/competitions/SparkMelbourneJuly2025) |
+| 1 | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025) |
 | 1 | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022) |
 | 1 | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) |
 | 1 | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023) |

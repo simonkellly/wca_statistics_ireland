@@ -1,11 +1,11 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 | Person | Distance |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 168 549 km |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 169 057 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 72 214 km |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 54 509 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 46 685 km |
