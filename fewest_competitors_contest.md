@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -302,6 +302,7 @@
 | 1 | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) |
 | 1 | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
 | 1 | [South Germany 2023](https://www.worldcubeassociation.org/competitions/SouthGermany2023) |
+| 1 | [South Germany 2025](https://www.worldcubeassociation.org/competitions/SouthGermany2025) |
 | 1 | [Sowega Solving 2023](https://www.worldcubeassociation.org/competitions/SowegaSolving2023) |
 | 1 | [Spark Melbourne July 2025](https://www.worldcubeassociation.org/competitions/SparkMelbourneJuly2025) |
 | 1 | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025) |
