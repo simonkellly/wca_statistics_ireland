@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 
 ### Rubik's Cube
@@ -132,12 +132,12 @@
 | 19.40 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 20.43 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 21.34 | [Dominic Mckeon](https://www.worldcubeassociation.org/persons/2021MCKE03) |
+| 24.79 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) |
 | 24.86 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 24.86 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 24.88 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 24.92 | [Dion Hopkins](https://www.worldcubeassociation.org/persons/2018HOPK02) |
 | 25.24 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
-| 25.62 | [Benedek Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK01) |
 
 ### Megaminx
 

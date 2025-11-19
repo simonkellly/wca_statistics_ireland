@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 
 ### 100 competitions
@@ -46,10 +46,10 @@
 | 911 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
 | 918 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 918 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
+| 918 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
 | 919 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 939 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 945 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
-| 951 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
 
 ### 10 competitions
 

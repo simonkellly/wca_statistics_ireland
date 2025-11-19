@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -158,6 +158,7 @@
 | 1 | [Greek Nationals 2023](https://www.worldcubeassociation.org/competitions/GreekNationals2023) |
 | 1 | [Guildford Open 2013](https://www.worldcubeassociation.org/competitions/GuildfordOpen2013) |
 | 1 | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) |
+| 1 | [Halifax Fall 2025](https://www.worldcubeassociation.org/competitions/HalifaxFall2025) |
 | 1 | [Halifax Summer 2024](https://www.worldcubeassociation.org/competitions/HalifaxSummer2024) |
 | 1 | [Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/HampshireSpring2023) |
 | 1 | [Hampton Park Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/HamptonParkSummerSunday2023) |
@@ -341,6 +342,7 @@
 | 1 | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025) |
 | 1 | [VIC State Championship 2025](https://www.worldcubeassociation.org/competitions/VICStateChampionship2025) |
 | 1 | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) |
+| 1 | [Vienna Autumn 2025](https://www.worldcubeassociation.org/competitions/ViennaAutumn2025) |
 | 1 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) |
 | 1 | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) |
 | 1 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
