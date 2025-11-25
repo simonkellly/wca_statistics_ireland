@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 22 November 2025*
+*Updated on 25 November 2025*
 
 
 ### Competition
@@ -61,7 +61,7 @@
 | United Kingdom | **19980** | 20915 |
 | United States | **2927** | 3077 |
 | Spain | **2240** | 2314 |
-| Germany | **1821** | 1889 |
+| Germany | **1836** | 1904 |
 | France | **774** | 798 |
 | Austria | **741** | 780 |
 | Australia | **470** | 501 |
@@ -74,15 +74,15 @@
 | Canada | **198** | 206 |
 | Belgium | **192** | 201 |
 | Hungary | **171** | 176 |
+| Slovenia | **166** | 168 |
 | Czech Republic | **164** | 165 |
 | Norway | **136** | 152 |
-| Netherlands | **132** | 137 |
 
 ### Continent
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **251643** | 263619 |
+| Europe | **251728** | 263705 |
 | North America | **3125** | 3283 |
 | Oceania | **676** | 730 |
 | Asia | **380** | 392 |
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2025 | **70293** | 73550 |
+| 2025 | **70378** | 73636 |
 | 2024 | **69505** | 73146 |
 | 2023 | **61938** | 64759 |
 | 2022 | **27322** | 28582 |
@@ -117,19 +117,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **64243** | 65559 |
-| 2x2x2 Cube | **45722** | 46967 |
-| Pyraminx | **32796** | 33628 |
-| Skewb | **27152** | 27825 |
-| 4x4x4 Cube | **21735** | 22425 |
-| 3x3x3 One-Handed | **14335** | 14932 |
-| 5x5x5 Cube | **13029** | 13489 |
+| 3x3x3 Cube | **64273** | 65589 |
+| 2x2x2 Cube | **45732** | 46977 |
+| Pyraminx | **32806** | 33638 |
+| Skewb | **27162** | 27835 |
+| 4x4x4 Cube | **21745** | 22435 |
+| 3x3x3 One-Handed | **14340** | 14937 |
+| 5x5x5 Cube | **13039** | 13499 |
 | Clock | **12472** | 14459 |
 | Megaminx | **9551** | 10025 |
 | Square-1 | **7408** | 7832 |
 | 6x6x6 Cube | **3127** | 3239 |
 | 7x7x7 Cube | **2224** | 2349 |
-| 3x3x3 Blindfolded | **1121** | 3395 |
+| 3x3x3 Blindfolded | **1121** | 3396 |
 | 3x3x3 Fewest Moves | **501** | 787 |
 | 3x3x3 Multi-Blind | **242** | 381 |
 | 4x4x4 Blindfolded | **78** | 469 |

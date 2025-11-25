@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 November 2025*
+*Updated on 25 November 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -105,6 +105,7 @@
 | 1 | [Dolné Orešany Open 2023](https://www.worldcubeassociation.org/competitions/DolneOresanyOpen2023) |
 | 1 | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) |
 | 1 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
+| 1 | [Dreht's Eich in Ergolding 2025](https://www.worldcubeassociation.org/competitions/DrehtsEichinErgolding2025) |
 | 1 | [Dutch Nationals 2016](https://www.worldcubeassociation.org/competitions/DutchNationals2016) |
 | 1 | [Dutch Winter 2017](https://www.worldcubeassociation.org/competitions/DutchWinter2017) |
 | 1 | [East London Autumn 2022](https://www.worldcubeassociation.org/competitions/EastLondonAutumn2022) |
@@ -210,6 +211,7 @@
 | 1 | [Marikina City 2 Open 2014](https://www.worldcubeassociation.org/competitions/MarikinaCity2014) |
 | 1 | [Maritimes 2025](https://www.worldcubeassociation.org/competitions/Maritimes2025) |
 | 1 | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |
+| 1 | [Medvode Open 2025](https://www.worldcubeassociation.org/competitions/MedvodeOpen2025) |
 | 1 | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) |
 | 1 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) |
 | 1 | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023) |

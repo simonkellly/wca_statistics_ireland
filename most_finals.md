@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 22 November 2025*
+*Updated on 25 November 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -99,9 +99,9 @@
 | 47 | [Róisín Brennan](https://www.worldcubeassociation.org/persons/2023BREN08) |
 | 46 | [Khusel-Erdene Unur-Erdene](https://www.worldcubeassociation.org/persons/2024UNUR01) |
 | 45 | [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) |
+| 44 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) |
 | 44 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
 | 44 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |
-| 43 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) |
 | 42 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
 | 42 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) |
 
