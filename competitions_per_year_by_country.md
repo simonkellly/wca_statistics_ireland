@@ -1,12 +1,12 @@
 ## Competitions per year by country
 
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 8.97 | 147 | 16.39 | United Kingdom |
-| 7.35 | 74 | 10.06 | United States |
-| 6.09 | 84 | 13.80 | Ireland |
+| 7.65 | 77 | 10.07 | United States |
+| 6.16 | 85 | 13.80 | Ireland |
 | 3.54 | 11 | 3.11 | Austria |
 | 2.98 | 8 | 2.69 | Slovakia |
 | 2.97 | 20 | 6.73 | Australia |
@@ -15,36 +15,36 @@
 | 1.76 | 4 | 2.27 | Slovenia |
 | 1.70 | 3 | 1.77 | Portugal |
 | 1.65 | 10 | 6.06 | Poland |
-| 1.60 | 4 | 2.49 | Hungary |
-| 1.45 | 2 | 1.38 | Brazil |
-| 1.43 | 12 | 8.38 | France |
-| 1.04 | 7 | 6.71 | Denmark |
+| 1.60 | 4 | 2.50 | Hungary |
+| 1.44 | 2 | 1.39 | Brazil |
+| 1.43 | 12 | 8.39 | France |
+| 1.04 | 7 | 6.72 | Denmark |
 | 0.99 | 15 | 15.09 | Spain |
 | 0.99 | 4 | 4.05 | Norway |
 | 0.96 | 1 | 1.04 | Hong Kong, China |
 | 0.86 | 5 | 5.79 | Switzerland |
 | 0.78 | 2 | 2.55 | Kenya |
 | 0.77 | 13 | 16.79 | Italy |
-| 0.73 | 1 | 1.36 | Bosnia and Herzegovina |
+| 0.73 | 1 | 1.37 | Bosnia and Herzegovina |
 | 0.70 | 3 | 4.30 | New Zealand |
 | 0.68 | 6 | 8.88 | United Arab Emirates |
 | 0.61 | 2 | 3.29 | Israel |
 | 0.58 | 1 | 1.73 | Estonia |
 | 0.54 | 6 | 11.03 | Netherlands |
-| 0.51 | 4 | 7.80 | Finland |
-| 0.51 | 1 | 1.98 | Greece |
-| 0.43 | 1 | 2.30 | Republic of Korea |
+| 0.51 | 4 | 7.81 | Finland |
+| 0.50 | 1 | 1.98 | Greece |
+| 0.43 | 1 | 2.31 | Republic of Korea |
 | 0.43 | 8 | 18.54 | Canada |
 | 0.41 | 3 | 7.35 | Ukraine |
-| 0.36 | 6 | 16.75 | Belgium |
+| 0.36 | 6 | 16.76 | Belgium |
 | 0.36 | 3 | 8.42 | Russia |
 | 0.33 | 1 | 3.07 | Romania |
 | 0.31 | 2 | 6.37 | India |
 | 0.31 | 2 | 6.46 | Multiple Countries (World) |
 | 0.30 | 2 | 6.69 | Multiple Countries (Europe) |
-| 0.28 | 3 | 10.79 | Singapore |
+| 0.28 | 3 | 10.80 | Singapore |
 | 0.24 | 1 | 4.18 | Jordan |
-| 0.18 | 3 | 16.37 | Czech Republic |
+| 0.18 | 3 | 16.38 | Czech Republic |
 | 0.18 | 2 | 11.00 | South Africa |
 | 0.17 | 2 | 11.79 | Philippines |
 

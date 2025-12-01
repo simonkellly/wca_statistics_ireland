@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 4.43 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 4.46 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 4.52 | [Jakub Budzynski](https://www.worldcubeassociation.org/persons/2022BUDZ03) |
-| 4.56 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
+| 4.52 | [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) |
 
 ### 4x4x4 Cube
 

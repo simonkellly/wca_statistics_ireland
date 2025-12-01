@@ -1,24 +1,24 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | 4th places | Person |
 | ---: | :--- |
 | 67 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 52 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 46 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
-| 33 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
+| 34 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
+| 31 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 30 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
-| 29 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
+| 29 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 27 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
-| 27 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
-| 22 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 23 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 22 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 20 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 19 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
-| 18 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
-| 18 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
+| 19 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
+| 19 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 15 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 15 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 14 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |

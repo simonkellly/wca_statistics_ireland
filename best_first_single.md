@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### Rubik's Cube
@@ -190,6 +190,7 @@
 | ---: | :--- |
 | 5.30 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 5.83 | [Ted Bloxam](https://www.worldcubeassociation.org/persons/2019BLOX01) |
+| 6.10 | [Ricí O'Connell](https://www.worldcubeassociation.org/persons/2024OCON01) |
 | 6.40 | [Oisín Moore](https://www.worldcubeassociation.org/persons/2023MOOR01) |
 | 6.45 | [Ollie Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN07) |
 | 6.55 | [Sebastian Moore](https://www.worldcubeassociation.org/persons/2023MOOR03) |
@@ -197,7 +198,6 @@
 | 6.62 | [Peter Illes](https://www.worldcubeassociation.org/persons/2022ILLE02) |
 | 6.67 | [Joshua O'Neill](https://www.worldcubeassociation.org/persons/2024ONEI01) |
 | 6.91 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
-| 6.96 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 
 ### Square-1
 

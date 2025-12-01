@@ -1,18 +1,18 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | 8.19 | 70 | Ireland |
-| [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 8.08 | 158 | Ireland |
+| [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 8.08 | 159 | Ireland |
 | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 7.96 | 70 | Ireland |
 | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 7.93 | 58 | Ireland |
 | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | 7.75 | 53 | Ireland |
 | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) | 7.52 | 56 | Ireland |
 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 7.42 | 161 | Ireland |
-| [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) | 7.38 | 92 | Ireland |
+| [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) | 7.38 | 93 | Ireland |
 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | 7.21 | 80 | Ireland |
 | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 7.01 | 75 | Ireland |
 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | 6.78 | 95 | Ireland |
@@ -28,6 +28,7 @@
 | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 6.10 | 73 | Ireland |
 | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) | 6.00 | 66 | Ireland |
 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | 5.98 | 162 | Ireland |
+| [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) | 5.92 | 84 | Ireland |
 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) | 5.89 | 83 | Ireland |
 | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024) | 5.86 | 51 | Ireland |
 | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 5.86 | 58 | Ireland |
@@ -60,7 +61,7 @@
 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) | 5.08 | 76 | Ireland |
 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | 5.05 | 122 | Ireland |
 | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) | 5.04 | 112 | Ireland |
-| [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 5.04 | 105 | Ireland |
+| [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 5.04 | 106 | Ireland |
 | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | 4.91 | 70 | Ireland |
 | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) | 4.88 | 43 | Ireland |
 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) | 4.86 | 22 | Ireland |

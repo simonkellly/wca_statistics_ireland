@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -197,6 +197,7 @@
 | 1 | [Little Village Open 2022](https://www.worldcubeassociation.org/competitions/LittleVillageOpen2022) |
 | 1 | [Liverpool Winter 2023](https://www.worldcubeassociation.org/competitions/LiverpoolWinter2023) |
 | 1 | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |
+| 1 | [Louisiana Championship 2024](https://www.worldcubeassociation.org/competitions/LouisianaChampionship2024) |
 | 1 | [Lužice Winter 2024](https://www.worldcubeassociation.org/competitions/LuziceWinter2024) |
 | 1 | [Macclesfield Open 2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016) |
 | 1 | [Madrid Open Rubik 2010](https://www.worldcubeassociation.org/competitions/MadridOpenRubik2010) |
@@ -303,10 +304,12 @@
 | 1 | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024) |
 | 1 | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) |
 | 1 | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) |
+| 1 | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023) |
 | 1 | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
 | 1 | [South Germany 2023](https://www.worldcubeassociation.org/competitions/SouthGermany2023) |
 | 1 | [South Germany 2025](https://www.worldcubeassociation.org/competitions/SouthGermany2025) |
 | 1 | [Sowega Solving 2023](https://www.worldcubeassociation.org/competitions/SowegaSolving2023) |
+| 1 | [Space City Summer 2023](https://www.worldcubeassociation.org/competitions/SpaceCitySummer2023) |
 | 1 | [Spark Melbourne July 2025](https://www.worldcubeassociation.org/competitions/SparkMelbourneJuly2025) |
 | 1 | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025) |
 | 1 | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022) |

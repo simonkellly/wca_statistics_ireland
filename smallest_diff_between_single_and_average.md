@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### Rubik's Cube
@@ -175,6 +175,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.08 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 2.63 | 2.71 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2021FINK02) |
 | 0.12 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.59 | 2.71 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2019CARE02) |
+| 0.12 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 2.73 | 2.85 | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2022MCGR02) |
 | 0.12 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 3.21 | 3.33 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023DOWL01) |
 | 0.14 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 2.72 | 2.86 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2021FINK02) |
 | 0.15 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | 8.27 | 8.42 | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022HOGA01) |
@@ -182,13 +183,13 @@
 | 0.16 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 5.75 | 5.91 | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024/results/by_person#2022MOLL03) |
 | 0.17 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.79 | 3.96 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2019BURK05) |
 | 0.18 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 5.06 | 5.24 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
-| 0.19 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 2.47 | 2.66 | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/by_person#2021BURK03) |
 
 ### Square-1
 
 | Diff | Person | Single | Average | results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.22 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 11.64 | 11.86 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2019NATS02) |
+| 0.35 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 11.23 | 11.58 | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2021FINK01) |
 | 0.52 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 12.27 | 12.79 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022MENA01) |
 | 0.54 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 10.47 | 11.01 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2022MENA01) |
 | 0.54 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 13.06 | 13.60 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2019NATS02) |
@@ -197,7 +198,6 @@
 | 0.65 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.50 | 10.15 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019BURK05) |
 | 0.68 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9.20 | 9.88 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2019BURK05) |
 | 0.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 18.91 | 19.62 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016/results/by_person#2012BEAH01) |
-| 0.72 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 9.29 | 10.01 | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023/results/by_person#2017MADD04) |
 
 ### 4x4x4 Blindfolded
 
