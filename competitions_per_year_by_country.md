@@ -1,45 +1,45 @@
 ## Competitions per year by country
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 8.97 | 147 | 16.40 | United Kingdom |
-| 7.64 | 77 | 10.07 | United States |
-| 6.16 | 85 | 13.81 | Ireland |
+| 8.96 | 147 | 16.40 | United Kingdom |
+| 7.64 | 77 | 10.08 | United States |
+| 6.15 | 85 | 13.81 | Ireland |
 | 3.53 | 11 | 3.12 | Austria |
-| 2.97 | 8 | 2.69 | Slovakia |
-| 2.97 | 20 | 6.74 | Australia |
+| 3.12 | 21 | 6.74 | Australia |
+| 2.97 | 8 | 2.70 | Slovakia |
 | 2.65 | 44 | 16.61 | Germany |
-| 1.86 | 5 | 2.69 | Sweden |
+| 1.85 | 5 | 2.70 | Sweden |
 | 1.76 | 4 | 2.28 | Slovenia |
-| 1.69 | 3 | 1.77 | Portugal |
+| 1.69 | 3 | 1.78 | Portugal |
 | 1.65 | 10 | 6.07 | Poland |
-| 1.60 | 4 | 2.50 | Hungary |
+| 1.60 | 4 | 2.51 | Hungary |
+| 1.55 | 13 | 8.39 | France |
 | 1.44 | 2 | 1.39 | Brazil |
-| 1.43 | 12 | 8.39 | France |
 | 1.04 | 7 | 6.72 | Denmark |
-| 0.99 | 15 | 15.09 | Spain |
+| 0.99 | 15 | 15.10 | Spain |
 | 0.99 | 4 | 4.06 | Norway |
-| 0.96 | 1 | 1.05 | Hong Kong, China |
+| 0.95 | 1 | 1.05 | Hong Kong, China |
 | 0.86 | 5 | 5.80 | Switzerland |
 | 0.78 | 2 | 2.56 | Kenya |
 | 0.77 | 13 | 16.80 | Italy |
 | 0.73 | 1 | 1.37 | Bosnia and Herzegovina |
 | 0.70 | 3 | 4.31 | New Zealand |
-| 0.68 | 6 | 8.88 | United Arab Emirates |
+| 0.68 | 6 | 8.89 | United Arab Emirates |
 | 0.61 | 2 | 3.30 | Israel |
 | 0.58 | 1 | 1.74 | Estonia |
-| 0.54 | 6 | 11.03 | Netherlands |
+| 0.54 | 6 | 11.04 | Netherlands |
 | 0.51 | 4 | 7.81 | Finland |
 | 0.50 | 1 | 1.99 | Greece |
 | 0.43 | 1 | 2.31 | Republic of Korea |
-| 0.43 | 8 | 18.54 | Canada |
-| 0.41 | 3 | 7.35 | Ukraine |
+| 0.43 | 8 | 18.55 | Canada |
+| 0.41 | 3 | 7.36 | Ukraine |
 | 0.36 | 6 | 16.76 | Belgium |
-| 0.36 | 3 | 8.42 | Russia |
+| 0.36 | 3 | 8.43 | Russia |
 | 0.32 | 1 | 3.08 | Romania |
-| 0.31 | 2 | 6.37 | India |
+| 0.31 | 2 | 6.38 | India |
 | 0.31 | 2 | 6.47 | Multiple Countries (World) |
 | 0.30 | 2 | 6.70 | Multiple Countries (Europe) |
 | 0.28 | 3 | 10.80 | Singapore |

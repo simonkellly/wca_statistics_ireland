@@ -1,11 +1,11 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Person | Distance |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 169 057 km |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 169 580 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 72 610 km |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 54 509 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 46 717 km |
@@ -111,6 +111,7 @@
 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | 2 865 km |
 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | 2 864 km |
 | [Charlie Vaidie](https://www.worldcubeassociation.org/persons/2021VAID01) | 2 841 km |
+| [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) | 2 796 km |
 | [Sebastian Moore](https://www.worldcubeassociation.org/persons/2023MOOR03) | 2 783 km |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 2 772 km |
 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) | 2 628 km |
@@ -161,7 +162,6 @@
 | [Oliver Bacon](https://www.worldcubeassociation.org/persons/2019BACO02) | 1 504 km |
 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) | 1 466 km |
 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 1 446 km |
-| [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) | 1 432 km |
 | [Alex Kelly](https://www.worldcubeassociation.org/persons/2022KELL03) | 1 416 km |
 | [Zac Looney](https://www.worldcubeassociation.org/persons/2019LOON02) | 1 415 km |
 | [Cormac Coffey](https://www.worldcubeassociation.org/persons/2022COFF01) | 1 402 km |

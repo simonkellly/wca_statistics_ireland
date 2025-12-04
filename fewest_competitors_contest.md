@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -213,6 +213,7 @@
 | 1 | [Maritimes 2025](https://www.worldcubeassociation.org/competitions/Maritimes2025) |
 | 1 | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |
 | 1 | [Medvode Open 2025](https://www.worldcubeassociation.org/competitions/MedvodeOpen2025) |
+| 1 | [Melbourne Cube Days 2025](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2025) |
 | 1 | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) |
 | 1 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) |
 | 1 | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023) |
@@ -331,6 +332,7 @@
 | 1 | [Tapiola Winter Open 2018](https://www.worldcubeassociation.org/competitions/TapiolaWinterOpen2018) |
 | 1 | [That's Odd Trondheim 2022](https://www.worldcubeassociation.org/competitions/ThatsOddTrondheim2022) |
 | 1 | [Peponi House Twist & Turn 2023](https://www.worldcubeassociation.org/competitions/ThePeponiHouseTwistTurn2023) |
+| 1 | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025) |
 | 1 | [Tigery Open 2022](https://www.worldcubeassociation.org/competitions/TigeryOpen2022) |
 | 1 | [TN Speedsolving Winter 2024](https://www.worldcubeassociation.org/competitions/TNSpeedsolvingWinter2024) |
 | 1 | [Toronto Open Fall 2007](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2007) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 
 ### Rubik's Cube - Single
@@ -249,8 +249,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **9.59** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 10.44, DNF, 9.59, 12.09, 9.91 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **9.66** | Ireland | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025) | 9.66, 14.89, 11.99, 15.09, 13.73 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **10.04** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 11.93, 10.04, 15.69, 13.94, 15.03 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **10.22** | Ireland | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025) | 10.22, 12.19, 10.85, 13.65, 12.00 |
 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **10.60** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 14.20, 14.17, 14.08, 10.60, 15.62 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **10.93** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 14.83, 13.16, 12.92, 10.93, 13.79 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **11.05** | Ireland | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | 19.07, 17.12, 19.82, 11.05, 15.45 |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 
 ### Rubik's Cube
@@ -10,13 +10,13 @@
 | 5.62 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2022FURE01) |
 | 5.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 | 5.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2012BEAH01) |
+| 5.88 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025/results/by_person#2012BEAH01) |
 | 5.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
 | 6.05 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025/results/by_person#2022FURE01) |
 | 6.09 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025/results/by_person#2012BEAH01) |
 | 6.09 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2022FURE01) |
 | 6.10 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2022FURE01) |
 | 6.12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2012BEAH01) |
-| 6.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2012BEAH01) |
 
 ### 2x2x2 Cube
 

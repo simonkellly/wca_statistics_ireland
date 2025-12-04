@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. results where the main statistic is DNF are ignored.*
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 
 ### Rubik's Cube
@@ -193,11 +193,11 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4.21 | **6.96** | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/podiums#eskewb) | 3 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5.59 | **6.84** | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015/results/podiums#eskewb) | 1 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 4.55 | **6.36** | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022/results/podiums#eskewb) | 2 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3.73 | **6.18** | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025/results/podiums#eskewb) | 3 |
 | [Timothy Jefferson Ryan](https://www.worldcubeassociation.org/persons/2018RYAN04) | 4.21 | **6.09** | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/podiums#eskewb) | 3 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 5.13 | **5.94** | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022/results/podiums#eskewb) | 1 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 4.42 | **5.86** | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022/results/podiums#eskewb) | 2 |
 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) | 2.95 | **5.86** | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017/results/podiums#eskewb) | 2 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4.95 | **5.78** | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015/results/podiums#eskewb) | 2 |
 
 ### Square-1
 
