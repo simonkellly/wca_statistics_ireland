@@ -6,45 +6,45 @@
 | ---: | ---: | ---: | :--- |
 | 8.96 | 147 | 16.40 | United Kingdom |
 | 7.64 | 77 | 10.08 | United States |
-| 6.15 | 85 | 13.81 | Ireland |
-| 3.53 | 11 | 3.12 | Austria |
-| 3.12 | 21 | 6.74 | Australia |
-| 2.97 | 8 | 2.70 | Slovakia |
+| 6.15 | 85 | 13.82 | Ireland |
+| 3.52 | 11 | 3.12 | Austria |
+| 3.11 | 21 | 6.74 | Australia |
+| 2.96 | 8 | 2.70 | Slovakia |
 | 2.65 | 44 | 16.61 | Germany |
 | 1.85 | 5 | 2.70 | Sweden |
-| 1.76 | 4 | 2.28 | Slovenia |
+| 1.75 | 4 | 2.28 | Slovenia |
 | 1.69 | 3 | 1.78 | Portugal |
 | 1.65 | 10 | 6.07 | Poland |
 | 1.60 | 4 | 2.51 | Hungary |
-| 1.55 | 13 | 8.39 | France |
-| 1.44 | 2 | 1.39 | Brazil |
-| 1.04 | 7 | 6.72 | Denmark |
+| 1.55 | 13 | 8.40 | France |
+| 1.43 | 2 | 1.40 | Brazil |
+| 1.04 | 7 | 6.73 | Denmark |
 | 0.99 | 15 | 15.10 | Spain |
-| 0.99 | 4 | 4.06 | Norway |
+| 0.98 | 4 | 4.06 | Norway |
 | 0.95 | 1 | 1.05 | Hong Kong, China |
 | 0.86 | 5 | 5.80 | Switzerland |
-| 0.78 | 2 | 2.56 | Kenya |
+| 0.78 | 2 | 2.57 | Kenya |
 | 0.77 | 13 | 16.80 | Italy |
-| 0.73 | 1 | 1.37 | Bosnia and Herzegovina |
+| 0.73 | 1 | 1.38 | Bosnia and Herzegovina |
 | 0.70 | 3 | 4.31 | New Zealand |
-| 0.68 | 6 | 8.89 | United Arab Emirates |
+| 0.67 | 6 | 8.89 | United Arab Emirates |
 | 0.61 | 2 | 3.30 | Israel |
-| 0.58 | 1 | 1.74 | Estonia |
+| 0.57 | 1 | 1.74 | Estonia |
 | 0.54 | 6 | 11.04 | Netherlands |
-| 0.51 | 4 | 7.81 | Finland |
+| 0.51 | 4 | 7.82 | Finland |
 | 0.50 | 1 | 1.99 | Greece |
-| 0.43 | 1 | 2.31 | Republic of Korea |
+| 0.43 | 1 | 2.32 | Republic of Korea |
 | 0.43 | 8 | 18.55 | Canada |
 | 0.41 | 3 | 7.36 | Ukraine |
-| 0.36 | 6 | 16.76 | Belgium |
+| 0.36 | 6 | 16.77 | Belgium |
 | 0.36 | 3 | 8.43 | Russia |
 | 0.32 | 1 | 3.08 | Romania |
 | 0.31 | 2 | 6.38 | India |
-| 0.31 | 2 | 6.47 | Multiple Countries (World) |
+| 0.31 | 2 | 6.48 | Multiple Countries (World) |
 | 0.30 | 2 | 6.70 | Multiple Countries (Europe) |
-| 0.28 | 3 | 10.80 | Singapore |
+| 0.28 | 3 | 10.81 | Singapore |
 | 0.24 | 1 | 4.19 | Jordan |
-| 0.18 | 3 | 16.38 | Czech Republic |
+| 0.18 | 3 | 16.39 | Czech Republic |
 | 0.18 | 2 | 11.01 | South Africa |
 | 0.17 | 2 | 11.80 | Philippines |
 
