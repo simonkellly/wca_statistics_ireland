@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 
 ### Competition
@@ -32,7 +32,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **9245** | 9455 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **9285** | 9495 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **5110** | 5431 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **3844** | 4236 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **3770** | 3970 |
@@ -58,7 +58,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Ireland | **225628** | 236453 |
-| United Kingdom | **19980** | 20915 |
+| United Kingdom | **20020** | 20955 |
 | United States | **2981** | 3133 |
 | Spain | **2240** | 2314 |
 | Germany | **1836** | 1904 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **254695** | 266834 |
+| Europe | **254735** | 266874 |
 | North America | **3179** | 3339 |
 | Oceania | **686** | 740 |
 | Asia | **380** | 392 |
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2025 | **73334** | 76749 |
+| 2025 | **73374** | 76789 |
 | 2024 | **69534** | 73177 |
 | 2023 | **61984** | 64810 |
 | 2022 | **27322** | 28582 |
@@ -123,12 +123,12 @@
 | Skewb | **27445** | 28125 |
 | 4x4x4 Cube | **22075** | 22776 |
 | 3x3x3 One-Handed | **14563** | 15168 |
-| 5x5x5 Cube | **13217** | 13682 |
+| 5x5x5 Cube | **13232** | 13697 |
 | Clock | **12752** | 14785 |
-| Megaminx | **9559** | 10036 |
+| Megaminx | **9569** | 10046 |
 | Square-1 | **7610** | 8040 |
-| 6x6x6 Cube | **3127** | 3239 |
-| 7x7x7 Cube | **2224** | 2349 |
+| 6x6x6 Cube | **3136** | 3248 |
+| 7x7x7 Cube | **2230** | 2355 |
 | 3x3x3 Blindfolded | **1140** | 3447 |
 | 3x3x3 Fewest Moves | **501** | 787 |
 | 3x3x3 Multi-Blind | **242** | 381 |

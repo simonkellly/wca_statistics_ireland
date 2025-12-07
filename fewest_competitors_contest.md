@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -203,6 +203,7 @@
 | 1 | [Madrid Open Rubik 2010](https://www.worldcubeassociation.org/competitions/MadridOpenRubik2010) |
 | 1 | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024) |
 | 1 | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024) |
+| 1 | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025) |
 | 1 | [Manchester August 2024](https://www.worldcubeassociation.org/competitions/ManchesterAugust2024) |
 | 1 | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025) |
 | 1 | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024) |

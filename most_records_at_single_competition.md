@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 
 ### World
@@ -280,6 +280,7 @@
 | 0 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2017TIMM01) |
 | 0 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2019BURK05) |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2018MCCA02) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025/results/by_person#2012BEAH01) |
 
 ### Continental
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 
 ### Rubik's Cube
@@ -36,19 +36,18 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:13.06 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:11.15, 1:15.10, 1:17.42, 1:10.87, 1:12.92 |
+| 1:11.78 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:14.55, 1:16.60, 1:10.68, 1:10.11, 1:08.23 |
 
 ### 7x7x7 Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:49.46 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:47.55, 1:50.67, 1:59.64, 1:47.86, 1:49.84 |
+| 1:49.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:47.21, 1:51.63, 1:52.60, 1:42.08, 1:48.64 |
 
 ### 3x3x3 Blindfolded
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 26.80 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 26.30, 28.06, DNF, 26.04, 25.56 |
 | 1:35.66 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1:44.78, 2:01.99, 1:00.20, DNF, 53.19 |
 
 ### 3x3x3 Fewest Moves
