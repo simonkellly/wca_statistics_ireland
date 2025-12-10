@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -38,8 +38,8 @@
 | 6 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 6 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 6 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
+| 6 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 6 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
-| 5 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 5 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 5 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 5 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |

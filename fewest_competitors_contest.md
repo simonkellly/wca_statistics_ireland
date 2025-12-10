@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -82,6 +82,7 @@
 | 1 | [Sagrado Corazón Open 2023](https://www.worldcubeassociation.org/competitions/ColegioSagradoCorazondeJesus2023) |
 | 1 | [Connecticut Spring 2023](https://www.worldcubeassociation.org/competitions/ConnecticutSpring2023) |
 | 1 | [Coosa Cubing Clash 2024](https://www.worldcubeassociation.org/competitions/CoosaCubingClash2024) |
+| 1 | [Coosa Cubing Clash 2025](https://www.worldcubeassociation.org/competitions/CoosaCubingClash2025) |
 | 1 | [Coping in Auckland 2025](https://www.worldcubeassociation.org/competitions/CopinginAuckland2025) |
 | 1 | [Corby Autumn 2025](https://www.worldcubeassociation.org/competitions/CorbyAutumn2025) |
 | 1 | [Croatian Championship 2025](https://www.worldcubeassociation.org/competitions/CroatianChampionship2025) |

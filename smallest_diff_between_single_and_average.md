@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 
 ### Rubik's Cube
@@ -163,11 +163,11 @@
 | 0.10 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 8.69 | 8.79 | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/by_person#2022ANDZ01) |
 | 0.11 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 2.98 | 3.09 | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
 | 0.11 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 4.09 | 4.20 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2019CARE02) |
+| 0.12 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 7.04 | 7.16 | [Coosa Cubing Clash 2025](https://www.worldcubeassociation.org/competitions/CoosaCubingClash2025/results/by_person#2023MANG02) |
 | 0.13 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 6.75 | 6.88 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2023DOWL01) |
 | 0.13 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 7.76 | 7.89 | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/by_person#2017TIMM01) |
 | 0.17 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.61 | 3.78 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2022CORR06) |
 | 0.18 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 11.22 | 11.40 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021FINK01) |
-| 0.18 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | 13.94 | 14.12 | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/by_person#2024MART15) |
 
 ### Skewb
 
