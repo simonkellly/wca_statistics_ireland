@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 
 ### Rubik's Cube
@@ -23,7 +23,6 @@
 | ---: | :--- | :--- |
 | 23.05 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.39, 29.33, 18.90, 23.67, 22.98, 21.71, 25.93, 23.62, 21.66, 21.95, 25.37, 22.70, 23.41, 27.00, 25.16, 21.80, 21.53, 22.30, 22.04, 20.92, 25.37, 24.36, 22.24, 21.82, 20.95 |
 | 26.31 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 22.27, 23.34, 27.01, 28.45, 30.32, 29.44, 23.72, 29.91, 26.44, 23.47, 28.73, 27.57, 24.41, 26.66, 22.94, 25.28, 47.89, 25.90, 29.05, 27.53, 27.19, 24.55, 22.76, 26.68, 24.16 |
-| 28.84 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 25.43, 29.68, 31.54, 30.41, 26.63, 22.90, 29.85, 34.98, 25.33, 32.28, 29.10, 26.53, 27.75, 27.50, 28.96, 29.83, 30.58, 28.23, 37.63, 28.47, 32.78, 28.00, 24.52, 30.58, 26.14 |
 
 ### 5x5x5 Cube
 

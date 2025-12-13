@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -399,6 +399,7 @@
 | 2 | [Guildford Open 2017](https://www.worldcubeassociation.org/competitions/GuildfordOpen2017) |
 | 2 | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020) |
 | 2 | [Harrow Autumn 2023](https://www.worldcubeassociation.org/competitions/HarrowAutumn2023) |
+| 2 | [Italian Championship 2025](https://www.worldcubeassociation.org/competitions/ItalianChampionship2025) |
 | 2 | [Kent Autumn 2023](https://www.worldcubeassociation.org/competitions/KentAutumn2023) |
 | 2 | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) |
 | 2 | [Kirkkonummi Time Trial 2023](https://www.worldcubeassociation.org/competitions/KirkkonummiTimeTrial2023) |
@@ -414,6 +415,7 @@
 | 2 | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018) |
 | 2 | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022) |
 | 2 | [SEK-Alborán Almerimar Open 2025](https://www.worldcubeassociation.org/competitions/SEKAlboranAlmerimarOpen2025) |
+| 2 | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) |
 | 2 | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) |
 | 2 | [Sunmarke Open 2018](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2018) |
 | 2 | [Swisscubing Cup I 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2023) |
