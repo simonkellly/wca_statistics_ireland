@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 
 ### World
@@ -281,6 +281,10 @@
 | 0 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2019BURK05) |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2018MCCA02) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025/results/by_person#2012BEAH01) |
+| 0 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022FURE01) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022CORR06) |
+| 0 | [Said Shytaj](https://www.worldcubeassociation.org/persons/2023SHYT01) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2023SHYT01) |
+| 0 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2019CARE02) |
 
 ### Continental
 

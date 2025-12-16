@@ -1,15 +1,15 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 
 ### Rubik's Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 6.59 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 7.20, 8.12, 5.81, 5.97, 10.13, 6.92, 6.82, 6.12, 5.41, 6.67, 5.91, 6.32 |
 | 6.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.62, 6.81, 6.67, 6.36, 8.02, 5.77, 6.88, 6.47, 6.44, 7.46, 6.87, 6.40 |
-| 6.75 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 8.76, 7.06, 5.95, 5.93, 6.79, 6.36, 7.25, 6.78, 7.55, 6.49, 6.62, 6.64 |
 
 ### 2x2x2 Cube
 
@@ -22,7 +22,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 22.76 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 27.00, 25.16, 21.80, 21.53, 22.30, 22.04, 20.92, 25.37, 24.36, 22.24, 21.82, 20.95 |
-| 25.99 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 26.66, 22.94, 25.28, 47.89, 25.90, 29.05, 27.53, 27.19, 24.55, 22.76, 26.68, 24.16 |
+| 25.92 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 27.19, 24.55, 22.76, 26.68, 24.16, 27.07, 28.88, 27.36, 26.57, 24.49, 25.72, 25.41 |
 
 ### 5x5x5 Cube
 
@@ -62,7 +62,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 3.40 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 4.33, 3.41, 4.62, 3.40, 3.16, 2.98, 2.67, DNF, 3.38, 2.87, 2.70, 3.11 |
+| 3.33 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 4.02, 3.80, 3.44, 4.16, 3.02, DNF, 2.80, 2.55, 3.23, 3.38, 2.75, 2.67 |
 | 4.00 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3.53, 3.47, 4.18, 4.32, 4.25, 4.47, DNF, 3.57, 3.71, 3.95, 4.59, 3.36 |
 
 ### Skewb

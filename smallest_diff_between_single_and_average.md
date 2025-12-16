@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | 0.11 | [Ethan Moloney-Illien](https://www.worldcubeassociation.org/persons/2019MOLO02) | 17.21 | 17.32 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2019MOLO02) |
 | 0.12 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 10.44 | 10.56 | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2022MENA01) |
 | 0.13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.57 | 6.70 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2012BEAH01) |
+| 0.13 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 10.46 | 10.59 | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2019CARE02) |
 | 0.14 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 10.17 | 10.31 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/by_person#2022GREE14) |
-| 0.15 | [Rory Power Breen](https://www.worldcubeassociation.org/persons/2022BREE02) | 15.26 | 15.41 | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023/results/by_person#2022BREE02) |
 
 ### 2x2x2 Cube
 
@@ -178,11 +178,11 @@
 | 0.12 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 2.73 | 2.85 | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2022MCGR02) |
 | 0.12 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 3.21 | 3.33 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023DOWL01) |
 | 0.14 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 2.72 | 2.86 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2021FINK02) |
+| 0.15 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.24 | 2.39 | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2019CARE02) |
 | 0.15 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | 8.27 | 8.42 | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022HOGA01) |
 | 0.16 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 3.63 | 3.79 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2022MCGR02) |
 | 0.16 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 5.75 | 5.91 | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024/results/by_person#2022MOLL03) |
 | 0.17 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.79 | 3.96 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2019BURK05) |
-| 0.18 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 5.06 | 5.24 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
 
 ### Square-1
 

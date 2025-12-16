@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -194,6 +194,7 @@
 | 1 | [LETI Open 2017](https://www.worldcubeassociation.org/competitions/LETIOpen2017) |
 | 1 | [Let's Even the Odds Alabama 2022](https://www.worldcubeassociation.org/competitions/LetsEventheOddsAlabama2022) |
 | 1 | [Lincolnshire Summer 2023](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2023) |
+| 1 | [Linz Nikolaus Day 2025](https://www.worldcubeassociation.org/competitions/LinzNikolausDay2025) |
 | 1 | [Lipovljani Newcomer Day 2025](https://www.worldcubeassociation.org/competitions/LipovljaniNewcomerDay2025) |
 | 1 | [Little Village Open 2022](https://www.worldcubeassociation.org/competitions/LittleVillageOpen2022) |
 | 1 | [Liverpool Winter 2023](https://www.worldcubeassociation.org/competitions/LiverpoolWinter2023) |
@@ -241,6 +242,7 @@
 | 1 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023) |
 | 1 | [NexCube Italian Open 2023](https://www.worldcubeassociation.org/competitions/NexCubeItalianOpen2023) |
 | 1 | [NÖ Cube Day 2023](https://www.worldcubeassociation.org/competitions/NOCubeDay2023) |
+| 1 | [Noida Winter Cube Open 2025](https://www.worldcubeassociation.org/competitions/NoidaWinterCubeOpen2025) |
 | 1 | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019) |
 | 1 | [North Jersey Speedsolving A 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingA2023) |
 | 1 | [Northside Spring Saturday 2022](https://www.worldcubeassociation.org/competitions/NorthsideSpringSaturday2022) |
