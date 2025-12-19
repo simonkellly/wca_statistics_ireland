@@ -1,42 +1,42 @@
 ## Competitions per year by country
 
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.00 | 148 | 16.44 | United Kingdom |
-| 7.71 | 78 | 10.11 | United States |
+| 7.71 | 78 | 10.12 | United States |
 | 6.21 | 86 | 13.85 | Ireland |
 | 3.80 | 12 | 3.16 | Austria |
 | 3.10 | 21 | 6.78 | Australia |
 | 2.92 | 8 | 2.74 | Slovakia |
 | 2.64 | 44 | 16.65 | Germany |
 | 1.83 | 5 | 2.74 | Sweden |
-| 1.73 | 4 | 2.32 | Slovenia |
+| 1.72 | 4 | 2.32 | Slovenia |
 | 1.65 | 3 | 1.82 | Portugal |
 | 1.64 | 10 | 6.11 | Poland |
-| 1.57 | 4 | 2.54 | Hungary |
-| 1.54 | 13 | 8.43 | France |
-| 1.40 | 2 | 1.43 | Brazil |
-| 1.06 | 16 | 15.13 | Spain |
-| 1.04 | 7 | 6.76 | Denmark |
+| 1.57 | 4 | 2.55 | Hungary |
+| 1.54 | 13 | 8.44 | France |
+| 1.39 | 2 | 1.43 | Brazil |
+| 1.06 | 16 | 15.14 | Spain |
+| 1.03 | 7 | 6.77 | Denmark |
 | 0.98 | 4 | 4.10 | Norway |
 | 0.92 | 1 | 1.09 | Hong Kong, China |
 | 0.86 | 5 | 5.84 | Switzerland |
 | 0.83 | 14 | 16.84 | Italy |
 | 0.77 | 2 | 2.60 | Kenya |
-| 0.71 | 1 | 1.41 | Bosnia and Herzegovina |
+| 0.71 | 1 | 1.42 | Bosnia and Herzegovina |
 | 0.69 | 3 | 4.35 | New Zealand |
 | 0.67 | 6 | 8.93 | United Arab Emirates |
 | 0.60 | 2 | 3.34 | Israel |
 | 0.56 | 1 | 1.78 | Estonia |
-| 0.54 | 6 | 11.07 | Netherlands |
+| 0.54 | 6 | 11.08 | Netherlands |
 | 0.51 | 4 | 7.85 | Finland |
 | 0.49 | 1 | 2.03 | Greece |
-| 0.47 | 3 | 6.41 | India |
-| 0.43 | 8 | 18.58 | Canada |
-| 0.43 | 1 | 2.35 | Republic of Korea |
-| 0.41 | 3 | 7.39 | Ukraine |
+| 0.47 | 3 | 6.42 | India |
+| 0.43 | 8 | 18.59 | Canada |
+| 0.42 | 1 | 2.35 | Republic of Korea |
+| 0.41 | 3 | 7.40 | Ukraine |
 | 0.36 | 6 | 16.80 | Belgium |
 | 0.35 | 3 | 8.47 | Russia |
 | 0.32 | 1 | 3.12 | Romania |
