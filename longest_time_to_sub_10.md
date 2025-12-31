@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 28 December 2025*
+*Updated on 31 December 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -42,7 +42,7 @@
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1.24 |
 | [Reuben Kiernan](https://www.worldcubeassociation.org/persons/2024KIER01) | 1.11 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.07 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.00 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.00 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 0.99 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 0.94 |
 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 0.90 |

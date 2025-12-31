@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 December 2025*
+*Updated on 31 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -193,6 +193,7 @@
 | 1 | [Les Santes Open 2014](https://www.worldcubeassociation.org/competitions/LesSantesOpen2014) |
 | 1 | [LETI Open 2017](https://www.worldcubeassociation.org/competitions/LETIOpen2017) |
 | 1 | [Let's Even the Odds Alabama 2022](https://www.worldcubeassociation.org/competitions/LetsEventheOddsAlabama2022) |
+| 1 | [Lexington Winter 2025](https://www.worldcubeassociation.org/competitions/LexingtonWinter2025) |
 | 1 | [Lincolnshire Summer 2023](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2023) |
 | 1 | [Linz Nikolaus Day 2025](https://www.worldcubeassociation.org/competitions/LinzNikolausDay2025) |
 | 1 | [Lipovljani Newcomer Day 2025](https://www.worldcubeassociation.org/competitions/LipovljaniNewcomerDay2025) |

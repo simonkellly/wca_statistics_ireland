@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 December 2025*
+*Updated on 31 December 2025*
 
 
 ### Rubik's Cube
@@ -58,7 +58,7 @@
 | 1:19.21 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:22.49 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
 | 1:26.37 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
-| 1:32.29 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 1:32.29 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 1:33.97 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 1:34.40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 1:38.46 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
@@ -74,7 +74,7 @@
 | 2:35.26 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 2:38.66 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 2:44.77 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
-| 2:56.02 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 2:56.02 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 3:00.01 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 3:05.05 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 3:06.06 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
@@ -88,7 +88,7 @@
 | 4:10.17 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 4:27.34 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 4:34.52 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
-| 4:36.17 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 4:36.17 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 4:58.92 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 5:01.89 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
 | 5:07.88 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
@@ -131,7 +131,7 @@
 | ---: | :--- |
 | 1:00.28 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 1:01.65 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
-| 1:10.00 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 1:10.00 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 1:18.31 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:20.28 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 1:21.78 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |

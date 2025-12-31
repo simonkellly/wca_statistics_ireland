@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 December 2025*
+*Updated on 31 December 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -33,7 +33,7 @@
 | 176 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 175 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 165 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 163 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 163 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 161 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
 | 159 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
 | 158 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
@@ -42,9 +42,9 @@
 | 147 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 144 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 139 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
+| 137 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 134 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 133 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
-| 133 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 131 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 128 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 121 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |

@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 December 2025*
+*Updated on 31 December 2025*
 
 
 ### Rubik's Cube
@@ -47,7 +47,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 29.72 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.87, 31.67, 28.62, 29.77, DNF, 32.78, 35.26, 28.16, 31.81, 29.88, 28.00, 31.21, 28.86, 28.24, 31.28, 27.15, 28.96, 30.41, 30.01, 32.42, 29.40, 28.75, 27.62, 26.55, 27.50 |
+| 29.72 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.87, 31.67, 28.62, 29.77, DNF, 32.78, 35.26, 28.16, 31.81, 29.88, 28.00, 31.21, 28.86, 28.24, 31.28, 27.15, 28.96, 30.41, 30.01, 32.42, 29.40, 28.75, 27.62, 26.55, 27.50 |
 | 32.20 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.93, 30.68, 30.59, 33.99, 30.59, 30.97, 30.41, 31.52, 32.49, 32.03, 31.09, 32.56, 34.18, 43.85, 32.13, 33.43, 39.81, 30.98, 35.39, 39.58, 30.48, 27.66, 31.27, 30.20, 30.90 |
 | 38.49 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 40.50, 40.19, 38.48, 37.05, 35.52, 42.69, 38.81, 35.98, 45.55, 46.30, 38.33, 38.92, 37.31, 39.16, 36.86, 39.19, 42.48, 37.20, 38.29, 33.37, 36.29, 36.45, 38.47, 40.12, 32.68 |
 | 38.88 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 58.53, 35.54, 44.86, 43.96, 44.81, 42.25, 42.84, 36.78, 47.21, 36.58, 37.57, 39.48, 41.89, 36.26, 33.14, 33.09, 39.56, 35.16, 34.82, 42.43, 36.48, 36.63, 36.48, 36.29, 35.87 |
@@ -63,7 +63,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 2.99 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 3.23, DNF, 3.42, 2.79, 3.07, 3.50, 5.63, 3.11, 2.46, 3.21, 3.31, 2.72, 3.03, 3.71, 3.33, 2.01, 2.04, 3.30, 2.59, 2.79, 2.51, 2.23, 2.89, 2.89, 2.80 |
+| 2.98 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.01, 2.04, 3.30, 2.59, 2.79, 2.51, 2.23, 2.89, 2.89, 2.80, 4.25, 4.61, 3.58, 2.55, 2.33, 3.80, 4.31, 2.60, 6.03, 1.91, 3.92, 2.69, 3.09, 3.23, 2.11 |
 | 3.11 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 2.71, 1.84, 3.98, 2.50, 2.35, 2.82, 2.50, 3.57, 2.15, 5.21, 3.56, 2.15, 2.93, 2.18, 4.51, 6.72, 3.45, 3.56, 2.87, 4.87, 4.57, 2.98, 2.98, 2.13, 2.13 |
 
 

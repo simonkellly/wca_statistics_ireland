@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 December 2025*
+*Updated on 31 December 2025*
 
 
 ### Rubik's Cube - Single
@@ -16,7 +16,7 @@
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **5.91** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 7.43, 7.56, 7.26, 8.16, 5.91 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **5.97** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 12.17, 10.04, 9.15, 7.20, 5.97 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **5.98** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 8.27, 7.62, 9.36, 8.62, 5.98 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **6.40** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 6.40, 8.19, 9.14, 7.48, 10.59 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **6.40** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 6.40, 8.19, 9.14, 7.48, 10.59 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **6.41** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 10.75, 10.39, DNF, 6.41, 9.41 |
 
 ### Rubik's Cube - Average
@@ -29,7 +29,7 @@
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **7.13** | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 7.17, 6.65, 7.43, 6.89, 7.34 |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | **7.42** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 6.96, 7.35, 10.43, 6.70, 7.96 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **7.42** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 7.43, 7.56, 7.26, 8.16, 5.91 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **7.58** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 6.81, 9.81, 7.91, 7.32, 7.52 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **7.58** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 6.81, 9.81, 7.91, 7.32, 7.52 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **7.67** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 7.22, 7.33, 8.47, 6.90, 9.05 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **8.00** | Ireland | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) | 7.71, 9.81, 8.25, 8.05, 7.36 |
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **8.04** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 8.50, 7.96, 7.33, 7.66, 8.89 |
@@ -42,12 +42,12 @@
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **0.82** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 1.99, 0.82, 1.59, 1.44, 2.18 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **0.85** | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 2.91, 1.88, 2.69, 0.85, 1.73 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **0.88** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 1.18, 0.88, 3.53, DNF, 2.40 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **0.91** | Ireland | [Lexington Winter 2025](https://www.worldcubeassociation.org/competitions/LexingtonWinter2025) | 5.09, 2.07, 4.79, 3.12, 0.91 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **0.92** | Mongolia | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 2.32, 2.72, 3.76, 0.92, 3.28 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **0.98** | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 3.19, 4.44, 4.96, 0.98, 3.23 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **0.99** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 3.26, 2.65, 0.99, 4.24, 2.70 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1.04** | Ireland | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | 3.42, 1.04, 3.16, 3.67, 3.07 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1.06** | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 4.85, 2.52, 2.78, 1.06, 4.04 |
-| [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) | **1.13** | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | 1.13, 3.80, 3.54, 8.23, 4.27 |
 
 ### 2x2x2 Cube - Average
 
@@ -55,7 +55,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1.44** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 1.26, 1.31, 1.68, 4.06, 1.34 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1.62** | Ireland | [Coping in Auckland 2025](https://www.worldcubeassociation.org/competitions/CopinginAuckland2025) | 1.71, 1.48, 1.66, 4.30, 1.27 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1.73** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 2.16, 1.55, 1.65, 1.94, 1.59 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1.73** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 2.16, 1.55, 1.65, 1.94, 1.59 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **1.80** | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 2.35, 1.58, 1.48, 3.37, 1.40 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1.82** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 1.63, 3.59, 2.06, 1.65, 1.74 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **1.82** | Ireland | [Ruta Cubera: Aigües Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaAiguesOpen2025) | 1.70, 1.61, 2.01, 1.74, 3.53 |
@@ -70,7 +70,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **18.90** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 18.90, 23.67, 22.98, 21.71, 25.93 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **22.27** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 23.14, 26.17, 34.01, 22.27, 23.34 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **22.90** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 22.90, 29.85, 34.98, 25.33, 32.28 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **22.90** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 22.90, 29.85, 34.98, 25.33, 32.28 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **24.34** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 28.01, 24.34, 35.32, 37.11, 36.98 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **26.01** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 30.97, 31.38, 26.01, 32.11, 30.06 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **27.19** | Ukraine | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 31.15, 31.90, 45.19, 27.19, 34.59 |
@@ -85,7 +85,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **22.69** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 26.30, 24.76, 21.14, 22.18, 20.90 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **24.22** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 23.14, 26.17, 34.01, 22.27, 23.34 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **28.07** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 29.10, 26.53, 27.75, 27.50, 28.96 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **28.07** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 29.10, 26.53, 27.75, 27.50, 28.96 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **28.42** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 27.97, 28.32, 33.23, 26.18, 28.96 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **28.75** | Ireland | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | 29.86, 28.47, 30.95, 27.92, 27.79 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **31.31** | Ukraine | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 28.00, 29.52, 32.63, 35.99, 31.77 |
@@ -100,7 +100,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **33.20** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 44.76, 48.56, 40.53, 41.85, 33.20 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **42.11** | Ireland | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) | 47.56, 42.11, 55.94, 56.49, 47.18 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **46.11** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 46.11, 58.03, 54.06, 52.14, 49.64 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **46.11** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 46.11, 58.03, 54.06, 52.14, 49.64 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **49.51** | Ireland | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025) | 50.00, 49.51, 53.83, 52.39, 51.50 |
 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | **50.48** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 1:06.50, 1:09.13, 1:15.13, 58.33, 50.48 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **53.56** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 56.36, 1:09.85, 1:03.66, 53.56, 1:00.17 |
@@ -115,7 +115,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **40.17** | Ireland | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025) | 41.31, 36.09, 41.09, 38.11, 46.12 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **45.22** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 45.85, 44.10, 57.63, 44.60, 45.21 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **49.78** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 49.12, 53.78, 52.40, 47.82, 46.87 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **49.78** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 49.12, 53.78, 52.40, 47.82, 46.87 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **51.30** | Ireland | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025) | 50.00, 49.51, 53.83, 52.39, 51.50 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **57.83** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:03.57, 59.98, 56.49, 57.01, 55.79 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **58.99** | Mongolia | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 57.67, 59.09, 1:12.29, 59.17, 58.72 |
@@ -129,7 +129,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:07.76** | Ireland | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025) | 1:20.11, 1:07.76, 1:18.57 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:29.97** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 1:42.44, 1:53.98, 1:29.97 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:29.97** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 1:42.44, 1:53.98, 1:29.97 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **1:31.28** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:46.61, 1:57.22, 1:31.28 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:33.39** | Ireland | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) | 1:37.83, 1:33.39, 1:44.48 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:43.49** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 1:59.60, 2:00.57, 1:43.49 |
@@ -146,7 +146,7 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:09.67** | Ireland | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025) | 1:10.68, 1:10.11, 1:08.23 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:37.92** | Ireland | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | 1:42.34, 1:33.51, 1:37.91 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **1:39.64** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 1:45.62, 1:38.37, 1:34.94 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:40.47** | Ireland | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) | 1:51.49, 1:31.00, 1:38.92 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:40.47** | Ireland | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) | 1:51.49, 1:31.00, 1:38.92 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **1:48.35** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 1:50.88, 1:48.98, 1:45.20 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **1:52.22** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:56.57, 1:47.62, 1:52.47 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:54.55** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 1:59.60, 2:00.57, 1:43.49 |
@@ -160,7 +160,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:42.08** | Ireland | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025) | 1:52.60, 1:42.08, 1:48.64 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2:21.89** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 2:22.24, 2:21.89, 2:35.13 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:30.43** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 2:30.43, 2:42.16, 2:37.90 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:30.43** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 2:30.43, 2:42.16, 2:37.90 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **2:35.28** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 2:35.28, 2:36.79, 2:50.22 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **2:41.52** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 3:02.82, 4:06.63, 2:41.52 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2:45.23** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 2:45.23, 3:27.46, DNF |
@@ -175,7 +175,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:47.77** | Ireland | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025) | 1:52.60, 1:42.08, 1:48.64 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2:26.42** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 2:22.24, 2:21.89, 2:35.13 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:36.83** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 2:30.43, 2:42.16, 2:37.90 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:36.83** | Ireland | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) | 2:30.43, 2:42.16, 2:37.90 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **2:40.76** | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 2:35.28, 2:36.79, 2:50.22 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **2:52.20** | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) | 2:50.66, 2:58.17, 2:47.77 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **2:57.77** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 2:52.96, 3:03.14, 2:57.20 |
@@ -251,7 +251,7 @@
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **9.59** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 10.44, DNF, 9.59, 12.09, 9.91 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **9.66** | Ireland | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025) | 9.66, 14.89, 11.99, 15.09, 13.73 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **10.04** | Ireland | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) | 11.93, 10.04, 15.69, 13.94, 15.03 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **10.30** | Ireland | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025) | 10.59, 12.87, 18.61, 12.14, 10.30 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **10.30** | Ireland | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025) | 10.59, 12.87, 18.61, 12.14, 10.30 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **10.93** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 14.83, 13.16, 12.92, 10.93, 13.79 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **11.05** | Ireland | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | 19.07, 17.12, 19.82, 11.05, 15.45 |
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **11.13** | Ukraine | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 14.83, 11.13, 16.65, 15.96, 14.72 |
@@ -265,7 +265,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **10.81** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 10.44, DNF, 9.59, 12.09, 9.91 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **11.65** | Ireland | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025) | 12.07, 10.99, 10.97, 12.35, 11.90 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **11.80** | Ireland | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) | 10.79, 11.18, 15.87, 12.45, 11.78 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **11.80** | Ireland | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) | 10.79, 11.18, 15.87, 12.45, 11.78 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **12.35** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 12.18, 11.71, 13.07, 13.53, 11.81 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **12.98** | Ireland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 13.04, 12.09, 13.46, 13.70, 12.44 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **14.31** | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 16.29, 12.92, 17.14, 13.71, 12.79 |
@@ -278,7 +278,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **26.55** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 28.75, 27.62, 26.55, 27.50, 29.47 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **26.55** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 28.75, 27.62, 26.55, 27.50, 29.47 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **27.66** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 27.66, 31.27, 30.20, 30.90, 31.57 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **32.68** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 36.45, 38.47, 40.12, 32.68, 47.08 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **33.09** | Ireland | [Vienna Autumn 2025](https://www.worldcubeassociation.org/competitions/ViennaAutumn2025) | 33.09, 39.56, 35.16, 34.82, 42.43 |
@@ -293,7 +293,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **27.96** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 28.75, 27.62, 26.55, 27.50, 29.47 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **27.96** | Ireland | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 28.75, 27.62, 26.55, 27.50, 29.47 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **30.75** | Ireland | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 30.68, 30.59, 33.99, 30.59, 30.97 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **36.42** | Ireland | [Vienna Autumn 2025](https://www.worldcubeassociation.org/competitions/ViennaAutumn2025) | 36.48, 36.63, 36.48, 36.29, 35.87 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **37.05** | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 42.94, 34.26, 35.41, 40.79, 34.94 |
@@ -360,7 +360,7 @@
 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **4.15** | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | 3.23, 4.47, 3.66, 4.33, DNF |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **4.22** | Ireland | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) | 4.47, 5.38, 4.06, 4.12, 3.68 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **4.44** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 8.33, 4.77, 4.11, 4.45, 4.10 |
-| [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **4.56** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 4.93, 8.89, 4.25, 4.49, 3.83 |
+| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **4.56** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 4.93, 8.89, 4.25, 4.49, 3.83 |
 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | **4.57** | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 4.35, 5.15, 4.22, 3.75, 9.31 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4.68** | Ireland | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | 4.88, 4.07, 5.10, 3.99, 5.21 |
 
