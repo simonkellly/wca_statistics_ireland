@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -20,7 +20,7 @@
 | 19 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 19 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 16 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
-| 16 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 16 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 15 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 14 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 10 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |

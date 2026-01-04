@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -94,7 +94,7 @@
 | [Kalle Dunne](https://www.worldcubeassociation.org/persons/2025DUNN05) | 3 706 km |
 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | 3 643 km |
 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | 3 577 km |
-| [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | 3 555 km |
+| [Kenna Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | 3 555 km |
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 3 514 km |
 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | 3 513 km |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 3 492 km |
@@ -112,7 +112,7 @@
 | [Tykhon Pererva](https://www.worldcubeassociation.org/persons/2022PERE32) | 2 866 km |
 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | 2 864 km |
 | [Charlie Vaidie](https://www.worldcubeassociation.org/persons/2021VAID01) | 2 841 km |
-| [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 2 834 km |
+| [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 2 834 km |
 | [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) | 2 796 km |
 | [Sebastian Moore](https://www.worldcubeassociation.org/persons/2023MOOR03) | 2 783 km |
 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) | 2 690 km |

@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 | competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -82,7 +82,7 @@
 | 4 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 4 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | Ireland | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) |
 | 4 | [Efrain Tharian](https://www.worldcubeassociation.org/persons/2023THAR03) | Ireland | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025) | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025) |
-| 4 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) |  |
+| 4 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | Ireland | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) |  |
 | 4 | [Oisin West](https://www.worldcubeassociation.org/persons/2024WEST20) | Ireland | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) |
 | 4 | [Venice Chia Hang Yuie](https://www.worldcubeassociation.org/persons/2025YUIE01) | Ireland | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) |
 | 4 | [Jack Spillane](https://www.worldcubeassociation.org/persons/2025SPIL02) | Ireland | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025) |

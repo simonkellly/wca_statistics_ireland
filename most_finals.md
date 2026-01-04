@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -33,7 +33,7 @@
 | 176 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 175 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 165 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 163 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 163 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 161 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
 | 159 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
 | 158 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
@@ -70,7 +70,7 @@
 | 79 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
 | 77 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 73 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
-| 72 | [Ben Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) |
+| 72 | [Kenna Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) |
 | 72 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 72 | [Matthew Horan](https://www.worldcubeassociation.org/persons/2017HORA02) |
 | 72 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
