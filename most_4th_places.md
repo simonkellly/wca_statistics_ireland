@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -59,20 +59,21 @@
 | 3 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 3 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 3 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 3 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) |
-| 3 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) |
 | 3 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
-| 2 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
+| 3 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) |
+| 3 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) |
+| 2 | [Vihaan Srivastava](https://www.worldcubeassociation.org/persons/2024SRIV01) |
 | 2 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
 | 2 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 2 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 2 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 2 | [Tiernan Garvey](https://www.worldcubeassociation.org/persons/2022GARV01) |
-| 2 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 2 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
 | 2 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) |
 | 2 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 2 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
+| 2 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
+| 2 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 1 | [David Hamilton](https://www.worldcubeassociation.org/persons/2011HAMI02) |
 | 1 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
 | 1 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) |
@@ -88,7 +89,6 @@
 | 1 | [Caleb Gallo](https://www.worldcubeassociation.org/persons/2023GALL25) |
 | 1 | [Mason Mulready](https://www.worldcubeassociation.org/persons/2021MULR01) |
 | 1 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
-| 1 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
 | 1 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) |
 | 1 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 1 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |

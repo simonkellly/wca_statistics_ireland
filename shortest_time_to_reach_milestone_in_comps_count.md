@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### 100 competitions
@@ -38,6 +38,7 @@
 | 582 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 597 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 687 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 715 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) |
 | 728 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 736 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 764 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) |
@@ -53,7 +54,6 @@
 | 918 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
 | 919 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 939 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
-| 945 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 
 ### 10 competitions
 

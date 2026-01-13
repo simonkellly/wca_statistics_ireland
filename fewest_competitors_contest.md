@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -88,6 +88,7 @@
 | 1 | [Croatian Championship 2025](https://www.worldcubeassociation.org/competitions/CroatianChampionship2025) |
 | 1 | [Crystal Open 2018](https://www.worldcubeassociation.org/competitions/CrystalOpen2018) |
 | 1 | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
+| 1 | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) |
 | 1 | [Cubing in Cambridge 2023](https://www.worldcubeassociation.org/competitions/CubinginCambridge2023) |
 | 1 | [Cubing in Campbellsville 2023](https://www.worldcubeassociation.org/competitions/CubinginCampbellsville2023) |
 | 1 | [Cubing in HD 2023](https://www.worldcubeassociation.org/competitions/CubinginHD2023) |
@@ -105,6 +106,7 @@
 | 1 | [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) |
 | 1 | [Dolné Orešany Open 2023](https://www.worldcubeassociation.org/competitions/DolneOresanyOpen2023) |
 | 1 | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) |
+| 1 | [Don't Pause in Delhi 2026](https://www.worldcubeassociation.org/competitions/DontPauseinDelhi2026) |
 | 1 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
 | 1 | [Dreht's Eich in Ergolding 2025](https://www.worldcubeassociation.org/competitions/DrehtsEichinErgolding2025) |
 | 1 | [Dutch Nationals 2016](https://www.worldcubeassociation.org/competitions/DutchNationals2016) |
@@ -346,6 +348,7 @@
 | 1 | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) |
 | 1 | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009) |
 | 1 | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025) |
+| 1 | [Ukubom Moratalla Open 2026](https://www.worldcubeassociation.org/competitions/UkubomMoratallaOpen2026) |
 | 1 | [UNICAMP Cube 2025](https://www.worldcubeassociation.org/competitions/UNICAMPCube2025) |
 | 1 | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) |
 | 1 | [U.R.A. Funky Cubes 2022](https://www.worldcubeassociation.org/competitions/URAFunkyCubes2022) |
