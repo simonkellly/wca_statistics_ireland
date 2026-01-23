@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 
 ### Rubik's Cube
@@ -121,8 +121,8 @@
 | 0.26 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 15.93 | 16.19 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022/results/by_person#2012BEAH01) |
 | 0.28 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 14.79 | 15.07 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2022FURE01) |
 | 0.36 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 14.66 | 15.02 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022FURE01) |
+| 0.36 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 14.95 | 15.31 | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2018GRYT01) |
 | 0.39 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 15.79 | 16.18 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023/results/by_person#2022FURE01) |
-| 0.42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 11.80 | 12.22 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
 
 ### Megaminx
 

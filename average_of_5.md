@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 
 ### Rubik's Cube
@@ -35,19 +35,13 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:11.78 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:14.55, 1:16.60, 1:10.68, 1:10.11, 1:08.23 |
+| 1:09.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:10.68, 1:10.11, 1:08.23, 1:17.24, 1:08.60 |
 
 ### 7x7x7 Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:49.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:47.21, 1:51.63, 1:52.60, 1:42.08, 1:48.64 |
-
-### 3x3x3 Blindfolded
-
-| Ao5 | Person | Times |
-| ---: | :--- | :--- |
-| 1:35.66 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1:44.78, 2:01.99, 1:00.20, DNF, 53.19 |
 
 ### 3x3x3 Fewest Moves
 
@@ -59,7 +53,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 27.96 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 29.40, 28.75, 27.62, 26.55, 27.50 |
+| 27.40 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.77, 27.40, 25.93, 29.00, 26.04 |
 | 30.53 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.48, 27.66, 31.27, 30.20, 30.90 |
 | 34.37 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 33.14, 33.09, 39.56, 35.16, 34.82 |
 | 36.65 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.20, 38.29, 33.37, 36.29, 36.45 |

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 
 ### Rubik's Cube
@@ -55,6 +55,7 @@
 | ---: | :--- | :--- |
 | 48 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |
 | 31 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) |
+| 17 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) |
 | 16 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) |
 | 15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |
 | 8 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |

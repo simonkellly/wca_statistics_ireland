@@ -1,16 +1,16 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **193** | 74 | 41 | 308 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **21** | 18 | 18 | 57 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 31 | 37 | 83 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **6** | 5 | 10 | 21 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **6** | 5 | 11 | 22 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
-| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **5** | 4 | 8 | 17 |
+| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **5** | 6 | 8 | 19 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **3** | 7 | 2 | 12 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **3** | 2 | 4 | 9 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3** | 2 | 2 | 7 |

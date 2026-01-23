@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -146,6 +146,7 @@
 | 1 | [FSUbers 5.0 2024](https://www.worldcubeassociation.org/competitions/FSUbers502024) |
 | 1 | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025) |
 | 1 | [GEMS Modern Academy Open 2018](https://www.worldcubeassociation.org/competitions/GEMSModernAcademyOpen2018) |
+| 1 | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026) |
 | 1 | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) |
 | 1 | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) |
 | 1 | [German Open 2019](https://www.worldcubeassociation.org/competitions/GermanOpen2019) |
