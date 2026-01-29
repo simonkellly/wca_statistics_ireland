@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -839,7 +839,7 @@
 | [Meabh Greene](https://www.worldcubeassociation.org/persons/2024GREE11) | 24 km |
 | [Sean Ulanowski](https://www.worldcubeassociation.org/persons/2024ULAN01) | 24 km |
 | [Jonty Kennedy](https://www.worldcubeassociation.org/persons/2023KENN25) | 23 km |
-| [Raul Dabija](https://www.worldcubeassociation.org/persons/2023DABI01) | 22 km |
+| [Anonymous](https://www.worldcubeassociation.org/persons/2023ANON18) | 22 km |
 | [Cillian Lynch](https://www.worldcubeassociation.org/persons/2023LYNC03) | 22 km |
 | [Cooper Brennan](https://www.worldcubeassociation.org/persons/2023BREN07) | 22 km |
 | [Taras Krailo](https://www.worldcubeassociation.org/persons/2025KRAI01) | 22 km |
