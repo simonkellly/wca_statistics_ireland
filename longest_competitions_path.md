@@ -1,20 +1,20 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Person | Distance |
 | :--- | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 170 561 km |
-| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 75 531 km |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 173 009 km |
+| [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 77 979 km |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 55 501 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 46 817 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 44 582 km |
 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 41 080 km |
+| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 40 797 km |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 40 370 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 40 143 km |
-| [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 38 349 km |
-| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 37 921 km |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 32 020 km |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 34 468 km |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 29 172 km |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 26 329 km |
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 24 621 km |
@@ -135,6 +135,8 @@
 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) | 2 027 km |
 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) | 2 000 km |
 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) | 1 915 km |
+| [Jakub Wajdzik](https://www.worldcubeassociation.org/persons/2025WAJD01) | 1 879 km |
+| [Killian Wajdzik](https://www.worldcubeassociation.org/persons/2025WAJD02) | 1 879 km |
 | [Eoin Brereton Hurley](https://www.worldcubeassociation.org/persons/2014HURL01) | 1 857 km |
 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) | 1 842 km |
 | [Eoin McCooey](https://www.worldcubeassociation.org/persons/2023MCCO20) | 1 839 km |
@@ -783,8 +785,6 @@
 | [Lenard Kengyel](https://www.worldcubeassociation.org/persons/2025KENG01) | 52 km |
 | [Ramzy Bettayeb](https://www.worldcubeassociation.org/persons/2025BETT02) | 52 km |
 | [Oisin Doak](https://www.worldcubeassociation.org/persons/2023DOAK01) | 50 km |
-| [Jakub Wajdzik](https://www.worldcubeassociation.org/persons/2025WAJD01) | 50 km |
-| [Killian Wajdzik](https://www.worldcubeassociation.org/persons/2025WAJD02) | 50 km |
 | [Henry Moody](https://www.worldcubeassociation.org/persons/2023MOOD03) | 49 km |
 | [Hunter Fitzmaurice](https://www.worldcubeassociation.org/persons/2024FITZ03) | 49 km |
 | [Dillon Kelly](https://www.worldcubeassociation.org/persons/2024KELL16) | 49 km |

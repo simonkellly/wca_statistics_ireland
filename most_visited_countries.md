@@ -1,14 +1,14 @@
 ## Most visited countries
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Countries | Person |
 | ---: | :--- |
-| 16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 9 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
-| 9 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
-| 7 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 6 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 17 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 10 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 10 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
+| 8 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 7 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 6 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 6 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 6 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |

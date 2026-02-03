@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -363,6 +363,7 @@
 | 1 | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) |
 | 1 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
 | 1 | [Vienna Summer 2024](https://www.worldcubeassociation.org/competitions/ViennaSummer2024) |
+| 1 | [Vienna Winter 2026](https://www.worldcubeassociation.org/competitions/ViennaWinter2026) |
 | 1 | [Visé Sunday Open 2025](https://www.worldcubeassociation.org/competitions/ViseSundayOpen2025) |
 | 1 | [Volunteer State Cubing 2024](https://www.worldcubeassociation.org/competitions/VolunteerStateCubing2024) |
 | 1 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
@@ -440,6 +441,7 @@
 | 2 | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) |
 | 2 | [WGC Open 2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014) |
 | 2 | [Weston-super-Mare Spring 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareSpring2024) |
+| 2 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
 | 3 | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018) |
 | 3 | [ABHC 2023](https://www.worldcubeassociation.org/competitions/ABHC2023) |
 | 3 | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) |
@@ -465,10 +467,12 @@
 | 5 | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) |
 | 5 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022) |
 | 5 | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024) |
+| 5 | [Marrakech Open 2026](https://www.worldcubeassociation.org/competitions/MarrakechOpen2026) |
 | 5 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 6 | [Glasgow Open 2022](https://www.worldcubeassociation.org/competitions/GlasgowOpen2022) |
 | 7 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 7 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
+| 8 | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) |
 | 8 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |
 | 8 | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) |
 | 10 | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025) |

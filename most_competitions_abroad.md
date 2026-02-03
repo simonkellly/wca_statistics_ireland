@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 81 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 51 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 40 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 35 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
@@ -12,18 +12,18 @@
 | 29 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 27 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
 | 21 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
-| 19 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 20 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 17 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 16 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
-| 16 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
-| 15 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 16 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
+| 13 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 13 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
-| 12 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
-| 12 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
-| 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
 | 12 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
-| 12 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
+| 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
+| 12 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 11 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) |
 | 11 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
 | 10 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |

@@ -1,11 +1,11 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **193** | 74 | 41 | 308 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **196** | 75 | 41 | 312 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **21** | 18 | 18 | 57 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 31 | 37 | 83 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **6** | 5 | 11 | 22 |
@@ -15,9 +15,9 @@
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **3** | 2 | 4 | 9 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3** | 2 | 2 | 7 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **2** | 9 | 9 | 20 |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **2** | 2 | 0 | 4 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **2** | 1 | 1 | 4 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
-| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **2** | 1 | 0 | 3 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2** | 0 | 3 | 5 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 4 | 3 | 8 |
@@ -25,6 +25,7 @@
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **1** | 1 | 0 | 2 |
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | **1** | 0 | 2 | 3 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1** | 0 | 2 | 3 |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **1** | 0 | 2 | 3 |
 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | **1** | 0 | 0 | 1 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **1** | 0 | 0 | 1 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
@@ -38,7 +39,6 @@
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **0** | 0 | 5 | 5 |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | **0** | 0 | 3 | 3 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | **0** | 0 | 2 | 2 |
-| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **0** | 0 | 2 | 2 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **0** | 0 | 2 | 2 |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | **0** | 0 | 1 | 1 |
 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | **0** | 0 | 1 | 1 |
