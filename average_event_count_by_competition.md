@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -58,6 +58,7 @@
 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 5.21 | 33 | Ireland |
 | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) | 5.16 | 45 | Ireland |
 | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) | 5.15 | 59 | Ireland |
+| [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 5.15 | 80 | Ireland |
 | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | 5.14 | 56 | Ireland |
 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) | 5.08 | 76 | Ireland |
 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | 5.05 | 122 | Ireland |

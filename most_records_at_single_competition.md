@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### World
@@ -286,6 +286,8 @@
 | 0 | [Said Shytaj](https://www.worldcubeassociation.org/persons/2023SHYT01) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2023SHYT01) |
 | 0 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2019CARE02) |
 | 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2012BEAH01) |
+| 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2023MARA10) |
 
 ### Continental
 

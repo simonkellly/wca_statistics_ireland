@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### Rubik's Cube
@@ -62,7 +62,7 @@
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 50.40 | **54.43** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e555_f) | 6 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 53.58 | **54.78** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e555_f) | 4 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | 53.98 | **56.13** | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022/results/all#e555_c) | 4 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 54.36 | **58.67** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e555_f) | 7 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 52.66 | **58.60** | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/all#e555_c) | 4 |
 
 ### 6x6x6 Cube
 

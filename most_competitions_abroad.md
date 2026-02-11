@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -19,11 +19,11 @@
 | 16 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 13 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 13 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 13 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
 | 12 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
-| 12 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 11 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) |
 | 11 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
 | 10 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |
@@ -41,24 +41,24 @@
 | 8 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 8 | [Blanka Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK04) |
 | 8 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
-| 7 | [Chun Yin Man](https://www.worldcubeassociation.org/persons/2023MANC03) |
+| 7 | [Seven Yang (杨子熙)](https://www.worldcubeassociation.org/persons/2022YANG21) |
 | 7 | [Paul Cotter](https://www.worldcubeassociation.org/persons/2022COTT06) |
 | 7 | [Finnbar McGovern](https://www.worldcubeassociation.org/persons/2022GOVE02) |
 | 7 | [Odhran Albuquerque](https://www.worldcubeassociation.org/persons/2023ALBU01) |
 | 7 | [Oleksii Bodeichuk](https://www.worldcubeassociation.org/persons/2024BODE01) |
 | 7 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 7 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
-| 7 | [Seven Yang (杨子熙)](https://www.worldcubeassociation.org/persons/2022YANG21) |
+| 7 | [Chun Yin Man](https://www.worldcubeassociation.org/persons/2023MANC03) |
+| 7 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
 | 7 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 6 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
 | 6 | [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) |
 | 6 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
-| 6 | [Daithi Heffernan](https://www.worldcubeassociation.org/persons/2018HEFF01) |
 | 6 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
-| 6 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) |
 | 6 | [Dimitar Ignatov](https://www.worldcubeassociation.org/persons/2023IGNA05) |
+| 6 | [Daithi Heffernan](https://www.worldcubeassociation.org/persons/2018HEFF01) |
 | 6 | [Olin Long](https://www.worldcubeassociation.org/persons/2023LONG10) |
-| 6 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
+| 6 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) |
 | 5 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
 | 5 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 5 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
