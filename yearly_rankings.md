@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### Rubik's Cube - Single
@@ -16,8 +16,8 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **7.32** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 9.39, 14.07, 11.41, 9.52, 7.32 |
 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | **7.54** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 7.54, 9.46, DNF, 12.85, 9.86 |
 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) | **7.62** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 8.50, 8.33, 7.62, 10.79, 9.16 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **7.89** | Ireland | [Vanderbilt Winter 2026](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2026) | 8.78, 9.37, 9.25, 10.06, 7.89 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **7.98** | Ireland | [Vienna Winter 2026](https://www.worldcubeassociation.org/competitions/ViennaWinter2026) | 7.98, 8.17, 9.32, 9.64, 8.18 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **8.04** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 9.77, 8.04, 8.56, 9.87, 12.49 |
 
 ### Rubik's Cube - Average
 
@@ -31,8 +31,8 @@
 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) | **8.66** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 8.50, 8.33, 7.62, 10.79, 9.16 |
 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | **9.05** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 7.92, 9.17, 11.61, 9.26, 8.73 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **9.11** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 8.87, 9.63, 8.82, 11.93, 8.82 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **9.13** | Ireland | [Vanderbilt Winter 2026](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2026) | 8.78, 9.37, 9.25, 10.06, 7.89 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **9.23** | Mongolia | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 8.21, 8.29, 10.70, 8.70, 13.16 |
-| [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | **9.38** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 9.86, 9.76, 8.05, 8.84, 9.55 |
 
 ### 2x2x2 Cube - Single
 
@@ -134,10 +134,10 @@
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **1:49.85** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 1:59.03, 1:54.52, 1:49.85 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:53.20** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:02.82, 1:53.20, 2:01.95 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1:58.50** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 3:49.12, 2:17.12, 1:58.50 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2:28.62** | Ireland | [Vanderbilt Winter 2026](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2026) | 2:45.14, 2:54.23, 2:28.62 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2:30.34** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:36.36, 2:30.34, 2:40.19 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **2:34.82** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:43.06, 2:49.71, 2:34.82 |
 | [Matthew Horan](https://www.worldcubeassociation.org/persons/2017HORA02) | **2:36.55** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:36.55, 3:29.23, 2:49.48 |
-| [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) | **2:36.56** | Ukraine | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:40.75, 2:36.56, 2:46.58 |
 
 ### 6x6x6 Cube - Average
 
@@ -152,7 +152,7 @@
 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) | **2:41.30** | Ukraine | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:40.75, 2:36.56, 2:46.58 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2:41.58** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 3:49.12, 2:17.12, 1:58.50 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **2:42.53** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:43.06, 2:49.71, 2:34.82 |
-| [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | **2:46.93** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:53.66, 2:36.79, 2:50.33 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2:42.66** | Ireland | [Vanderbilt Winter 2026](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2026) | 2:45.14, 2:54.23, 2:28.62 |
 
 ### 7x7x7 Cube - Single
 
@@ -254,7 +254,7 @@
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **22.35** | Ireland | [Vienna Winter 2026](https://www.worldcubeassociation.org/competitions/ViennaWinter2026) | 31.59, 23.35, 24.93, 17.70, 18.78 |
 | [Oli Sweeney](https://www.worldcubeassociation.org/persons/2024SWEE01) | **23.40** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 21.47, 24.40, 20.58, DNF, 24.33 |
 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) | **23.56** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 24.78, 21.01, 22.08, 23.83, 26.93 |
-| [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | **23.81** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 28.18, 23.04, 18.70, 29.15, 20.20 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **23.68** | Ireland | [Vanderbilt Winter 2026](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2026) | 24.85, 22.46, 20.77, 23.72, 26.07 |
 
 ### Megaminx - Single
 
@@ -402,7 +402,7 @@
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **12.48** | United Kingdom | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 12.32, 9.32, 13.05, 21.84, 12.06 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **14.37** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 16.04, 12.44, 14.86, 15.82, 12.40 |
 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) | **16.15** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 13.16, 13.62, 17.44, 22.01, 17.38 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **30.52** | Ireland | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026) | 46.09, 18.43, 32.93, 34.41, 24.21 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **29.27** | Ireland | [Vanderbilt Winter 2026](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2026) | 24.59, 31.26, 31.95, 21.56, 39.77 |
 | [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) | **38.38** | Ireland | [Ukubom Moratalla Open 2026](https://www.worldcubeassociation.org/competitions/UkubomMoratallaOpen2026) | 38.93, 27.56, 43.69, 35.30, 40.92 |
 
 ### 3x3x3 Multi-Blind - Single

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -40,9 +40,9 @@
 | 155 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 150 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 149 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
+| 145 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 144 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 144 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
-| 142 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 139 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 137 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 131 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |

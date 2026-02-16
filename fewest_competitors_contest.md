@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -355,6 +355,7 @@
 | 1 | [U.R.A. Funky Cubes 2022](https://www.worldcubeassociation.org/competitions/URAFunkyCubes2022) |
 | 1 | [Valsugana Speedcubing 2024](https://www.worldcubeassociation.org/competitions/ValsuganaSpeedcubing2024) |
 | 1 | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) |
+| 1 | [Vanderbilt Winter 2026](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2026) |
 | 1 | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025) |
 | 1 | [VIC State Championship 2025](https://www.worldcubeassociation.org/competitions/VICStateChampionship2025) |
 | 1 | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) |
