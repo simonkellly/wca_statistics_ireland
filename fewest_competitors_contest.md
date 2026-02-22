@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -121,6 +121,7 @@
 | 1 | [Erlangen Open II 2025](https://www.worldcubeassociation.org/competitions/ErlangenOpenII2025) |
 | 1 | [Essex Winter 2022](https://www.worldcubeassociation.org/competitions/EssexWinter2022) |
 | 1 | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016) |
+| 1 | [Falkirk Open 2026](https://www.worldcubeassociation.org/competitions/FalkirkOpen2026) |
 | 1 | [Farnworth Spring B 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringB2022) |
 | 1 | [Finnish Championship 2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018) |
 | 1 | [First State 2018](https://www.worldcubeassociation.org/competitions/FirstState2018) |
