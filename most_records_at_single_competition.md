@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 22 February 2026*
+*Updated on 25 February 2026*
 
 
 ### World
@@ -288,6 +288,7 @@
 | 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2012BEAH01) |
 | 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2023MARA10) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026/results/by_person#2012BEAH01) |
 
 ### Continental
 

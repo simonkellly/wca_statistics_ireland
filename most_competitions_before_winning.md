@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 22 February 2026*
+*Updated on 25 February 2026*
 
 
 ### Rubik's Cube
@@ -55,6 +55,7 @@
 | ---: | :--- | :--- |
 | 48 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |
 | 31 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) |
+| 23 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) |
 | 17 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) |
 | 16 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) |
 | 15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |
@@ -62,7 +63,6 @@
 | 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) |
 | 3 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) |
 | 3 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) |
-| 2 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
 
 ### 6x6x6 Cube
 
@@ -107,6 +107,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 11 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) |
+| 7 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) |
 | 6 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) |
 | 5 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) |
 | 4 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | [Don't Go Slow in Wicklow 2025](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2025) |
@@ -178,6 +179,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 44 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) |
 | 13 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) |
 | 11 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |
 | 11 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |
@@ -187,7 +189,6 @@
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |
 | 4 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
 | 4 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Tuam Open Saturday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSaturday2022) |
-| 4 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) |
 
 ### Square-1
 

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 22 February 2026*
+*Updated on 25 February 2026*
 
 
 ### Rubik's Cube
@@ -55,6 +55,7 @@
 | ---: | :--- |
 | 56.51 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 1:18.63 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
+| 1:19.17 | [Patryk Hunia](https://www.worldcubeassociation.org/persons/2024HUNI01) |
 | 1:23.64 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
 | 1:28.52 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:30.48 | [Dominic Mckeon](https://www.worldcubeassociation.org/persons/2021MCKE03) |
@@ -62,7 +63,6 @@
 | 1:31.30 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 1:35.97 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 1:38.10 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
-| 1:38.65 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
 
 ### 6x6x6 Cube
 
@@ -92,7 +92,7 @@
 | 4:43.50 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
 | 4:45.30 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
 | 4:52.72 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
-| 5:00.43 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
+| 4:57.10 | [Iollan Quinn](https://www.worldcubeassociation.org/persons/2025QUIN04) |
 
 ### 3x3x3 Blindfolded
 

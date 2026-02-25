@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 22 February 2026*
+*Updated on 25 February 2026*
 
 
 ### Rubik's Cube
@@ -58,11 +58,11 @@
 | 1:19.21 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:22.49 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
 | 1:26.37 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
+| 1:27.28 | [Patryk Hunia](https://www.worldcubeassociation.org/persons/2024HUNI01) |
 | 1:32.29 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 1:33.97 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 1:34.40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 1:38.46 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
-| 1:39.61 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 
 ### 6x6x6 Cube
 

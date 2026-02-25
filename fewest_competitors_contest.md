@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 February 2026*
+*Updated on 25 February 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -266,6 +266,7 @@
 | 1 | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) |
 | 1 | [Paris Open 2022](https://www.worldcubeassociation.org/competitions/ParisOpen2022) |
 | 1 | [Parla Open 2022](https://www.worldcubeassociation.org/competitions/ParlaOpen2022) |
+| 1 | [PBs in Palisades Open 2026](https://www.worldcubeassociation.org/competitions/PBsinPalisadesOpen2026) |
 | 1 | [Pegasus 2023](https://www.worldcubeassociation.org/competitions/Pegasus2023) |
 | 1 | [Penang Cube Masters 2024](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2024) |
 | 1 | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) |
