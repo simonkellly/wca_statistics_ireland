@@ -6,46 +6,46 @@
 | ---: | ---: | ---: | :--- |
 | 8.96 | 149 | 16.63 | United Kingdom |
 | 7.96 | 82 | 10.31 | United States |
-| 6.34 | 89 | 14.04 | Ireland |
+| 6.34 | 89 | 14.05 | Ireland |
 | 3.88 | 13 | 3.35 | Austria |
-| 3.16 | 22 | 6.97 | Australia |
+| 3.15 | 22 | 6.97 | Australia |
 | 2.73 | 8 | 2.93 | Slovakia |
 | 2.61 | 44 | 16.84 | Germany |
 | 1.75 | 11 | 6.30 | Poland |
 | 1.71 | 5 | 2.93 | Sweden |
-| 1.60 | 4 | 2.51 | Slovenia |
-| 1.51 | 13 | 8.62 | France |
+| 1.59 | 4 | 2.51 | Slovenia |
+| 1.51 | 13 | 8.63 | France |
 | 1.49 | 3 | 2.01 | Portugal |
 | 1.46 | 4 | 2.74 | Hungary |
-| 1.23 | 2 | 1.62 | Brazil |
+| 1.23 | 2 | 1.63 | Brazil |
 | 1.11 | 17 | 15.33 | Spain |
-| 1.01 | 7 | 6.95 | Denmark |
+| 1.01 | 7 | 6.96 | Denmark |
 | 0.93 | 4 | 4.29 | Norway |
-| 0.86 | 1 | 1.16 | Malaysia |
+| 0.86 | 1 | 1.17 | Malaysia |
 | 0.83 | 5 | 6.03 | Switzerland |
 | 0.82 | 14 | 17.03 | Italy |
 | 0.78 | 1 | 1.28 | Hong Kong, China |
-| 0.72 | 2 | 2.79 | Kenya |
+| 0.72 | 2 | 2.80 | Kenya |
 | 0.66 | 3 | 4.54 | New Zealand |
 | 0.66 | 6 | 9.12 | United Arab Emirates |
-| 0.62 | 1 | 1.60 | Bosnia and Herzegovina |
+| 0.62 | 1 | 1.61 | Bosnia and Herzegovina |
 | 0.61 | 4 | 6.61 | India |
 | 0.57 | 2 | 3.53 | Israel |
 | 0.53 | 6 | 11.27 | Netherlands |
 | 0.51 | 1 | 1.97 | Estonia |
-| 0.50 | 4 | 8.04 | Finland |
+| 0.50 | 4 | 8.05 | Finland |
 | 0.45 | 1 | 2.22 | Greece |
-| 0.43 | 3 | 6.93 | Multiple Countries (Europe) |
+| 0.43 | 3 | 6.94 | Multiple Countries (Europe) |
 | 0.43 | 8 | 18.78 | Canada |
 | 0.40 | 3 | 7.59 | Ukraine |
-| 0.39 | 1 | 2.54 | Republic of Korea |
-| 0.35 | 6 | 16.99 | Belgium |
+| 0.39 | 1 | 2.55 | Republic of Korea |
+| 0.35 | 6 | 17.00 | Belgium |
 | 0.35 | 3 | 8.66 | Russia |
 | 0.30 | 1 | 3.31 | Romania |
 | 0.30 | 2 | 6.70 | Multiple Countries (World) |
-| 0.27 | 3 | 11.03 | Singapore |
+| 0.27 | 3 | 11.04 | Singapore |
 | 0.23 | 1 | 4.42 | Jordan |
-| 0.18 | 3 | 16.61 | Czech Republic |
+| 0.18 | 3 | 16.62 | Czech Republic |
 | 0.18 | 2 | 11.24 | South Africa |
 | 0.17 | 2 | 12.03 | Philippines |
 
