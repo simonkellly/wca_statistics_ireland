@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 
 ### Competition
@@ -74,15 +74,15 @@
 | Canada | **198** | 206 |
 | Belgium | **192** | 201 |
 | Morocco | **180** | 187 |
+| Czech Republic | **177** | 186 |
 | Hungary | **171** | 176 |
 | Slovenia | **166** | 168 |
-| Czech Republic | **164** | 165 |
 
 ### Continent
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **262772** | 275348 |
+| Europe | **262785** | 275369 |
 | North America | **3415** | 3582 |
 | Oceania | **700** | 757 |
 | Asia | **420** | 432 |
@@ -99,7 +99,7 @@
 | 2023 | **61984** | 64810 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
-| 2026 | **6155** | 6475 |
+| 2026 | **6168** | 6496 |
 | 2017 | **4267** | 4475 |
 | 2018 | **3146** | 3253 |
 | 2021 | **2307** | 2403 |
@@ -124,20 +124,20 @@
 | Skewb | **28445** | 29140 |
 | 4x4x4 Cube | **22885** | 23605 |
 | 3x3x3 One-Handed | **14867** | 15483 |
-| 5x5x5 Cube | **13827** | 14313 |
+| 5x5x5 Cube | **13831** | 14317 |
 | Clock | **13217** | 15334 |
 | Megaminx | **9934** | 10421 |
 | Square-1 | **7663** | 8094 |
 | 6x6x6 Cube | **3290** | 3406 |
 | 7x7x7 Cube | **2339** | 2467 |
-| 3x3x3 Blindfolded | **1207** | 3676 |
+| 3x3x3 Blindfolded | **1214** | 3686 |
 | 3x3x3 Fewest Moves | **531** | 833 |
-| 3x3x3 Multi-Blind | **252** | 395 |
-| 4x4x4 Blindfolded | **82** | 483 |
+| 3x3x3 Multi-Blind | **254** | 397 |
+| 4x4x4 Blindfolded | **82** | 486 |
 | 3x3x3 With Feet | **69** | 76 |
 | Magic | **56** | 65 |
 | Master Magic | **34** | 35 |
-| 5x5x5 Blindfolded | **21** | 189 |
+| 5x5x5 Blindfolded | **21** | 191 |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_ireland" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

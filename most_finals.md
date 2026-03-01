@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -37,7 +37,7 @@
 | 167 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
 | 165 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 165 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 158 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 162 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 153 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 150 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 149 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |

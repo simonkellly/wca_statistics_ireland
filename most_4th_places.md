@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -53,13 +53,13 @@
 | 4 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 4 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 4 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
+| 4 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 3 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
+| 3 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 3 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
-| 3 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
-| 3 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 3 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 3 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 3 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
+| 3 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 3 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) |
 | 3 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) |
 | 2 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |

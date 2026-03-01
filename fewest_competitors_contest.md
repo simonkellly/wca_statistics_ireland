@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -40,6 +40,7 @@
 | 1 | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024) |
 | 1 | [Bishop's Stortford - BBO 2022](https://www.worldcubeassociation.org/competitions/BishopsStortfordAutumnBBO2022) |
 | 1 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023) |
+| 1 | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) |
 | 1 | [Blue Cubed 2018](https://www.worldcubeassociation.org/competitions/BlueCubed2018) |
 | 1 | [BMME 3x3 Day 2023](https://www.worldcubeassociation.org/competitions/BMME3x3Day2023) |
 | 1 | [Bolton Spring 2024](https://www.worldcubeassociation.org/competitions/BoltonSpring2024) |

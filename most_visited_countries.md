@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -9,8 +9,8 @@
 | 10 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 8 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 7 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 7 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 6 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
-| 6 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 6 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
 | 5 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 5 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |

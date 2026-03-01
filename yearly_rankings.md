@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 
 ### Rubik's Cube - Single
@@ -192,12 +192,12 @@
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **27.82** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | DNF, 27.82, 47.51, DNF, DNF |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **33.38** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 44.20, 33.38, DNF, 43.64, 58.56 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **35.88** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 35.88, 1:08.65, 58.36, DNF, DNF |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **44.60** | Ireland | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) | DNF, 44.60, 1:01.05, 44.63, 51.96 |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | **52.42** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 52.42, DNF, DNF, 1:14.69, DNF |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **58.02** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 58.02, 1:03.97, 59.10, DNF, 2:58.82 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **1:08.05** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | DNF, 1:15.23, DNF, 1:08.05, DNF |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:19.20** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | DNF, 1:21.87, DNF, DNF, 1:19.20 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:22.02** | Mongolia | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | DNF, 1:22.02, 2:39.88, 2:03.14, DNF |
-| [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | **1:33.92** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 1:53.94, 1:47.39, DNF, DNF, 1:33.92 |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -205,6 +205,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **35.94** | Ireland | [Marrakech Open 2026](https://www.worldcubeassociation.org/competitions/MarrakechOpen2026) | 30.46, 38.78, 38.59, 29.56, DNF |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **48.80** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 44.20, 33.38, DNF, 43.64, 58.56 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **52.55** | Ireland | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) | DNF, 44.60, 1:01.05, 44.63, 51.96 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **1:40.63** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 58.02, 1:03.97, 59.10, DNF, 2:58.82 |
 
 ### 3x3x3 Fewest Moves - Single
@@ -415,6 +416,7 @@
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **12/13 52:07** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 12/13 52:07 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **9/9 51:37** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 9/9 51:37 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **10/13 55:39** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 10/13 55:39 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **16/25 1:00:02** | Ireland | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) | 16/25 1:00:02, 13/22 1:00:02 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **13/22 52:05** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 13/22 52:05 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **13/23 1:00:00** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 13/23 1:00:00 |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **2/2 12:52** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 2/2 12:52 |

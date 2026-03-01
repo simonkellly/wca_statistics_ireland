@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -19,9 +19,9 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 29 420 km |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 26 578 km |
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 24 787 km |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 24 080 km |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 23 956 km |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 22 977 km |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 22 604 km |
 | [Korbyn Lee](https://www.worldcubeassociation.org/persons/2023LEEK04) | 21 787 km |
 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 20 899 km |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 20 380 km |
