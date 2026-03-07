@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  4 March 2026*
+*Updated on  7 March 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -18,12 +18,12 @@
 | 15 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | Megaminx | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) |  |
 | 14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6x6x6 Cube | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
-| 14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
+| 14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) | [XMUM Cube Open 2026](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2026) |
 | 14 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
 | 14 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 2x2x2 Cube | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
 | 13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7x7x7 Cube | [Tigery Open 2022](https://www.worldcubeassociation.org/competitions/TigeryOpen2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6x6x6 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
 | 13 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | Square-1 | [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
-| 12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6x6x6 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7x7x7 Cube | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |  |

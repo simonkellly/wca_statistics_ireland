@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 March 2026*
+*Updated on  7 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -391,6 +391,7 @@
 | 1 | [Wiltshire Summer 2023](https://www.worldcubeassociation.org/competitions/WiltshireSummer2023) |
 | 1 | [Wiltshire Winter 2023](https://www.worldcubeassociation.org/competitions/WiltshireWinter2023) |
 | 1 | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) |
+| 1 | [XMUM Cube Open 2026](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2026) |
 | 1 | [YJ Fest Moscow 2019](https://www.worldcubeassociation.org/competitions/YJFestMoscow2019) |
 | 2 | [ABHC 2017](https://www.worldcubeassociation.org/competitions/ABHC2017) |
 | 2 | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) |
