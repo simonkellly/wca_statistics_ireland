@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 March 2026*
+*Updated on 10 March 2026*
 
 
 ### Rubik's Cube
@@ -129,6 +129,7 @@
 | Diff | Person | Single | Average | results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.16 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.59 | 30.75 | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
+| 0.34 | [Kenna Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | 1:26.63 | 1:26.97 | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026/results/by_person#2023LYON02) |
 | 0.38 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.47 | 28.85 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
 | 0.55 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 35.87 | 36.42 | [Vienna Autumn 2025](https://www.worldcubeassociation.org/competitions/ViennaAutumn2025/results/by_person#2022KIRR02) |
 | 0.64 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 1:46.55 | 1:47.19 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017FITZ01) |
@@ -137,7 +138,6 @@
 | 0.69 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 1:52.36 | 1:53.05 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022HUGH08) |
 | 0.74 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 1:18.25 | 1:18.99 | [Middle Georgia Speedsolving 2024](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaSpeedsolving2024/results/by_person#2023MANG02) |
 | 0.75 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | 59.61 | 1:00.36 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022KEAT02) |
-| 0.75 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 1:43.72 | 1:44.47 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023/results/by_person#2017OTOO03) |
 
 ### Pyraminx
 

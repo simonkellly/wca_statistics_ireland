@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 March 2026*
+*Updated on 10 March 2026*
 
 
 ### Rubik's Cube
@@ -166,8 +166,8 @@
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.68 | **3.36** | [Manchester October 2025](https://www.worldcubeassociation.org/competitions/ManchesterOctober2025/results/all#epyram_f) | 5 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3.09 | **3.38** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#epyram_f) | 4 |
 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 2.57 | **3.40** | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/all#epyram_f) | 4 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 1.78 | **3.43** | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026/results/all#epyram_f) | 4 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3.15 | **3.44** | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/all#epyram_f) | 4 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3.21 | **3.46** | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 

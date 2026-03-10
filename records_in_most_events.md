@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on  7 March 2026*
+*Updated on 10 March 2026*
 
 
 ### World
@@ -18,6 +18,7 @@
 | 0 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |  |
 | 0 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |  |
 | 0 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |  |
+| 0 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |  |
 | 0 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) |  |
 | 0 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |  |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |  |
@@ -27,7 +28,6 @@
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |  |
 | 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |  |
 | 0 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |  |
-| 0 | [Seán Mooney](https://www.worldcubeassociation.org/persons/2015MOON02) |  |
 
 ### Continental
 
@@ -43,6 +43,7 @@
 | 0 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |  |
 | 0 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |  |
 | 0 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |  |
+| 0 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |  |
 | 0 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) |  |
 | 0 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |  |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |  |
@@ -52,7 +53,6 @@
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |  |
 | 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |  |
 | 0 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |  |
-| 0 | [Seán Mooney](https://www.worldcubeassociation.org/persons/2015MOON02) |  |
 
 ### National
 

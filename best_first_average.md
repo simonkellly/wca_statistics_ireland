@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  7 March 2026*
+*Updated on 10 March 2026*
 
 
 ### Rubik's Cube
@@ -118,12 +118,12 @@
 | 17.25 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 18.79 | [Dominic Mckeon](https://www.worldcubeassociation.org/persons/2021MCKE03) |
 | 23.48 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
+| 23.58 | [Ricí O'Connell](https://www.worldcubeassociation.org/persons/2024OCON01) |
 | 25.26 | [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) |
 | 25.98 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 26.67 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 26.68 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) |
 | 26.93 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
-| 26.98 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 
 ### Megaminx
 
@@ -132,13 +132,13 @@
 | 1:00.28 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 1:01.65 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 1:10.00 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 1:13.47 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
 | 1:18.31 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:20.28 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 1:21.78 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 | 1:24.43 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 1:25.45 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 1:30.04 | [Tiarnan Hogan](https://www.worldcubeassociation.org/persons/2023HOGA04) |
-| 1:31.22 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 
 ### Pyraminx
 

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 March 2026*
+*Updated on 10 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -218,6 +218,7 @@
 | 1 | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) |
 | 1 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022) |
 | 1 | [Marathon Open 2017](https://www.worldcubeassociation.org/competitions/MarathonOpen2017) |
+| 1 | [Maribor Open 2026](https://www.worldcubeassociation.org/competitions/MariborOpen2026) |
 | 1 | [Marikina City 2 Open 2014](https://www.worldcubeassociation.org/competitions/MarikinaCity2014) |
 | 1 | [Maritimes 2025](https://www.worldcubeassociation.org/competitions/Maritimes2025) |
 | 1 | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) |
