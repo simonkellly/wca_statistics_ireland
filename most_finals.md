@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -76,15 +76,15 @@
 | 73 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
 | 72 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
 | 72 | [Rory Pappas](https://www.worldcubeassociation.org/persons/2024PAPP01) |
+| 70 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 68 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 68 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
 | 67 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 66 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
+| 65 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 65 | [Charles Mac Alister](https://www.worldcubeassociation.org/persons/2022ALIS02) |
 | 65 | [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) |
-| 65 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 64 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
-| 64 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 62 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 62 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 61 | [Alex Kelly](https://www.worldcubeassociation.org/persons/2022KELL03) |
@@ -101,7 +101,7 @@
 | 48 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) |
 | 48 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
 | 47 | [Tiarnan Hogan](https://www.worldcubeassociation.org/persons/2023HOGA04) |
-| 47 | [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) |
+| 47 | [Odhran D'Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) |
 | 46 | [Eoin McCooey](https://www.worldcubeassociation.org/persons/2023MCCO20) |
 | 45 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
 

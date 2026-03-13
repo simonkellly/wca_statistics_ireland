@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -95,6 +95,7 @@
 | 1 | [Cubing in HD 2023](https://www.worldcubeassociation.org/competitions/CubinginHD2023) |
 | 1 | [Cubing in HD 2024](https://www.worldcubeassociation.org/competitions/CubinginHD2024) |
 | 1 | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) |
+| 1 | [Cubing in Ružinov: March 2026](https://www.worldcubeassociation.org/competitions/CubinginRuzinovMarch2026) |
 | 1 | [Cubing Westminster 2025](https://www.worldcubeassociation.org/competitions/CubinginSchoolWestminster2025) |
 | 1 | [Cubing in the Clouds 2023](https://www.worldcubeassociation.org/competitions/CubingintheClouds2023) |
 | 1 | [Cubing Returns Munich A 2023](https://www.worldcubeassociation.org/competitions/CubingReturnsMunichA2023) |

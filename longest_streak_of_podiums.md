@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -84,8 +84,8 @@
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 One-Handed | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025) |  |
-| 5 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3x3x3 Blindfolded | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) |
 | 5 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 3x3x3 One-Handed | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) |
+| 5 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3x3x3 Blindfolded | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) |
 | 5 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 3x3x3 Blindfolded | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
 | 5 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 4x4x4 Blindfolded | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025) |
 | 5 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | Megaminx | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020) | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) |
@@ -99,8 +99,8 @@
 | 5 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | Megaminx | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 5 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3x3x3 Blindfolded | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 5 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 Cube | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) |
-| 5 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 5x5x5 Cube | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) |
 | 5 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | Pyraminx | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
+| 5 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 5x5x5 Cube | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) |
 | 5 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | Pyraminx | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 5 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 5x5x5 Cube | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) |  |
 | 5 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Skewb | [Middle Georgia Mega Mania 2025](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaMegaMania2025) |  |

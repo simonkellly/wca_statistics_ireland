@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -55,7 +55,7 @@
 | 3 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 3 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 2 | [Darragh Cronin](https://www.worldcubeassociation.org/persons/2022CRON01) |
-| 2 | [Oliver Bacon](https://www.worldcubeassociation.org/persons/2019BACO02) |
+| 2 | [Ollie Bacon](https://www.worldcubeassociation.org/persons/2019BACO02) |
 | 2 | [Igor Chojnacki](https://www.worldcubeassociation.org/persons/2022CHOJ02) |
 | 2 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) |
 | 2 | [Thea Hanna-Agnew](https://www.worldcubeassociation.org/persons/2022HANN08) |

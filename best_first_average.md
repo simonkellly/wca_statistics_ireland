@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 
 ### Rubik's Cube
@@ -119,7 +119,7 @@
 | 18.79 | [Dominic Mckeon](https://www.worldcubeassociation.org/persons/2021MCKE03) |
 | 23.48 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 23.58 | [Ricí O'Connell](https://www.worldcubeassociation.org/persons/2024OCON01) |
-| 25.26 | [Odhran D’Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) |
+| 25.26 | [Odhran D'Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) |
 | 25.98 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 26.67 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 26.68 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) |

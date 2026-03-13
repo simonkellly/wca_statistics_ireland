@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 
 ### 100 competitions
@@ -88,7 +88,7 @@
 | 85 | [Aoife Dowling](https://www.worldcubeassociation.org/persons/2024DOWL02) |
 | 92 | [Odhrán Casey](https://www.worldcubeassociation.org/persons/2025CASE03) |
 | 99 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) |
-| 99 | [Sam O’Reilly](https://www.worldcubeassociation.org/persons/2024OREI01) |
+| 99 | [Sam O'Reilly](https://www.worldcubeassociation.org/persons/2024OREI01) |
 | 99 | [Leonard Coburn](https://www.worldcubeassociation.org/persons/2024COBU01) |
 | 99 | [Venice Chia Hang Yuie](https://www.worldcubeassociation.org/persons/2025YUIE01) |
 | 100 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
