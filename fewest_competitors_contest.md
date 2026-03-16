@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -395,6 +395,7 @@
 | 1 | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) |
 | 1 | [XMUM Cube Open 2026](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2026) |
 | 1 | [YJ Fest Moscow 2019](https://www.worldcubeassociation.org/competitions/YJFestMoscow2019) |
+| 1 | [Zhuhai Pi Day 2026](https://www.worldcubeassociation.org/competitions/ZhuhaiPiDay2026) |
 | 2 | [ABHC 2017](https://www.worldcubeassociation.org/competitions/ABHC2017) |
 | 2 | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) |
 | 2 | [Basel Open 2020](https://www.worldcubeassociation.org/competitions/BaselOpen2020) |

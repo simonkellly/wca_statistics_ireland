@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 
 ### Rubik's Cube
@@ -15,7 +15,7 @@
 | Moving average | Person |
 | ---: | :--- |
 | 6.75 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
-| 7.28 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 7.30 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 7.73 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 7.87 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
 | 8.00 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
@@ -289,7 +289,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 1:52.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 1:52.44 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 2:40.90 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 2:48.69 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 3:02.14 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |

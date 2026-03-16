@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | 0.11 | [Ethan Moloney-Illien](https://www.worldcubeassociation.org/persons/2019MOLO02) | 17.21 | 17.32 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2019MOLO02) |
 | 0.12 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 10.44 | 10.56 | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2022MENA01) |
 | 0.13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.57 | 6.70 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2012BEAH01) |
+| 0.13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.23 | 7.36 | [Zhuhai Pi Day 2026](https://www.worldcubeassociation.org/competitions/ZhuhaiPiDay2026/results/by_person#2012BEAH01) |
 | 0.13 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 10.46 | 10.59 | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2019CARE02) |
-| 0.14 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 10.17 | 10.31 | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023/results/by_person#2022GREE14) |
 
 ### 2x2x2 Cube
 

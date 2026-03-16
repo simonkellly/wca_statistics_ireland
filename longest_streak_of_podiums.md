@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -24,9 +24,9 @@
 | 13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7x7x7 Cube | [Tigery Open 2022](https://www.worldcubeassociation.org/competitions/TigeryOpen2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6x6x6 Cube | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |  |
 | 13 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | Square-1 | [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
+| 12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7x7x7 Cube | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |  |
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7x7x7 Cube | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |  |
 | 11 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | Square-1 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) |  |
 | 11 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 Cube | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 11 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4x4x4 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
@@ -83,7 +83,7 @@
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 One-Handed | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) |
-| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025) |  |
+| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025) | [Zhuhai Pi Day 2026](https://www.worldcubeassociation.org/competitions/ZhuhaiPiDay2026) |
 | 5 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 3x3x3 One-Handed | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) |
 | 5 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3x3x3 Blindfolded | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) |
 | 5 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 3x3x3 Blindfolded | [Cubing in Cill Chainnigh 2023](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2023) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
