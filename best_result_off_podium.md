@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 March 2026*
+*Updated on 19 March 2026*
 
 
 ### Rubik's Cube
@@ -99,15 +99,15 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **27.35** | DNF | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 4 |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **27.35** | DNF | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 4 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **28.93** | DNF | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024/results/all#e333bf_f) | 4 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **28.93** | DNF | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024/results/all#e333bf_f) | 4 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **32.33** | 43.57 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 5 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **32.33** | 43.57 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 5 |
+| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **32.83** | 51.28 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 6 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **32.83** | 51.28 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 6 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **37.08** | DNF | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 7 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **37.44** | DNF | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 8 |
-| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **44.88** | DNF | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/all#e333bf_f) | 4 |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **45.33** | DNF | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/all#e333bf_f) | 4 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **45.76** | DNF | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/all#e333bf_f) | 4 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **46.27** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333bf_f) | 4 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **37.08** | DNF | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 7 |
 
 ### 3x3x3 Fewest Moves
 
