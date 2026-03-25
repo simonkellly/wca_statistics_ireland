@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 22 March 2026*
+*Updated on 25 March 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -10,8 +10,8 @@
 | 51 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 36 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 32 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
+| 31 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 31 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
-| 30 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 27 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 26 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 26 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
@@ -19,8 +19,8 @@
 | 20 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 20 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 20 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
-| 17 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
-| 16 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 19 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
+| 18 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 15 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 15 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 10 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |

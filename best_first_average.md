@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 22 March 2026*
+*Updated on 25 March 2026*
 
 
 ### Rubik's Cube
@@ -62,7 +62,7 @@
 | 1:32.29 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 1:33.97 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 1:34.40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
-| 1:38.46 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
+| 1:38.01 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 
 ### 6x6x6 Cube
 
@@ -89,10 +89,10 @@
 | 4:27.34 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 4:34.52 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
 | 4:36.17 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 4:41.34 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 4:58.92 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 5:01.89 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
 | 5:07.88 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
-| 5:09.51 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
 
 ### 3x3x3 Blindfolded
 
