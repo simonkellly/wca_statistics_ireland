@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 
 ### 100 competitions
@@ -62,6 +62,7 @@
 | ---: | :--- |
 | 232 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 254 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
+| 260 | [Olwen Ó Torna Evans](https://www.worldcubeassociation.org/persons/2025EVAN13) |
 | 267 | [Joanna Byik](https://www.worldcubeassociation.org/persons/2023BYIK01) |
 | 274 | [Aoife Dowling](https://www.worldcubeassociation.org/persons/2024DOWL02) |
 | 282 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
@@ -79,7 +80,6 @@
 | 337 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) |
 | 349 | [Cormac Coffey](https://www.worldcubeassociation.org/persons/2022COFF01) |
 | 349 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
-| 352 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 
 ### 5 competitions
 

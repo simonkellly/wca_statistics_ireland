@@ -1,12 +1,12 @@
 ## Most competitions abroad
 
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 | Competitions | Person |
 | ---: | :--- |
 | 84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 52 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
-| 41 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 43 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 35 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 30 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
 | 30 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
@@ -17,7 +17,7 @@
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 16 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 16 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 14 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
+| 15 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 13 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 13 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |

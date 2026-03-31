@@ -1,24 +1,24 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 | 4th places | Person |
 | ---: | :--- |
 | 68 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 53 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
-| 51 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 53 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 36 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 32 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 31 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 31 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
+| 27 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 27 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 26 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
-| 26 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
-| 23 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 25 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 20 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 20 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 20 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
-| 20 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 19 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 18 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 15 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
@@ -28,24 +28,25 @@
 | 9 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
 | 9 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 9 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
-| 8 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
-| 8 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
-| 8 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 8 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
-| 7 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 7 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
-| 7 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
-| 7 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
+| 8 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
+| 8 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
+| 8 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
 | 7 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 7 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
+| 7 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 7 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
+| 7 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 7 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 6 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
 | 6 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 6 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 6 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
-| 6 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 6 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
-| 5 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
+| 5 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 5 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 5 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
+| 5 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 5 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
 | 4 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
 | 4 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
@@ -54,18 +55,17 @@
 | 4 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 4 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 4 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 3 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) |
+| 3 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
 | 3 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 3 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
-| 3 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
-| 3 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
-| 3 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 3 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
-| 3 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) |
+| 3 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 3 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) |
-| 2 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
+| 2 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
 | 2 | [Vihaan Srivastava](https://www.worldcubeassociation.org/persons/2024SRIV01) |
 | 2 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
-| 2 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
+| 2 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 2 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 2 | [Tiernan Garvey](https://www.worldcubeassociation.org/persons/2022GARV01) |
 | 2 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
@@ -73,8 +73,8 @@
 | 2 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 2 | [Matthew Horan](https://www.worldcubeassociation.org/persons/2017HORA02) |
 | 2 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
-| 2 | [Khusel-Erdene Unur-Erdene](https://www.worldcubeassociation.org/persons/2024UNUR01) |
 | 2 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) |
+| 2 | [Khusel-Erdene Unur-Erdene](https://www.worldcubeassociation.org/persons/2024UNUR01) |
 | 2 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 2 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 2 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
@@ -88,7 +88,7 @@
 | 1 | [Rory Furlong](https://www.worldcubeassociation.org/persons/2022FURL01) |
 | 1 | [Charlie Maxwell](https://www.worldcubeassociation.org/persons/2022MAXW02) |
 | 1 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
-| 1 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
+| 1 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) |
 | 1 | [Caleb Gallo](https://www.worldcubeassociation.org/persons/2023GALL25) |
 | 1 | [Mason Mulready](https://www.worldcubeassociation.org/persons/2021MULR01) |
 | 1 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) |

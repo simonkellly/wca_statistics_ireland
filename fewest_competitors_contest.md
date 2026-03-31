@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -44,6 +44,7 @@
 | 1 | [Blue Cubed 2018](https://www.worldcubeassociation.org/competitions/BlueCubed2018) |
 | 1 | [BMME 3x3 Day 2023](https://www.worldcubeassociation.org/competitions/BMME3x3Day2023) |
 | 1 | [Bolton Spring 2024](https://www.worldcubeassociation.org/competitions/BoltonSpring2024) |
+| 1 | [Bolton Spring 2026](https://www.worldcubeassociation.org/competitions/BoltonSpring2026) |
 | 1 | [Bolton Summer 2023](https://www.worldcubeassociation.org/competitions/BoltonSummer2023) |
 | 1 | [Bolton Summer 2024](https://www.worldcubeassociation.org/competitions/BoltonSummer2024) |
 | 1 | [Bratislava BLD Open 2023](https://www.worldcubeassociation.org/competitions/BratislavaBLDOpen2023) |
@@ -269,6 +270,7 @@
 | 1 | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) |
 | 1 | [Paris Open 2022](https://www.worldcubeassociation.org/competitions/ParisOpen2022) |
 | 1 | [Parla Open 2022](https://www.worldcubeassociation.org/competitions/ParlaOpen2022) |
+| 1 | [PBQniversity of Alabama 2026](https://www.worldcubeassociation.org/competitions/PBQniversityofAlabama2026) |
 | 1 | [PBs in Palisades Open 2026](https://www.worldcubeassociation.org/competitions/PBsinPalisadesOpen2026) |
 | 1 | [Pegasus 2023](https://www.worldcubeassociation.org/competitions/Pegasus2023) |
 | 1 | [Penang Cube Masters 2024](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2024) |
@@ -318,6 +320,7 @@
 | 1 | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024) |
 | 1 | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) |
 | 1 | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) |
+| 1 | [Southeast FMC Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2026) |
 | 1 | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023) |
 | 1 | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
 | 1 | [South Germany 2023](https://www.worldcubeassociation.org/competitions/SouthGermany2023) |

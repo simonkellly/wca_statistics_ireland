@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 
 ### World
@@ -68,13 +68,13 @@
 | 4 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | Clock, Skewb, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
 | 4 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | Megaminx, Pyraminx, Skewb, 3x3x3 Multi-Blind |
 | 3 | [Jesse Harper](https://www.worldcubeassociation.org/persons/2007HARP01) | 3x3x3 Cube, 3x3x3 One-Handed, Magic |
+| 3 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 2x2x2 Cube, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 2x2x2 Cube, Clock, Square-1 |
 | 3 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | Clock, Skewb, Square-1 |
 | 3 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | Skewb, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 2 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 Cube, 2x2x2 Cube |
 | 2 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 2x2x2 Cube, Clock |
-| 2 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 2x2x2 Cube, 4x4x4 Blindfolded |
 | 2 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 2x2x2 Cube, Megaminx |
 | 2 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | 3x3x3 Fewest Moves, Megaminx |
 | 2 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 3x3x3 Fewest Moves, 5x5x5 Blindfolded |
