@@ -4,50 +4,50 @@
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 8.97 | 150 | 16.73 | United Kingdom |
+| 8.96 | 150 | 16.73 | United Kingdom |
 | 8.07 | 84 | 10.41 | United States |
-| 6.50 | 92 | 14.14 | Ireland |
+| 6.50 | 92 | 14.15 | Ireland |
 | 3.77 | 13 | 3.45 | Austria |
 | 3.11 | 22 | 7.07 | Australia |
 | 2.97 | 9 | 3.03 | Slovakia |
 | 2.60 | 44 | 16.94 | Germany |
-| 1.92 | 5 | 2.61 | Slovenia |
+| 1.91 | 5 | 2.61 | Slovenia |
 | 1.90 | 2 | 1.05 | Croatia |
 | 1.72 | 11 | 6.40 | Poland |
 | 1.65 | 5 | 3.03 | Sweden |
-| 1.58 | 2 | 1.26 | Malaysia |
+| 1.58 | 2 | 1.27 | Malaysia |
 | 1.49 | 13 | 8.73 | France |
 | 1.42 | 3 | 2.11 | Portugal |
 | 1.41 | 4 | 2.84 | Hungary |
-| 1.16 | 2 | 1.72 | Brazil |
+| 1.16 | 2 | 1.73 | Brazil |
 | 1.10 | 17 | 15.43 | Spain |
 | 0.99 | 7 | 7.06 | Denmark |
 | 0.91 | 4 | 4.39 | Norway |
-| 0.82 | 14 | 17.13 | Italy |
-| 0.82 | 5 | 6.13 | Switzerland |
+| 0.82 | 14 | 17.14 | Italy |
+| 0.81 | 5 | 6.14 | Switzerland |
 | 0.72 | 1 | 1.38 | Hong Kong, China |
-| 0.69 | 2 | 2.89 | Kenya |
+| 0.69 | 2 | 2.90 | Kenya |
 | 0.65 | 6 | 9.22 | United Arab Emirates |
 | 0.65 | 3 | 4.64 | New Zealand |
 | 0.60 | 4 | 6.71 | India |
 | 0.59 | 1 | 1.71 | Bosnia and Herzegovina |
-| 0.55 | 2 | 3.63 | Israel |
+| 0.55 | 2 | 3.64 | Israel |
 | 0.53 | 6 | 11.37 | Netherlands |
 | 0.49 | 4 | 8.15 | Finland |
 | 0.48 | 1 | 2.07 | Estonia |
 | 0.43 | 1 | 2.32 | Greece |
-| 0.43 | 3 | 7.03 | Multiple Countries (Europe) |
+| 0.43 | 3 | 7.04 | Multiple Countries (Europe) |
 | 0.42 | 8 | 18.88 | Canada |
 | 0.39 | 3 | 7.69 | Ukraine |
-| 0.38 | 1 | 2.64 | Republic of Korea |
+| 0.38 | 1 | 2.65 | Republic of Korea |
 | 0.35 | 6 | 17.10 | Belgium |
 | 0.34 | 3 | 8.76 | Russia |
-| 0.29 | 2 | 6.80 | Multiple Countries (World) |
+| 0.29 | 2 | 6.81 | Multiple Countries (World) |
 | 0.29 | 1 | 3.41 | Romania |
-| 0.27 | 3 | 11.13 | Singapore |
-| 0.24 | 4 | 16.71 | Czech Republic |
-| 0.22 | 1 | 4.52 | Jordan |
-| 0.18 | 2 | 11.34 | South Africa |
+| 0.27 | 3 | 11.14 | Singapore |
+| 0.24 | 4 | 16.72 | Czech Republic |
+| 0.22 | 1 | 4.53 | Jordan |
+| 0.18 | 2 | 11.35 | South Africa |
 | 0.16 | 2 | 12.13 | Philippines |
 
 
