@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 April 2026*
+*Updated on  7 April 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -241,6 +241,7 @@
 | 1 | [Mississippi Cubing Dawgs 2024](https://www.worldcubeassociation.org/competitions/MississippiCubingDawgs2024) |
 | 1 | [MIT Fall 2018](https://www.worldcubeassociation.org/competitions/MITFall2018) |
 | 1 | [Moncton 2025](https://www.worldcubeassociation.org/competitions/Moncton2025) |
+| 1 | [Moncton 2026](https://www.worldcubeassociation.org/competitions/Moncton2026) |
 | 1 | [Moonbow Mega Kentucky 2024](https://www.worldcubeassociation.org/competitions/MoonbowMegaKentucky2024) |
 | 1 | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023) |
 | 1 | [Muggiò & Chill Open 2023](https://www.worldcubeassociation.org/competitions/MuggioChillOpen2023) |
@@ -272,6 +273,7 @@
 | 1 | [Parla Open 2022](https://www.worldcubeassociation.org/competitions/ParlaOpen2022) |
 | 1 | [PBQniversity of Alabama 2026](https://www.worldcubeassociation.org/competitions/PBQniversityofAlabama2026) |
 | 1 | [PBs in Palisades Open 2026](https://www.worldcubeassociation.org/competitions/PBsinPalisadesOpen2026) |
+| 1 | [PBs in Palisades Spring 2026](https://www.worldcubeassociation.org/competitions/PBsinPalisadesSpring2026) |
 | 1 | [Pegasus 2023](https://www.worldcubeassociation.org/competitions/Pegasus2023) |
 | 1 | [Penang Cube Masters 2024](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2024) |
 | 1 | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) |

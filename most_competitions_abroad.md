@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 April 2026*
+*Updated on  7 April 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -42,7 +42,7 @@
 | 8 | [Oleksii Bodeichuk](https://www.worldcubeassociation.org/persons/2024BODE01) |
 | 8 | [Blanka Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK04) |
 | 8 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
-| 7 | [Seven Yang (杨子熙)](https://www.worldcubeassociation.org/persons/2022YANG21) |
+| 7 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) |
 | 7 | [Paul Cotter](https://www.worldcubeassociation.org/persons/2022COTT06) |
 | 7 | [Finnbar McGovern](https://www.worldcubeassociation.org/persons/2022GOVE02) |
 | 7 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
@@ -50,16 +50,16 @@
 | 7 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 7 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
 | 7 | [Chun Yin Man](https://www.worldcubeassociation.org/persons/2023MANC03) |
+| 7 | [Seven Yang (杨子熙)](https://www.worldcubeassociation.org/persons/2022YANG21) |
 | 7 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
 | 7 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 6 | [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) |
-| 6 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 6 | [Dimitar Ignatov](https://www.worldcubeassociation.org/persons/2023IGNA05) |
+| 6 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 6 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 6 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 6 | [Daithi Heffernan](https://www.worldcubeassociation.org/persons/2018HEFF01) |
 | 6 | [Olin Long](https://www.worldcubeassociation.org/persons/2023LONG10) |
-| 6 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) |
 | 5 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) |
 | 5 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 5 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |

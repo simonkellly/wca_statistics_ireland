@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  4 April 2026*
+*Updated on  7 April 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -38,6 +38,7 @@
 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) | 9 517 km |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9 114 km |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 9 100 km |
+| [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | 9 028 km |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 8 983 km |
 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | 8 795 km |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 8 792 km |
@@ -76,7 +77,6 @@
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 4 929 km |
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | 4 929 km |
 | [Al Grogan](https://www.worldcubeassociation.org/persons/2018GROG01) | 4 901 km |
-| [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | 4 874 km |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 4 867 km |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 4 848 km |
 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) | 4 647 km |
