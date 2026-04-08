@@ -5,47 +5,47 @@
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 8.96 | 150 | 16.74 | United Kingdom |
-| 8.16 | 85 | 10.41 | United States |
+| 8.16 | 85 | 10.42 | United States |
 | 6.50 | 92 | 14.15 | Ireland |
 | 3.76 | 13 | 3.46 | Austria |
 | 3.11 | 22 | 7.08 | Australia |
 | 2.96 | 9 | 3.04 | Slovakia |
 | 2.60 | 44 | 16.95 | Germany |
 | 1.91 | 5 | 2.62 | Slovenia |
-| 1.89 | 2 | 1.06 | Croatia |
+| 1.88 | 2 | 1.06 | Croatia |
 | 1.72 | 11 | 6.41 | Poland |
 | 1.65 | 5 | 3.04 | Sweden |
-| 1.57 | 2 | 1.27 | Malaysia |
-| 1.49 | 13 | 8.73 | France |
+| 1.57 | 2 | 1.28 | Malaysia |
+| 1.49 | 13 | 8.74 | France |
 | 1.42 | 3 | 2.12 | Portugal |
-| 1.41 | 4 | 2.84 | Hungary |
-| 1.15 | 2 | 1.73 | Brazil |
+| 1.40 | 4 | 2.85 | Hungary |
+| 1.15 | 2 | 1.74 | Brazil |
 | 1.10 | 17 | 15.44 | Spain |
-| 0.99 | 7 | 7.06 | Denmark |
+| 0.99 | 7 | 7.07 | Denmark |
 | 0.91 | 4 | 4.40 | Norway |
 | 0.82 | 14 | 17.14 | Italy |
 | 0.81 | 5 | 6.14 | Switzerland |
 | 0.72 | 1 | 1.39 | Hong Kong, China |
 | 0.69 | 2 | 2.90 | Kenya |
 | 0.65 | 6 | 9.23 | United Arab Emirates |
-| 0.65 | 3 | 4.65 | New Zealand |
+| 0.64 | 3 | 4.65 | New Zealand |
 | 0.60 | 4 | 6.72 | India |
-| 0.58 | 1 | 1.71 | Bosnia and Herzegovina |
+| 0.58 | 1 | 1.72 | Bosnia and Herzegovina |
 | 0.55 | 2 | 3.64 | Israel |
 | 0.53 | 6 | 11.38 | Netherlands |
-| 0.49 | 4 | 8.15 | Finland |
+| 0.49 | 4 | 8.16 | Finland |
 | 0.48 | 1 | 2.08 | Estonia |
 | 0.48 | 9 | 18.89 | Canada |
 | 0.43 | 1 | 2.33 | Greece |
 | 0.43 | 3 | 7.04 | Multiple Countries (Europe) |
 | 0.39 | 3 | 7.70 | Ukraine |
-| 0.38 | 1 | 2.65 | Republic of Korea |
-| 0.35 | 6 | 17.10 | Belgium |
+| 0.38 | 1 | 2.66 | Republic of Korea |
+| 0.35 | 6 | 17.11 | Belgium |
 | 0.34 | 3 | 8.77 | Russia |
 | 0.29 | 2 | 6.81 | Multiple Countries (World) |
 | 0.29 | 1 | 3.42 | Romania |
-| 0.27 | 3 | 11.14 | Singapore |
-| 0.24 | 4 | 16.72 | Czech Republic |
+| 0.27 | 3 | 11.15 | Singapore |
+| 0.24 | 4 | 16.73 | Czech Republic |
 | 0.22 | 1 | 4.53 | Jordan |
 | 0.18 | 2 | 11.35 | South Africa |
 | 0.16 | 2 | 12.14 | Philippines |
