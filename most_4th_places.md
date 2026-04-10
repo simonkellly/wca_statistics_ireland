@@ -1,11 +1,11 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 April 2026*
+*Updated on 10 April 2026*
 
 | 4th places | Person |
 | ---: | :--- |
-| 68 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 69 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 53 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 53 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 36 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |

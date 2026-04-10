@@ -1,13 +1,14 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 April 2026*
+*Updated on 10 April 2026*
 
 
 ### Rubik's Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5.60 | **6.61** | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/all#e333_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.33 | **6.92** | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/all#e333_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.27 | **6.98** | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025/results/all#e333_f) | 6 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.86 | **7.18** | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024/results/all#e333_f) | 4 |
@@ -17,7 +18,6 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.07 | **7.33** | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018/results/all#e333_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.02 | **7.38** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e333_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6.29 | **7.57** | [Milwaukee First 2022](https://www.worldcubeassociation.org/competitions/MilwaukeeFirst2022/results/all#e333_f) | 5 |
-| [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 6.57 | **7.68** | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026/results/all#e333_f) | 4 |
 
 ### 2x2x2 Cube
 

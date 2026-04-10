@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 April 2026*
+*Updated on 10 April 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -144,6 +144,7 @@
 | 1 | [Frankfurt Cube Days 2024](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2024) |
 | 1 | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
 | 1 | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) |
+| 1 | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026) |
 | 1 | [FSUbers 10.0 2025](https://www.worldcubeassociation.org/competitions/FSUbers1002025) |
 | 1 | [FSUbers 2.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers202022) |
 | 1 | [FSUbers 3.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers302022) |
