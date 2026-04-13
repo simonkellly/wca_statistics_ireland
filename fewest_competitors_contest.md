@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -90,6 +90,7 @@
 | 1 | [Croatian Championship 2025](https://www.worldcubeassociation.org/competitions/CroatianChampionship2025) |
 | 1 | [Crystal Open 2018](https://www.worldcubeassociation.org/competitions/CrystalOpen2018) |
 | 1 | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
+| 1 | [Cube Against Cancer Roswell 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerRoswell2026) |
 | 1 | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) |
 | 1 | [Cubing in Cambridge 2023](https://www.worldcubeassociation.org/competitions/CubinginCambridge2023) |
 | 1 | [Cubing in Campbellsville 2023](https://www.worldcubeassociation.org/competitions/CubinginCampbellsville2023) |
