@@ -4,106 +4,106 @@
 
 | Competitions per year | Competitions | Years | Person |
 | ---: | ---: | ---: | :--- |
-| 20.11 | 63 | 3.13 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
-| 16.96 | 47 | 2.77 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
-| 14.86 | 40 | 2.69 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 14.78 | 46 | 3.11 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
-| 14.77 | 55 | 3.72 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
-| 13.21 | 53 | 4.01 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
-| 12.66 | 28 | 2.21 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) |
+| 20.10 | 63 | 3.13 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
+| 16.95 | 47 | 2.77 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
+| 14.85 | 40 | 2.69 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
+| 14.76 | 46 | 3.12 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 14.76 | 55 | 3.73 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
+| 13.20 | 53 | 4.01 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
+| 12.64 | 28 | 2.21 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) |
 | 12.56 | 55 | 4.38 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 12.46 | 13 | 1.04 | [Morgan Ó Torna Evans](https://www.worldcubeassociation.org/persons/2025EVAN04) |
-| 12.23 | 43 | 3.52 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
-| 12.23 | 24 | 1.96 | [Aoife Dowling](https://www.worldcubeassociation.org/persons/2024DOWL02) |
-| 12.14 | 41 | 3.38 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
-| 11.96 | 37 | 3.09 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) |
-| 11.89 | 52 | 4.38 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
-| 11.89 | 52 | 4.38 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
-| 11.20 | 49 | 4.38 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
-| 10.96 | 40 | 3.65 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
-| 10.84 | 41 | 3.78 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
-| 10.56 | 27 | 2.56 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 12.43 | 13 | 1.05 | [Morgan Ó Torna Evans](https://www.worldcubeassociation.org/persons/2025EVAN04) |
+| 12.22 | 43 | 3.52 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
+| 12.21 | 24 | 1.97 | [Aoife Dowling](https://www.worldcubeassociation.org/persons/2024DOWL02) |
+| 12.13 | 41 | 3.38 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
+| 11.95 | 37 | 3.10 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) |
+| 11.88 | 52 | 4.38 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
+| 11.88 | 52 | 4.38 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
+| 11.19 | 49 | 4.38 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
+| 10.95 | 40 | 3.65 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
+| 10.83 | 41 | 3.79 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
+| 10.55 | 27 | 2.56 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 10.51 | 46 | 4.38 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
-| 10.30 | 22 | 2.14 | [Rory Pappas](https://www.worldcubeassociation.org/persons/2024PAPP01) |
-| 10.14 | 37 | 3.65 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) |
+| 10.29 | 22 | 2.14 | [Rory Pappas](https://www.worldcubeassociation.org/persons/2024PAPP01) |
+| 10.13 | 37 | 3.65 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) |
 | 10.12 | 67 | 6.62 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
-| 9.98 | 15 | 1.50 | [Oisin West](https://www.worldcubeassociation.org/persons/2024WEST20) |
-| 9.97 | 40 | 4.01 | [Basil McGrath](https://www.worldcubeassociation.org/persons/2022MCGR01) |
-| 9.88 | 34 | 3.44 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
+| 9.96 | 15 | 1.51 | [Oisin West](https://www.worldcubeassociation.org/persons/2024WEST20) |
+| 9.96 | 40 | 4.02 | [Basil McGrath](https://www.worldcubeassociation.org/persons/2022MCGR01) |
+| 9.87 | 34 | 3.44 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 9.86 | 36 | 3.65 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
 | 9.81 | 139 | 14.17 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 9.68 | 81 | 8.36 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
-| 9.52 | 63 | 6.62 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
-| 9.39 | 24 | 2.56 | [Róisín Brennan](https://www.worldcubeassociation.org/persons/2023BREN08) |
+| 9.68 | 81 | 8.37 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 9.51 | 63 | 6.62 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
+| 9.38 | 24 | 2.56 | [Róisín Brennan](https://www.worldcubeassociation.org/persons/2023BREN08) |
 | 9.37 | 41 | 4.38 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
-| 9.20 | 81 | 8.80 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 9.16 | 25 | 2.73 | [Kenna Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) |
-| 9.14 | 19 | 2.08 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) |
-| 8.96 | 9 | 1.00 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
-| 8.96 | 9 | 1.00 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
-| 8.96 | 9 | 1.00 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
-| 8.96 | 9 | 1.00 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
-| 8.90 | 26 | 2.92 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
-| 8.77 | 32 | 3.65 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
-| 8.68 | 38 | 4.38 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
-| 8.67 | 26 | 3.00 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
-| 8.63 | 10 | 1.16 | [Lucas Harford](https://www.worldcubeassociation.org/persons/2025HARF02) |
-| 8.63 | 10 | 1.16 | [Thomas Tierney](https://www.worldcubeassociation.org/persons/2025TIER01) |
-| 8.54 | 92 | 10.78 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 9.20 | 81 | 8.81 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 9.15 | 25 | 2.73 | [Kenna Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) |
+| 9.13 | 19 | 2.08 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) |
+| 8.93 | 9 | 1.01 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
+| 8.93 | 9 | 1.01 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
+| 8.93 | 9 | 1.01 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
+| 8.93 | 9 | 1.01 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
+| 8.89 | 26 | 2.92 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
+| 8.76 | 32 | 3.65 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
+| 8.67 | 38 | 4.38 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
+| 8.66 | 26 | 3.00 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) |
+| 8.61 | 10 | 1.16 | [Lucas Harford](https://www.worldcubeassociation.org/persons/2025HARF02) |
+| 8.61 | 10 | 1.16 | [Thomas Tierney](https://www.worldcubeassociation.org/persons/2025TIER01) |
+| 8.53 | 92 | 10.78 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 8.53 | 30 | 3.52 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
-| 8.22 | 24 | 2.92 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) |
-| 8.16 | 54 | 6.62 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
-| 8.16 | 54 | 6.62 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
-| 8.14 | 28 | 3.44 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
-| 8.06 | 30 | 3.72 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
-| 8.03 | 19 | 2.37 | [Eoin McCooey](https://www.worldcubeassociation.org/persons/2023MCCO20) |
-| 7.94 | 22 | 2.77 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
-| 7.81 | 59 | 7.56 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
-| 7.72 | 68 | 8.80 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
-| 7.63 | 10 | 1.31 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
-| 7.54 | 20 | 2.65 | [Oisin James Waldron](https://www.worldcubeassociation.org/persons/2023WALD04) |
-| 7.54 | 46 | 6.10 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
-| 7.52 | 28 | 3.72 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
-| 7.50 | 14 | 1.87 | [Khusel-Erdene Unur-Erdene](https://www.worldcubeassociation.org/persons/2024UNUR01) |
-| 7.49 | 15 | 2.00 | [Sam O'Reilly](https://www.worldcubeassociation.org/persons/2024OREI01) |
-| 7.43 | 16 | 2.15 | [Oli Sweeney](https://www.worldcubeassociation.org/persons/2024SWEE01) |
-| 7.33 | 20 | 2.73 | [Efrain Tharian](https://www.worldcubeassociation.org/persons/2023THAR03) |
-| 7.23 | 16 | 2.21 | [Rian McDermott](https://www.worldcubeassociation.org/persons/2024MCDE03) |
-| 7.23 | 16 | 2.21 | [Vihaan Srivastava](https://www.worldcubeassociation.org/persons/2024SRIV01) |
-| 7.19 | 17 | 2.37 | [Mairéad Togher](https://www.worldcubeassociation.org/persons/2023TOGH01) |
-| 7.11 | 22 | 3.09 | [Joanna Byik](https://www.worldcubeassociation.org/persons/2023BYIK01) |
-| 7.11 | 10 | 1.41 | [Harry Lynch](https://www.worldcubeassociation.org/persons/2024LYNC03) |
-| 7.02 | 8 | 1.14 | [Sarah Dowling](https://www.worldcubeassociation.org/persons/2025DOWL01) |
+| 8.21 | 24 | 2.92 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) |
+| 8.15 | 54 | 6.62 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
+| 8.15 | 54 | 6.62 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
+| 8.13 | 28 | 3.44 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
+| 8.05 | 30 | 3.73 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
+| 8.02 | 19 | 2.37 | [Eoin McCooey](https://www.worldcubeassociation.org/persons/2023MCCO20) |
+| 7.93 | 22 | 2.77 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
+| 7.80 | 59 | 7.56 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
+| 7.72 | 68 | 8.81 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 7.61 | 10 | 1.31 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
+| 7.53 | 46 | 6.11 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
+| 7.53 | 20 | 2.66 | [Oisin James Waldron](https://www.worldcubeassociation.org/persons/2023WALD04) |
+| 7.51 | 28 | 3.73 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
+| 7.49 | 14 | 1.87 | [Khusel-Erdene Unur-Erdene](https://www.worldcubeassociation.org/persons/2024UNUR01) |
+| 7.48 | 15 | 2.00 | [Sam O'Reilly](https://www.worldcubeassociation.org/persons/2024OREI01) |
+| 7.42 | 16 | 2.16 | [Oli Sweeney](https://www.worldcubeassociation.org/persons/2024SWEE01) |
+| 7.32 | 20 | 2.73 | [Efrain Tharian](https://www.worldcubeassociation.org/persons/2023THAR03) |
+| 7.22 | 16 | 2.21 | [Rian McDermott](https://www.worldcubeassociation.org/persons/2024MCDE03) |
+| 7.22 | 16 | 2.21 | [Vihaan Srivastava](https://www.worldcubeassociation.org/persons/2024SRIV01) |
+| 7.18 | 17 | 2.37 | [Mairéad Togher](https://www.worldcubeassociation.org/persons/2023TOGH01) |
+| 7.10 | 22 | 3.10 | [Joanna Byik](https://www.worldcubeassociation.org/persons/2023BYIK01) |
+| 7.09 | 10 | 1.41 | [Harry Lynch](https://www.worldcubeassociation.org/persons/2024LYNC03) |
+| 7.01 | 8 | 1.14 | [Sarah Dowling](https://www.worldcubeassociation.org/persons/2025DOWL01) |
 | 6.97 | 24 | 3.44 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
-| 6.96 | 15 | 2.15 | [Liam McCooey](https://www.worldcubeassociation.org/persons/2024MCCO01) |
+| 6.95 | 15 | 2.16 | [Liam McCooey](https://www.worldcubeassociation.org/persons/2024MCCO01) |
 | 6.94 | 68 | 9.80 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
-| 6.91 | 8 | 1.16 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
-| 6.91 | 8 | 1.16 | [Ava Harford](https://www.worldcubeassociation.org/persons/2025HARF01) |
-| 6.91 | 8 | 1.16 | [Steven Harford](https://www.worldcubeassociation.org/persons/2025HARF03) |
-| 6.78 | 22 | 3.25 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) |
-| 6.76 | 12 | 1.77 | [Logan Moriarty](https://www.worldcubeassociation.org/persons/2024MORI08) |
-| 6.58 | 24 | 3.65 | [Tykhon Pererva](https://www.worldcubeassociation.org/persons/2022PERE32) |
+| 6.89 | 8 | 1.16 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
+| 6.89 | 8 | 1.16 | [Ava Harford](https://www.worldcubeassociation.org/persons/2025HARF01) |
+| 6.89 | 8 | 1.16 | [Steven Harford](https://www.worldcubeassociation.org/persons/2025HARF03) |
+| 6.77 | 22 | 3.25 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) |
+| 6.75 | 12 | 1.78 | [Logan Moriarty](https://www.worldcubeassociation.org/persons/2024MORI08) |
+| 6.57 | 24 | 3.65 | [Tykhon Pererva](https://www.worldcubeassociation.org/persons/2022PERE32) |
 | 6.50 | 19 | 2.92 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) |
 | 6.47 | 24 | 3.71 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
-| 6.36 | 7 | 1.10 | [Iollan Quinn](https://www.worldcubeassociation.org/persons/2025QUIN04) |
+| 6.34 | 7 | 1.10 | [Iollan Quinn](https://www.worldcubeassociation.org/persons/2025QUIN04) |
 | 6.30 | 23 | 3.65 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) |
-| 6.14 | 43 | 7.00 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 6.14 | 43 | 7.01 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 6.10 | 21 | 3.44 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
-| 6.07 | 19 | 3.13 | [Charley Kubiak-Hart](https://www.worldcubeassociation.org/persons/2023KUBI01) |
-| 6.03 | 13 | 2.15 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
+| 6.06 | 19 | 3.13 | [Charley Kubiak-Hart](https://www.worldcubeassociation.org/persons/2023KUBI01) |
+| 6.03 | 13 | 2.16 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
 | 5.94 | 26 | 4.38 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 5.87 | 40 | 6.81 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 5.87 | 40 | 6.81 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
-| 5.85 | 41 | 7.00 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
-| 5.84 | 8 | 1.37 | [Jacob Culleton Kaminski](https://www.worldcubeassociation.org/persons/2024KAMI05) |
-| 5.76 | 7 | 1.22 | [Eddie Dunne](https://www.worldcubeassociation.org/persons/2025DUNN01) |
-| 5.75 | 6 | 1.04 | [Kalle Dunne](https://www.worldcubeassociation.org/persons/2025DUNN05) |
+| 5.85 | 41 | 7.01 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
+| 5.83 | 8 | 1.37 | [Jacob Culleton Kaminski](https://www.worldcubeassociation.org/persons/2024KAMI05) |
+| 5.75 | 7 | 1.22 | [Eddie Dunne](https://www.worldcubeassociation.org/persons/2025DUNN01) |
+| 5.74 | 6 | 1.05 | [Kalle Dunne](https://www.worldcubeassociation.org/persons/2025DUNN05) |
 | 5.71 | 25 | 4.38 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
-| 5.64 | 21 | 3.72 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
-| 5.50 | 15 | 2.73 | [Tiarnan Hogan](https://www.worldcubeassociation.org/persons/2023HOGA04) |
+| 5.64 | 21 | 3.73 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
+| 5.49 | 15 | 2.73 | [Tiarnan Hogan](https://www.worldcubeassociation.org/persons/2023HOGA04) |
 | 5.46 | 19 | 3.48 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
-| 5.37 | 20 | 3.73 | [James O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE01) |
-| 5.37 | 20 | 3.73 | [Zayd Vawda](https://www.worldcubeassociation.org/persons/2022VAWD01) |
+| 5.36 | 20 | 3.73 | [James O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE01) |
+| 5.36 | 20 | 3.73 | [Zayd Vawda](https://www.worldcubeassociation.org/persons/2022VAWD01) |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_ireland" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
