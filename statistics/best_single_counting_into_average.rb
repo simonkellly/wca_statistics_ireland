@@ -27,9 +27,9 @@ class BestSingleCountingIntoAverage < GroupedStatistic
         GROUP BY result_id
       ) attempts
       JOIN IrishResults results ON results.id = attempts.result_id
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
-      JOIN competitions competition ON competition.id = competition_id
-      WHERE format_id = 'a'
+      JOIN persons person ON person.wca_id = results.person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = results.competition_id
+      WHERE results.format_id = 'a'
     SQL
   end
 

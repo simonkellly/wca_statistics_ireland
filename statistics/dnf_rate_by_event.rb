@@ -12,7 +12,7 @@ class DnfRateByEvent < Statistic
       SELECT
         event_id,
         SUM(CASE WHEN ra.value = -1 THEN 1 ELSE 0 END) dnfs,
-        SUM(CASE WHEN ra.value != -2 THEN 1 ELSE 0 END) attempts
+        SUM(CASE WHEN ra.value NOT IN (-2, 0) THEN 1 ELSE 0 END) attempts
       FROM IrishResults
       JOIN result_attempts ra ON ra.result_id = IrishResults.id
       GROUP BY event_id
