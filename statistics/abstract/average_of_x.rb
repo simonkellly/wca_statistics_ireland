@@ -43,7 +43,8 @@ class AverageOfX < GroupedStatistic
           data = { last_x_solves: [], best_aox: SolveTime::DNF, best_aox_solves: [] }
           attempts.each do |attempt|
             value = attempt["value"]
-              # Here we use raw values instead of SolveTime to improve the performance.
+            next if value == SolveTime::SKIPPED_VALUE
+            # Here we use raw values instead of SolveTime to improve the performance.
             data[:last_x_solves] << (value > 0 ? value : Float::INFINITY)
             if data[:last_x_solves].length == @solve_count
               current_aox = average(data[:last_x_solves], event_id)
