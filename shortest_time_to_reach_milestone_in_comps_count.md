@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 
 ### 100 competitions
@@ -19,6 +19,7 @@
 | 1400 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 1464 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 1561 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
+| 1596 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 2116 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 2171 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 2220 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
@@ -69,6 +70,7 @@
 | 287 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 288 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 295 | [Morgan Ó Torna Evans](https://www.worldcubeassociation.org/persons/2025EVAN04) |
+| 295 | [Venice Chia Hang Yuie](https://www.worldcubeassociation.org/persons/2025YUIE01) |
 | 308 | [Oisin West](https://www.worldcubeassociation.org/persons/2024WEST20) |
 | 309 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) |
 | 309 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) |
@@ -79,7 +81,6 @@
 | 337 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 337 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) |
 | 349 | [Cormac Coffey](https://www.worldcubeassociation.org/persons/2022COFF01) |
-| 349 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
 
 ### 5 competitions
 

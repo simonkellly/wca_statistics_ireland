@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -146,6 +146,7 @@
 | 1 | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
 | 1 | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) |
 | 1 | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026) |
+| 1 | [Freo Cube-Off 2026](https://www.worldcubeassociation.org/competitions/FreoCubeOff2026) |
 | 1 | [FSUbers 10.0 2025](https://www.worldcubeassociation.org/competitions/FSUbers1002025) |
 | 1 | [FSUbers 2.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers202022) |
 | 1 | [FSUbers 3.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers302022) |
@@ -427,6 +428,7 @@
 | 2 | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) |
 | 2 | [Kirkkonummi Time Trial 2023](https://www.worldcubeassociation.org/competitions/KirkkonummiTimeTrial2023) |
 | 2 | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024) |
+| 2 | [Leeds Spring 2026](https://www.worldcubeassociation.org/competitions/LeedsSpring2026) |
 | 2 | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |
 | 2 | [Lincolnshire Winter 2023](https://www.worldcubeassociation.org/competitions/LincolnshireWinter2023) |
 | 2 | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016) |
