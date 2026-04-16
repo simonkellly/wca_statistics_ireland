@@ -17,14 +17,25 @@ class Rankings < GroupedStatistic
         event_id,
         best single,
         average,
-        value1, value2, value3, value4, value5,
+        attempts.value1, attempts.value2, attempts.value3, attempts.value4, attempts.value5,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         country.name country
-      FROM IrishResults
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      FROM (
+        SELECT
+          result_id,
+          COALESCE(MAX(CASE WHEN attempt_number = 1 THEN value END), 0) value1,
+          COALESCE(MAX(CASE WHEN attempt_number = 2 THEN value END), 0) value2,
+          COALESCE(MAX(CASE WHEN attempt_number = 3 THEN value END), 0) value3,
+          COALESCE(MAX(CASE WHEN attempt_number = 4 THEN value END), 0) value4,
+          COALESCE(MAX(CASE WHEN attempt_number = 5 THEN value END), 0) value5
+        FROM result_attempts
+        GROUP BY result_id
+      ) attempts
+      JOIN IrishResults results ON results.id = attempts.result_id
+      JOIN persons person ON person.wca_id = results.person_id AND person.sub_id = 1
       JOIN countries country ON country.id = person.country_id
-      JOIN competitions competition ON competition.id = competition_id
+      JOIN competitions competition ON competition.id = results.competition_id
       #{@condition}
     SQL
   end

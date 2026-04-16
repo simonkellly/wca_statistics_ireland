@@ -21,15 +21,16 @@ class AverageOfX < GroupedStatistic
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         result.event_id,
-        value1, value2, value3, value4, value5
+        ra.value
       FROM IrishResults result
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
       JOIN round_types round_type ON round_type.id = round_type_id
+      JOIN result_attempts ra ON ra.result_id = result.id
       JOIN ranks_single ranks_single ON ranks_single.event_id = result.event_id AND ranks_single.person_id = result.person_id
       -- Take people from top 200 single for optimization reasons.
       WHERE ranks_single.world_rank <= 200 AND result.event_id NOT IN ('333mbf', '333mbo')
-      ORDER BY competition.start_date, round_type.rank
+      ORDER BY competition.start_date, round_type.rank, ra.attempt_number
     SQL
   end
 
@@ -38,23 +39,22 @@ class AverageOfX < GroupedStatistic
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
-        .map do |person_link, results|
+        .map do |person_link, attempts|
           data = { last_x_solves: [], best_aox: SolveTime::DNF, best_aox_solves: [] }
-          results
-            .flat_map { |result| (1..5).map { |n| result["value#{n}"] } }
-            .each do |value|
-              next if value == SolveTime::SKIPPED_VALUE
-              # Here we use raw values instead of SolveTime to improve the performance.
-              data[:last_x_solves] << (value > 0 ? value : Float::INFINITY)
-              if data[:last_x_solves].length == @solve_count
-                current_aox = average(data[:last_x_solves], event_id)
-                if current_aox < data[:best_aox]
-                  data[:best_aox] = current_aox
-                  data[:best_aox_solves] = data[:last_x_solves].dup
-                end
-                data[:last_x_solves].shift
+          attempts.each do |attempt|
+            value = attempt["value"]
+            next if value == SolveTime::SKIPPED_VALUE
+            # Here we use raw values instead of SolveTime to improve the performance.
+            data[:last_x_solves] << (value > 0 ? value : Float::INFINITY)
+            if data[:last_x_solves].length == @solve_count
+              current_aox = average(data[:last_x_solves], event_id)
+              if current_aox < data[:best_aox]
+                data[:best_aox] = current_aox
+                data[:best_aox_solves] = data[:last_x_solves].dup
               end
+              data[:last_x_solves].shift
             end
+          end
           [person_link, data[:best_aox], data[:best_aox_solves]]
         end
         .reject { |person_link, best_aox, best_aox_solves| best_aox == SolveTime::DNF }
