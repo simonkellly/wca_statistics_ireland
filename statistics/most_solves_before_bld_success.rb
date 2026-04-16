@@ -10,6 +10,7 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
     <<-SQL
       SELECT
         event_id,
+        IrishResults.id result_id,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         ra.value
       FROM IrishResults
@@ -19,7 +20,7 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
       JOIN events event ON event.id = event_id
       JOIN result_attempts ra ON ra.result_id = IrishResults.id
       WHERE event_id IN ('333bf', '444bf', '555bf', '333mbf')
-      ORDER BY competition.start_date, round_type.rank, ra.attempt_number
+      ORDER BY competition.start_date, round_type.rank, result_id, ra.attempt_number
     SQL
   end
 

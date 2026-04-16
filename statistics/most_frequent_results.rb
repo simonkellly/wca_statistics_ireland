@@ -21,10 +21,10 @@ class MostFrequentResults < GroupedStatistic
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
       counts_with_results = query_results
-        .select { |result| result["event_id"] == event_id }
-        .select { |result| result["value"] > 0 }
-        .group_by { |result| result["value"] }
-        .map { |value, results| [value, results.length] }
+        .select { |attempt| attempt["event_id"] == event_id }
+        .select { |attempt| attempt["value"] > 0 }
+        .group_by { |attempt| attempt["value"] }
+        .map { |value, attempts| [value, attempts.length] }
         .sort_by { |value, count| -count }
         .first(10)
         .map { |value, count| [count, SolveTime.new(event_id, :single, value).clock_format] }
