@@ -41,20 +41,19 @@ class AverageOfX < GroupedStatistic
         .group_by { |result| result["person_link"] }
         .map do |person_link, attempts|
           data = { last_x_solves: [], best_aox: SolveTime::DNF, best_aox_solves: [] }
-          attempts
-            .map { |a| a["value"] }
-            .each do |value|
+          attempts.each do |attempt|
+            value = attempt["value"]
               # Here we use raw values instead of SolveTime to improve the performance.
-              data[:last_x_solves] << (value > 0 ? value : Float::INFINITY)
-              if data[:last_x_solves].length == @solve_count
-                current_aox = average(data[:last_x_solves], event_id)
-                if current_aox < data[:best_aox]
-                  data[:best_aox] = current_aox
-                  data[:best_aox_solves] = data[:last_x_solves].dup
-                end
-                data[:last_x_solves].shift
+            data[:last_x_solves] << (value > 0 ? value : Float::INFINITY)
+            if data[:last_x_solves].length == @solve_count
+              current_aox = average(data[:last_x_solves], event_id)
+              if current_aox < data[:best_aox]
+                data[:best_aox] = current_aox
+                data[:best_aox_solves] = data[:last_x_solves].dup
               end
+              data[:last_x_solves].shift
             end
+          end
           [person_link, data[:best_aox], data[:best_aox_solves]]
         end
         .reject { |person_link, best_aox, best_aox_solves| best_aox == SolveTime::DNF }

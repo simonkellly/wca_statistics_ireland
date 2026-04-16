@@ -32,7 +32,7 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
         .map do |person_link, attempts|
           attempts_before_success = attempts
             .map { |a| a["value"] }
-            .select { |time| time == -1 || time > 0 } # Grab times only. Reject DNS solves.
+            .select { |time| time == -1 || time > 0 } # Keep DNF and successful attempts. Reject DNS/skipped solves.
             .find_index { |time| time > 0 }
           [attempts_before_success, person_link]
         end
