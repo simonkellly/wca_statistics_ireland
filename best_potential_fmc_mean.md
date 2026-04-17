@@ -1,7 +1,7 @@
 ## Best potential FMC mean
 
 *Note: The means are computed by taking the best result for each attempt in the given round.*
-*Updated on  1 March 2026*
+*Updated on 16 April 2026*
 
 | Mean | Attempt 1 | Attempt 2 | Attempt 3 | Competition |
 | :--: | :--: | :--: | :--: | :--- |
@@ -15,6 +15,7 @@
 | 32.67 | 27 | 36 | 35 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/all#e333fm_f) |
 | 33.33 | 34 | 38 | 28 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e333fm_f) |
 | 34.00 | 34 | 37 | 31 | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024/results/all#e333fm_f) |
+| 37.00 | 35 | 37 | 39 | [Southeast FMC Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2026/results/all#e333fm_f) |
 | 43.00 | 46 | 41 | 42 | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) |
 | 43.33 | 48 | 46 | 36 | [Newham Autumn - BBO 2023](https://www.worldcubeassociation.org/competitions/NewhamAutumnBBO2023/results/all#e333fm_f) |
 | 44.00 | 42 | 47 | 43 | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025/results/all#e333fm_f) |

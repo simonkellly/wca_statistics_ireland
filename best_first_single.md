@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  1 March 2026*
+*Updated on 16 April 2026*
 
 
 ### Rubik's Cube
@@ -46,8 +46,8 @@
 | 47.90 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 49.76 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 50.72 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
+| 51.17 | [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) |
 | 51.19 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
-| 52.59 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 
 ### 5x5x5 Cube
 
@@ -61,8 +61,8 @@
 | 1:30.48 | [Dominic Mckeon](https://www.worldcubeassociation.org/persons/2021MCKE03) |
 | 1:30.94 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 1:31.30 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 1:34.72 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 | 1:35.97 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
-| 1:38.10 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 
 ### 6x6x6 Cube
 
@@ -74,10 +74,10 @@
 | 2:38.87 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 2:39.99 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 2:40.93 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
+| 2:41.13 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 2:45.89 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 2:55.76 | [Reuben Kiernan](https://www.worldcubeassociation.org/persons/2024KIER01) |
 | 2:58.76 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
-| 3:01.31 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 
 ### 7x7x7 Cube
 
@@ -90,9 +90,9 @@
 | 4:21.13 | [Andrew Byrne](https://www.worldcubeassociation.org/persons/2019BYRN01) |
 | 4:35.38 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 4:43.50 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) |
+| 4:44.50 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 4:45.30 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
 | 4:52.72 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
-| 4:57.10 | [Iollan Quinn](https://www.worldcubeassociation.org/persons/2025QUIN04) |
 
 ### 3x3x3 Blindfolded
 
@@ -145,6 +145,7 @@
 | ---: | :--- |
 | 51.06 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 1:08.91 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 1:10.05 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
 | 1:11.78 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:15.06 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 1:18.76 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
@@ -152,7 +153,6 @@
 | 1:26.78 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 1:27.79 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 1:27.83 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
-| 1:28.10 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 
 ### Pyraminx
 
@@ -164,10 +164,10 @@
 | 4.58 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) |
 | 5.69 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 5.70 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
+| 5.82 | [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) |
 | 5.90 | [Brúin Fahy](https://www.worldcubeassociation.org/persons/2022FAHY01) |
 | 5.93 | [Ronan Casey](https://www.worldcubeassociation.org/persons/2025CASE04) |
 | 6.29 | [Daragh Mortimer](https://www.worldcubeassociation.org/persons/2022MORT01) |
-| 6.35 | [Rory Farren](https://www.worldcubeassociation.org/persons/2024FARR10) |
 
 ### Rubik's Clock
 
@@ -182,7 +182,7 @@
 | 9.96 | [Síobhradh Cunningham](https://www.worldcubeassociation.org/persons/2023CUNN04) |
 | 10.06 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 10.38 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
-| 11.09 | [Ben Messabih](https://www.worldcubeassociation.org/persons/2023MESS04) |
+| 10.84 | [Daragh Cummins](https://www.worldcubeassociation.org/persons/2025CUMM02) |
 
 ### Skewb
 

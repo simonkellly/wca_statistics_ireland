@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  1 March 2026*
+*Updated on 16 April 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -18,7 +18,7 @@
 | 10 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 10 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 9 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
-| 8 | [Oliver Bacon](https://www.worldcubeassociation.org/persons/2019BACO02) |
+| 8 | [Ollie Bacon](https://www.worldcubeassociation.org/persons/2019BACO02) |
 | 8 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 8 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
 | 6 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
