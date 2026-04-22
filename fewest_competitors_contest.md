@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -208,6 +208,7 @@
 | 1 | [Linz Nikolaus Day 2025](https://www.worldcubeassociation.org/competitions/LinzNikolausDay2025) |
 | 1 | [Lipovljani Newcomer Day 2025](https://www.worldcubeassociation.org/competitions/LipovljaniNewcomerDay2025) |
 | 1 | [Little Village Open 2022](https://www.worldcubeassociation.org/competitions/LittleVillageOpen2022) |
+| 1 | [Liverpool Spring 2026](https://www.worldcubeassociation.org/competitions/LiverpoolSpring2026) |
 | 1 | [Liverpool Winter 2023](https://www.worldcubeassociation.org/competitions/LiverpoolWinter2023) |
 | 1 | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |
 | 1 | [Louisiana Championship 2024](https://www.worldcubeassociation.org/competitions/LouisianaChampionship2024) |

@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -428,6 +428,7 @@
 | [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) | 372 km |
 | [Andrew Culligan](https://www.worldcubeassociation.org/persons/2022CULL02) | 369 km |
 | [Michelle O'Neill](https://www.worldcubeassociation.org/persons/2024ONEI06) | 368 km |
+| [Calum McMonagle](https://www.worldcubeassociation.org/persons/2024MCMO01) | 366 km |
 | [Daragh Wilson](https://www.worldcubeassociation.org/persons/2023WILS37) | 364 km |
 | [Conor Fox](https://www.worldcubeassociation.org/persons/2023FOXC02) | 358 km |
 | [Charlie Cahalane](https://www.worldcubeassociation.org/persons/2022CAHA01) | 357 km |
@@ -675,7 +676,6 @@
 | [Jakub Tomaszczuk](https://www.worldcubeassociation.org/persons/2023TOMA06) | 137 km |
 | [Aaron Bajzat](https://www.worldcubeassociation.org/persons/2022BAJZ01) | 136 km |
 | [Anaus Syed Muhammad](https://www.worldcubeassociation.org/persons/2023MUHA04) | 136 km |
-| [Calum McMonagle](https://www.worldcubeassociation.org/persons/2024MCMO01) | 135 km |
 | [Lincoln Thai](https://www.worldcubeassociation.org/persons/2024THAI04) | 135 km |
 | [Arihant Tripathi](https://www.worldcubeassociation.org/persons/2023TRIP02) | 134 km |
 | [Joe Cawley](https://www.worldcubeassociation.org/persons/2023CAWL01) | 133 km |
