@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | Finals | Person |
 | ---: | :--- |
-| 1013 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 1016 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 662 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 485 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 468 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
@@ -14,10 +14,10 @@
 | 374 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 359 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 347 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
-| 341 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 344 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 329 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 315 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
-| 298 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 300 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 293 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 288 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 282 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |

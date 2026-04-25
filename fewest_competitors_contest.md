@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -477,6 +477,7 @@
 | 4 | [Kewbz Scottish Championship 2025](https://www.worldcubeassociation.org/competitions/KewbzScottishChampionship2025) |
 | 4 | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 4 | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |
+| 4 | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026) |
 | 4 | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |
 | 4 | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) |
 | 4 | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 
 ### Rubik's Cube - Single
@@ -68,7 +68,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **20.00** | Ireland | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026) | 22.98, 21.34, 25.84, 20.00, 21.77 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **19.18** | Ireland | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026) | 25.89, 29.52, 27.57, 28.69, 19.18 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **22.58** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 26.34, 28.98, 23.55, 22.58, 27.70 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **24.29** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 29.97, 29.13, 29.18, 24.29, 29.80 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **25.66** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 31.03, 31.16, 34.72, 29.59, 25.66 |
@@ -98,7 +98,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **38.23** | Ireland | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026) | 40.72, 40.62, 39.26, 38.23, 43.19 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **37.71** | Ireland | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026) | 49.74, 39.23, 39.20, 44.70, 37.71 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **44.28** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 47.69, 44.28, 50.63, 52.79, 49.23 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **44.89** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 44.89, 52.87, 51.52, 45.78, 53.29 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **50.55** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 52.28, 54.16, 50.55, 56.67, 58.43 |

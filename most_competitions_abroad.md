@@ -1,26 +1,26 @@
 ## Most competitions abroad
 
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 85 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 86 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 52 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 44 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 35 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 30 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) |
 | 30 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 27 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
+| 21 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 21 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
-| 20 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 18 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 16 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 16 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 15 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
+| 14 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
-| 13 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
-| 13 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 14 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
 | 12 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |

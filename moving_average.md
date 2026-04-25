@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 
 ### Rubik's Cube
@@ -15,7 +15,7 @@
 | Moving average | Person |
 | ---: | :--- |
 | 6.75 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
-| 7.00 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 6.98 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 7.25 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 7.73 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 7.87 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
@@ -124,7 +124,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 23.88 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 24.58 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 26.59 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 29.72 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 30.51 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
@@ -179,7 +179,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 42.57 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 42.26 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 48.79 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 52.99 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 55.76 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
@@ -234,7 +234,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 1:15.86 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 1:15.90 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 1:41.36 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 1:42.63 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 1:44.25 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
@@ -279,8 +279,8 @@
 | 3:17.38 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 3:18.68 | [Efrain Tharian](https://www.worldcubeassociation.org/persons/2023THAR03) |
 | 3:19.36 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
-| 3:21.51 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 3:24.20 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
+| 3:24.48 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 3:31.24 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 3:35.01 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 3:38.06 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
@@ -289,7 +289,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 1:51.59 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 1:51.93 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 2:40.10 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 2:45.38 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 3:02.14 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
