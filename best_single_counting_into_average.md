@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### Rubik's Cube
@@ -30,8 +30,8 @@
 | 1.25 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Belfast Autumn 2025](https://www.worldcubeassociation.org/competitions/BelfastAutumn2025/results/by_person#2023DOWL01) |
 | 1.28 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2021DOHE02) |
 | 1.29 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2023DOWL01) |
+| 1.29 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2022HAIN04) |
 | 1.30 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026/results/by_person#2023DOWL01) |
-| 1.31 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2023DOWL01) |
 
 ### 4x4x4 Cube
 
@@ -83,15 +83,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 25.21 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026/results/by_person#2023MARA10) |
+| 25.24 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
 | 26.04 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
+| 26.66 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
+| 27.17 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
 | 27.25 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023MARA10) |
 | 27.29 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023MARA10) |
+| 27.29 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
 | 27.40 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
 | 27.41 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2023MARA10) |
-| 27.49 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2023MARA10) |
-| 27.50 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2023MARA10) |
-| 27.55 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2023MARA10) |
-| 27.56 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2023MARA10) |
 
 ### Pyraminx
 

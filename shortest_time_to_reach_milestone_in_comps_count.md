@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### 100 competitions
@@ -77,10 +77,10 @@
 | 322 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 323 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) |
 | 324 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
+| 330 | [Daragh Cummins](https://www.worldcubeassociation.org/persons/2025CUMM02) |
 | 332 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) |
 | 337 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 337 | [Hannah Hurst](https://www.worldcubeassociation.org/persons/2024HURS02) |
-| 349 | [Cormac Coffey](https://www.worldcubeassociation.org/persons/2022COFF01) |
 
 ### 5 competitions
 

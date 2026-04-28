@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### World
@@ -294,6 +294,8 @@
 | 0 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026/results/by_person#2021DOHE02) |
 | 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
 | 0 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023DOWL01) |
+| 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
+| 0 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023OLWI01) |
 
 ### Continental
 

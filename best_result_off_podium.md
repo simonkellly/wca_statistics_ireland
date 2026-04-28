@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### Rubik's Cube
@@ -147,12 +147,12 @@
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 34.76 | **37.73** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 11 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 36.58 | **40.62** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eminx_f) | 6 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 42.11 | **44.96** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eminx_f) | 10 |
+| [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 44.92 | **45.46** | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/all#eminx_f) | 4 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 41.25 | **45.85** | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#eminx_f) | 4 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 41.68 | **46.17** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#eminx_c) | 4 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 41.04 | **46.29** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 7 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 39.99 | **47.36** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 9 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 41.86 | **47.67** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eminx_f) | 12 |
-| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 43.13 | **48.13** | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/all#eminx_c) | 4 |
 
 ### Pyraminx
 
@@ -162,12 +162,12 @@
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 1.62 | **3.10** | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/all#epyram_f) | 4 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.30 | **3.11** | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/all#epyram_f) | 4 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.91 | **3.21** | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/all#epyram_f) | 5 |
+| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.45 | **3.22** | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/all#epyram_f) | 4 |
+| [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | 2.76 | **3.30** | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/all#epyram_f) | 5 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.29 | **3.34** | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/all#epyram_f) | 4 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.68 | **3.36** | [Manchester October 2025](https://www.worldcubeassociation.org/competitions/ManchesterOctober2025/results/all#epyram_f) | 5 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3.09 | **3.38** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#epyram_f) | 4 |
 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 2.57 | **3.40** | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/all#epyram_f) | 4 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 1.78 | **3.43** | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026/results/all#epyram_f) | 4 |
-| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3.15 | **3.44** | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 
@@ -250,6 +250,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **16/18 53:46** |  | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e333mbf_f) | 5 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **16/18 54:15** |  | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024/results/all#e333mbf_f) | 7 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **16/18 55:09** |  | [BLD Dobřejovice II 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceII2026/results/all#e333mbf_f) | 7 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **16/18 56:18** |  | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333mbf_f) | 11 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **19/25 50:20** |  | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333mbf_f) | 4 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **15/18 51:23** |  | [Scottish Championship Blind 2025](https://www.worldcubeassociation.org/competitions/ScottishChampionshipBlindOff2025/results/all#e333mbf_f) | 4 |
@@ -257,7 +258,6 @@
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **14/17 57:01** |  | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e333mbf_f) | 9 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **13/15 58:54** |  | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333mbf_f) | 4 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **12/14 49:02** |  | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e333mbf_f) | 5 |
-| [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **11/12 54:38** |  | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333mbf_f) | 6 |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_ireland" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
