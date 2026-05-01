@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 April 2026*
+*Updated on  1 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -326,6 +326,7 @@
 | 1 | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) |
 | 1 | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024) |
 | 1 | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) |
+| 1 | [Southeast Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2026) |
 | 1 | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) |
 | 1 | [Southeast FMC Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2026) |
 | 1 | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 April 2026*
+*Updated on  1 May 2026*
 
 
 ### Rubik's Cube - Single
@@ -305,9 +305,9 @@
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1.78** | Ireland | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026) | 3.61, 3.75, 3.25, 3.42, 1.78 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2.03** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 3.23, 2.03, 6.04, 6.41, 3.37 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2.13** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 2.13, 4.57, 3.98, DNF, 5.18 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2.17** | Ireland | [Southeast Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2026) | 6.09, 5.58, 2.17, 9.26, 6.19 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **2.34** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 5.00, 7.62, 4.42, 4.41, 2.34 |
 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | **2.38** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 4.94, 8.50, DNF, 2.38, 3.46 |
-| [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **2.47** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 4.36, 2.47, 16.32, 3.73, 2.76 |
 
 ### Pyraminx - Average
 

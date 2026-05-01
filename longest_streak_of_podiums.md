@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 28 April 2026*
+*Updated on  1 May 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -62,6 +62,7 @@
 | 7 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 2x2x2 Cube | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) |  |
 | 7 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 Cube | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | [Hungarian All-Rounder 8 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder82025) |
 | 7 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 One-Handed | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) |  |
+| 7 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Skewb | [Middle Georgia Mega Mania 2025](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaMegaMania2025) |  |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Pyraminx | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
@@ -78,7 +79,6 @@
 | 6 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | Skewb | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) |
 | 6 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | Clock | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) |
 | 6 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Skewb | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
-| 6 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Skewb | [Middle Georgia Mega Mania 2025](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaMegaMania2025) |  |
 | 6 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 4x4x4 Cube | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Guildford Open 2016](https://www.worldcubeassociation.org/competitions/GuildfordOpen2016) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
