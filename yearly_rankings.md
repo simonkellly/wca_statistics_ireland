@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 
 ### Rubik's Cube - Single
@@ -84,7 +84,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **22.03** | Ireland | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026) | 22.98, 21.34, 25.84, 20.00, 21.77 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **25.56** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 30.52, 24.46, 24.22, 25.93, 26.28 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **24.52** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 24.33, 25.97, 25.89, 23.35, 23.30 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **26.61** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 26.57, 26.02, 27.24, 27.60, 26.01 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **28.78** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 27.01, 30.43, 29.40, 29.37, 27.58 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **29.52** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 28.64, 28.91, 31.02, 32.71, 28.59 |
@@ -99,8 +99,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **37.71** | Ireland | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026) | 49.74, 39.23, 39.20, 44.70, 37.71 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **43.80** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 43.80, DNF, 50.78, 45.80, 51.87 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **44.28** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 47.69, 44.28, 50.63, 52.79, 49.23 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **44.89** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 44.89, 52.87, 51.52, 45.78, 53.29 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **50.55** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 52.28, 54.16, 50.55, 56.67, 58.43 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **52.66** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 59.93, 59.01, 1:04.09, 56.86, 52.66 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **53.72** | Mongolia | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:00.82, 1:16.60, 53.72, 1:11.60, 1:10.28 |
@@ -121,8 +121,8 @@
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **58.60** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 59.93, 59.01, 1:04.09, 56.86, 52.66 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **58.64** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:05.84, 56.49, 57.34, 58.66, 59.92 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **59.52** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 58.21, 58.43, 1:03.11, 55.61, 1:01.93 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:00.87** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 59.21, 1:01.00, 1:04.44, 59.73, 1:01.89 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **1:01.56** | Ukraine | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026) | 1:03.02, 1:06.86, 1:03.21, 58.46, 57.88 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:01.67** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 54.84, 1:02.70, 1:07.67, 59.41, 1:02.89 |
 
 ### 6x6x6 Cube - Single
 
@@ -130,9 +130,9 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:06.19** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 1:14.58, 1:17.29, 1:06.19 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **1:27.07** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:40.22, 1:27.07, 1:33.52 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:28.14** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 1:36.22, 1:33.09, 1:28.14 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:29.70** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 1:29.70, 1:33.02, 1:38.23 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:41.40** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:45.53, DNF, 1:41.40 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:44.14** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 1:44.14, 1:58.12, 1:53.59 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:42.21** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 1:55.08, 1:42.21, 1:42.52 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **1:45.27** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:52.96, 2:03.96, 1:45.27 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **1:47.13** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 1:47.13, 1:55.58, 1:47.71 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:53.20** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:02.82, 1:53.20, 2:01.95 |
@@ -144,15 +144,15 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:12.69** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 1:14.58, 1:17.29, 1:06.19 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1:32.48** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 1:36.22, 1:33.09, 1:28.14 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **1:33.60** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:40.22, 1:27.07, 1:33.52 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **1:33.65** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 1:29.70, 1:33.02, 1:38.23 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:46.60** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 1:55.08, 1:42.21, 1:42.52 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **1:50.14** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 1:47.13, 1:55.58, 1:47.71 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **1:51.95** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 1:44.14, 1:58.12, 1:53.59 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **1:54.06** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:52.96, 2:03.96, 1:45.27 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **1:57.20** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:56.36, 2:00.15, 1:55.10 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1:58.81** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 1:53.45, 2:03.32, 1:59.65 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2:07.41** | Mongolia | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 2:02.62, 2:09.01, 2:10.59 |
-| [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **2:12.70** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 2:10.06, 2:16.32, 2:11.71 |
 
 ### 7x7x7 Cube - Single
 
@@ -176,7 +176,7 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:49.37** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 1:45.89, 1:51.09, 1:51.13 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **2:29.00** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2:35.44, 2:27.28, 2:24.28 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **2:30.62** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 2:24.65, 2:32.15, 2:35.05 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2:36.92** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 2:51.24, 2:17.50, 2:42.03 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2:33.16** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 2:28.03, 2:29.01, 2:42.43 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **2:47.94** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 2:47.36, 2:42.13, 2:54.32 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **2:55.36** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 2:54.26, 3:03.72, 2:48.11 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2:57.85** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 3:08.54, 2:47.99, 2:57.02 |
@@ -204,9 +204,9 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **35.94** | Ireland | [Marrakech Open 2026](https://www.worldcubeassociation.org/competitions/MarrakechOpen2026) | 30.46, 38.78, 38.59, 29.56, DNF |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **43.06** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | DNF, 42.12, 42.97, 38.70, 44.10 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **43.03** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 50.97, 34.60, 38.94, 39.19, 1:27.55 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **50.10** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 45.08, 54.87, 50.35, 42.47, DNF |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **52.55** | Ireland | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) | DNF, 44.60, 1:01.05, 44.63, 51.96 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **53.77** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | DNF, 1:00.48, 46.61, 54.22, 46.48 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **1:03.82** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 58.17, 1:03.05, 1:21.50, 1:04.06, 1:04.35 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **1:18.68** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 1:23.33, 1:22.74, 1:20.98, 1:12.32, 1:09.24 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:30.70** | Mongolia | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 1:28.10, 1:27.60, 1:36.41, 1:54.96, 1:14.36 |
@@ -215,11 +215,11 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **22** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 30, 28, 22 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **24** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 24 |
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **26** | Ukraine | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 28, DNF, 26 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **27** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 27, 33, 31 |
 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | **27** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | DNF, 29, 27 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **28** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 28 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **35** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 36, 35, 39 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **35** | Ireland | [Southeast FMC Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2026) | 35, 37, 39 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **37** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 37 |
@@ -230,6 +230,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **26.67** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 30, 28, 22 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **30.33** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 27, 33, 31 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **36.67** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 36, 35, 39 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **37.00** | Ireland | [Southeast FMC Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2026) | 35, 37, 39 |
@@ -261,7 +262,7 @@
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **15.39** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 17.67, 15.10, 13.41, 13.10, 17.79 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **15.52** | Ireland | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026) | 10.71, 15.83, 15.68, 16.68, 15.04 |
 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) | **15.66** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 14.77, 18.91, 16.03, 14.77, 16.17 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **15.80** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 15.73, 17.54, 16.79, 14.88, 13.72 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **15.69** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 14.60, 15.75, 15.28, 16.03, 18.07 |
 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | **17.51** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 13.35, 20.62, 16.04, 28.61, 15.86 |
 
 ### Megaminx - Single
@@ -303,11 +304,11 @@
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | **1.41** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 3.78, 1.41, 2.16, 4.05, 1.81 |
 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | **1.62** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 2.64, 2.59, 3.68, 5.17, 1.62 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1.78** | Ireland | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026) | 3.61, 3.75, 3.25, 3.42, 1.78 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1.82** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 9.89, 6.04, 3.69, 1.82, 5.55 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2.03** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 3.23, 2.03, 6.04, 6.41, 3.37 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2.13** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 2.13, 4.57, 3.98, DNF, 5.18 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2.17** | Ireland | [Southeast Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2026) | 6.09, 5.58, 2.17, 9.26, 6.19 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **2.34** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 5.00, 7.62, 4.42, 4.41, 2.34 |
-| [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | **2.38** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 4.94, 8.50, DNF, 2.38, 3.46 |
 
 ### Pyraminx - Average
 
@@ -330,7 +331,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2.82** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | DNF, 4.69, 5.12, 2.82, 4.09 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3.26** | Ireland | [Leeds Spring 2026](https://www.worldcubeassociation.org/competitions/LeedsSpring2026) | 3.26, 4.08, 4.39, 8.04, 4.03 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **3.83** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 6.76, 3.83, DNF, 5.86, 6.03 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **3.82** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 4.75, 4.30, 12.87, 3.82, 6.21 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **4.06** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 4.22, 4.29, 5.28, 4.06, 5.01 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4.07** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 4.71, 4.07, 4.20, 4.84, 4.12 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **4.19** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 6.39, 7.62, 6.16, 5.43, 4.19 |
@@ -365,9 +366,9 @@
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **2.23** | Ukraine | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 2.23, 4.74, 4.12, 4.02, 2.60 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **2.40** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 2.40, 3.72, 2.80, 3.08, 4.19 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | **2.46** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 2.46, 3.97, 4.31, 3.06, 2.46 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2.46** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 12.91, 6.31, 2.46, 5.35, 6.19 |
 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | **2.47** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 2.47, 3.13, 6.25, 6.52, DNF |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **2.48** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 2.71, 3.32, 4.85, 5.84, 2.48 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2.54** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 3.02, 2.54, 3.79, 5.85, 4.07 |
 
 ### Skewb - Average
 
@@ -411,15 +412,23 @@
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | **11.24** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 9.24, 13.74, 10.75, DNF, 8.20 |
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **11.59** | United Kingdom | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 11.34, 9.90, 14.00, 13.20, 10.23 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **11.62** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 12.16, 11.78, 10.71, 10.93, 15.16 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **12.13** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | 8.81, 12.53, 16.87, 12.30, 11.57 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **11.66** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 11.14, 12.89, 18.20, 10.91, 10.94 |
 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | **12.18** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 10.25, 12.64, 8.26, 13.65, DNF |
 
 ### 4x4x4 Blindfolded - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4:02.46** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 4:02.46, 6:39.24, DNF |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3:42.30** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | DNF, DNF, 3:42.30 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3:54.50** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 3:54.50, 5:01.92, 7:29.74 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:42.87** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | DNF, DNF, 4:42.87 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **8:41.85** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 8:41.85, DNF, DNF |
+
+### 4x4x4 Blindfolded - Average
+
+| Person | Result | Country | Competition | Details |
+| :--- | ---: | :--- | :--- | :--- |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **5:28.72** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 3:54.50, 5:01.92, 7:29.74 |
 
 ### 5x5x5 Blindfolded - Single
 

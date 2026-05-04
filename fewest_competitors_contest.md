@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -491,6 +491,7 @@
 | 5 | [Marrakech Open 2026](https://www.worldcubeassociation.org/competitions/MarrakechOpen2026) |
 | 5 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 6 | [Glasgow Open 2022](https://www.worldcubeassociation.org/competitions/GlasgowOpen2022) |
+| 6 | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) |
 | 7 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 7 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
 | 8 | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) |

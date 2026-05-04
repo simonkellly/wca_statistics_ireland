@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -21,6 +21,7 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2** | 0 | 3 | 5 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 4 | 3 | 8 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1** | 2 | 0 | 3 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1** | 1 | 0 | 2 |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **1** | 1 | 0 | 2 |
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | **1** | 0 | 2 | 3 |
@@ -30,7 +31,6 @@
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **1** | 0 | 0 | 1 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | **0** | 2 | 1 | 3 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **0** | 2 | 0 | 2 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | **0** | 1 | 2 | 3 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **0** | 1 | 1 | 2 |
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 0 | 1 |
