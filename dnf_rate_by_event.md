@@ -1,6 +1,6 @@
 ## DNF rate by event
 
-*Updated on  7 May 2026*
+*Updated on 10 May 2026*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
@@ -13,11 +13,11 @@
 | 13.85 % | Rubik's Magic | 9 | 65 |
 | 9.21 % | 3x3x3 With Feet | 7 | 76 |
 | 5.32 % | Square-1 | 460 | 8639 |
-| 4.98 % | 7x7x7 Cube | 129 | 2589 |
-| 4.58 % | Megaminx | 511 | 11169 |
+| 4.97 % | 7x7x7 Cube | 129 | 2598 |
+| 4.56 % | Megaminx | 511 | 11199 |
 | 3.93 % | 3x3x3 One-Handed | 639 | 16263 |
-| 3.40 % | 6x6x6 Cube | 122 | 3591 |
-| 3.33 % | 5x5x5 Cube | 502 | 15072 |
+| 3.42 % | 6x6x6 Cube | 123 | 3597 |
+| 3.33 % | 5x5x5 Cube | 502 | 15087 |
 | 3.01 % | 4x4x4 Cube | 741 | 24642 |
 | 2.86 % | Master Magic | 1 | 35 |
 | 2.65 % | 2x2x2 Cube | 1361 | 51292 |

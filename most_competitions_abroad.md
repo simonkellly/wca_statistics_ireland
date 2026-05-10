@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on  7 May 2026*
+*Updated on 10 May 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 86 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 53 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 45 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 35 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
@@ -83,7 +83,7 @@
 | 4 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 4 | [Aidan Murdock Glynn](https://www.worldcubeassociation.org/persons/2022GLYN02) |
 | 4 | [Darragh Cronin](https://www.worldcubeassociation.org/persons/2022CRON01) |
-| 4 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
+| 4 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 4 | [Sahasra Avinashilingam](https://www.worldcubeassociation.org/persons/2024AVIN03) |
 | 4 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 4 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
@@ -94,13 +94,13 @@
 | 4 | [Antoni Nowicki](https://www.worldcubeassociation.org/persons/2023NOWI02) |
 | 4 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) |
 | 4 | [Gabriella Pita](https://www.worldcubeassociation.org/persons/2022PITA01) |
+| 4 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 4 | [Said Shytaj](https://www.worldcubeassociation.org/persons/2023SHYT01) |
 | 3 | [Grace Farrell](https://www.worldcubeassociation.org/persons/2009FARR01) |
 | 3 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
 | 3 | [Cian Doyle](https://www.worldcubeassociation.org/persons/2022DOYL02) |
 | 3 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 3 | [Octavian Butnaru](https://www.worldcubeassociation.org/persons/2022BUTN01) |
-| 3 | [Patrick Chishti](https://www.worldcubeassociation.org/persons/2023CHIS01) |
 | 3 | [Aditya Kulkarni](https://www.worldcubeassociation.org/persons/2022KULK10) |
 | 3 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
 | 3 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |

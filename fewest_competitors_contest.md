@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 May 2026*
+*Updated on 10 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -434,6 +434,7 @@
 | 2 | [Leeds Spring 2026](https://www.worldcubeassociation.org/competitions/LeedsSpring2026) |
 | 2 | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |
 | 2 | [Lincolnshire Winter 2023](https://www.worldcubeassociation.org/competitions/LincolnshireWinter2023) |
+| 2 | [Manchester Megaminx Day 2026](https://www.worldcubeassociation.org/competitions/ManchesterMegaminxDay2026) |
 | 2 | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016) |
 | 2 | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) |
 | 2 | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |
