@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### Rubik's Cube
@@ -37,8 +37,8 @@
 | 9.94 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 9.95 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 10.03 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
+| 10.12 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 10.16 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
-| 10.29 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 10.31 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 10.38 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 10.44 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
@@ -157,7 +157,7 @@
 | 43.91 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 44.00 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 44.26 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
-| 44.71 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 44.45 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 44.74 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 45.06 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
 | 45.29 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
@@ -469,6 +469,7 @@
 | 4.49 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 4.67 | [Mason Mulready](https://www.worldcubeassociation.org/persons/2021MULR01) |
 | 4.68 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
+| 4.91 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 4.95 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 5.08 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 5.15 | [Luke Daniel Savage](https://www.worldcubeassociation.org/persons/2022SAVA01) |
@@ -480,7 +481,6 @@
 | 5.33 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
 | 5.35 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) |
 | 5.35 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
-| 5.35 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 5.45 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 5.45 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 5.47 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) |
@@ -509,9 +509,9 @@
 | Moving average | Person |
 | ---: | :--- |
 | 3.78 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
-| 4.38 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 4.39 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
-| 5.21 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
+| 4.62 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
+| 5.18 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 5.48 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 5.52 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 5.75 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
@@ -564,7 +564,7 @@
 | Moving average | Person |
 | ---: | :--- |
 | 2.87 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
-| 2.88 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 2.95 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 3.26 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 3.35 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 3.37 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |

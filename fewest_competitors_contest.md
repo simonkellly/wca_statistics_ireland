@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -307,6 +307,7 @@
 | 1 | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) |
 | 1 | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) |
 | 1 | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024) |
+| 1 | [Scenic City Spring TN 2026](https://www.worldcubeassociation.org/competitions/ScenicCitySpringTN2026) |
 | 1 | [Scottish Championship Blind 2025](https://www.worldcubeassociation.org/competitions/ScottishChampionshipBlindOff2025) |
 | 1 | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
 | 1 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) |
@@ -342,6 +343,7 @@
 | 1 | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023) |
 | 1 | [Stevenage June 2025](https://www.worldcubeassociation.org/competitions/StevenageJune2025) |
 | 1 | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023) |
+| 1 | [Stevenage May 2026](https://www.worldcubeassociation.org/competitions/StevenageMay2026) |
 | 1 | [Stevenage Newcomers Sunday 2024](https://www.worldcubeassociation.org/competitions/StevenageNewcomersSunday2024) |
 | 1 | [Stevenage October 2025](https://www.worldcubeassociation.org/competitions/StevenageOctober2025) |
 | 1 | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022) |

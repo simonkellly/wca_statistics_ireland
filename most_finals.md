@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -39,8 +39,8 @@
 | 173 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 167 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 166 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
+| 161 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 157 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
-| 156 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 149 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
 | 148 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
 | 143 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |

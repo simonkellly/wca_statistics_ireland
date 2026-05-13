@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### Rubik's Cube - Single
@@ -331,7 +331,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2.82** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | DNF, 4.69, 5.12, 2.82, 4.09 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3.26** | Ireland | [Leeds Spring 2026](https://www.worldcubeassociation.org/competitions/LeedsSpring2026) | 3.26, 4.08, 4.39, 8.04, 4.03 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **3.82** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 4.75, 4.30, 12.87, 3.82, 6.21 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **3.69** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 3.95, 3.69, DNF, 6.04, 5.14 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **4.06** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 4.22, 4.29, 5.28, 4.06, 5.01 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **4.07** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 4.71, 4.07, 4.20, 4.84, 4.12 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **4.19** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 6.39, 7.62, 6.16, 5.43, 4.19 |
@@ -353,7 +353,7 @@
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **4.94** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 4.54, 5.16, 5.11, 4.52, DNF |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **5.02** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 4.96, 7.45, 4.93, 5.16, 4.87 |
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | **5.40** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 5.26, 6.07, 6.13, 4.87, 4.81 |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **5.99** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 6.39, 7.62, 6.16, 5.43, 4.19 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **5.61** | Mongolia | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 10.28, 5.06, 4.94, 6.71, 5.05 |
 
 ### Skewb - Single
 

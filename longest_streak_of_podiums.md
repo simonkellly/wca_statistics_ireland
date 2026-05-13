@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -50,6 +50,7 @@
 | 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 7x7x7 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 8 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2x2x2 Cube | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) |
 | 8 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2x2x2 Cube | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) |
+| 8 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Skewb | [Middle Georgia Mega Mania 2025](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaMegaMania2025) |  |
 | 7 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Pyraminx | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 7 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 6x6x6 Cube | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 7 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7x7x7 Cube | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
@@ -62,7 +63,6 @@
 | 7 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 2x2x2 Cube | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) |
 | 7 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 Cube | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | [Hungarian All-Rounder 8 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder82025) |
 | 7 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 One-Handed | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) |  |
-| 7 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Skewb | [Middle Georgia Mega Mania 2025](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaMegaMania2025) |  |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Pyraminx | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
