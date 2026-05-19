@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### Rubik's Cube
@@ -136,6 +136,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 42 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) |
 | 25 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025) |
 | 22 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |
 | 16 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) |
@@ -145,7 +146,6 @@
 | 6 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) |
 | 4 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) |
 | 4 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) |
-| 4 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | [Ruta Cubera: Aigües Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaAiguesOpen2025) |
 
 ### Pyraminx
 
@@ -225,6 +225,7 @@
 | 10 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) |
 | 8 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) |
 | 8 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) |
+| 8 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) |
 | 5 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) |
 
 ### 3x3x3 Multi-Blind

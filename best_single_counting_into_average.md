@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### Rubik's Cube
@@ -103,10 +103,10 @@
 | 1.71 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023OLWI01) |
 | 1.73 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 | 1.73 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023DOWL01) |
+| 1.73 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/by_person#2023OLWI01) |
 | 1.77 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 | 1.77 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026/results/by_person#2023OLWI01) |
 | 1.78 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Belfast Autumn 2025](https://www.worldcubeassociation.org/competitions/BelfastAutumn2025/results/by_person#2023OLWI01) |
-| 1.79 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026/results/by_person#2023OLWI01) |
 
 ### Rubik's Clock
 

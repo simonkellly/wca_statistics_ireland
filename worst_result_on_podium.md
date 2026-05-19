@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. results where the main statistic is DNF are ignored.*
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### Rubik's Cube
@@ -195,9 +195,9 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 4.55 | **6.36** | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022/results/podiums#eskewb) | 2 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3.73 | **6.18** | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025/results/podiums#eskewb) | 3 |
 | [Timothy Jefferson Ryan](https://www.worldcubeassociation.org/persons/2018RYAN04) | 4.21 | **6.09** | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/podiums#eskewb) | 3 |
+| [Kenna Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | 3.94 | **5.95** | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/podiums#eskewb) | 3 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 5.13 | **5.94** | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022/results/podiums#eskewb) | 1 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 4.42 | **5.86** | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022/results/podiums#eskewb) | 2 |
-| [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) | 2.95 | **5.86** | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017/results/podiums#eskewb) | 2 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3.44 | **5.93** | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/podiums#eskewb) | 2 |
 
 ### Square-1
 
@@ -242,7 +242,7 @@
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **13:22.00** | DNF | [Castletown Showdown 2025](https://www.worldcubeassociation.org/competitions/CastletownShowdown2025/results/podiums#e555bf) | 1 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **11:45.00** | DNF | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/podiums#e555bf) | 1 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **11:44.00** | DNF | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/podiums#e555bf) | 1 |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **9:59.11** | DNF | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025/results/podiums#e555bf) | 1 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **11:34.00** | DNF | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/podiums#e555bf) | 1 |
 
 ### 3x3x3 Multi-Blind
 

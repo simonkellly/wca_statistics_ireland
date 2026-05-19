@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### Rubik's Cube
@@ -30,9 +30,9 @@
 | 0.08 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.59 | 1.67 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2021DOHE02) |
 | 0.08 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 3.57 | 3.65 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2012YUTA01) |
 | 0.08 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) | 4.71 | 4.79 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2021WALS04) |
+| 0.09 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | 3.91 | 4.00 | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/by_person#2021SZAL01) |
 | 0.10 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | 4.16 | 4.26 | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2019SKOR02) |
 | 0.10 | [Hayden Barry](https://www.worldcubeassociation.org/persons/2022BARR11) | 4.79 | 4.89 | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/by_person#2022BARR11) |
-| 0.11 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 2.86 | 2.97 | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/by_person#2017MADD04) |
 
 ### 4x4x4 Cube
 

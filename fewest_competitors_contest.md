@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -153,6 +153,7 @@
 | 1 | [FSUbers 3.0 2022](https://www.worldcubeassociation.org/competitions/FSUbers302022) |
 | 1 | [FSUbers 5.0 2024](https://www.worldcubeassociation.org/competitions/FSUbers502024) |
 | 1 | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025) |
+| 1 | [GA Cubers BBQ 2026](https://www.worldcubeassociation.org/competitions/GACubersBBQ2026) |
 | 1 | [GEMS Modern Academy Open 2018](https://www.worldcubeassociation.org/competitions/GEMSModernAcademyOpen2018) |
 | 1 | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026) |
 | 1 | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) |
@@ -267,6 +268,7 @@
 | 1 | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) |
 | 1 | [Norwich Summer 2023](https://www.worldcubeassociation.org/competitions/NorwichSummer2023) |
 | 1 | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) |
+| 1 | [Novo mesto Open 2026](https://www.worldcubeassociation.org/competitions/NovomestoOpen2026) |
 | 1 | [NxN Minnesota 2022](https://www.worldcubeassociation.org/competitions/NxNMinnesota2022) |
 | 1 | [North Island Championship 2021](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2021) |
 | 1 | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### 100 competitions
@@ -14,6 +14,7 @@
 | Days | Person |
 | ---: | :--- |
 | 946 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
+| 1045 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 1225 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 1344 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 1400 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
