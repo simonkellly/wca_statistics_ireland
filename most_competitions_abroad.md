@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -13,7 +13,7 @@
 | 27 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
 | 22 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 21 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
-| 18 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
+| 19 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 17 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 16 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 16 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |

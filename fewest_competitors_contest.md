@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -382,6 +382,7 @@
 | 1 | [Vienna Autumn 2025](https://www.worldcubeassociation.org/competitions/ViennaAutumn2025) |
 | 1 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) |
 | 1 | [Vienna Fasching 2025](https://www.worldcubeassociation.org/competitions/ViennaFasching2025) |
+| 1 | [Vienna Frühling 2026](https://www.worldcubeassociation.org/competitions/ViennaFruhling2026) |
 | 1 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
 | 1 | [Vienna Summer 2024](https://www.worldcubeassociation.org/competitions/ViennaSummer2024) |
 | 1 | [Vienna Winter 2026](https://www.worldcubeassociation.org/competitions/ViennaWinter2026) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 
 ### Rubik's Cube - Single
@@ -44,10 +44,10 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **1.29** | Ireland | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026) | 1.29, 3.57, 2.13, 1.54, 2.77 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1.29** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 1.29, 1.29, DNF, 3.09, 1.59 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **1.30** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | DNF, 2.01, 1.30, 1.53, 2.36 |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **1.30** | Ireland | [Vienna Frühling 2026](https://www.worldcubeassociation.org/competitions/ViennaFruhling2026) | 3.22, 1.30, 3.47, 4.27, 3.10 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **1.31** | Ireland | [Cube Against Cancer Roswell 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerRoswell2026) | 6.86, 3.91, 1.31, 2.41, 4.17 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **1.31** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 2.42, 4.33, 1.31, 2.16, 2.56 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1.34** | Ireland | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026) | 1.34, 3.08, 2.92, 2.92, 3.89 |
-| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **1.37** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 4.68, 1.37, 2.68, 3.05, 2.94 |
 
 ### 2x2x2 Cube - Average
 
@@ -308,8 +308,8 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1.82** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 9.89, 6.04, 3.69, 1.82, 5.55 |
 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | **1.88** | Ireland | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) | 3.93, 1.88, 5.03, 3.32, 3.44 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2.03** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 3.23, 2.03, 6.04, 6.41, 3.37 |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **2.07** | Ireland | [Vienna Frühling 2026](https://www.worldcubeassociation.org/competitions/ViennaFruhling2026) | 5.03, 2.07, 4.40, 5.43, 6.46 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **2.13** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 2.13, 4.57, 3.98, DNF, 5.18 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **2.17** | Ireland | [Southeast Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2026) | 6.09, 5.58, 2.17, 9.26, 6.19 |
 
 ### Pyraminx - Average
 

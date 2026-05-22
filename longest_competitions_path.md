@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -84,8 +84,8 @@
 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | 4 507 km |
 | [Jamie Barton](https://www.worldcubeassociation.org/persons/2021BART03) | 4 330 km |
 | [Basil McGrath](https://www.worldcubeassociation.org/persons/2022MCGR01) | 4 286 km |
+| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 4 213 km |
 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | 4 198 km |
-| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 4 150 km |
 | [Liam Fleck](https://www.worldcubeassociation.org/persons/2023FLEC01) | 4 112 km |
 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 4 072 km |
 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | 3 983 km |

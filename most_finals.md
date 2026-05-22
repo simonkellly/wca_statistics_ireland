@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -76,10 +76,10 @@
 | 78 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 77 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 77 | [Matthew Horan](https://www.worldcubeassociation.org/persons/2017HORA02) |
+| 77 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 76 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 73 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) |
 | 72 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
-| 70 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 68 | [Róisín Brennan](https://www.worldcubeassociation.org/persons/2023BREN08) |
 | 68 | [Brandon McCann](https://www.worldcubeassociation.org/persons/2022MCCA04) |
 | 68 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) |
