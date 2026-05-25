@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -157,6 +157,7 @@
 | [James O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE01) | 1 696 km |
 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) | 1 630 km |
 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) | 1 626 km |
+| [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) | 1 625 km |
 | [Odhran Albuquerque](https://www.worldcubeassociation.org/persons/2023ALBU01) | 1 619 km |
 | [Anthony Tighe](https://www.worldcubeassociation.org/persons/2021TIGH01) | 1 614 km |
 | [Mairéad Togher](https://www.worldcubeassociation.org/persons/2023TOGH01) | 1 613 km |
@@ -165,7 +166,6 @@
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 1 546 km |
 | [Jack Leger](https://www.worldcubeassociation.org/persons/2022LEGE01) | 1 536 km |
 | [Tiarnan Hogan](https://www.worldcubeassociation.org/persons/2023HOGA04) | 1 498 km |
-| [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) | 1 471 km |
 | [Diarmuid Leo Clarke](https://www.worldcubeassociation.org/persons/2022CLAR14) | 1 466 km |
 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 1 446 km |
 | [Alex Kelly](https://www.worldcubeassociation.org/persons/2022KELL03) | 1 416 km |

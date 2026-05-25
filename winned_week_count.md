@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### Rubik's Cube
@@ -74,10 +74,10 @@
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 3 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 3 |
+| [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) | 3 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 2 |
 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) | 2 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2 |
-| [Rian Sloan](https://www.worldcubeassociation.org/persons/2017SLOA04) | 2 |
 
 ### 5x5x5 Cube
 
@@ -344,13 +344,13 @@
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3 |
 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 3 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 3 |
+| [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) | 3 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 2 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 2 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 2 |
 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | 2 |
-| [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) | 2 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 1 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 1 |
 

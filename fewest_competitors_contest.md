@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -189,6 +189,7 @@
 | 1 | [Hungarian Open 2023](https://www.worldcubeassociation.org/competitions/HungarianOpen2023) |
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
 | 1 | [High Wycombe Open 2018](https://www.worldcubeassociation.org/competitions/HWO2018) |
+| 1 | [IndalOpen O'Clock 2026](https://www.worldcubeassociation.org/competitions/IndalOpenOClock2026) |
 | 1 | [Isle of Wight Summer 2023](https://www.worldcubeassociation.org/competitions/IsleofWightSummer2023) |
 | 1 | [Israel Championship 2022](https://www.worldcubeassociation.org/competitions/IsraelChampionship2022) |
 | 1 | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023) |
