@@ -1,14 +1,14 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 | Person | Distance |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 203 733 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 84 900 km |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 56 933 km |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 49 029 km |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 50 429 km |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 47 278 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 44 986 km |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 42 858 km |
@@ -16,7 +16,7 @@
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 40 178 km |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 39 277 km |
 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) | 37 816 km |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 33 286 km |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 33 682 km |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 27 255 km |
 | [Alex Brett](https://www.worldcubeassociation.org/persons/2023BRET04) | 25 007 km |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 24 390 km |
@@ -34,8 +34,8 @@
 | [Yoel Shafat](https://www.worldcubeassociation.org/persons/2022SHAF01) | 12 119 km |
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 11 696 km |
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 11 592 km |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 10 975 km |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 9 979 km |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 9 575 km |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 9 573 km |
 | [Rafael Velosa Maeda Cavalcanti](https://www.worldcubeassociation.org/persons/2023CAVA03) | 9 517 km |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 9 479 km |

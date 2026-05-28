@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### Rubik's Cube
@@ -34,7 +34,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 39 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 29 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 30 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 18 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 17 |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 9 |
@@ -163,7 +163,7 @@
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 24 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 21 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 13 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 6 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 7 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 6 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 5 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 4 |
@@ -291,9 +291,9 @@
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 8 |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 6 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 5 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 5 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 4 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 4 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 4 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 4 |
 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) | 3 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3 |
@@ -341,6 +341,7 @@
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 5 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 4 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 4 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 3 |
 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 3 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 3 |
@@ -348,7 +349,6 @@
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 2 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 2 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 2 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 2 |
 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | 2 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 1 |
@@ -362,9 +362,9 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 4 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 4 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 3 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 2 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 2 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 2 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 1 |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 1 |

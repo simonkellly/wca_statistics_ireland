@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -474,6 +474,7 @@
 | 3 | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) |
 | 3 | [Glasgow Spring 2023](https://www.worldcubeassociation.org/competitions/GlasgowSpring2023) |
 | 3 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) |
+| 3 | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026) |
 | 3 | [Manchester October 2025](https://www.worldcubeassociation.org/competitions/ManchesterOctober2025) |
 | 3 | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024) |
 | 3 | [Ruta Cubera: Aigües Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaAiguesOpen2025) |

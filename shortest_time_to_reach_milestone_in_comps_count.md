@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### 100 competitions
@@ -24,6 +24,7 @@
 | 2116 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 2171 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 2220 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
+| 2271 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 2297 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 2444 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 2569 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |

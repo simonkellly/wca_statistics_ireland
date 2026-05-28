@@ -1,19 +1,19 @@
 ## Most finals
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 | Finals | Person |
 | ---: | :--- |
 | 1027 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 687 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 694 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 485 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 468 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 458 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 431 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 414 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 379 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
-| 369 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
-| 356 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 377 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
+| 363 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 352 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 340 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 315 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |

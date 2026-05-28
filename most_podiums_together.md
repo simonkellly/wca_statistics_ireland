@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### Pairs
@@ -21,7 +21,7 @@
 | 19 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) & [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 19 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) & [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 18 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) & [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
-| 17 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) & [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 18 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) & [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 16 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) & [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) & [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 14 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) & [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |

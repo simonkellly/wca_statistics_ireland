@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -13,12 +13,12 @@
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **5** | 6 | 8 | 19 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **3** | 7 | 2 | 12 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **3** | 3 | 5 | 11 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3** | 2 | 2 | 7 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3** | 3 | 2 | 8 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **3** | 2 | 0 | 5 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **2** | 9 | 9 | 20 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **2** | 1 | 1 | 4 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2** | 0 | 3 | 5 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2** | 0 | 5 | 7 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 5 | 1 | 7 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 4 | 3 | 8 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1** | 2 | 0 | 3 |
@@ -33,6 +33,7 @@
 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | **0** | 2 | 1 | 3 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | **0** | 1 | 2 | 3 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **0** | 1 | 1 | 2 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **0** | 1 | 0 | 1 |
 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 0 | 1 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | **0** | 1 | 0 | 1 |
 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) | **0** | 1 | 0 | 1 |

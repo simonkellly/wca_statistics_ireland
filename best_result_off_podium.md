@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### Rubik's Cube
@@ -106,8 +106,8 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **32.33** | 43.57 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 5 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **32.83** | 51.28 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 6 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **32.83** | 51.28 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e333bf_f) | 6 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **34.60** | 43.03 | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e333bf_f) | 13 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **34.60** | 43.03 | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e333bf_f) | 13 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **32.97** | DNF | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026/results/all#e333bf_f) | 4 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **32.97** | DNF | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026/results/all#e333bf_f) | 4 |
 
 ### 3x3x3 Fewest Moves
 
@@ -175,6 +175,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.80 | **4.36** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eclock_f) | 4 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.61 | **4.52** | [Leeds Spring 2026](https://www.worldcubeassociation.org/competitions/LeedsSpring2026/results/all#eclock_f) | 4 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2.99 | **4.54** | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026/results/all#eclock_c) | 5 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.68 | **4.89** | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/all#eclock_f) | 4 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3.92 | **4.90** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 11 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4.65 | **4.90** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eclock_f) | 5 |
@@ -182,7 +183,6 @@
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 3.50 | **5.09** | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/all#eclock_f) | 4 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4.08 | **5.10** | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/all#eclock_f) | 5 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4.14 | **5.16** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#eclock_f) | 8 |
-| [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | 3.97 | **5.22** | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/all#eclock_f) | 5 |
 
 ### Skewb
 
@@ -227,7 +227,7 @@
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:27.82** | DNF | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#e444bf_f) | 5 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **4:30.29** | DNF | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/all#e444bf_f) | 4 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:42.87** | DNF | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e444bf_f) | 11 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **5:20.62** | DNF | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444bf_f) | 47 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **5:14.32** | DNF | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026/results/all#e444bf_f) | 4 |
 
 ### 5x5x5 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -13,9 +13,9 @@
 | 33 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 32 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 31 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
+| 29 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 29 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
-| 28 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
-| 25 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 26 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 23 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 20 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 20 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
