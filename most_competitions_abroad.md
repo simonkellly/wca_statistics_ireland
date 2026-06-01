@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -15,9 +15,9 @@
 | 21 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 19 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
 | 17 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
+| 17 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 16 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 16 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 14 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 14 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |

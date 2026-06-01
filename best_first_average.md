@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 
 ### Rubik's Cube
@@ -181,9 +181,9 @@
 | 7.16 | [Alfie Mackenzie](https://www.worldcubeassociation.org/persons/2021MACK02) |
 | 7.21 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
 | 7.30 | [Ted Bloxam](https://www.worldcubeassociation.org/persons/2019BLOX01) |
+| 7.30 | [Emmett Kelly](https://www.worldcubeassociation.org/persons/2026KELL06) |
 | 7.49 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 7.50 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
-| 7.57 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 
 ### Square-1
 

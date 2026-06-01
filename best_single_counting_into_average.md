@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 
 ### Rubik's Cube
@@ -10,13 +10,13 @@
 | 5.57 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026/results/by_person#2022FURE01) |
 | 5.62 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2022FURE01) |
 | 5.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
+| 5.78 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026/results/by_person#2022FURE01) |
 | 5.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2012BEAH01) |
 | 5.88 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025/results/by_person#2012BEAH01) |
 | 5.91 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022FURE01) |
 | 5.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2012BEAH01) |
 | 5.97 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022FURE01) |
 | 5.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
-| 6.04 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
 
 ### 2x2x2 Cube
 
@@ -115,13 +115,13 @@
 | 2.67 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022CORR06) |
 | 2.75 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022CORR06) |
 | 2.87 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
+| 2.96 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026/results/by_person#2022CORR06) |
 | 2.98 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2022CORR06) |
+| 3.00 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026/results/by_person#2022CORR06) |
 | 3.02 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2022CORR06) |
 | 3.03 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
 | 3.05 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022CORR06) |
 | 3.08 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2022CORR06) |
-| 3.09 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
-| 3.10 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2022CORR06) |
 
 ### Skewb
 

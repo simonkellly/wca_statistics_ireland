@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 
 ### Rubik's Cube
@@ -55,6 +55,7 @@
 | ---: | :--- | :--- |
 | 48 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |
 | 31 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) |
+| 29 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) |
 | 23 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) |
 | 17 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) |
 | 16 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) |
@@ -62,7 +63,6 @@
 | 8 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |
 | 8 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Cubing with the Cats Sun 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2023) |
 | 3 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) |
-| 3 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) |
 
 ### 6x6x6 Cube
 

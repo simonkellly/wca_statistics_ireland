@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 
 ### Rubik's Cube
@@ -24,6 +24,7 @@
 | Diff | Person | Single | Average | results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.06 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.35 | 2.41 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2021LOFT01) |
+| 0.06 | [Darragh Galvin](https://www.worldcubeassociation.org/persons/2025GALV06) | 5.24 | 5.30 | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026/results/by_person#2025GALV06) |
 | 0.07 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 2.02 | 2.09 | [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022/results/by_person#2021DOHE02) |
 | 0.07 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 4.51 | 4.58 | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019/results/by_person#2019FROG01) |
 | 0.07 | [Evan McDermott](https://www.worldcubeassociation.org/persons/2024MCDE10) | 4.51 | 4.58 | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2024MCDE10) |
@@ -32,7 +33,6 @@
 | 0.08 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) | 4.71 | 4.79 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2021WALS04) |
 | 0.09 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | 3.91 | 4.00 | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/by_person#2021SZAL01) |
 | 0.10 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | 4.16 | 4.26 | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2019SKOR02) |
-| 0.10 | [Hayden Barry](https://www.worldcubeassociation.org/persons/2022BARR11) | 4.79 | 4.89 | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023/results/by_person#2022BARR11) |
 
 ### 4x4x4 Cube
 

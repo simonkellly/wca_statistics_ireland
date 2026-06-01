@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -48,6 +48,7 @@
 | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) | 5.67 | 91 | Ireland |
 | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022) | 5.66 | 64 | Ireland |
 | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 5.65 | 72 | Ireland |
+| [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 5.64 | 64 | Ireland |
 | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 5.64 | 50 | Ireland |
 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) | 5.63 | 89 | Ireland |
 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) | 5.62 | 99 | Ireland |
