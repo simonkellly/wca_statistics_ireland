@@ -1,47 +1,47 @@
 ## Competitions per year by country
 
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.17 | 155 | 16.90 | United Kingdom |
-| 8.42 | 89 | 10.57 | United States |
+| 8.42 | 89 | 10.58 | United States |
 | 6.71 | 96 | 14.31 | Ireland |
-| 3.87 | 14 | 3.61 | Austria |
+| 3.87 | 14 | 3.62 | Austria |
+| 3.28 | 4 | 1.22 | Croatia |
 | 3.18 | 23 | 7.24 | Australia |
-| 2.82 | 9 | 3.19 | Slovakia |
+| 2.81 | 9 | 3.20 | Slovakia |
 | 2.57 | 44 | 17.11 | Germany |
-| 2.47 | 3 | 1.22 | Croatia |
-| 2.16 | 6 | 2.77 | Slovenia |
-| 1.88 | 6 | 3.19 | Sweden |
+| 2.16 | 6 | 2.78 | Slovenia |
+| 1.88 | 6 | 3.20 | Sweden |
 | 1.83 | 12 | 6.57 | Poland |
-| 1.57 | 14 | 8.89 | France |
-| 1.40 | 2 | 1.43 | Malaysia |
-| 1.33 | 4 | 3.00 | Hungary |
-| 1.32 | 3 | 2.27 | Portugal |
-| 1.15 | 18 | 15.59 | Spain |
+| 1.57 | 14 | 8.90 | France |
+| 1.39 | 2 | 1.43 | Malaysia |
+| 1.33 | 4 | 3.01 | Hungary |
+| 1.32 | 3 | 2.28 | Portugal |
+| 1.15 | 18 | 15.60 | Spain |
 | 1.06 | 2 | 1.89 | Brazil |
-| 0.97 | 7 | 7.22 | Denmark |
+| 0.97 | 7 | 7.23 | Denmark |
 | 0.88 | 4 | 4.56 | Norway |
 | 0.81 | 14 | 17.30 | Italy |
 | 0.79 | 5 | 6.30 | Switzerland |
 | 0.65 | 2 | 3.06 | Kenya |
-| 0.65 | 1 | 1.54 | Hong Kong, China |
-| 0.64 | 6 | 9.38 | United Arab Emirates |
-| 0.62 | 3 | 4.80 | New Zealand |
-| 0.58 | 4 | 6.87 | India |
-| 0.53 | 1 | 1.87 | Bosnia and Herzegovina |
+| 0.65 | 1 | 1.55 | Hong Kong, China |
+| 0.64 | 6 | 9.39 | United Arab Emirates |
+| 0.62 | 3 | 4.81 | New Zealand |
+| 0.58 | 4 | 6.88 | India |
+| 0.53 | 1 | 1.88 | Bosnia and Herzegovina |
 | 0.53 | 2 | 3.80 | Israel |
-| 0.52 | 6 | 11.53 | Netherlands |
+| 0.52 | 6 | 11.54 | Netherlands |
 | 0.48 | 4 | 8.31 | Finland |
-| 0.47 | 9 | 19.04 | Canada |
-| 0.45 | 1 | 2.23 | Estonia |
+| 0.47 | 9 | 19.05 | Canada |
+| 0.45 | 1 | 2.24 | Estonia |
 | 0.42 | 3 | 7.20 | Multiple Countries (Europe) |
 | 0.40 | 1 | 2.49 | Greece |
-| 0.38 | 3 | 7.85 | Ukraine |
+| 0.38 | 3 | 7.86 | Ukraine |
 | 0.36 | 1 | 2.81 | Republic of Korea |
 | 0.35 | 6 | 17.26 | Belgium |
-| 0.34 | 3 | 8.92 | Russia |
+| 0.34 | 3 | 8.93 | Russia |
 | 0.30 | 5 | 16.88 | Czech Republic |
 | 0.29 | 2 | 6.97 | Multiple Countries (World) |
 | 0.28 | 1 | 3.58 | Romania |

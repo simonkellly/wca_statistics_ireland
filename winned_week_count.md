@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 
 ### Rubik's Cube
@@ -117,13 +117,13 @@
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 3 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 3 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 3 |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 3 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 2 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 2 |
 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | 2 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 2 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 2 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 2 |
-| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 2 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 1 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 1 |
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 1 |
@@ -245,11 +245,11 @@
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 4 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 4 |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 3 |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 3 |
 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | 2 |
 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | 2 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 2 |
 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) | 2 |
-| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 2 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 1 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | 1 |
 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 1 |

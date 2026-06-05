@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 
 ### Rubik's Cube
@@ -172,7 +172,7 @@
 | 46.28 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
 | 46.31 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 47.07 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
-| 47.90 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
+| 47.94 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 48.49 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 
 ### 5x5x5 Cube
@@ -224,11 +224,11 @@
 | 1:30.24 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
 | 1:30.90 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 1:31.97 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
-| 1:32.20 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 1:32.23 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 1:32.41 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 1:32.44 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 1:32.51 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
+| 1:32.84 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 
 ### 6x6x6 Cube
 
