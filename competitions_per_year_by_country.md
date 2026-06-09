@@ -5,24 +5,24 @@
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.17 | 155 | 16.91 | United Kingdom |
-| 8.41 | 89 | 10.58 | United States |
+| 8.41 | 89 | 10.59 | United States |
 | 6.70 | 96 | 14.32 | Ireland |
 | 3.86 | 14 | 3.63 | Austria |
 | 3.25 | 4 | 1.23 | Croatia |
 | 3.17 | 23 | 7.25 | Australia |
-| 2.81 | 9 | 3.21 | Slovakia |
+| 2.80 | 9 | 3.21 | Slovakia |
 | 2.57 | 44 | 17.12 | Germany |
 | 2.15 | 6 | 2.79 | Slovenia |
 | 1.87 | 6 | 3.21 | Sweden |
 | 1.82 | 12 | 6.58 | Poland |
-| 1.57 | 14 | 8.90 | France |
-| 1.39 | 2 | 1.44 | Malaysia |
-| 1.33 | 4 | 3.01 | Hungary |
+| 1.57 | 14 | 8.91 | France |
+| 1.38 | 2 | 1.45 | Malaysia |
+| 1.33 | 4 | 3.02 | Hungary |
 | 1.31 | 3 | 2.29 | Portugal |
 | 1.15 | 18 | 15.61 | Spain |
-| 1.05 | 2 | 1.90 | Brazil |
-| 0.97 | 7 | 7.23 | Denmark |
-| 0.88 | 4 | 4.57 | Norway |
+| 1.05 | 2 | 1.91 | Brazil |
+| 0.97 | 7 | 7.24 | Denmark |
+| 0.87 | 4 | 4.57 | Norway |
 | 0.81 | 14 | 17.31 | Italy |
 | 0.79 | 5 | 6.31 | Switzerland |
 | 0.65 | 2 | 3.07 | Kenya |
@@ -30,22 +30,22 @@
 | 0.64 | 6 | 9.40 | United Arab Emirates |
 | 0.62 | 3 | 4.82 | New Zealand |
 | 0.58 | 4 | 6.89 | India |
-| 0.53 | 1 | 1.88 | Bosnia and Herzegovina |
+| 0.53 | 1 | 1.89 | Bosnia and Herzegovina |
 | 0.52 | 2 | 3.81 | Israel |
 | 0.52 | 6 | 11.55 | Netherlands |
-| 0.48 | 4 | 8.32 | Finland |
+| 0.48 | 4 | 8.33 | Finland |
 | 0.47 | 9 | 19.06 | Canada |
 | 0.44 | 1 | 2.25 | Estonia |
 | 0.42 | 3 | 7.21 | Multiple Countries (Europe) |
 | 0.40 | 1 | 2.50 | Greece |
 | 0.38 | 3 | 7.87 | Ukraine |
-| 0.35 | 1 | 2.82 | Republic of Korea |
-| 0.35 | 6 | 17.27 | Belgium |
+| 0.35 | 1 | 2.83 | Republic of Korea |
+| 0.35 | 6 | 17.28 | Belgium |
 | 0.34 | 3 | 8.94 | Russia |
-| 0.30 | 5 | 16.89 | Czech Republic |
+| 0.30 | 5 | 16.90 | Czech Republic |
 | 0.29 | 2 | 6.98 | Multiple Countries (World) |
 | 0.28 | 1 | 3.59 | Romania |
-| 0.27 | 3 | 11.31 | Singapore |
+| 0.27 | 3 | 11.32 | Singapore |
 | 0.21 | 1 | 4.70 | Jordan |
 | 0.17 | 2 | 11.52 | South Africa |
 | 0.16 | 2 | 12.31 | Philippines |
