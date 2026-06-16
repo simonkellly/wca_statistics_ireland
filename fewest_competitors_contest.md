@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -276,6 +276,7 @@
 | 1 | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025) |
 | 1 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024) |
 | 1 | [Oldham County Cubing 2024](https://www.worldcubeassociation.org/competitions/OldhamCountyCubing2024) |
+| 1 | [Onelooking in Olomouc 2026](https://www.worldcubeassociation.org/competitions/OnelookinginOlomouc2026) |
 | 1 | [Oslo Open 2023](https://www.worldcubeassociation.org/competitions/OsloOpen2023) |
 | 1 | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) |
 | 1 | [Paris Open 2022](https://www.worldcubeassociation.org/competitions/ParisOpen2022) |

@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -69,14 +69,14 @@
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) |
 | 6 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 6 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 3x3x3 Blindfolded | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
-| 6 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | Megaminx | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |  |
 | 6 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | Megaminx | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) |
+| 6 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | Megaminx | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |  |
 | 6 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | Clock | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) |
 | 6 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | Skewb | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023) | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) |
 | 6 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | Skewb | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024) | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) |
 | 6 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | Square-1 | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
-| 6 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3x3x3 Multi-Blind | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |  |
 | 6 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | Skewb | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) |
+| 6 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3x3x3 Multi-Blind | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |  |
 | 6 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | Clock | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) |
 | 6 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4x4x4 Cube | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) |  |
 | 6 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 6x6x6 Cube | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) |  |

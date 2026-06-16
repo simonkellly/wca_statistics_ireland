@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 
 ### Rubik's Cube
@@ -24,10 +24,10 @@
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 4 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 4 |
 | [Daithi Heffernan](https://www.worldcubeassociation.org/persons/2018HEFF01) | 4 |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 4 |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | 3 |
 | [Samuel Dalton](https://www.worldcubeassociation.org/persons/2017DALT01) | 3 |
 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | 3 |
-| [Valerio Locatelli](https://www.worldcubeassociation.org/persons/2018LOCA01) | 3 |
 
 ### 2x2x2 Cube
 
@@ -45,12 +45,12 @@
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 7 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 5 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 5 |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 5 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 4 |
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 4 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 4 |
 | [Christofor Gabriel Costea](https://www.worldcubeassociation.org/persons/2022COST03) | 4 |
 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) | 4 |
-| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 4 |
 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | 3 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3 |
 
@@ -268,6 +268,7 @@
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 8 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 5 |
 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | 4 |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 4 |
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | 4 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 3 |
 | [Aisling Chan](https://www.worldcubeassociation.org/persons/2014CHAN05) | 3 |
@@ -277,7 +278,6 @@
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 3 |
 | [Judah von Meding](https://www.worldcubeassociation.org/persons/2022MEDI02) | 3 |
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 3 |
-| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 3 |
 
 ### Rubik's Clock
 
@@ -298,11 +298,11 @@
 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) | 3 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 3 |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 3 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 2 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 2 |
 | [Seán Mooney](https://www.worldcubeassociation.org/persons/2015MOON02) | 2 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 2 |
-| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 2 |
 
 ### Skewb
 
@@ -318,6 +318,7 @@
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 7 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 6 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 6 |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 4 |
 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | 3 |
 | [Annika Stein](https://www.worldcubeassociation.org/persons/2014STEI03) | 3 |
 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) | 3 |
@@ -326,7 +327,6 @@
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 3 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 3 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3 |
-| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 3 |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | 2 |
 
 ### Square-1

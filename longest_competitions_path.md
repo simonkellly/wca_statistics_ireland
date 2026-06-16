@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -63,12 +63,12 @@
 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 6 038 km |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 5 945 km |
 | [Aidan Murdock Glynn](https://www.worldcubeassociation.org/persons/2022GLYN02) | 5 886 km |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 5 806 km |
 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) | 5 606 km |
 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | 5 589 km |
 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) | 5 517 km |
 | [Eddie Dunne](https://www.worldcubeassociation.org/persons/2025DUNN01) | 5 457 km |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 5 437 km |
-| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 5 374 km |
 | [Robert Riordan](https://www.worldcubeassociation.org/persons/2016RIOR01) | 5 331 km |
 | [Donnacha Ryan](https://www.worldcubeassociation.org/persons/2023RYAN04) | 5 289 km |
 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) | 5 249 km |
