@@ -5,47 +5,47 @@
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.14 | 155 | 16.95 | United Kingdom |
-| 8.38 | 89 | 10.63 | United States |
-| 6.68 | 96 | 14.36 | Ireland |
-| 3.82 | 14 | 3.67 | Austria |
+| 8.37 | 89 | 10.63 | United States |
+| 6.68 | 96 | 14.37 | Ireland |
+| 3.81 | 14 | 3.67 | Austria |
 | 3.15 | 23 | 7.29 | Australia |
-| 3.15 | 4 | 1.27 | Croatia |
+| 3.14 | 4 | 1.27 | Croatia |
 | 2.77 | 9 | 3.25 | Slovakia |
 | 2.56 | 44 | 17.16 | Germany |
 | 2.12 | 6 | 2.83 | Slovenia |
 | 1.85 | 6 | 3.25 | Sweden |
 | 1.81 | 12 | 6.62 | Poland |
-| 1.57 | 14 | 8.94 | France |
-| 1.35 | 2 | 1.48 | Malaysia |
+| 1.56 | 14 | 8.95 | France |
+| 1.35 | 2 | 1.49 | Malaysia |
 | 1.31 | 4 | 3.06 | Hungary |
 | 1.29 | 3 | 2.33 | Portugal |
 | 1.15 | 18 | 15.65 | Spain |
-| 1.03 | 2 | 1.94 | Brazil |
-| 0.96 | 7 | 7.27 | Denmark |
+| 1.03 | 2 | 1.95 | Brazil |
+| 0.96 | 7 | 7.28 | Denmark |
 | 0.87 | 4 | 4.61 | Norway |
-| 0.81 | 14 | 17.35 | Italy |
+| 0.81 | 14 | 17.36 | Italy |
 | 0.79 | 5 | 6.35 | Switzerland |
-| 0.64 | 2 | 3.11 | Kenya |
+| 0.64 | 2 | 3.12 | Kenya |
 | 0.64 | 6 | 9.44 | United Arab Emirates |
-| 0.63 | 1 | 1.60 | Hong Kong, China |
+| 0.62 | 1 | 1.60 | Hong Kong, China |
 | 0.62 | 3 | 4.86 | New Zealand |
 | 0.58 | 4 | 6.93 | India |
-| 0.52 | 1 | 1.92 | Bosnia and Herzegovina |
 | 0.52 | 2 | 3.85 | Israel |
+| 0.52 | 1 | 1.93 | Bosnia and Herzegovina |
 | 0.52 | 6 | 11.59 | Netherlands |
-| 0.48 | 4 | 8.36 | Finland |
+| 0.48 | 4 | 8.37 | Finland |
 | 0.47 | 9 | 19.10 | Canada |
 | 0.44 | 1 | 2.29 | Estonia |
-| 0.41 | 3 | 7.25 | Multiple Countries (Europe) |
+| 0.41 | 3 | 7.26 | Multiple Countries (Europe) |
 | 0.39 | 1 | 2.54 | Greece |
 | 0.38 | 3 | 7.91 | Ukraine |
-| 0.35 | 6 | 16.93 | Czech Republic |
-| 0.35 | 1 | 2.86 | Republic of Korea |
-| 0.35 | 6 | 17.31 | Belgium |
+| 0.35 | 6 | 16.94 | Czech Republic |
+| 0.35 | 1 | 2.87 | Republic of Korea |
+| 0.35 | 6 | 17.32 | Belgium |
 | 0.33 | 3 | 8.98 | Russia |
-| 0.28 | 2 | 7.02 | Multiple Countries (World) |
+| 0.28 | 2 | 7.03 | Multiple Countries (World) |
 | 0.28 | 1 | 3.63 | Romania |
-| 0.26 | 3 | 11.35 | Singapore |
+| 0.26 | 3 | 11.36 | Singapore |
 | 0.21 | 1 | 4.74 | Jordan |
 | 0.17 | 2 | 11.56 | South Africa |
 | 0.16 | 2 | 12.35 | Philippines |
