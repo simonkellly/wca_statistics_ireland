@@ -1,23 +1,23 @@
 ## DNF rate by event
 
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
-| 88.94 % | 5x5x5 Blindfolded | 193 | 217 |
-| 82.52 % | 4x4x4 Blindfolded | 439 | 532 |
-| 66.56 % | 3x3x3 Blindfolded | 2711 | 4073 |
+| 88.99 % | 5x5x5 Blindfolded | 194 | 218 |
+| 82.62 % | 4x4x4 Blindfolded | 442 | 535 |
+| 66.45 % | 3x3x3 Blindfolded | 2713 | 4083 |
 | 36.10 % | 3x3x3 Fewest Moves | 304 | 842 |
-| 35.66 % | 3x3x3 Multi-Blind | 148 | 415 |
+| 35.49 % | 3x3x3 Multi-Blind | 148 | 417 |
 | 13.85 % | Rubik's Magic | 9 | 65 |
-| 13.77 % | Rubik's Clock | 2293 | 16648 |
+| 13.78 % | Rubik's Clock | 2294 | 16650 |
 | 9.21 % | 3x3x3 With Feet | 7 | 76 |
 | 5.30 % | Square-1 | 467 | 8811 |
 | 5.03 % | 7x7x7 Cube | 132 | 2626 |
 | 4.53 % | Megaminx | 511 | 11291 |
 | 3.89 % | 3x3x3 One-Handed | 645 | 16602 |
 | 3.39 % | 6x6x6 Cube | 123 | 3630 |
-| 3.31 % | 5x5x5 Cube | 508 | 15354 |
+| 3.32 % | 5x5x5 Cube | 510 | 15363 |
 | 3.02 % | 4x4x4 Cube | 755 | 25034 |
 | 2.86 % | Master Magic | 1 | 35 |
 | 2.64 % | 2x2x2 Cube | 1375 | 52007 |

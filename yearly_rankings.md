@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 
 ### Rubik's Cube - Single
@@ -192,7 +192,7 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **27.09** | Ireland | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026) | 39.33, 56.61, DNF, 27.09, 38.72 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **27.73** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 58.10, DNF, 27.73, 36.16, 48.69 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **27.82** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | DNF, 27.82, 47.51, DNF, DNF |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **42.17** | Ireland | [BLD Dobřejovice II 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceII2026) | 1:09.58, DNF, DNF, 42.17, 47.14 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **37.83** | Ireland | [BLD Dobřejovice III 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIII2026) | 47.72, DNF, 37.83, 43.88, 38.68 |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | **52.42** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 52.42, DNF, DNF, 1:14.69, DNF |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **53.99** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | DNF, DNF, 53.99, 1:20.33, 1:00.66 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **58.02** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 58.02, 1:03.97, 59.10, DNF, 2:58.82 |
@@ -206,8 +206,8 @@
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **31.15** | Ireland | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) | 30.38, 30.87, 25.43, 32.20, DNF |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **35.94** | Ireland | [Marrakech Open 2026](https://www.worldcubeassociation.org/competitions/MarrakechOpen2026) | 30.46, 38.78, 38.59, 29.56, DNF |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **43.03** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 50.97, 34.60, 38.94, 39.19, 1:27.55 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **43.43** | Ireland | [BLD Dobřejovice III 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIII2026) | 47.72, DNF, 37.83, 43.88, 38.68 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **44.89** | Ireland | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026) | 39.33, 56.61, DNF, 27.09, 38.72 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **52.55** | Ireland | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) | DNF, 44.60, 1:01.05, 44.63, 51.96 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **1:03.82** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 58.17, 1:03.05, 1:21.50, 1:04.06, 1:04.35 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **1:18.68** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 1:23.33, 1:22.74, 1:20.98, 1:12.32, 1:09.24 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **1:30.70** | Mongolia | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 1:28.10, 1:27.60, 1:36.41, 1:54.96, 1:14.36 |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 
 ### Rubik's Cube
@@ -91,9 +91,9 @@
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 6 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 5 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 4 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 4 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 4 |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 3 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 3 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | 3 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 2 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 2 |
@@ -162,7 +162,7 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 24 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 24 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 21 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 13 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 14 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 7 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 6 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 5 |
@@ -386,7 +386,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 26 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 27 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 10 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 5 |

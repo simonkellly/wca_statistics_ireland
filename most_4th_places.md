@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -45,6 +45,7 @@
 | 6 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 6 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 5 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
+| 5 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 5 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 5 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 5 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
@@ -54,7 +55,6 @@
 | 4 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
 | 4 | [Natan Regiec](https://www.worldcubeassociation.org/persons/2022REGI03) |
 | 4 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
-| 4 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 3 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) |
 | 3 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) |
 | 3 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
