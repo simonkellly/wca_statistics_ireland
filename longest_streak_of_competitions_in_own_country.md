@@ -1,13 +1,13 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 | competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
-| 38 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |  |
-| 32 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |  |
-| 22 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) |  |
+| 39 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | Ireland | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024) |  |
+| 33 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | Ireland | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |  |
+| 23 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | Ireland | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) |  |
 | 17 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | Ireland | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025) |
 | 13 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | Ireland | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) |
 | 12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | Ireland | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) |

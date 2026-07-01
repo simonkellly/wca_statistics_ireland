@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### Rubik's Cube
@@ -53,45 +53,45 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 38.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025/results/by_person#2012BEAH01) |
+| 38.67 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2012BEAH01) |
 | 39.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2012BEAH01) |
 | 39.20 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026/results/by_person#2012BEAH01) |
 | 39.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026/results/by_person#2012BEAH01) |
 | 39.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2012BEAH01) |
 | 39.26 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
 | 39.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
+| 39.43 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2012BEAH01) |
 | 39.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
-| 39.49 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [La Montagne Open 2025](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2025/results/by_person#2012BEAH01) |
-| 39.51 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 
 ### 3x3x3 One-Handed
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 9.85 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023BROW36) |
 | 9.91 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2023BROW36) |
 | 9.97 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2012BEAH01) |
 | 10.43 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017MADD04) |
 | 10.44 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2023BROW36) |
 | 10.49 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024/results/by_person#2012YUTA01) |
+| 10.52 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023BROW36) |
 | 10.56 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2023BROW36) |
 | 10.59 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2023MARA10) |
 | 10.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023/results/by_person#2012BEAH01) |
-| 10.65 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/by_person#2012YUTA01) |
-| 10.73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2012BEAH01) |
 
 ### Megaminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 23.57 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
 | 25.21 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026/results/by_person#2023MARA10) |
 | 25.24 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
+| 25.62 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
+| 25.73 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
 | 26.04 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
+| 26.43 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
+| 26.60 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
 | 26.66 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
 | 27.17 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
-| 27.25 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023MARA10) |
-| 27.29 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023MARA10) |
-| 27.29 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
-| 27.40 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
-| 27.41 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026/results/by_person#2023MARA10) |
 
 ### Pyraminx
 
@@ -121,7 +121,7 @@
 | 3.02 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2022CORR06) |
 | 3.03 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
 | 3.05 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022CORR06) |
-| 3.08 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2022CORR06) |
+| 3.05 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2022CORR06) |
 
 ### Skewb
 

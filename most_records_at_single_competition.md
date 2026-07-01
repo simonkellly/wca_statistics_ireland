@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### World
@@ -297,6 +297,7 @@
 | 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
 | 0 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023OLWI01) |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/by_person#2020BERM02) |
+| 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
 
 ### Continental
 

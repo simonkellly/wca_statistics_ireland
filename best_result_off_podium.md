@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### Rubik's Cube
@@ -152,7 +152,7 @@
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 41.68 | **46.17** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#eminx_c) | 4 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 41.04 | **46.29** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 7 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 39.99 | **47.36** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 9 |
-| [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 41.86 | **47.67** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eminx_f) | 12 |
+| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 42.29 | **47.38** | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/all#eminx_f) | 4 |
 
 ### Pyraminx
 

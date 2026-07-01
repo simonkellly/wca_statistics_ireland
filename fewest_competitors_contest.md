@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -382,6 +382,7 @@
 | 1 | [Vanderbilt Winter 2026](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2026) |
 | 1 | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025) |
 | 1 | [VIC State Championship 2025](https://www.worldcubeassociation.org/competitions/VICStateChampionship2025) |
+| 1 | [Victoria Gardens Kyiv 2026](https://www.worldcubeassociation.org/competitions/VictoriaGardensKyiv2026) |
 | 1 | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024) |
 | 1 | [Vienna Autumn 2025](https://www.worldcubeassociation.org/competitions/ViennaAutumn2025) |
 | 1 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) |

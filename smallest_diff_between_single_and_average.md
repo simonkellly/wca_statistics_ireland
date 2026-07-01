@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### Rubik's Cube
@@ -131,13 +131,13 @@
 | 0.16 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 30.59 | 30.75 | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025/results/by_person#2019NAYA01) |
 | 0.34 | [Kenna Lyons](https://www.worldcubeassociation.org/persons/2023LYON02) | 1:26.63 | 1:26.97 | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026/results/by_person#2023LYON02) |
 | 0.38 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.47 | 28.85 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
+| 0.41 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 25.52 | 25.93 | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
 | 0.54 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 44.92 | 45.46 | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2019MCMO01) |
 | 0.55 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 35.87 | 36.42 | [Vienna Autumn 2025](https://www.worldcubeassociation.org/competitions/ViennaAutumn2025/results/by_person#2022KIRR02) |
 | 0.64 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 1:46.55 | 1:47.19 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2017FITZ01) |
 | 0.66 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 42.41 | 43.07 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2021LOFT01) |
 | 0.67 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 45.61 | 46.28 | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2019MCMO01) |
 | 0.69 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | 1:52.36 | 1:53.05 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022HUGH08) |
-| 0.74 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 1:18.25 | 1:18.99 | [Middle Georgia Speedsolving 2024](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaSpeedsolving2024/results/by_person#2023MANG02) |
 
 ### Pyraminx
 
@@ -163,11 +163,11 @@
 | 0.10 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 8.69 | 8.79 | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/by_person#2022ANDZ01) |
 | 0.11 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 2.98 | 3.09 | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
 | 0.11 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 4.09 | 4.20 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2019CARE02) |
+| 0.12 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 4.00 | 4.12 | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2017TIMM01) |
 | 0.12 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 7.04 | 7.16 | [Coosa Cubing Clash 2025](https://www.worldcubeassociation.org/competitions/CoosaCubingClash2025/results/by_person#2023MANG02) |
 | 0.13 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 6.75 | 6.88 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2023DOWL01) |
 | 0.13 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 7.76 | 7.89 | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024/results/by_person#2017TIMM01) |
 | 0.15 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 4.87 | 5.02 | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023HAMI12) |
-| 0.17 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.61 | 3.78 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024/results/by_person#2022CORR06) |
 
 ### Skewb
 
