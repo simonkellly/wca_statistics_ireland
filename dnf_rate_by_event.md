@@ -1,6 +1,6 @@
 ## DNF rate by event
 
-*Updated on  1 July 2026*
+*Updated on  4 July 2026*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
