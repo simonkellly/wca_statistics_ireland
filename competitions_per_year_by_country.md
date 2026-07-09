@@ -5,49 +5,49 @@
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.12 | 155 | 16.99 | United Kingdom |
-| 8.35 | 89 | 10.66 | United States |
-| 6.74 | 97 | 14.40 | Ireland |
-| 3.78 | 14 | 3.71 | Austria |
+| 8.34 | 89 | 10.67 | United States |
+| 6.73 | 97 | 14.41 | Ireland |
+| 3.77 | 14 | 3.71 | Austria |
 | 3.14 | 23 | 7.33 | Australia |
-| 3.06 | 4 | 1.31 | Croatia |
-| 2.74 | 9 | 3.29 | Slovakia |
+| 3.04 | 4 | 1.31 | Croatia |
+| 2.73 | 9 | 3.29 | Slovakia |
 | 2.56 | 44 | 17.20 | Germany |
 | 2.09 | 6 | 2.87 | Slovenia |
-| 1.83 | 6 | 3.29 | Sweden |
+| 1.82 | 6 | 3.29 | Sweden |
 | 1.80 | 12 | 6.66 | Poland |
-| 1.56 | 14 | 8.98 | France |
-| 1.31 | 2 | 1.52 | Malaysia |
-| 1.29 | 4 | 3.09 | Hungary |
+| 1.56 | 14 | 8.99 | France |
+| 1.31 | 2 | 1.53 | Malaysia |
+| 1.29 | 4 | 3.10 | Hungary |
 | 1.27 | 3 | 2.37 | Portugal |
 | 1.15 | 18 | 15.69 | Spain |
-| 1.01 | 2 | 1.98 | Brazil |
-| 0.96 | 7 | 7.31 | Denmark |
+| 1.01 | 2 | 1.99 | Brazil |
+| 0.96 | 7 | 7.32 | Denmark |
 | 0.86 | 4 | 4.65 | Norway |
-| 0.80 | 14 | 17.39 | Italy |
-| 0.78 | 5 | 6.39 | Switzerland |
-| 0.63 | 2 | 3.15 | Kenya |
+| 0.80 | 14 | 17.40 | Italy |
+| 0.78 | 5 | 6.40 | Switzerland |
+| 0.63 | 2 | 3.16 | Kenya |
 | 0.63 | 6 | 9.48 | United Arab Emirates |
 | 0.61 | 3 | 4.90 | New Zealand |
 | 0.61 | 1 | 1.64 | Hong Kong, China |
 | 0.57 | 4 | 6.97 | India |
-| 0.52 | 6 | 11.62 | Netherlands |
-| 0.51 | 2 | 3.89 | Israel |
-| 0.51 | 1 | 1.96 | Bosnia and Herzegovina |
+| 0.52 | 6 | 11.63 | Netherlands |
+| 0.51 | 2 | 3.90 | Israel |
+| 0.51 | 1 | 1.97 | Bosnia and Herzegovina |
 | 0.50 | 4 | 7.95 | Ukraine |
-| 0.48 | 4 | 8.40 | Finland |
-| 0.47 | 9 | 19.13 | Canada |
+| 0.48 | 4 | 8.41 | Finland |
+| 0.47 | 9 | 19.14 | Canada |
 | 0.43 | 1 | 2.33 | Estonia |
-| 0.41 | 7 | 16.97 | Czech Republic |
-| 0.41 | 3 | 7.29 | Multiple Countries (Europe) |
+| 0.41 | 7 | 16.98 | Czech Republic |
+| 0.41 | 3 | 7.30 | Multiple Countries (Europe) |
 | 0.39 | 1 | 2.58 | Greece |
-| 0.35 | 6 | 17.35 | Belgium |
-| 0.34 | 1 | 2.90 | Republic of Korea |
+| 0.35 | 6 | 17.36 | Belgium |
+| 0.34 | 1 | 2.91 | Republic of Korea |
 | 0.33 | 3 | 9.02 | Russia |
-| 0.28 | 2 | 7.06 | Multiple Countries (World) |
+| 0.28 | 2 | 7.07 | Multiple Countries (World) |
 | 0.27 | 1 | 3.67 | Romania |
-| 0.26 | 3 | 11.39 | Singapore |
-| 0.21 | 1 | 4.78 | Jordan |
-| 0.17 | 2 | 11.60 | South Africa |
+| 0.26 | 3 | 11.40 | Singapore |
+| 0.21 | 1 | 4.79 | Jordan |
+| 0.17 | 2 | 11.61 | South Africa |
 | 0.16 | 2 | 12.39 | Philippines |
 
 
