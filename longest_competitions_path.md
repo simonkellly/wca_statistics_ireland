@@ -1,13 +1,13 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 | Person | Distance |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 203 825 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 85 028 km |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 56 933 km |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 57 514 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 50 792 km |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 47 348 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 44 986 km |
@@ -31,6 +31,7 @@
 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) | 16 021 km |
 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | 13 619 km |
 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) | 12 539 km |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 12 393 km |
 | [Yoel Shafat](https://www.worldcubeassociation.org/persons/2022SHAF01) | 12 119 km |
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 11 696 km |
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 11 592 km |
@@ -51,7 +52,6 @@
 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) | 7 976 km |
 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) | 7 482 km |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 6 851 km |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 6 744 km |
 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | 6 656 km |
 | [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) | 6 551 km |
 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | 6 527 km |

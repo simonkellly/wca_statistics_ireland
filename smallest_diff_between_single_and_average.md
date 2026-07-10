@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 
 ### Rubik's Cube
@@ -204,6 +204,7 @@
 | Diff | Person | Single | Average | results |
 | ---: | :--- | ---: | ---: | :--- |
 | 26.00 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 10:45.00 | 11:11.00 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2021DOHE02) |
+| 29.84 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 2:38.75 | 3:08.59 | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2018MCCA02) |
 | 42.12 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3:22.89 | 4:05.01 | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2021DOHE02) |
 | 93.75 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 4:16.23 | 5:49.98 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/by_person#2017TIMM01) |
 | 94.22 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3:54.50 | 5:28.72 | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/by_person#2017TIMM01) |

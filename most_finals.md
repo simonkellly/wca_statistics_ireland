@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -23,7 +23,7 @@
 | 288 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 281 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 279 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
-| 264 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
+| 265 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 251 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 245 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 239 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
@@ -39,7 +39,7 @@
 | 181 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 181 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 173 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
-| 165 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 166 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 160 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 157 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 149 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |

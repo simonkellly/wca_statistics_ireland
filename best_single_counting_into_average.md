@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 
 ### Rubik's Cube
@@ -128,6 +128,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 1.62 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024/results/by_person#2018GRYT01) |
+| 1.64 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2023MANG02) |
 | 1.77 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021FINK02) |
 | 1.82 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2018GRYT01) |
 | 1.92 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2019CARE02) |
@@ -136,7 +137,6 @@
 | 2.09 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2023MANG02) |
 | 2.10 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2021FINK02) |
 | 2.10 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2018GRYT01) |
-| 2.11 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021BURK03) |
 
 ### Square-1
 

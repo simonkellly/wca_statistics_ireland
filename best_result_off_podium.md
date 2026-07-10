@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 
 ### Rubik's Cube
@@ -193,11 +193,11 @@
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 1.90 | **3.19** | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/all#eskewb_f) | 6 |
 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | 2.50 | **3.30** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eskewb_f) | 4 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | 3.14 | **3.37** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eskewb_f) | 4 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.24 | **3.40** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#eskewb_f) | 17 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 2.15 | **3.45** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eskewb_f) | 5 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.87 | **3.47** | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/all#eskewb_f) | 4 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.12 | **3.51** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eskewb_f) | 6 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.67 | **3.53** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eskewb_f) | 7 |
-| [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 2.56 | **3.59** | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/all#eskewb_f) | 4 |
 
 ### Square-1
 
@@ -218,6 +218,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **2:38.75** | 3:08.59 | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e444bf_f) | 11 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **3:19.08** | DNF | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e444bf_f) | 4 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **3:27.68** | DNF | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024/results/all#e444bf_f) | 4 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3:42.30** | DNF | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e444bf_f) | 6 |
@@ -227,7 +228,6 @@
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:27.82** | DNF | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#e444bf_f) | 5 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **4:30.29** | DNF | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/all#e444bf_f) | 4 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:42.87** | DNF | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e444bf_f) | 11 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **5:14.32** | DNF | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026/results/all#e444bf_f) | 4 |
 
 ### 5x5x5 Blindfolded
 

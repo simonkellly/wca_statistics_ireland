@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -449,6 +449,7 @@
 | 2 | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016) |
 | 2 | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) |
 | 2 | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |
+| 2 | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026) |
 | 2 | [Newcastle-under-Lyme Open 2017](https://www.worldcubeassociation.org/competitions/NewcastleunderLyme2017) |
 | 2 | [Norwich Summer 2022](https://www.worldcubeassociation.org/competitions/NorwichSummer2022) |
 | 2 | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |
