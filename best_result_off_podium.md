@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### Rubik's Cube
@@ -116,13 +116,13 @@
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 24 | **24.33** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 19 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 22 | **26.67** | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e333fm_f) | 11 |
 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | 25 | **27.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 34 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 26 | **31.67** | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026/results/all#e333fm_f) | 4 |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 28 | **32.00** | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020/results/all#e333fm_f) | 6 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 28 | **33.33** | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025/results/all#e333fm_f) | 4 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 31 | **33.67** | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026/results/all#e333fm_f) | 5 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 31 | **34.00** | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024/results/all#e333fm_f) | 18 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 28 | **34.67** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e333fm_f) | 63 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 34 | **34.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 68 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 28 | **35.00** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 70 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 30 | **35.00** | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025/results/all#e333fm_f) | 5 |
 
 ### 3x3x3 One-Handed
 

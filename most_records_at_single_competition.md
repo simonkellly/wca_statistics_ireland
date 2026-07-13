@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### World
@@ -300,6 +300,8 @@
 | 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
 | 0 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2023MANG02) |
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2018MCCA02) |
+| 0 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026/results/by_person#2018GRYT01) |
+| 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026/results/by_person#2020BERM02) |
 
 ### Continental
 

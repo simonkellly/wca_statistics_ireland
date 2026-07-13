@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### World
@@ -27,7 +27,7 @@
 | 0 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |  |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |  |
 | 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |  |
-| 0 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |  |
+| 0 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |  |
 
 ### Continental
 
@@ -52,7 +52,7 @@
 | 0 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |  |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |  |
 | 0 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) |  |
-| 0 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |  |
+| 0 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |  |
 
 ### National
 

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -10,7 +10,7 @@
 | 53 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 37 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 36 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
-| 33 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
+| 34 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 32 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 31 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 31 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |

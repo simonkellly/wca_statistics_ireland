@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -20,11 +20,11 @@
 | 33 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) |
 | 33 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) | [Middle Georgia Mega Mania 2025](https://www.worldcubeassociation.org/competitions/MiddleGeorgiaMegaMania2025) |
 | 32 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |
+| 32 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) |  |
 | 31 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |  |
-| 31 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) |  |
 | 30 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | [Tuam Open Sunday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSunday2022) | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025) |
 | 28 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) |
-| 28 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) |  |
+| 28 | [Leon Eoín Bailey](https://www.worldcubeassociation.org/persons/2023BAIL04) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) |
 | 27 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 27 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) |  |
 | 26 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) |
@@ -71,11 +71,11 @@
 | 17 | [Mairéad Togher](https://www.worldcubeassociation.org/persons/2023TOGH01) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |  |
 | 17 | [Rian McDermott](https://www.worldcubeassociation.org/persons/2024MCDE03) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |  |
 | 17 | [Morgan Ó Torna Evans](https://www.worldcubeassociation.org/persons/2025EVAN04) | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) |  |
+| 16 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) |  |
 | 16 | [Finian Hogan](https://www.worldcubeassociation.org/persons/2022HOGA01) | [Norwich Summer 2022](https://www.worldcubeassociation.org/competitions/NorwichSummer2022) | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) |
 | 16 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) |  |
 | 16 | [Oli Sweeney](https://www.worldcubeassociation.org/persons/2024SWEE01) | [Corduff Cubing Saturday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSaturday2024) |  |
 | 15 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) |
-| 15 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) |  |
 | 15 | [Alex Cullen](https://www.worldcubeassociation.org/persons/2016CULL02) | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) |  |
 | 15 | [Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02) | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) | [Erlangen Open II 2025](https://www.worldcubeassociation.org/competitions/ErlangenOpenII2025) |
 | 15 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |  |

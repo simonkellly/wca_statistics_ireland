@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### Rubik's Cube
@@ -184,12 +184,12 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 9 |
-| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 8 |
+| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 9 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 4 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 4 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 4 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 4 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | 3 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 3 |
 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | 2 |
 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) | 2 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 2 |

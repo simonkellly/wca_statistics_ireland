@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### Rubik's Cube
@@ -335,6 +335,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
+| 25.92 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 36.20 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 37.50 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 52.83 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |

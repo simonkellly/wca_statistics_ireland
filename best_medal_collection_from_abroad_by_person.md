@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -9,8 +9,8 @@
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **21** | 18 | 18 | 57 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 31 | 37 | 83 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **7** | 7 | 15 | 29 |
+| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **6** | 6 | 8 | 20 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
-| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **5** | 6 | 8 | 19 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **3** | 7 | 2 | 12 |
 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) | **3** | 3 | 5 | 11 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3** | 3 | 2 | 8 |

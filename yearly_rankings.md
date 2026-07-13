@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### Rubik's Cube - Single
@@ -216,25 +216,31 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **22** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 30, 28, 22 |
+| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **18** | Ukraine | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 24, 18, 24 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **18** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 29, 18, 25 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **24** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 24 |
-| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **26** | Ukraine | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 28, DNF, 26 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **27** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 27, 33, 31 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **26** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 33, 36, 26 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **26** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | DNF, 32, 26 |
 | [Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04) | **27** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | DNF, 29, 27 |
-| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **35** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 36, 35, 39 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **35** | Ireland | [Southeast FMC Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2026) | 35, 37, 39 |
-| [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **37** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 37 |
-| [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **41** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | DNF, DNF, 41 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **42** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 42 |
+| [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **28** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 28, DNF, 33 |
+| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **29** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 34, DNF, 29 |
+| [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) | **30** | United Kingdom | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 30, 41, 42 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **31** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 35, 31, 35 |
 
 ### 3x3x3 Fewest Moves - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **26.67** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 30, 28, 22 |
+| [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **22.00** | Ukraine | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 24, 18, 24 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **24.00** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 29, 18, 25 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **30.33** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 27, 33, 31 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **31.67** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 33, 36, 26 |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **33.67** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 35, 31, 35 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **36.67** | Ireland | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 36, 35, 39 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **37.00** | Ireland | [Southeast FMC Championship 2026](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2026) | 35, 37, 39 |
+| [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) | **37.67** | United Kingdom | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 30, 41, 42 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **38.67** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 42, 36, 38 |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **42.00** | Ireland | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026) | 46, 38, 42 |
 
 ### 3x3x3 One-Handed - Single
 
