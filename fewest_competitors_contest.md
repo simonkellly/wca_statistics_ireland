@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -23,6 +23,7 @@
 | 1 | [August Bank Holiday Crawley 2024](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCrawley2024) |
 | 1 | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023) |
 | 1 | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) |
+| 1 | [Australian Nationals 2026](https://www.worldcubeassociation.org/competitions/AustralianNationals2026) |
 | 1 | [AZCF 2015](https://www.worldcubeassociation.org/competitions/AZCubingFall2015) |
 | 1 | [Back to School Utah 2022](https://www.worldcubeassociation.org/competitions/BacktoSchoolUtah2022) |
 | 1 | [Baden-Württemberg Open 2019](https://www.worldcubeassociation.org/competitions/BadenWurttembergOpen2019) |
@@ -484,6 +485,7 @@
 | 3 | [Manchester October 2025](https://www.worldcubeassociation.org/competitions/ManchesterOctober2025) |
 | 3 | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024) |
 | 3 | [Ruta Cubera: Aigües Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaAiguesOpen2025) |
+| 3 | [Stevenage July 2026](https://www.worldcubeassociation.org/competitions/StevenageJuly2026) |
 | 3 | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) |
 | 3 | [Vienna Fasching 2023](https://www.worldcubeassociation.org/competitions/ViennaFasching2023) |
 | 3 | [Wiener Frühling 2023](https://www.worldcubeassociation.org/competitions/WienerFruhling2023) |

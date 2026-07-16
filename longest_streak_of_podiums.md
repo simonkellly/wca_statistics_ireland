@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -87,8 +87,8 @@
 | 6 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 3x3x3 One-Handed | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) |  |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Guildford Open 2016](https://www.worldcubeassociation.org/competitions/GuildfordOpen2016) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
-| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Wiener Frühling 2023](https://www.worldcubeassociation.org/competitions/WienerFruhling2023) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Wiener Frühling 2023](https://www.worldcubeassociation.org/competitions/WienerFruhling2023) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Wiener Frühling 2023](https://www.worldcubeassociation.org/competitions/WienerFruhling2023) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 4x4x4 Cube | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 One-Handed | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) |
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube | [Aachen Open 2025](https://www.worldcubeassociation.org/competitions/AachenOpen2025) | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) |
