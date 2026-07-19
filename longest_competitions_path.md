@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -220,7 +220,7 @@
 | [Eoin Carolan](https://www.worldcubeassociation.org/persons/2016CARO03) | 1 063 km |
 | [Dean Brosnan](https://www.worldcubeassociation.org/persons/2024BROS03) | 1 040 km |
 | [Sean Ahearne](https://www.worldcubeassociation.org/persons/2023AHEA01) | 1 039 km |
-| [Aaron Hugh Mac Dowell da Costa Innecco](https://www.worldcubeassociation.org/persons/2022INNE01) | 1 022 km |
+| [Aaron Innecco](https://www.worldcubeassociation.org/persons/2022INNE01) | 1 022 km |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 1 008 km |
 | [Paul Cotter](https://www.worldcubeassociation.org/persons/2022COTT06) | 1 007 km |
 | [Tiernan Foley](https://www.worldcubeassociation.org/persons/2018FOLE03) | 1 006 km |
