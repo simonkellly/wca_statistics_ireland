@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### World
@@ -302,6 +302,10 @@
 | 0 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2018MCCA02) |
 | 0 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026/results/by_person#2018GRYT01) |
 | 0 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | [Irish Championship FMC 2026](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2026/results/by_person#2020BERM02) |
+| 0 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022FURE01) |
+| 0 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022CORR06) |
+| 0 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023MANG02) |
 
 ### Continental
 

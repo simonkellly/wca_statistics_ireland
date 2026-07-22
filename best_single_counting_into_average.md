@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### Rubik's Cube
@@ -11,12 +11,12 @@
 | 5.62 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/by_person#2022FURE01) |
 | 5.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 | 5.78 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026/results/by_person#2022FURE01) |
+| 5.82 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022FURE01) |
+| 5.84 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022FURE01) |
 | 5.87 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2012BEAH01) |
 | 5.88 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Thouaré Open 2025](https://www.worldcubeassociation.org/competitions/ThouareOpen2025/results/by_person#2012BEAH01) |
 | 5.91 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022FURE01) |
 | 5.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2012BEAH01) |
-| 5.97 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022FURE01) |
-| 5.99 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2012BEAH01) |
 
 ### 2x2x2 Cube
 
@@ -41,18 +41,19 @@
 | 21.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 | 21.31 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2012BEAH01) |
 | 21.34 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
+| 21.34 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012BEAH01) |
 | 21.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2012BEAH01) |
 | 21.48 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2012BEAH01) |
+| 21.60 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012BEAH01) |
 | 21.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026/results/by_person#2012BEAH01) |
 | 21.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2012BEAH01) |
-| 21.77 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
-| 21.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025/results/by_person#2012BEAH01) |
 
 ### 5x5x5 Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 38.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025/results/by_person#2012BEAH01) |
+| 38.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012BEAH01) |
 | 38.67 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2012BEAH01) |
 | 39.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2012BEAH01) |
 | 39.20 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026/results/by_person#2012BEAH01) |
@@ -61,7 +62,6 @@
 | 39.26 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
 | 39.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 | 39.43 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2012BEAH01) |
-| 39.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2012BEAH01) |
 
 ### 3x3x3 One-Handed
 
@@ -87,16 +87,19 @@
 | 25.24 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
 | 25.62 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
 | 25.73 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
+| 26.02 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023MARA10) |
 | 26.04 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
 | 26.43 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
+| 26.54 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023MARA10) |
 | 26.60 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2023MARA10) |
-| 26.66 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
-| 27.17 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2023MARA10) |
 
 ### Pyraminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.55 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
+| 1.58 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
+| 1.58 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
 | 1.60 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 | 1.67 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2022ANDZ01) |
 | 1.67 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023OLWI01) |
@@ -104,9 +107,6 @@
 | 1.73 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 | 1.73 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023DOWL01) |
 | 1.73 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/by_person#2023OLWI01) |
-| 1.77 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
-| 1.77 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026/results/by_person#2023OLWI01) |
-| 1.78 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Belfast Autumn 2025](https://www.worldcubeassociation.org/competitions/BelfastAutumn2025/results/by_person#2023OLWI01) |
 
 ### Rubik's Clock
 
@@ -114,14 +114,14 @@
 | ---: | :--- | :--- |
 | 2.67 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022CORR06) |
 | 2.75 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/by_person#2022CORR06) |
+| 2.80 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022CORR06) |
 | 2.87 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
 | 2.96 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026/results/by_person#2022CORR06) |
+| 2.96 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022CORR06) |
 | 2.98 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2022CORR06) |
+| 2.98 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022CORR06) |
 | 3.00 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026/results/by_person#2022CORR06) |
 | 3.02 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/by_person#2022CORR06) |
-| 3.03 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Manchester Clock Day 2025](https://www.worldcubeassociation.org/competitions/ManchesterClockDay2025/results/by_person#2022CORR06) |
-| 3.05 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022CORR06) |
-| 3.05 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2022CORR06) |
 
 ### Skewb
 
@@ -131,12 +131,12 @@
 | 1.64 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2023MANG02) |
 | 1.77 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2021FINK02) |
 | 1.82 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025/results/by_person#2018GRYT01) |
+| 1.88 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023MANG02) |
 | 1.92 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024/results/by_person#2019CARE02) |
 | 2.01 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2019CARE02) |
 | 2.06 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2021FINK02) |
 | 2.09 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2023MANG02) |
 | 2.10 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2021FINK02) |
-| 2.10 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2018GRYT01) |
 
 ### Square-1
 
@@ -150,8 +150,8 @@
 | 7.80 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025/results/by_person#2019BURK05) |
 | 7.81 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2019BURK05) |
 | 7.89 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2019BURK05) |
+| 7.92 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2019BURK05) |
 | 7.99 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022HUGH08) |
-| 8.00 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2019BURK05) |
 
 ### 3x3x3 With Feet
 

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### Rubik's Cube
@@ -23,6 +23,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.16 | **1.71** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e222_f) | 10 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.27 | **1.85** | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/all#e222_f) | 4 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.59 | **1.89** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 5 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.71 | **1.91** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 6 |
@@ -32,13 +33,14 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.07 | **2.32** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e222_f) | 10 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.39 | **2.32** | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/all#e222_f) | 4 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 1.34 | **2.33** | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025/results/all#e222_f) | 9 |
-| [Lucas Harford](https://www.worldcubeassociation.org/persons/2025HARF02) | 2.02 | **2.33** | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 20.90 | **22.69** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 5 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.63 | **23.02** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e444_f) | 4 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 22.53 | **24.23** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e444_f) | 7 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.15 | **24.82** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e444_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 22.41 | **25.78** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444_f) | 10 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.31 | **25.79** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e444_f) | 5 |
@@ -46,8 +48,6 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.84 | **26.62** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e444_f) | 5 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.68 | **26.66** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e444_f) | 5 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 24.07 | **27.31** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e444_f) | 4 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 23.72 | **27.33** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e444_f) | 10 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 23.72 | **28.30** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e444_f) | 5 |
 
 ### 5x5x5 Cube
 
@@ -167,7 +167,7 @@
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.29 | **3.34** | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/all#epyram_f) | 4 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.68 | **3.36** | [Manchester October 2025](https://www.worldcubeassociation.org/competitions/ManchesterOctober2025/results/all#epyram_f) | 5 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3.09 | **3.38** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#epyram_f) | 4 |
-| [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) | 2.57 | **3.40** | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/all#epyram_f) | 4 |
+| [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.13 | **3.39** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#epyram_f) | 13 |
 
 ### Rubik's Clock
 

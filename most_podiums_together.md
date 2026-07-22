@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### Pairs
@@ -15,8 +15,8 @@
 | 27 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) & [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) & [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 21 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) & [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
+| 20 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) & [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 20 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) & [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
-| 19 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) & [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 19 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) & [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 19 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) & [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 19 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) & [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |

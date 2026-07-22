@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### Rubik's Cube
@@ -28,11 +28,11 @@
 | 0.07 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 2.02 | 2.09 | [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022/results/by_person#2021DOHE02) |
 | 0.07 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) | 4.51 | 4.58 | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019/results/by_person#2019FROG01) |
 | 0.07 | [Evan McDermott](https://www.worldcubeassociation.org/persons/2024MCDE10) | 4.51 | 4.58 | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2024MCDE10) |
+| 0.08 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.48 | 1.56 | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2021DOHE02) |
 | 0.08 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.59 | 1.67 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2021DOHE02) |
 | 0.08 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 3.57 | 3.65 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2012YUTA01) |
 | 0.08 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) | 4.71 | 4.79 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2021WALS04) |
 | 0.09 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | 3.91 | 4.00 | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/by_person#2021SZAL01) |
-| 0.10 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | 4.16 | 4.26 | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2019SKOR02) |
 
 ### 4x4x4 Cube
 
@@ -144,6 +144,7 @@
 | Diff | Person | Single | Average | results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.03 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 5.65 | 5.68 | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/by_person#2019BURK05) |
+| 0.05 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 1.52 | 1.57 | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
 | 0.06 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 4.73 | 4.79 | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2023MARA10) |
 | 0.07 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.39 | 2.46 | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
 | 0.11 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 4.38 | 4.49 | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2020BERM02) |
@@ -152,7 +153,6 @@
 | 0.14 | [Liam Daniel Rocha Oliveira](https://www.worldcubeassociation.org/persons/2022OLIV10) | 9.82 | 9.96 | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023/results/by_person#2022OLIV10) |
 | 0.15 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | 2.53 | 2.68 | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025/results/by_person#2022MCCO09) |
 | 0.16 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.79 | 2.95 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025/results/by_person#2019CARE02) |
-| 0.18 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.04 | 2.22 | [Belfast Winter 2023](https://www.worldcubeassociation.org/competitions/BelfastWinter2023/results/by_person#2021LOFT01) |
 
 ### Rubik's Clock
 

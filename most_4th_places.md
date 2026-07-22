@@ -1,11 +1,11 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 | 4th places | Person |
 | ---: | :--- |
-| 70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 57 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 53 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 37 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
