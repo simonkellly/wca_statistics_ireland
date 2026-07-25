@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 22 July 2026*
+*Updated on 25 July 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -47,6 +47,7 @@
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 9 167 km |
 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) | 9 100 km |
 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) | 9 028 km |
+| [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) | 8 918 km |
 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) | 8 816 km |
 | [Mark Mooney](https://www.worldcubeassociation.org/persons/2022MOON08) | 8 358 km |
 | [Olivia Clarke](https://www.worldcubeassociation.org/persons/2018CLAR01) | 8 166 km |
@@ -356,7 +357,6 @@
 | [Steven Harford](https://www.worldcubeassociation.org/persons/2025HARF03) | 532 km |
 | [Odhrán Casey](https://www.worldcubeassociation.org/persons/2025CASE03) | 531 km |
 | [Hayden Barry](https://www.worldcubeassociation.org/persons/2022BARR11) | 529 km |
-| [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) | 528 km |
 | [Rhys Friel](https://www.worldcubeassociation.org/persons/2022FRIE06) | 524 km |
 | [Asad Adil Butt](https://www.worldcubeassociation.org/persons/2019BUTT01) | 520 km |
 | [Samuel Niezgoda](https://www.worldcubeassociation.org/persons/2024NIEZ01) | 520 km |

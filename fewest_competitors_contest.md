@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 July 2026*
+*Updated on 25 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -173,6 +173,7 @@
 | 1 | [Granada Open 2025](https://www.worldcubeassociation.org/competitions/GranadaOpen2025) |
 | 1 | [Great Lakes Championship 2025](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2025) |
 | 1 | [Greek Nationals 2023](https://www.worldcubeassociation.org/competitions/GreekNationals2023) |
+| 1 | [Guelaguetza Oaxaca 2026](https://www.worldcubeassociation.org/competitions/GuelaguetzaOaxaca2026) |
 | 1 | [Guildford Open 2013](https://www.worldcubeassociation.org/competitions/GuildfordOpen2013) |
 | 1 | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) |
 | 1 | [Halifax Fall 2025](https://www.worldcubeassociation.org/competitions/HalifaxFall2025) |

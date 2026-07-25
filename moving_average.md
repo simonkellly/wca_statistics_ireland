@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 22 July 2026*
+*Updated on 25 July 2026*
 
 
 ### Rubik's Cube
@@ -99,7 +99,6 @@
 | 3.60 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 3.63 | [Vihaan Srivastava](https://www.worldcubeassociation.org/persons/2024SRIV01) |
 | 3.64 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
-| 3.67 | [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) |
 | 3.72 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 3.74 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 3.76 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
@@ -107,6 +106,7 @@
 | 3.82 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 3.83 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 3.85 | [Peter Illes](https://www.worldcubeassociation.org/persons/2022ILLE02) |
+| 3.86 | [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) |
 | 3.91 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) |
 | 3.95 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 3.97 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
