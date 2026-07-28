@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.71 | **1.91** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 6 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 1.36 | **1.94** | [Leeds Spring 2026](https://www.worldcubeassociation.org/competitions/LeedsSpring2026/results/all#e222_f) | 5 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 1.31 | **1.96** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 7 |
+| [Lucas Harford](https://www.worldcubeassociation.org/persons/2025HARF02) | 1.82 | **2.03** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#e222_f) | 4 |
+| [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.80 | **2.22** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#e222_f) | 5 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.91 | **2.23** | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/all#e222_f) | 4 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.07 | **2.32** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e222_f) | 10 |
-| [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.39 | **2.32** | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/all#e222_f) | 4 |
-| [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 1.34 | **2.33** | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025/results/all#e222_f) | 9 |
 
 ### 4x4x4 Cube
 
@@ -74,10 +74,10 @@
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1:37.23 | **1:40.27** | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026/results/all#e666_c) | 5 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 1:37.44 | **1:42.56** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e666_f) | 5 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:42.99 | **1:45.57** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e666_f) | 4 |
+| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 1:40.32 | **1:45.62** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#e666_f) | 4 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1:35.44 | **1:46.40** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e666_f) | 7 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 1:40.84 | **1:46.70** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e666_f) | 5 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 1:45.24 | **1:51.43** | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e666_f) | 15 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 1:39.58 | **1:51.49** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e666_f) | 5 |
 
 ### 7x7x7 Cube
 
@@ -146,43 +146,43 @@
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 34.26 | **37.05** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eminx_f) | 4 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 34.76 | **37.73** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 11 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 36.58 | **40.62** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eminx_f) | 6 |
+| [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 37.49 | **42.37** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#eminx_f) | 5 |
+| [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | 38.24 | **42.49** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#eminx_f) | 6 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 42.11 | **44.96** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eminx_f) | 10 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 44.92 | **45.46** | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/all#eminx_f) | 4 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 41.25 | **45.85** | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#eminx_f) | 4 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 41.68 | **46.17** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#eminx_c) | 4 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 41.04 | **46.29** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 7 |
-| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 39.99 | **47.36** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eminx_f) | 9 |
-| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 42.29 | **47.38** | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/all#eminx_f) | 4 |
 
 ### Pyraminx
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | 2.20 | **2.74** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#epyram_f) | 4 |
+| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.00 | **2.75** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#epyram_f) | 5 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | 2.37 | **3.03** | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/all#epyram_f) | 4 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 1.62 | **3.10** | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/all#epyram_f) | 4 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.30 | **3.11** | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025/results/all#epyram_f) | 4 |
+| [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | 2.15 | **3.13** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#epyram_f) | 6 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.91 | **3.21** | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/all#epyram_f) | 5 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.45 | **3.22** | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/all#epyram_f) | 4 |
 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | 2.76 | **3.30** | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/all#epyram_f) | 5 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 2.29 | **3.34** | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025/results/all#epyram_f) | 4 |
-| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 2.68 | **3.36** | [Manchester October 2025](https://www.worldcubeassociation.org/competitions/ManchesterOctober2025/results/all#epyram_f) | 5 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3.09 | **3.38** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#epyram_f) | 4 |
-| [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 2.13 | **3.39** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#epyram_f) | 13 |
 
 ### Rubik's Clock
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.97 | **4.06** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#eclock_f) | 4 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.80 | **4.36** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eclock_f) | 4 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3.58 | **4.44** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#eclock_f) | 5 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.61 | **4.52** | [Leeds Spring 2026](https://www.worldcubeassociation.org/competitions/LeedsSpring2026/results/all#eclock_f) | 4 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2.99 | **4.54** | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026/results/all#eclock_c) | 5 |
+| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 3.96 | **4.81** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#eclock_f) | 6 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 3.68 | **4.89** | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025/results/all#eclock_f) | 4 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3.92 | **4.90** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 11 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4.65 | **4.90** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eclock_f) | 5 |
-| [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 3.42 | **5.05** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eclock_f) | 6 |
-| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 3.50 | **5.09** | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/all#eclock_f) | 4 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4.08 | **5.10** | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/all#eclock_f) | 5 |
-| [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4.14 | **5.16** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#eclock_f) | 8 |
+| [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | 3.79 | **4.94** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#eclock_f) | 7 |
 
 ### Skewb
 
@@ -204,15 +204,15 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 7.98 | **8.94** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#esq1_f) | 4 |
+| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 6.90 | **9.45** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#esq1_f) | 4 |
+| [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 7.06 | **9.93** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#esq1_f) | 5 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 7.88 | **10.01** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#esq1_f) | 6 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 6.75 | **10.43** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#esq1_f) | 6 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 7.92 | **10.60** | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#esq1_f) | 4 |
+| [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 9.68 | **10.75** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#esq1_f) | 7 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 9.17 | **10.81** | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026/results/all#esq1_f) | 4 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 10.47 | **11.01** | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#esq1_f) | 5 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 10.12 | **11.30** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#esq1_f) | 6 |
-| [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | 9.50 | **11.66** | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026/results/all#esq1_f) | 5 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 10.91 | **11.66** | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#esq1_f) | 14 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 6.62 | **11.68** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#esq1_f) | 7 |
-| [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 10.04 | **11.77** | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025/results/all#esq1_c) | 4 |
+| [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | 8.11 | **11.08** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#esq1_f) | 8 |
 
 ### 4x4x4 Blindfolded
 
@@ -239,10 +239,10 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **19:59.00** | DNF | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e555bf_f) | 8 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **21:15.00** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e555bf_f) | 5 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **22:04.00** | DNF | [Don't DNF Dublin 2024](https://www.worldcubeassociation.org/competitions/DontDNFDublin2024/results/all#e555bf_f) | 4 |
+| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **36:47.00** | DNF | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#e555bf_f) | 4 |
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | **43:43.00** | DNF | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022/results/all#e555bf_f) | 6 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **51:04.00** | DNF | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e555bf_f) | 8 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **DNF** | DNF | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017/results/all#e555bf_f) | 8 |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **DNF** | DNF | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022/results/all#e555bf_f) | 4 |
 
 ### 3x3x3 Multi-Blind
 

@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 
 ### World
@@ -306,6 +306,11 @@
 | 0 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022CORR06) |
 | 0 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023MANG02) |
+| 0 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2021DOHE02) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2012BEAH01) |
+| 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2023MARA10) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
+| 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2019NATS02) |
 
 ### Continental
 

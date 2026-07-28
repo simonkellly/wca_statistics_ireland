@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -9,6 +9,7 @@
 | ---: | :--- |
 | 53 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 24 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 23 | [Matthew Horan](https://www.worldcubeassociation.org/persons/2017HORA02) |
 | 17 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |
 | 17 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 14 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
@@ -21,12 +22,11 @@
 | 8 | [Ollie Bacon](https://www.worldcubeassociation.org/persons/2019BACO02) |
 | 8 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 8 | [Kevin Tspon](https://www.worldcubeassociation.org/persons/2021TSPO01) |
+| 8 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
 | 6 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 6 | [Chloe O'Loughlin](https://www.worldcubeassociation.org/persons/2023OLOU01) |
 | 5 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 5 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
-| 5 | [Nathan Quinlan](https://www.worldcubeassociation.org/persons/2024QUIN29) |
-| 4 | [Ben Keogh](https://www.worldcubeassociation.org/persons/2016KEOG01) |
 
 ### 4x4x4 Blindfolded
 
