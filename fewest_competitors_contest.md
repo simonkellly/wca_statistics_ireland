@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -309,6 +309,7 @@
 | 1 | [Rhein-Neckar Winter 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarWinter2024) |
 | 1 | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
 | 1 | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023) |
+| 1 | [Rose City OR 2026](https://www.worldcubeassociation.org/competitions/RoseCityOR2026) |
 | 1 | [Roskilde For Alle 2023](https://www.worldcubeassociation.org/competitions/RoskildeForAlle2023) |
 | 1 | [Dutch Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksDutchNationals2025) |
 | 1 | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025) |

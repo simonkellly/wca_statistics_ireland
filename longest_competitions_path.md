@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -54,6 +54,7 @@
 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | 8 163 km |
 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) | 8 080 km |
 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | 8 067 km |
+| [Cormac Higgins](https://www.worldcubeassociation.org/persons/2026HIGG04) | 7 542 km |
 | [Jacob Culleton Kaminski](https://www.worldcubeassociation.org/persons/2024KAMI05) | 6 974 km |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 6 851 km |
 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) | 6 727 km |
@@ -801,7 +802,6 @@
 | [Ferdia Hyde](https://www.worldcubeassociation.org/persons/2016HYDE01) | 91 km |
 | [Niall Kennelly](https://www.worldcubeassociation.org/persons/2023KENN20) | 91 km |
 | [Gavin Nolan](https://www.worldcubeassociation.org/persons/2025NOLA03) | 91 km |
-| [Cormac Higgins](https://www.worldcubeassociation.org/persons/2026HIGG04) | 91 km |
 | [Gabriel Mahoney](https://www.worldcubeassociation.org/persons/2026MAHO02) | 89 km |
 | [Kai van Velden](https://www.worldcubeassociation.org/persons/2023VELD03) | 88 km |
 | [Harry O'Shea](https://www.worldcubeassociation.org/persons/2024OSHE01) | 86 km |
