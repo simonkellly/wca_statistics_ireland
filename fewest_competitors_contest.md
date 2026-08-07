@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -343,6 +343,7 @@
 | 1 | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
 | 1 | [South Germany 2023](https://www.worldcubeassociation.org/competitions/SouthGermany2023) |
 | 1 | [South Germany 2025](https://www.worldcubeassociation.org/competitions/SouthGermany2025) |
+| 1 | [South Wales Summer 2026](https://www.worldcubeassociation.org/competitions/SouthWalesSummer2026) |
 | 1 | [Sowega Solving 2023](https://www.worldcubeassociation.org/competitions/SowegaSolving2023) |
 | 1 | [Space City Summer 2023](https://www.worldcubeassociation.org/competitions/SpaceCitySummer2023) |
 | 1 | [Spark Melbourne July 2025](https://www.worldcubeassociation.org/competitions/SparkMelbourneJuly2025) |
