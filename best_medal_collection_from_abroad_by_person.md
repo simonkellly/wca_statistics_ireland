@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -16,6 +16,7 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3** | 3 | 2 | 8 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **3** | 2 | 0 | 5 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **2** | 9 | 9 | 20 |
+| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2** | 2 | 0 | 4 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **2** | 1 | 1 | 4 |
 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | **2** | 1 | 0 | 3 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2** | 0 | 5 | 7 |
@@ -23,7 +24,6 @@
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 4 | 3 | 8 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **1** | 2 | 0 | 3 |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **1** | 2 | 0 | 3 |
-| [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1** | 1 | 0 | 2 |
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | **1** | 0 | 2 | 3 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **1** | 0 | 2 | 3 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **1** | 0 | 2 | 3 |

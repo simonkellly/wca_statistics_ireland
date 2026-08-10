@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 
 ### Rubik's Cube - Single
@@ -192,7 +192,7 @@
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **27.09** | Ireland | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026) | 39.33, 56.61, DNF, 27.09, 38.72 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **27.73** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 58.10, DNF, 27.73, 36.16, 48.69 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **27.82** | Ireland | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026) | DNF, 27.82, 47.51, DNF, DNF |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **37.83** | Ireland | [BLD Dobřejovice III 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIII2026) | 47.72, DNF, 37.83, 43.88, 38.68 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **34.48** | Ireland | [BLD Dobřejovice IV 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIV2026) | 46.49, 57.79, 34.48, 45.45, 40.33 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **40.46** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 1:00.36, 48.02, DNF, DNF, 40.46 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **47.31** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | DNF, 58.20, 47.31, DNF, 59.24 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **50.41** | Ireland | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026) | DNF, 50.41, 1:00.48, DNF, 1:13.76 |
@@ -461,8 +461,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **20/22 57:36** | Ireland | [BLD Dobřejovice IV 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIV2026) | 20/22 57:36, 17/22 1:00:00 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **20/23 54:44** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 18/22 49:17, 20/23 54:44 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **19/21 59:42** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 19/21 59:42, 18/25 1:00:00 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **12/13 52:07** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 12/13 52:07 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **13/15 56:39** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 13/15 56:39 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **18/26 57:01** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 18/26 57:01 |

@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 | competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -41,6 +41,7 @@
 | 22 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) |
 | 21 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) | [Frankfurt Cube Days 2017](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2017) | [German Nationals 2022](https://www.worldcubeassociation.org/competitions/GermanNationals2022) |
 | 21 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |
+| 21 | [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |  |
 | 21 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) |
 | 21 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) |
 | 21 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |  |
@@ -49,7 +50,6 @@
 | 20 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024) |
 | 20 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 20 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | [UCD Cube Days 2025](https://www.worldcubeassociation.org/competitions/UCDCubeDays2025) |
-| 20 | [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |  |
 | 20 | [Richard Gravitis](https://www.worldcubeassociation.org/persons/2022GRAV01) | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) |  |
 | 20 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | [Cubing with the Cats Sun 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSunday2022) |  |
 | 20 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -18,8 +18,8 @@
 | 353 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 316 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 313 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
+| 302 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 301 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
-| 297 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 296 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 284 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |
 | 281 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
@@ -38,8 +38,8 @@
 | 185 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
 | 185 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 182 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
-| 177 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
-| 172 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 182 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 175 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 162 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 158 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 149 | [Iollan Walsh](https://www.worldcubeassociation.org/persons/2021WALS03) |
@@ -66,7 +66,7 @@
 | 91 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) |
 | 90 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
 | 90 | [Conor Sheridan](https://www.worldcubeassociation.org/persons/2012SHER01) |
-| 89 | [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) |
+| 90 | [Daniel Strzelecki](https://www.worldcubeassociation.org/persons/2022STRZ01) |
 | 89 | [Nuadha Walsh](https://www.worldcubeassociation.org/persons/2021WALS04) |
 | 88 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 87 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |

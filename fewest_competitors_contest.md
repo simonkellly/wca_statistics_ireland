@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -44,6 +44,7 @@
 | 1 | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) |
 | 1 | [BLD Dobřejovice II 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceII2026) |
 | 1 | [BLD Dobřejovice III 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIII2026) |
+| 1 | [BLD Dobřejovice IV 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIV2026) |
 | 1 | [Blue Cubed 2018](https://www.worldcubeassociation.org/competitions/BlueCubed2018) |
 | 1 | [BMME 3x3 Day 2023](https://www.worldcubeassociation.org/competitions/BMME3x3Day2023) |
 | 1 | [Bolton Spring 2024](https://www.worldcubeassociation.org/competitions/BoltonSpring2024) |
@@ -55,6 +56,7 @@
 | 1 | [Bremium Winter 2019](https://www.worldcubeassociation.org/competitions/BremiumWinter2019) |
 | 1 | [Brisbane Autumn 2022](https://www.worldcubeassociation.org/competitions/BrisbaneAutumn2022) |
 | 1 | [Brisbane Summer 2023](https://www.worldcubeassociation.org/competitions/BrisbaneSummer2023) |
+| 1 | [Bristol August 2026](https://www.worldcubeassociation.org/competitions/BristolAugust2026) |
 | 1 | [Bristol Summer 2023](https://www.worldcubeassociation.org/competitions/BristolSummer2023) |
 | 1 | [Bristol Winter 2024](https://www.worldcubeassociation.org/competitions/BristolWinter2024) |
 | 1 | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) |
@@ -74,6 +76,7 @@
 | 1 | [Cavarzere Cube Days 2023](https://www.worldcubeassociation.org/competitions/CavarzereCubeDays2023) |
 | 1 | [CCM Baltar Open 2025](https://www.worldcubeassociation.org/competitions/CCMBaltarOpen2025) |
 | 1 | [CF Goes Crazy Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesCrazyBrzeziny2025) |
+| 1 | [CFL Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2026) |
 | 1 | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) |
 | 1 | [Charlottetown 2025](https://www.worldcubeassociation.org/competitions/Charlottetown2025) |
 | 1 | [Charlottetown Mini 2024](https://www.worldcubeassociation.org/competitions/CharlottetownMini2024) |
@@ -189,6 +192,7 @@
 | 1 | [Honey Cube Barcin 2024](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2024) |
 | 1 | [Hong Kong Championship 2024](https://www.worldcubeassociation.org/competitions/HongKongChampionship2024) |
 | 1 | [Hungarian All-Rounder 5 2024](https://www.worldcubeassociation.org/competitions/HungarianAllRounder52024) |
+| 1 | [Hungarian All-Rounder 6 2026](https://www.worldcubeassociation.org/competitions/HungarianAllRounder62026) |
 | 1 | [Hungarian All-Rounder 8 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder82025) |
 | 1 | [Hungarian Open 2023](https://www.worldcubeassociation.org/competitions/HungarianOpen2023) |
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
@@ -317,6 +321,7 @@
 | 1 | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) |
 | 1 | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024) |
 | 1 | [Scenic City Spring TN 2026](https://www.worldcubeassociation.org/competitions/ScenicCitySpringTN2026) |
+| 1 | [Scenic City Summer TN 2026](https://www.worldcubeassociation.org/competitions/ScenicCitySummerTN2026) |
 | 1 | [Scottish Championship Blind 2025](https://www.worldcubeassociation.org/competitions/ScottishChampionshipBlindOff2025) |
 | 1 | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
 | 1 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) |

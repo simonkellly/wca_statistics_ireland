@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -40,8 +40,8 @@
 | 7 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 7 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 7 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
+| 7 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 7 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
-| 6 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 6 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 6 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 6 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
