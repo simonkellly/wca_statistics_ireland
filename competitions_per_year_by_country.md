@@ -6,15 +6,15 @@
 | ---: | ---: | ---: | :--- |
 | 9.25 | 158 | 17.08 | United Kingdom |
 | 8.55 | 92 | 10.76 | United States |
-| 6.83 | 99 | 14.49 | Ireland |
+| 6.83 | 99 | 14.50 | Ireland |
 | 3.68 | 14 | 3.80 | Austria |
-| 3.23 | 24 | 7.42 | Australia |
+| 3.23 | 24 | 7.43 | Australia |
 | 2.85 | 4 | 1.40 | Croatia |
 | 2.66 | 9 | 3.38 | Slovakia |
-| 2.54 | 44 | 17.29 | Germany |
+| 2.54 | 44 | 17.30 | Germany |
 | 2.03 | 6 | 2.96 | Slovenia |
-| 1.93 | 13 | 6.75 | Poland |
-| 1.78 | 6 | 3.38 | Sweden |
+| 1.92 | 13 | 6.75 | Poland |
+| 1.77 | 6 | 3.38 | Sweden |
 | 1.57 | 5 | 3.19 | Hungary |
 | 1.54 | 14 | 9.08 | France |
 | 1.24 | 2 | 1.62 | Malaysia |
@@ -22,33 +22,33 @@
 | 1.14 | 18 | 15.78 | Spain |
 | 0.96 | 2 | 2.08 | Brazil |
 | 0.96 | 1 | 1.04 | Mongolia |
-| 0.95 | 7 | 7.41 | Denmark |
+| 0.94 | 7 | 7.41 | Denmark |
 | 0.84 | 4 | 4.74 | Norway |
-| 0.80 | 14 | 17.48 | Italy |
-| 0.77 | 5 | 6.48 | Switzerland |
+| 0.80 | 14 | 17.49 | Italy |
+| 0.77 | 5 | 6.49 | Switzerland |
 | 0.63 | 6 | 9.57 | United Arab Emirates |
-| 0.62 | 2 | 3.24 | Kenya |
+| 0.62 | 2 | 3.25 | Kenya |
 | 0.60 | 3 | 4.99 | New Zealand |
 | 0.60 | 7 | 11.72 | Netherlands |
 | 0.58 | 1 | 1.73 | Hong Kong, China |
 | 0.57 | 4 | 7.06 | India |
-| 0.50 | 2 | 3.98 | Israel |
+| 0.50 | 2 | 3.99 | Israel |
 | 0.50 | 4 | 8.04 | Ukraine |
 | 0.49 | 1 | 2.06 | Bosnia and Herzegovina |
 | 0.47 | 4 | 8.50 | Finland |
-| 0.47 | 8 | 17.06 | Czech Republic |
+| 0.47 | 8 | 17.07 | Czech Republic |
 | 0.47 | 9 | 19.23 | Canada |
 | 0.41 | 1 | 2.42 | Estonia |
-| 0.41 | 3 | 7.38 | Multiple Countries (Europe) |
+| 0.41 | 3 | 7.39 | Multiple Countries (Europe) |
 | 0.37 | 1 | 2.67 | Greece |
 | 0.34 | 6 | 17.45 | Belgium |
 | 0.33 | 1 | 3.00 | Republic of Korea |
 | 0.33 | 3 | 9.11 | Russia |
-| 0.28 | 2 | 7.15 | Multiple Countries (World) |
+| 0.28 | 2 | 7.16 | Multiple Countries (World) |
 | 0.27 | 1 | 3.76 | Romania |
 | 0.26 | 3 | 11.49 | Singapore |
-| 0.21 | 1 | 4.87 | Jordan |
-| 0.17 | 2 | 11.69 | South Africa |
+| 0.21 | 1 | 4.88 | Jordan |
+| 0.17 | 2 | 11.70 | South Africa |
 | 0.16 | 2 | 12.48 | Philippines |
 
 
