@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -33,8 +33,8 @@
 | 11 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4x4x4 Cube | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 10 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 One-Handed | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |
 | 10 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | 3x3x3 Cube | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) |
-| 10 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | Megaminx | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 10 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 3x3x3 Cube | [Let's Go Carlow 2025](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2025) | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) |
+| 10 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | Megaminx | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) |
 | 9 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 3x3x3 Blindfolded | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | [Gem City Warm Up OH 2025](https://www.worldcubeassociation.org/competitions/GemCityWarmUpOH2025) |
 | 9 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | Megaminx | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 9 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | Skewb | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) |
