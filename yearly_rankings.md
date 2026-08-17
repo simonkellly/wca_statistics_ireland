@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### Rubik's Cube - Single
@@ -431,7 +431,7 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3:17.14** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | DNF, 3:17.14, DNF |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3:54.50** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 3:54.50, 5:01.92, 7:29.74 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:42.87** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | DNF, DNF, 4:42.87 |
-| [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **6:22.81** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | DNF, 6:22.81, DNF |
+| [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **4:52.75** | Ireland | [Kewbz UK BLD Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKBLDChampionship2026) | DNF, DNF, 4:52.75 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **8:03.52** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | DNF, 8:03.52, DNF |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **19:09.00** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 19:09.00, DNF, DNS |
 
@@ -465,8 +465,8 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **20/23 54:44** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 18/22 49:17, 20/23 54:44 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **12/13 52:07** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 12/13 52:07 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **13/15 56:39** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 13/15 56:39 |
+| [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **11/12 54:52** | Ireland | [Kewbz UK BLD Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKBLDChampionship2026) | 10/12 52:43, 11/12 54:52, 9/13 55:18 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **18/26 57:01** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 18/26 57:01 |
-| [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **10/11 54:03** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 7/13 57:29, 10/11 54:03 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **17/25 55:44** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 17/25 55:44, DNF |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **10/12 48:28** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 10/12 48:28, 10/13 56:03 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **10/13 56:53** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 10/13 56:53, 9/13 59:10 |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -207,6 +207,7 @@
 | 1 | [Ivanka pri Dunaji Open 2025](https://www.worldcubeassociation.org/competitions/IvankapriDunajiOpen2025) |
 | 1 | [Jay House of Cubes 2023](https://www.worldcubeassociation.org/competitions/JayHouseofCubes2023) |
 | 1 | [Jordan Fall Open 2021](https://www.worldcubeassociation.org/competitions/JordanFallOpen2021) |
+| 1 | [Kewbz UK BLD Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKBLDChampionship2026) |
 | 1 | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025) |
 | 1 | [Lakewood Newcomers 2024](https://www.worldcubeassociation.org/competitions/LakewoodNewcomers2024) |
 | 1 | [La Montagne Open 2025](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2025) |

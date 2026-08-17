@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -34,9 +34,9 @@
 | 199 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 196 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) |
 | 193 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
+| 188 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 186 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) |
 | 185 | [Jane Kelly](https://www.worldcubeassociation.org/persons/2023KELL23) |
-| 185 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) |
 | 182 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 182 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 175 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |

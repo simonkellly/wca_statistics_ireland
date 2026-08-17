@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### Rubik's Cube
@@ -370,6 +370,7 @@
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 1 |
 | [Oliver Grace](https://www.worldcubeassociation.org/persons/2019GRAC02) | 1 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 1 |
+| [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 1 |
 
 ### 5x5x5 Blindfolded
 
@@ -401,6 +402,7 @@
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 1 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 1 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 1 |
+| [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 1 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 1 |
 
 ### 3x3x3 With Feet
