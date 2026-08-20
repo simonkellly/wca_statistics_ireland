@@ -1,49 +1,49 @@
 ## Competitions per year by country
 
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.29 | 159 | 17.11 | United Kingdom |
-| 8.53 | 92 | 10.78 | United States |
+| 8.62 | 93 | 10.78 | United States |
 | 6.82 | 99 | 14.52 | Ireland |
-| 3.66 | 14 | 3.82 | Austria |
+| 3.66 | 14 | 3.83 | Austria |
 | 3.22 | 24 | 7.45 | Australia |
 | 2.80 | 4 | 1.43 | Croatia |
-| 2.64 | 9 | 3.40 | Slovakia |
+| 2.64 | 9 | 3.41 | Slovakia |
 | 2.54 | 44 | 17.32 | Germany |
-| 2.01 | 6 | 2.98 | Slovenia |
+| 2.01 | 6 | 2.99 | Slovenia |
 | 1.92 | 13 | 6.78 | Poland |
-| 1.76 | 6 | 3.40 | Sweden |
+| 1.76 | 6 | 3.41 | Sweden |
 | 1.56 | 5 | 3.21 | Hungary |
 | 1.54 | 14 | 9.10 | France |
 | 1.22 | 2 | 1.64 | Malaysia |
-| 1.21 | 3 | 2.48 | Portugal |
-| 1.14 | 18 | 15.80 | Spain |
+| 1.21 | 3 | 2.49 | Portugal |
+| 1.14 | 18 | 15.81 | Spain |
 | 0.95 | 2 | 2.10 | Brazil |
 | 0.94 | 7 | 7.43 | Denmark |
-| 0.94 | 1 | 1.06 | Mongolia |
+| 0.94 | 1 | 1.07 | Mongolia |
 | 0.84 | 4 | 4.77 | Norway |
 | 0.80 | 14 | 17.51 | Italy |
 | 0.77 | 5 | 6.51 | Switzerland |
-| 0.63 | 6 | 9.59 | United Arab Emirates |
+| 0.63 | 6 | 9.60 | United Arab Emirates |
 | 0.61 | 2 | 3.27 | Kenya |
 | 0.60 | 3 | 5.02 | New Zealand |
-| 0.60 | 7 | 11.74 | Netherlands |
+| 0.60 | 7 | 11.75 | Netherlands |
 | 0.57 | 1 | 1.76 | Hong Kong, China |
-| 0.56 | 4 | 7.08 | India |
+| 0.56 | 4 | 7.09 | India |
 | 0.50 | 2 | 4.01 | Israel |
-| 0.50 | 4 | 8.06 | Ukraine |
+| 0.50 | 4 | 8.07 | Ukraine |
 | 0.48 | 1 | 2.08 | Bosnia and Herzegovina |
 | 0.47 | 4 | 8.52 | Finland |
 | 0.47 | 8 | 17.09 | Czech Republic |
-| 0.47 | 9 | 19.25 | Canada |
-| 0.41 | 1 | 2.44 | Estonia |
+| 0.47 | 9 | 19.26 | Canada |
+| 0.41 | 1 | 2.45 | Estonia |
 | 0.40 | 3 | 7.41 | Multiple Countries (Europe) |
 | 0.37 | 1 | 2.70 | Greece |
 | 0.34 | 6 | 17.47 | Belgium |
 | 0.33 | 1 | 3.02 | Republic of Korea |
-| 0.33 | 3 | 9.13 | Russia |
+| 0.33 | 3 | 9.14 | Russia |
 | 0.28 | 2 | 7.18 | Multiple Countries (World) |
 | 0.26 | 1 | 3.79 | Romania |
 | 0.26 | 3 | 11.51 | Singapore |

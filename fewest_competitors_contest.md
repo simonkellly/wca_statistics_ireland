@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -468,6 +468,7 @@
 | 2 | [SEK-Alborán Almerimar Open 2025](https://www.worldcubeassociation.org/competitions/SEKAlboranAlmerimarOpen2025) |
 | 2 | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) |
 | 2 | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) |
+| 2 | [Summer Scramble UW 2026](https://www.worldcubeassociation.org/competitions/SummerScrambleUW2026) |
 | 2 | [Sunmarke Open 2018](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2018) |
 | 2 | [Swisscubing Cup I 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2023) |
 | 2 | [Swiss Nationals 2024](https://www.worldcubeassociation.org/competitions/SwissNationals2024) |
