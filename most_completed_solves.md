@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 
 ### Competition
@@ -9,7 +9,7 @@
 | :--- | ---: | ---: |
 | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | **8602** | 9009 |
 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | **8234** | 8603 |
-| [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | **7985** | 8361 |
+| [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | **7975** | 8351 |
 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | **7404** | 7768 |
 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | **5577** | 5843 |
 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | **4923** | 5153 |
@@ -57,7 +57,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Ireland | **261926** | 274478 |
+| Ireland | **261916** | 274468 |
 | United Kingdom | **20510** | 21504 |
 | United States | **3548** | 3756 |
 | Spain | **2364** | 2443 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **294907** | 309038 |
+| Europe | **294897** | 309028 |
 | North America | **3819** | 4037 |
 | Oceania | **719** | 777 |
 | Asia | **436** | 448 |
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2025 | **75726** | 79275 |
+| 2025 | **75716** | 79265 |
 | 2024 | **69534** | 73177 |
 | 2023 | **61984** | 64810 |
 | 2026 | **38729** | 40656 |
@@ -118,8 +118,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **75519** | 77045 |
-| 2x2x2 Cube | **52763** | 54181 |
+| 3x3x3 Cube | **75514** | 77040 |
+| 2x2x2 Cube | **52758** | 54176 |
 | Pyraminx | **37912** | 38872 |
 | Skewb | **31458** | 32217 |
 | 4x4x4 Cube | **25563** | 26352 |
