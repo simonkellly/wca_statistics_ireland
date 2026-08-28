@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### Rubik's Cube
@@ -98,6 +98,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 1.55 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
+| 1.57 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026/results/by_person#2023OLWI01) |
 | 1.58 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
 | 1.58 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
 | 1.60 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
@@ -106,7 +107,6 @@
 | 1.71 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023OLWI01) |
 | 1.73 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 | 1.73 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023DOWL01) |
-| 1.73 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026/results/by_person#2023OLWI01) |
 
 ### Rubik's Clock
 
@@ -119,9 +119,9 @@
 | 2.87 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
 | 2.87 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
 | 2.90 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
+| 2.94 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026/results/by_person#2022CORR06) |
+| 2.94 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026/results/by_person#2022CORR06) |
 | 2.95 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
-| 2.96 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026/results/by_person#2022CORR06) |
-| 2.96 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022CORR06) |
 
 ### Skewb
 

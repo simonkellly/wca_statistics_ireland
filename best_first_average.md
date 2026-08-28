@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### Rubik's Cube
@@ -195,10 +195,10 @@
 | 20.74 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 22.48 | [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) |
 | 24.18 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
+| 25.94 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 26.36 | [Chloe O'Loughlin](https://www.worldcubeassociation.org/persons/2023OLOU01) |
 | 26.43 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 26.78 | [Keith Jackman](https://www.worldcubeassociation.org/persons/2019JACK03) |
-| 26.95 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 
 ### 3x3x3 With Feet
 

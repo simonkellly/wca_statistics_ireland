@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -9,6 +9,7 @@
 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | 8.11 | 158 | Ireland |
 | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) | 7.96 | 70 | Ireland |
 | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) | 7.93 | 58 | Ireland |
+| [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026) | 7.85 | 92 | Ireland |
 | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | 7.75 | 53 | Ireland |
 | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 7.63 | 175 | Ireland |
 | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) | 7.52 | 56 | Ireland |

@@ -1,11 +1,11 @@
 ## Most competitions abroad
 
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 | Competitions | Person |
 | ---: | :--- |
 | 88 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 55 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
+| 56 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 50 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 36 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 33 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
@@ -13,8 +13,8 @@
 | 27 | [Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01) |
 | 24 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
 | 22 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 20 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 19 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) |
-| 19 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) |
 | 17 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 17 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
@@ -40,6 +40,7 @@
 | 9 | [Mariia Hurina](https://www.worldcubeassociation.org/persons/2023HURI01) |
 | 9 | [Oleksii Bodeichuk](https://www.worldcubeassociation.org/persons/2024BODE01) |
 | 9 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) |
+| 8 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
 | 8 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 8 | [Dara Okan](https://www.worldcubeassociation.org/persons/2023OKAN02) |
 | 8 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) |
@@ -49,12 +50,11 @@
 | 7 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) |
 | 7 | [Chun Yin Man](https://www.worldcubeassociation.org/persons/2023MANC03) |
 | 7 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
-| 7 | [Odhran Albuquerque](https://www.worldcubeassociation.org/persons/2023ALBU01) |
+| 7 | [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) |
 | 7 | [Finnbar McGovern](https://www.worldcubeassociation.org/persons/2022GOVE02) |
 | 7 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 7 | [Seven Yang (杨子熙)](https://www.worldcubeassociation.org/persons/2022YANG21) |
-| 7 | [Yehor Dmytruk](https://www.worldcubeassociation.org/persons/2025DMYT01) |
-| 7 | [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) |
+| 7 | [Odhran Albuquerque](https://www.worldcubeassociation.org/persons/2023ALBU01) |
 | 6 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 6 | [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) |
 | 6 | [Olin Long](https://www.worldcubeassociation.org/persons/2023LONG10) |

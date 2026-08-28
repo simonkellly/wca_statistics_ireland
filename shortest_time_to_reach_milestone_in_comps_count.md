@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 100 competitions
@@ -55,9 +55,9 @@
 | 882 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) |
 | 903 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 911 | [James Hughes](https://www.worldcubeassociation.org/persons/2022HUGH08) |
+| 911 | [Rory Pappas](https://www.worldcubeassociation.org/persons/2024PAPP01) |
 | 918 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 918 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
-| 918 | [Jamie Knox](https://www.worldcubeassociation.org/persons/2023KNOX02) |
 
 ### 10 competitions
 

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### Rubik's Cube
@@ -210,9 +210,9 @@
 | 18.14 | [Sebastian Moore](https://www.worldcubeassociation.org/persons/2023MOOR03) |
 | 18.96 | [Mason Mulready](https://www.worldcubeassociation.org/persons/2021MULR01) |
 | 19.40 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
+| 19.46 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 20.90 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 22.02 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
-| 22.21 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 
 ### 4x4x4 Blindfolded
 

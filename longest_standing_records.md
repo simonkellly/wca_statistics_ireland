@@ -1,20 +1,20 @@
 ## Longest standing records
 
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### Europe
 
 | Event | Type | Days | Result | Person | Competition |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| 5x5x5 Cube | Single | **2604** | 38.96 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012BEAH01) |
-| 5x5x5 Cube | Average | **2588** | 45.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012BEAH01) |
-| 7x7x7 Cube | Single | **1552** | 1:55.33 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Glasgow Open 2022](https://www.worldcubeassociation.org/competitions/GlasgowOpen2022/results/by_person#2012BEAH01) |
-| 6x6x6 Cube | Average | **1510** | 1:16.90 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022/results/by_person#2012BEAH01) |
-| 6x6x6 Cube | Single | **1111** | 1:10.58 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2012BEAH01) |
+| 5x5x5 Cube | Single | **2605** | 38.96 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012BEAH01) |
+| 5x5x5 Cube | Average | **2589** | 45.19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012BEAH01) |
+| 7x7x7 Cube | Single | **1553** | 1:55.33 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Glasgow Open 2022](https://www.worldcubeassociation.org/competitions/GlasgowOpen2022/results/by_person#2012BEAH01) |
+| 6x6x6 Cube | Average | **1511** | 1:16.90 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022/results/by_person#2012BEAH01) |
+| 6x6x6 Cube | Single | **1112** | 1:10.58 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2012BEAH01) |
 | 6x6x6 Cube | Average | **980** | 1:23.17 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019/results/by_person#2012BEAH01) |
 | 6x6x6 Cube | Single | **959** | 1:19.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/by_person#2012BEAH01) |
-| 7x7x7 Cube | Average | **950** | 1:50.94 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Bristol Winter 2024](https://www.worldcubeassociation.org/competitions/BristolWinter2024/results/by_person#2012BEAH01) |
+| 7x7x7 Cube | Average | **951** | 1:50.94 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Bristol Winter 2024](https://www.worldcubeassociation.org/competitions/BristolWinter2024/results/by_person#2012BEAH01) |
 | 7x7x7 Cube | Single | **917** | 1:56.89 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/by_person#2012BEAH01) |
 | 7x7x7 Cube | Average | **847** | 2:02.04 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/by_person#2012BEAH01) |
 
