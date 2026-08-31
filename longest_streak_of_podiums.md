@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -81,8 +81,8 @@
 | 6 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) | Skewb | [It's a Long Way to Tipp 2023](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2023) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) |
 | 6 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 3x3x3 Multi-Blind | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) |
 | 6 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | Clock | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) |
-| 6 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | Pyraminx | [Belfast Autumn 2025](https://www.worldcubeassociation.org/competitions/BelfastAutumn2025) |  |
 | 6 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | 4x4x4 Cube | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026) |
+| 6 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | Pyraminx | [Belfast Autumn 2025](https://www.worldcubeassociation.org/competitions/BelfastAutumn2025) |  |
 | 6 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | Skewb | [Baton Rouge Winter B 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterB2025) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 6 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 4x4x4 Cube | [Mayo Cubing 2025](https://www.worldcubeassociation.org/competitions/MayoCubing2025) | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) |
 | 6 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 3x3x3 One-Handed | [Solving by the Barrow 2025](https://www.worldcubeassociation.org/competitions/SolvingbytheBarrow2025) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) |

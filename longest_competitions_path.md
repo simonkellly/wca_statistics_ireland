@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -64,6 +64,7 @@
 | [Richard Gravitis](https://www.worldcubeassociation.org/persons/2022GRAV01) | 6 573 km |
 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | 6 528 km |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 6 287 km |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 6 253 km |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 6 221 km |
 | [Stepan Potapov](https://www.worldcubeassociation.org/persons/2017POTA04) | 6 218 km |
 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 6 200 km |
@@ -72,7 +73,6 @@
 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | 6 046 km |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 5 935 km |
 | [Aidan Murdock Glynn](https://www.worldcubeassociation.org/persons/2022GLYN02) | 5 886 km |
-| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 5 806 km |
 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) | 5 732 km |
 | [Callie LePage](https://www.worldcubeassociation.org/persons/2023LEPA01) | 5 718 km |
 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | 5 717 km |

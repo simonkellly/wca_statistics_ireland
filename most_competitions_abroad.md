@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -21,11 +21,11 @@
 | 15 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
 | 15 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
+| 13 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 12 | [Lee Dearn](https://www.worldcubeassociation.org/persons/2013DEAR01) |
 | 12 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 12 | [Timofey Petsyukha](https://www.worldcubeassociation.org/persons/2022PETS02) |
 | 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
-| 12 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 12 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
 | 11 | [Benedek Sarkadi](https://www.worldcubeassociation.org/persons/2024SARK01) |
 | 11 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |

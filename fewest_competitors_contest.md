@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -335,6 +335,7 @@
 | 1 | [Slovak Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovakNationals2024) |
 | 1 | [Slovenian Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianNationals2023) |
 | 1 | [Slovenian Nationals 2025](https://www.worldcubeassociation.org/competitions/SlovenianNationals2025) |
+| 1 | [Slovenian Nationals 2026](https://www.worldcubeassociation.org/competitions/SlovenianNationals2026) |
 | 1 | [Slovenska Bistrica Open 2025](https://www.worldcubeassociation.org/competitions/SlovenskaBistricaOpen2025) |
 | 1 | [Smartcube Fest Kyiv 2019](https://www.worldcubeassociation.org/competitions/SmartcubeFestKyiv2019) |
 | 1 | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) |

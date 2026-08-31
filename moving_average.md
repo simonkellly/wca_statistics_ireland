@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### Rubik's Cube
@@ -168,12 +168,12 @@
 | 45.20 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) |
 | 45.42 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
 | 45.90 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
+| 45.93 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 45.95 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 46.15 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 46.24 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
 | 46.28 | [Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04) |
 | 46.38 | [Andy Lee Mitchell](https://www.worldcubeassociation.org/persons/2017MITC05) |
-| 46.39 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 
 ### 5x5x5 Cube
 
@@ -218,6 +218,7 @@
 | 1:25.89 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
 | 1:26.73 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 1:26.96 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
+| 1:27.61 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 1:28.04 | [Reuben Kiernan](https://www.worldcubeassociation.org/persons/2024KIER01) |
 | 1:28.19 | [Matthew Horan](https://www.worldcubeassociation.org/persons/2017HORA02) |
 | 1:29.18 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
@@ -228,7 +229,6 @@
 | 1:31.63 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) |
 | 1:31.93 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
 | 1:32.44 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
-| 1:32.84 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 
 ### 6x6x6 Cube
 
@@ -388,6 +388,7 @@
 | 23.89 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 24.02 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 24.21 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
+| 24.44 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 24.72 | [Oli Sweeney](https://www.worldcubeassociation.org/persons/2024SWEE01) |
 | 24.99 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 25.05 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
@@ -395,7 +396,6 @@
 | 25.38 | [Edvin Kurjak](https://www.worldcubeassociation.org/persons/2022KURJ01) |
 | 25.61 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) |
 | 25.63 | [Nicolàs Keane Conesa](https://www.worldcubeassociation.org/persons/2021CONE01) |
-| 25.84 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) |
 
 ### Megaminx
 
