@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 
 ### Rubik's Cube
@@ -42,11 +42,11 @@
 | 21.31 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2012BEAH01) |
 | 21.34 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
 | 21.34 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012BEAH01) |
+| 21.38 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Kewbz UK Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2026/results/by_person#2012BEAH01) |
 | 21.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2012BEAH01) |
 | 21.48 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2012BEAH01) |
 | 21.60 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012BEAH01) |
 | 21.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026/results/by_person#2012BEAH01) |
-| 21.71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2012BEAH01) |
 
 ### 5x5x5 Cube
 

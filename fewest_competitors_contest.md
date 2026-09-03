@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -380,6 +380,7 @@
 | 1 | [TN Speedsolving Winter 2024](https://www.worldcubeassociation.org/competitions/TNSpeedsolvingWinter2024) |
 | 1 | [Toronto Open Fall 2007](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2007) |
 | 1 | [Tridentum Open 2023](https://www.worldcubeassociation.org/competitions/TridentumOpen2023) |
+| 1 | [Twist 'n Turn Hyd Open 2026](https://www.worldcubeassociation.org/competitions/TwistnTurnHydOpen2026) |
 | 1 | [UK Championship 2013](https://www.worldcubeassociation.org/competitions/UKChampionship2013) |
 | 1 | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) |
 | 1 | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009) |
@@ -450,6 +451,7 @@
 | 2 | [Harrow Autumn 2023](https://www.worldcubeassociation.org/competitions/HarrowAutumn2023) |
 | 2 | [Italian Championship 2025](https://www.worldcubeassociation.org/competitions/ItalianChampionship2025) |
 | 2 | [Kent Autumn 2023](https://www.worldcubeassociation.org/competitions/KentAutumn2023) |
+| 2 | [Kewbz UK Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2026) |
 | 2 | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) |
 | 2 | [Kirkkonummi Time Trial 2023](https://www.worldcubeassociation.org/competitions/KirkkonummiTimeTrial2023) |
 | 2 | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024) |

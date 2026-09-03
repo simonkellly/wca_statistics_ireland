@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 
 ### Competition
@@ -32,7 +32,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **10005** | 10241 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **10056** | 10293 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **6321** | 6746 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **4381** | 4650 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **4301** | 4741 |
@@ -58,7 +58,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Ireland | **265478** | 278238 |
-| United Kingdom | **20510** | 21504 |
+| United Kingdom | **20579** | 21576 |
 | United States | **3548** | 3756 |
 | Spain | **2364** | 2443 |
 | Netherlands | **1993** | 2086 |
@@ -82,10 +82,10 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **298534** | 312873 |
+| Europe | **298603** | 312945 |
 | North America | **3819** | 4037 |
 | Oceania | **719** | 777 |
-| Asia | **436** | 448 |
+| Asia | **468** | 480 |
 | Africa | **223** | 232 |
 | South America | **44** | 51 |
 | Multiple Continents | **5** | 6 |
@@ -97,7 +97,7 @@
 | 2025 | **75716** | 79265 |
 | 2024 | **69534** | 73177 |
 | 2023 | **61984** | 64810 |
-| 2026 | **42366** | 44501 |
+| 2026 | **42467** | 44605 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -118,18 +118,18 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **76525** | 78065 |
-| 2x2x2 Cube | **53172** | 54601 |
-| Pyraminx | **38249** | 39217 |
-| Skewb | **31769** | 32540 |
-| 4x4x4 Cube | **25898** | 26699 |
-| 3x3x3 One-Handed | **16842** | 17508 |
-| 5x5x5 Cube | **15841** | 16371 |
+| 3x3x3 Cube | **76552** | 78095 |
+| 2x2x2 Cube | **53182** | 54611 |
+| Pyraminx | **38254** | 39222 |
+| Skewb | **31774** | 32545 |
+| 4x4x4 Cube | **25918** | 26719 |
+| 3x3x3 One-Handed | **16847** | 17513 |
+| 5x5x5 Cube | **15853** | 16383 |
 | Clock | **15398** | 17841 |
-| Megaminx | **11746** | 12284 |
+| Megaminx | **11751** | 12289 |
 | Square-1 | **8924** | 9439 |
-| 6x6x6 Cube | **3939** | 4071 |
-| 7x7x7 Cube | **2776** | 2914 |
+| 6x6x6 Cube | **3945** | 4077 |
+| 7x7x7 Cube | **2782** | 2920 |
 | 3x3x3 Blindfolded | **1534** | 4526 |
 | 3x3x3 Fewest Moves | **580** | 907 |
 | 3x3x3 Multi-Blind | **297** | 450 |
