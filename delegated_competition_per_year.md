@@ -6,10 +6,10 @@
 
 | Delegated per year | Delegated | Years | Person | List on WCA |
 | ---: | ---: | ---: | :--- | :--: |
-| 23.86 | 65 | 2.72 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=167434) |
-| 17.71 | 71 | 4.01 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=54140) |
+| 23.89 | 66 | 2.76 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=167434) |
+| 17.79 | 72 | 4.05 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=54140) |
 | 15.76 | 55 | 3.49 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=19883) |
-| 14.97 | 60 | 4.01 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=54147) |
+| 15.07 | 61 | 4.05 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=54147) |
 | 12.97 | 93 | 7.17 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=19877) |
 
 

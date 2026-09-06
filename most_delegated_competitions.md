@@ -5,9 +5,9 @@
 | Delegated | Person | List on WCA |
 | ---: | :--- | :--: |
 | 93 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=19877) |
-| 71 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=54140) |
-| 65 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=167434) |
-| 60 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=54147) |
+| 72 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=54140) |
+| 66 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=167434) |
+| 61 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=54147) |
 | 55 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=19883) |
 
 
