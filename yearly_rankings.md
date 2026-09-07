@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### Rubik's Cube - Single
@@ -72,7 +72,7 @@
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **20.47** | Ireland | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026) | 23.80, 20.47, 27.45, 28.40, 25.03 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **22.56** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 27.06, 22.56, 28.24, 25.56, 30.51 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **23.48** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 27.72, 23.48, 28.50, 28.77, 31.38 |
-| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **25.66** | Ireland | [Lets Go Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoCarlow2026) | 31.03, 31.16, 34.72, 29.59, 25.66 |
+| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **25.45** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 34.88, 31.83, 25.45, 30.82, 31.29 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **26.64** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 35.03, 37.13, 39.84, 26.64, 41.86 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | **26.72** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 27.73, 26.72, 38.43, 32.37, 36.67 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **27.68** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 27.68, 31.39, 34.61, 35.42, 33.91 |
@@ -101,8 +101,8 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **35.69** | Ireland | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) | 42.48, 35.69, 43.39, 41.71, 49.14 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **42.63** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 48.18, 42.63, 49.84, 47.74, 51.50 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **44.28** | Ireland | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 47.69, 44.28, 50.63, 52.79, 49.23 |
+| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **46.61** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 54.50, 46.61, 53.63, 50.62, 57.20 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **47.06** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 1:07.83, 1:03.26, 54.18, 47.06, 58.15 |
-| [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **47.28** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 55.11, 51.89, 47.28, 58.06, 52.94 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **50.95** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 59.67, 58.36, 56.43, 50.95, 56.98 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **51.47** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 51.47, 1:05.17, 1:05.86, 1:07.47, 59.68 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **53.72** | Mongolia | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026) | 1:00.82, 1:16.60, 53.72, 1:11.60, 1:10.28 |
@@ -208,7 +208,7 @@
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **38.76** | Ireland | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026) | 38.06, 51.14, 39.90, 37.32, 38.32 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **43.43** | Ireland | [BLD Dobřejovice III 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIII2026) | 47.72, DNF, 37.83, 43.88, 38.68 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **44.89** | Ireland | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026) | 39.33, 56.61, DNF, 27.09, 38.72 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **58.68** | Ireland | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026) | 51.55, 44.18, 1:04.50, 59.98, DNF |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **56.46** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 1:08.46, 42.46, 58.45, DNF, 41.28 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **1:00.28** | Ireland | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026) | DNF, 1:08.96, 1:02.35, 46.60, 49.53 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **1:03.82** | Ireland | [Solving Ferry Fast Rosslare 2026](https://www.worldcubeassociation.org/competitions/SolvingFerryFastRosslare2026) | 58.17, 1:03.05, 1:21.50, 1:04.06, 1:04.35 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **1:18.68** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 1:23.33, 1:22.74, 1:20.98, 1:12.32, 1:09.24 |
@@ -270,7 +270,7 @@
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **13.42** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 13.17, 14.45, 12.64, 12.54, 20.19 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **13.84** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 13.38, 20.28, 15.23, 12.90, 12.80 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **14.17** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 13.53, 14.53, 19.95, 13.30, 14.44 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **14.91** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 10.17, DNF, 12.02, 15.45, 17.25 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **14.86** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 13.90, 15.11, 15.56, 10.83, 16.29 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **15.14** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 18.24, 15.22, 13.72, 14.42, 15.77 |
 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | **15.28** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 14.28, 22.67, 16.44, 11.92, 15.12 |
 
@@ -284,10 +284,10 @@
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | **36.83** | Ireland | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026) | 49.78, 46.02, 37.38, 36.83, 46.55 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **36.97** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 43.38, 36.97, 47.34, 39.27, 52.28 |
 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | **38.24** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 49.71, 41.98, 41.68, 43.80, 38.24 |
-| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **39.31** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 51.33, 53.54, 39.31, 57.88, 48.90 |
+| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **38.38** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 52.29, 46.73, 46.87, 45.65, 38.38 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **41.23** | Mongolia | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 46.83, 48.24, 48.19, 41.23, 46.60 |
 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | **41.98** | Ireland | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026) | 50.68, 47.93, 53.60, 41.98, 50.62 |
-| [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) | **43.85** | Ireland | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026) | 1:00.89, 56.64, 59.85, 55.47, 43.85 |
+| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **42.50** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 56.31, 47.52, 42.50, 44.43, 47.25 |
 
 ### Megaminx - Average
 
@@ -300,8 +300,8 @@
 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | **42.15** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 41.84, 51.42, 41.51, 40.89, 43.11 |
 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **43.33** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 43.38, 36.97, 47.34, 39.27, 52.28 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **45.98** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 46.78, 45.70, 52.61, 45.41, 45.45 |
+| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **46.42** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 52.29, 46.73, 46.87, 45.65, 38.38 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **47.21** | Mongolia | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 46.83, 48.24, 48.19, 41.23, 46.60 |
-| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **47.38** | Ireland | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026) | 52.16, 46.15, 43.82, 42.29, 54.09 |
 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) | **48.28** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 51.50, 44.19, 48.54, 44.81, 51.84 |
 
 ### Pyraminx - Single
@@ -311,13 +311,13 @@
 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | **1.16** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 2.56, 1.16, 2.03, 2.18, 3.71 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **1.24** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | DNF, 3.10, 3.58, 7.19, 1.24 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **1.33** | Ireland | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) | 6.59, 1.33, 3.21, 4.68, 2.87 |
+| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1.38** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 1.38, 2.39, 2.81, 2.06, 3.48 |
+| [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | **1.39** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 1.39, 1.93, 2.89, 4.34, DNF |
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | **1.41** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 3.78, 1.41, 2.16, 4.05, 1.81 |
-| [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | **1.62** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 2.64, 2.59, 3.68, 5.17, 1.62 |
-| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **1.79** | Ireland | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026) | 1.85, 1.89, 1.79, 2.27, 3.27 |
+| [Mason Mulready](https://www.worldcubeassociation.org/persons/2021MULR01) | **1.56** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 1.56, 4.85, 3.00, DNF, 1.98 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **1.82** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 9.89, 6.04, 3.69, 1.82, 5.55 |
 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | **1.88** | Ireland | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) | 3.93, 1.88, 5.03, 3.32, 3.44 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **2.03** | Ireland | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026) | 3.23, 2.03, 6.04, 6.41, 3.37 |
-| [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | **2.07** | Ireland | [Vienna Frühling 2026](https://www.worldcubeassociation.org/competitions/ViennaFruhling2026) | 5.03, 2.07, 4.40, 5.43, 6.46 |
 
 ### Pyraminx - Average
 
@@ -328,11 +328,11 @@
 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | **2.12** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 1.90, 2.10, 2.06, 2.65, 2.20 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **2.34** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 3.37, 2.07, 2.01, 2.22, 2.72 |
 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) | **2.53** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 3.18, 2.30, 2.25, 2.31, 2.97 |
+| [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | **2.80** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 2.13, 3.23, 4.99, 2.65, 2.51 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **2.92** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 2.49, 4.76, 2.39, 3.10, 3.16 |
-| [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | **3.13** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 3.11, 2.51, 2.15, 5.46, 3.78 |
 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | **3.14** | Ireland | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026) | 3.29, 2.92, 2.99, 4.05, 3.14 |
+| [Mason Mulready](https://www.worldcubeassociation.org/persons/2021MULR01) | **3.28** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 1.56, 4.85, 3.00, DNF, 1.98 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | **3.40** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 3.42, 6.14, 2.65, 3.69, 3.09 |
-| [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | **3.54** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 3.54, 3.54, 4.69, 3.54, 3.43 |
 
 ### Rubik's Clock - Single
 
@@ -340,8 +340,8 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | **2.47** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 2.90, 2.87, 2.87, 3.09, 2.47 |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **2.66** | Mongolia | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 6.88, 3.37, 2.66, 4.18, 3.04 |
+| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **2.94** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 6.90, 2.94, 3.86, DNF, 4.34 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **2.99** | Ireland | [Manchester CL Second 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLSecond2026) | 4.88, 2.99, 4.25, DNF, 4.48 |
-| [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **3.18** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 4.94, 5.29, 3.18, 7.33, 3.95 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **3.61** | Ireland | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026) | 4.34, 5.62, 4.90, 3.61, 4.06 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **3.62** | Ireland | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 5.34, 4.84, 3.62, 8.73, 6.04 |
 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | **3.79** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 4.47, 4.82, 7.08, 5.53, 3.79 |
@@ -429,10 +429,11 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **2:38.75** | Ireland | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026) | 2:51.12, 2:38.75, 3:55.89 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3:15.63** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | DNF, 3:15.63, DNF |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3:17.14** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | DNF, 3:17.14, DNF |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **3:54.50** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | 3:54.50, 5:01.92, 7:29.74 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **4:42.87** | Ireland | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) | DNF, DNF, 4:42.87 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **4:52.75** | Ireland | [Kewbz UK BLD Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKBLDChampionship2026) | DNF, DNF, 4:52.75 |
+| [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **5:59.94** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 5:59.94, DNF, DNF |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **8:03.52** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | DNF, 8:03.52, DNF |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **19:09.00** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 19:09.00, DNF, DNS |
 
@@ -464,13 +465,13 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **20/22 57:36** | Ireland | [BLD Dobřejovice IV 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceIV2026) | 20/22 57:36, 17/22 1:00:00 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **20/23 54:44** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 18/22 49:17, 20/23 54:44 |
+| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **17/22 56:19** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 17/22 56:19 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **12/13 52:07** | Ireland | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 12/13 52:07 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **13/15 56:39** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 13/15 56:39 |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | **11/12 54:52** | Ireland | [Kewbz UK BLD Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKBLDChampionship2026) | 10/12 52:43, 11/12 54:52, 9/13 55:18 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **18/26 57:01** | Ireland | [Lets Go Back to Carlow 2026](https://www.worldcubeassociation.org/competitions/LetsGoBacktoCarlow2026) | 18/26 57:01 |
-| [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **17/25 55:44** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 17/25 55:44, DNF |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **10/12 48:28** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 10/12 48:28, 10/13 56:03 |
-| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **10/13 56:53** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 10/13 56:53, 9/13 59:10 |
+| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | **8/9 54:42** | Ireland | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 8/9 54:42 |
 | [Tadhg Beckett](https://www.worldcubeassociation.org/persons/2023BECK20) | **6/7 53:20** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 3/5 37:20, 6/7 53:20 |
 
 

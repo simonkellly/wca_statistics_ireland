@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### Rubik's Cube
@@ -133,12 +133,12 @@
 | 1:01.65 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 1:10.00 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 1:13.47 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
+| 1:17.33 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 1:18.31 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:20.28 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 1:21.78 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 | 1:24.43 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 1:25.45 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
-| 1:30.04 | [Tiarnan Hogan](https://www.worldcubeassociation.org/persons/2023HOGA04) |
 
 ### Pyraminx
 

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 35 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Coping in Auckland 2025](https://www.worldcubeassociation.org/competitions/CopinginAuckland2025) |
+| 33 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) |
 | 28 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |
 | 27 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026) |
 | 15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |
@@ -17,7 +18,6 @@
 | 13 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |
 | 10 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) |
 | 8 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) |
-| 7 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Turnin' in Termonfeckin Sat 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSat2023) |
 
 ### 2x2x2 Cube
 
@@ -25,6 +25,7 @@
 | ---: | :--- | :--- |
 | 40 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | [Cubing with the KK Cats 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCats2025) |
 | 21 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) |
+| 19 | [Vihaan Srivastava](https://www.worldcubeassociation.org/persons/2024SRIV01) | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) |
 | 16 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) |
 | 15 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) |
 | 15 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) |
@@ -32,12 +33,12 @@
 | 12 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) |
 | 11 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |
 | 11 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024) |
-| 9 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) |
 
 ### 4x4x4 Cube
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 36 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) |
 | 33 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Cubing with the KK Cats Sat 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSaturday2024) |
 | 33 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025) |
 | 12 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Dublin Summer Saturday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSaturday2023) |
@@ -47,7 +48,6 @@
 | 9 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |
 | 7 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) |
 | 5 | [Laurence He](https://www.worldcubeassociation.org/persons/2017HELO01) | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) |
-| 4 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |
 
 ### 5x5x5 Cube
 

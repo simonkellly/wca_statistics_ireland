@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### Rubik's Cube
@@ -148,11 +148,11 @@
 | 1:10.05 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
 | 1:11.78 | [Jack Harrington](https://www.worldcubeassociation.org/persons/2021HARR07) |
 | 1:15.06 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
+| 1:15.48 | [Liam Craven](https://www.worldcubeassociation.org/persons/2017CRAV01) |
 | 1:18.76 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 1:23.50 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 1:26.78 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 1:27.79 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
-| 1:27.83 | [Alex Hamilton](https://www.worldcubeassociation.org/persons/2024HAMI07) |
 
 ### Pyraminx
 
