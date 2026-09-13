@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -87,11 +87,11 @@
 | 15 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) |
 | 15 | [Cian Ó Flannagáin](https://www.worldcubeassociation.org/persons/2021OFLA01) | [Tuam Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/TuamSaturday2021) |  |
 | 15 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |  |
+| 15 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | [Lužice Winter 2024](https://www.worldcubeassociation.org/competitions/LuziceWinter2024) |  |
 | 14 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | [Its a Long Way to Tipp 2025](https://www.worldcubeassociation.org/competitions/ItsaLongWaytoTipperary2025) |
 | 14 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) |
 | 14 | [Logan Moriarty](https://www.worldcubeassociation.org/persons/2024MORI08) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) |  |
 | 14 | [Oisin West](https://www.worldcubeassociation.org/persons/2024WEST20) | [PBs in Phibblestown 2025](https://www.worldcubeassociation.org/competitions/PBsinPhibblestown2025) |  |
-| 14 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | [Lužice Winter 2024](https://www.worldcubeassociation.org/competitions/LuziceWinter2024) |  |
 | 13 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |  |
 | 13 | [Aidan Browne](https://www.worldcubeassociation.org/persons/2019BROW10) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) |
 | 13 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) |  |

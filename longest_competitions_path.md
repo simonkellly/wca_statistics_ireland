@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -66,8 +66,8 @@
 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) | 6 686 km |
 | [Xavier Skorulski](https://www.worldcubeassociation.org/persons/2019SKOR02) | 6 644 km |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 6 414 km |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 6 389 km |
 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | 6 287 km |
-| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 6 253 km |
 | [Stepan Potapov](https://www.worldcubeassociation.org/persons/2017POTA04) | 6 218 km |
 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) | 6 200 km |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 6 148 km |
@@ -606,8 +606,8 @@
 | [Cian Crowley](https://www.worldcubeassociation.org/persons/2025CROW02) | 201 km |
 | [Nicholas Alencar de Mangeat](https://www.worldcubeassociation.org/persons/2024MANG13) | 200 km |
 | [Jamie Beck](https://www.worldcubeassociation.org/persons/2023BECK15) | 199 km |
-| [Niamh Mooney](https://www.worldcubeassociation.org/persons/2024MOON10) | 198 km |
 | [Liam Lynch](https://www.worldcubeassociation.org/persons/2024LYNC01) | 198 km |
+| [Niamh Mooney](https://www.worldcubeassociation.org/persons/2024MOON10) | 198 km |
 | [Aidan Judge](https://www.worldcubeassociation.org/persons/2024JUDG01) | 198 km |
 | [Alex Cooney](https://www.worldcubeassociation.org/persons/2022COON01) | 194 km |
 | [Myungwon Park](https://www.worldcubeassociation.org/persons/2022PARK04) | 194 km |

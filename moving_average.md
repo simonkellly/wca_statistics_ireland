@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 
 ### Rubik's Cube
@@ -55,6 +55,7 @@
 | 10.78 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 10.80 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
 | 10.86 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
+| 10.88 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 10.89 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 10.89 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 10.98 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
@@ -63,7 +64,6 @@
 | 11.22 | [Tiarnan Hogan](https://www.worldcubeassociation.org/persons/2023HOGA04) |
 | 11.27 | [Reuben Kiernan](https://www.worldcubeassociation.org/persons/2024KIER01) |
 | 11.30 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
-| 11.30 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 
 ### 2x2x2 Cube
 
@@ -157,6 +157,7 @@
 | 41.89 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) |
 | 41.95 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
 | 42.55 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
+| 43.18 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 43.52 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) |
 | 43.56 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 43.79 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
@@ -168,7 +169,6 @@
 | 45.20 | [David Jose](https://www.worldcubeassociation.org/persons/2023JOSE13) |
 | 45.42 | [Tadhg Kelly](https://www.worldcubeassociation.org/persons/2022KELL21) |
 | 45.90 | [Eric Quinn](https://www.worldcubeassociation.org/persons/2019QUIN11) |
-| 45.93 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 45.95 | [Tadhg Keating](https://www.worldcubeassociation.org/persons/2022KEAT02) |
 | 46.15 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) |
 | 46.24 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) |
@@ -216,9 +216,9 @@
 | 1:22.97 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 1:25.16 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |
 | 1:25.89 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
+| 1:26.44 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 1:26.73 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) |
 | 1:27.03 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
-| 1:27.61 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 1:28.04 | [Reuben Kiernan](https://www.worldcubeassociation.org/persons/2024KIER01) |
 | 1:28.19 | [Matthew Horan](https://www.worldcubeassociation.org/persons/2017HORA02) |
 | 1:29.18 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) |
@@ -379,6 +379,7 @@
 | 22.87 | [Odhran D'Arcy](https://www.worldcubeassociation.org/persons/2023DARC01) |
 | 22.91 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 23.23 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
+| 23.26 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 23.27 | [Cathal Burke](https://www.worldcubeassociation.org/persons/2021BURK03) |
 | 23.29 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
 | 23.46 | [Reuben Kiernan](https://www.worldcubeassociation.org/persons/2024KIER01) |
@@ -388,7 +389,6 @@
 | 23.89 | [Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01) |
 | 24.02 | [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) |
 | 24.21 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
-| 24.44 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 24.72 | [Oli Sweeney](https://www.worldcubeassociation.org/persons/2024SWEE01) |
 | 24.99 | [Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01) |
 | 25.05 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) |

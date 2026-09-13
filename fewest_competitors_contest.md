@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -174,6 +174,7 @@
 | 1 | [Going Fast in Franklin 2023](https://www.worldcubeassociation.org/competitions/GoingFastinFranklin2023) |
 | 1 | [Gotland Open 2023](https://www.worldcubeassociation.org/competitions/GotlandOpen2023) |
 | 1 | [Granada Open 2025](https://www.worldcubeassociation.org/competitions/GranadaOpen2025) |
+| 1 | [Graz Open 2026](https://www.worldcubeassociation.org/competitions/GrazOpen2026) |
 | 1 | [Great Lakes Championship 2025](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2025) |
 | 1 | [Greek Nationals 2023](https://www.worldcubeassociation.org/competitions/GreekNationals2023) |
 | 1 | [Guelaguetza Oaxaca 2026](https://www.worldcubeassociation.org/competitions/GuelaguetzaOaxaca2026) |

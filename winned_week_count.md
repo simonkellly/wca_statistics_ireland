@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 
 ### Rubik's Cube
@@ -144,6 +144,7 @@
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 2 |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 2 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 2 |
+| [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 2 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 1 |
 | [John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03) | 1 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 1 |
@@ -152,7 +153,6 @@
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 1 |
 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | 1 |
 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) | 1 |
-| [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) | 1 |
 
 ### 3x3x3 Blindfolded
 
