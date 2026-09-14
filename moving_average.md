@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### Rubik's Cube
@@ -141,8 +141,8 @@
 | 37.21 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 37.45 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 37.71 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
+| 38.64 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 38.66 | [Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04) |
-| 38.80 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 39.02 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) |
 | 39.07 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) |
 | 39.11 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
