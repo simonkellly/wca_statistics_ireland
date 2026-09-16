@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 
 ### Rubik's Cube
@@ -91,8 +91,8 @@
 | 0.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:54.30 | 2:54.91 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016/results/by_person#2012BEAH01) |
 | 0.72 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | 3:51.88 | 3:52.60 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024/results/by_person#2021FINK02) |
 | 0.73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:04.67 | 2:05.40 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2012BEAH01) |
+| 0.81 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 4:11.13 | 4:11.94 | [Alabama Championship 2026](https://www.worldcubeassociation.org/competitions/AlabamaChampionship2026/results/by_person#2023MANG02) |
 | 0.84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.64 | 1:57.48 | [Dublin Summer Solving 2024](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2024/results/by_person#2012BEAH01) |
-| 0.84 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 3:42.97 | 3:43.81 | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/by_person#2021DOHE02) |
 
 ### 3x3x3 Blindfolded
 

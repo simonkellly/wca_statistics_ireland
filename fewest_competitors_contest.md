@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -11,6 +11,7 @@
 | 1 | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022) |
 | 1 | [Adelaide Autumn 2022](https://www.worldcubeassociation.org/competitions/AdelaideAutumn2022) |
 | 1 | [Alabama Championship 2024](https://www.worldcubeassociation.org/competitions/AlabamaChampionship2024) |
+| 1 | [Alabama Championship 2026](https://www.worldcubeassociation.org/competitions/AlabamaChampionship2026) |
 | 1 | [Albacete Ágora Open 2025](https://www.worldcubeassociation.org/competitions/AlbaceteAgoraOpen2025) |
 | 1 | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024) |
 | 1 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) |
