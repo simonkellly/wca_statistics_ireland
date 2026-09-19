@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -132,7 +132,7 @@
 | [Charlie Vaidie](https://www.worldcubeassociation.org/persons/2021VAID01) | 2 963 km |
 | [Arsen Hereta](https://www.worldcubeassociation.org/persons/2023HERE01) | 2 924 km |
 | [Daniel Tyrrell](https://www.worldcubeassociation.org/persons/2023TYRR01) | 2 882 km |
-| [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) | 2 804 km |
+| [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) | 2 828 km |
 | [Sebastian Moore](https://www.worldcubeassociation.org/persons/2023MOOR03) | 2 783 km |
 | [Joanna Byik](https://www.worldcubeassociation.org/persons/2023BYIK01) | 2 748 km |
 | [Liam O'Neill](https://www.worldcubeassociation.org/persons/2022ONEI07) | 2 727 km |

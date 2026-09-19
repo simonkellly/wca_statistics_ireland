@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -51,6 +51,7 @@
 | 7 | [Max Clavin](https://www.worldcubeassociation.org/persons/2024CLAV03) |
 | 7 | [Chun Yin Man](https://www.worldcubeassociation.org/persons/2023MANC03) |
 | 7 | [Colm Fitz](https://www.worldcubeassociation.org/persons/2017FITZ01) |
+| 7 | [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) |
 | 7 | [Borys Pawlikowski](https://www.worldcubeassociation.org/persons/2025PAWL01) |
 | 7 | [Finnbar McGovern](https://www.worldcubeassociation.org/persons/2022GOVE02) |
 | 7 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
@@ -60,7 +61,6 @@
 | 6 | [Olin Long](https://www.worldcubeassociation.org/persons/2023LONG10) |
 | 6 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
 | 6 | [Dimitar Ignatov](https://www.worldcubeassociation.org/persons/2023IGNA05) |
-| 6 | [Kayven Wu](https://www.worldcubeassociation.org/persons/2023WUKA01) |
 | 6 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 6 | [Mariia Lozova](https://www.worldcubeassociation.org/persons/2024LOZO01) |
 | 5 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -36,6 +36,7 @@
 | 1 | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024) |
 | 1 | [Belgian Open 2009](https://www.worldcubeassociation.org/competitions/BelgianOpen2009) |
 | 1 | [Belgian Open 2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019) |
+| 1 | [Belgrave Open 2026](https://www.worldcubeassociation.org/competitions/BelgraveOpen2026) |
 | 1 | [Berkeley Summer 2024](https://www.worldcubeassociation.org/competitions/BerkeleySummer2024) |
 | 1 | [Berkeley Winter A 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterA2023) |
 | 1 | [Birmingham Spring 2025](https://www.worldcubeassociation.org/competitions/BirminghamSpring2025) |
