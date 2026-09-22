@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -117,6 +117,7 @@
 | 1 | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) |
 | 1 | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) |
 | 1 | [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) |
+| 1 | [Dolné Orešany Autumn 2026](https://www.worldcubeassociation.org/competitions/DolneOresanyAutumn2026) |
 | 1 | [Dolné Orešany Open 2023](https://www.worldcubeassociation.org/competitions/DolneOresanyOpen2023) |
 | 1 | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) |
 | 1 | [Don't Pause in Delhi 2026](https://www.worldcubeassociation.org/competitions/DontPauseinDelhi2026) |
@@ -438,6 +439,7 @@
 | 2 | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) |
 | 2 | [Basel Open 2020](https://www.worldcubeassociation.org/competitions/BaselOpen2020) |
 | 2 | [Brent Cross Winter 2023](https://www.worldcubeassociation.org/competitions/BrentCrossWinter2023) |
+| 2 | [Brighton Side Events Day 2026](https://www.worldcubeassociation.org/competitions/BrightonSideEventsDay2026) |
 | 2 | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) |
 | 2 | [Brugge Open 2018](https://www.worldcubeassociation.org/competitions/BruggeOpen2018) |
 | 2 | [Crawley Open 2017](https://www.worldcubeassociation.org/competitions/CrawleyOpen2017) |

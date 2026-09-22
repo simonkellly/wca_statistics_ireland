@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### Rubik's Cube
@@ -247,12 +247,12 @@
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 3 |
 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) | 3 |
 | [Maeve Hickey](https://www.worldcubeassociation.org/persons/2017HICK06) | 2 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 2 |
 | [Thomas Michael Seán Cunningham](https://www.worldcubeassociation.org/persons/2022CUNN04) | 2 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 2 |
 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) | 2 |
 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 1 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | 1 |
-| [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 1 |
 
 ### Pyraminx
 
@@ -291,9 +291,9 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 8 |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 6 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 5 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 5 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | 4 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 4 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | 4 |
 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 4 |
 | [Jake Donnelly](https://www.worldcubeassociation.org/persons/2015DONN01) | 3 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 3 |
@@ -337,7 +337,7 @@
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 21 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 18 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 14 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 10 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 11 |
 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | 5 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | 4 |
 | [Noah Kirrane](https://www.worldcubeassociation.org/persons/2022KIRR02) | 4 |

@@ -1,17 +1,17 @@
 ## Most finals
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Finals | Person |
 | ---: | :--- |
 | 1064 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 754 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 757 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 523 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 513 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) |
 | 479 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 457 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
 | 451 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) |
-| 428 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
+| 431 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 403 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 392 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) |
 | 362 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |

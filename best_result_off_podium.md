@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### Rubik's Cube
@@ -209,10 +209,10 @@
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 7.88 | **10.01** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#esq1_f) | 6 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 6.75 | **10.43** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#esq1_f) | 6 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 7.92 | **10.60** | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#esq1_f) | 4 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 7.58 | **10.75** | [Brighton Side Events Day 2026](https://www.worldcubeassociation.org/competitions/BrightonSideEventsDay2026/results/all#esq1_f) | 6 |
 | [Cormac Finke](https://www.worldcubeassociation.org/persons/2021FINK01) | 9.68 | **10.75** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#esq1_f) | 7 |
 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) | 9.17 | **10.81** | [TUD Unscramble Day 2026](https://www.worldcubeassociation.org/competitions/TUDUnscrambleDay2026/results/all#esq1_f) | 4 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 10.47 | **11.01** | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#esq1_f) | 5 |
-| [Daithí O'Connor](https://www.worldcubeassociation.org/persons/2021OCON01) | 8.11 | **11.08** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#esq1_f) | 8 |
 
 ### 4x4x4 Blindfolded
 

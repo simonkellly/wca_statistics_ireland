@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### Competition
@@ -33,7 +33,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **10056** | 10293 |
-| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **6419** | 6856 |
+| [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **6463** | 6901 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **4474** | 4752 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | **4378** | 4836 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **4344** | 4615 |
@@ -41,8 +41,8 @@
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | **4200** | 4270 |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | **4142** | 4395 |
 | [Ronan Finke](https://www.worldcubeassociation.org/persons/2021FINK02) | **3995** | 4154 |
+| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **3734** | 4044 |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | **3708** | 3937 |
-| [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **3694** | 3999 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **3435** | 3615 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **3358** | 3572 |
 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | **3267** | 3350 |
@@ -58,7 +58,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Ireland | **268238** | 281184 |
-| United Kingdom | **20602** | 21601 |
+| United Kingdom | **20686** | 21691 |
 | United States | **3643** | 3857 |
 | Spain | **2364** | 2443 |
 | Netherlands | **1993** | 2086 |
@@ -68,7 +68,7 @@
 | Sweden | **588** | 637 |
 | Australia | **533** | 568 |
 | Denmark | **460** | 479 |
-| Slovakia | **440** | 454 |
+| Slovakia | **452** | 466 |
 | Italy | **408** | 431 |
 | Slovenia | **344** | 351 |
 | Poland | **322** | 350 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **301455** | 315988 |
+| Europe | **301551** | 316090 |
 | North America | **3914** | 4138 |
 | Oceania | **739** | 797 |
 | Asia | **468** | 480 |
@@ -97,7 +97,7 @@
 | 2025 | **75716** | 79265 |
 | 2024 | **69534** | 73177 |
 | 2023 | **61984** | 64810 |
-| 2026 | **45434** | 47769 |
+| 2026 | **45530** | 47871 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -118,16 +118,16 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **77227** | 78785 |
+| 3x3x3 Cube | **77237** | 78795 |
 | 2x2x2 Cube | **53633** | 55076 |
 | Pyraminx | **38619** | 39597 |
 | Skewb | **32163** | 32943 |
-| 4x4x4 Cube | **26204** | 27017 |
+| 4x4x4 Cube | **26206** | 27019 |
 | 3x3x3 One-Handed | **16987** | 17660 |
 | 5x5x5 Cube | **15990** | 16525 |
-| Clock | **15587** | 18067 |
-| Megaminx | **11910** | 12449 |
-| Square-1 | **9017** | 9537 |
+| Clock | **15613** | 18097 |
+| Megaminx | **11939** | 12479 |
+| Square-1 | **9046** | 9567 |
 | 6x6x6 Cube | **3996** | 4131 |
 | 7x7x7 Cube | **2790** | 2929 |
 | 3x3x3 Blindfolded | **1550** | 4598 |
