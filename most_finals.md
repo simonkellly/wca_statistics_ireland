@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -18,7 +18,7 @@
 | 361 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 325 | [Tymon Szalinski](https://www.worldcubeassociation.org/persons/2021SZAL01) |
 | 320 | [Conor Smith](https://www.worldcubeassociation.org/persons/2018SMIT37) |
-| 318 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 319 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 302 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
 | 296 | [Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04) |
 | 296 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) |

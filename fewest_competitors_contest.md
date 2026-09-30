@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -114,6 +114,7 @@
 | 1 | [Southeast FMC Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSASoutheastFMCChampio2023) |
 | 1 | [Cuthberts Open 2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013) |
 | 1 | [Cuthberts Open 2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014) |
+| 1 | [Czech Championship 2026](https://www.worldcubeassociation.org/competitions/CzechChampionship2026) |
 | 1 | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) |
 | 1 | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) |
 | 1 | [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) |
@@ -414,6 +415,7 @@
 | 1 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) |
 | 1 | [World Championship 2009](https://www.worldcubeassociation.org/competitions/WC2009) |
 | 1 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
+| 1 | [WCA African Championship 2026](https://www.worldcubeassociation.org/competitions/WCAAfricanChampionship2026) |
 | 1 | [WCCT Reno 2018](https://www.worldcubeassociation.org/competitions/WCCTReno2018) |
 | 1 | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) |
 | 1 | [Wellspring Open 2017](https://www.worldcubeassociation.org/competitions/WellspringOpen2017) |

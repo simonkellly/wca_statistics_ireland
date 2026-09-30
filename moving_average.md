@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 
 ### Rubik's Cube
@@ -449,8 +449,8 @@
 | 1:25.12 | [Rhys Maher](https://www.worldcubeassociation.org/persons/2022MAHE05) |
 | 1:31.43 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 1:31.93 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) |
-| 1:32.07 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 1:32.69 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) |
+| 1:33.79 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 
 ### Pyraminx
 
@@ -521,7 +521,7 @@
 | 5.89 | [Onome Brownly-Otiede](https://www.worldcubeassociation.org/persons/2023BROW36) |
 | 5.95 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) |
 | 5.96 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
-| 6.60 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
+| 6.31 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 6.74 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 6.76 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) |
 | 6.81 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |

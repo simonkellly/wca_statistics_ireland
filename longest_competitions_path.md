@@ -1,18 +1,18 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Person | Distance |
 | :--- | ---: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 206 047 km |
 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 86 842 km |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | 71 558 km |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 53 351 km |
 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 52 653 km |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 49 162 km |
 | [William Carey](https://www.worldcubeassociation.org/persons/2019CARE02) | 46 756 km |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 45 082 km |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 43 223 km |
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 41 949 km |
 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 41 183 km |
 | [Peter Taylor](https://www.worldcubeassociation.org/persons/2024TAYL02) | 39 953 km |
@@ -153,13 +153,13 @@
 | [Chris O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE02) | 2 218 km |
 | [Oisin James Waldron](https://www.worldcubeassociation.org/persons/2023WALD04) | 2 175 km |
 | [Nathan Callaghan](https://www.worldcubeassociation.org/persons/2023CALL01) | 2 094 km |
+| [Oisín Bloomer](https://www.worldcubeassociation.org/persons/2026BLOO02) | 2 055 km |
 | [Hannah Grossmith](https://www.worldcubeassociation.org/persons/2022GROS04) | 2 027 km |
 | [Oisín Mulkerrin](https://www.worldcubeassociation.org/persons/2023MULK01) | 2 025 km |
 | [James O'Shea](https://www.worldcubeassociation.org/persons/2022OSHE01) | 1 957 km |
 | [Conor Reilly](https://www.worldcubeassociation.org/persons/2022REIL01) | 1 915 km |
 | [Grace Holmes](https://www.worldcubeassociation.org/persons/2023HOLM04) | 1 913 km |
 | [Eoin Brereton Hurley](https://www.worldcubeassociation.org/persons/2014HURL01) | 1 857 km |
-| [Oisín Bloomer](https://www.worldcubeassociation.org/persons/2026BLOO02) | 1 787 km |
 | [Ronan Hanley](https://www.worldcubeassociation.org/persons/2017HANL05) | 1 785 km |
 | [Kaspian Kopczynski](https://www.worldcubeassociation.org/persons/2022KOPC01) | 1 775 km |
 | [Jonah O'Driscoll](https://www.worldcubeassociation.org/persons/2023ODRI01) | 1 760 km |

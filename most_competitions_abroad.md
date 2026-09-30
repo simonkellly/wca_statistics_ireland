@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -18,8 +18,8 @@
 | 18 | [Jacques Laurent](https://www.worldcubeassociation.org/persons/2022LAUR10) |
 | 17 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 16 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
+| 16 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 15 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) |
-| 15 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) |
 | 14 | [Cathal Murdock](https://www.worldcubeassociation.org/persons/2022MURD01) |
 | 14 | [Nikolas Akhapkin](https://www.worldcubeassociation.org/persons/2024AKHA03) |
 | 12 | [Oscar Ings](https://www.worldcubeassociation.org/persons/2024INGS01) |
