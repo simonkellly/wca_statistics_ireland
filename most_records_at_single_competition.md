@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### World
@@ -311,6 +311,8 @@
 | 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2023MARA10) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
 | 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2019NATS02) |
+| 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Autumn Solving 2026](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2026/results/by_person#2022CORR06) |
+| 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Dublin Autumn Solving 2026](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2026/results/by_person#2019NATS02) |
 
 ### Continental
 

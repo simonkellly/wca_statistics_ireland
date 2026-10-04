@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### World
@@ -62,10 +62,10 @@
 | 13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed, Megaminx, Pyraminx, Skewb, Square-1, 4x4x4 Blindfolded, 3x3x3 With Feet |
 | 8 | [Blake Bowers](https://www.worldcubeassociation.org/persons/2010BOWE01) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx |
 | 5 | [Kelsey McKenna](https://www.worldcubeassociation.org/persons/2012MCKE01) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
+| 5 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | Clock, Megaminx, Skewb, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
 | 4 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, 4x4x4 Blindfolded |
 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 4 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 3x3x3 Fewest Moves, Square-1, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 4 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | Clock, Skewb, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
 | 4 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | Megaminx, Pyraminx, Skewb, 3x3x3 Multi-Blind |
 | 3 | [Jesse Harper](https://www.worldcubeassociation.org/persons/2007HARP01) | 3x3x3 Cube, 3x3x3 One-Handed, Magic |
 | 3 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 2x2x2 Cube, 4x4x4 Blindfolded, 5x5x5 Blindfolded |

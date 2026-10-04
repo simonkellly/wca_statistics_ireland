@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### Rubik's Cube
@@ -119,9 +119,9 @@
 | 2.87 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
 | 2.87 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
 | 2.90 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
+| 2.90 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Autumn Solving 2026](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2026/results/by_person#2022CORR06) |
 | 2.94 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026/results/by_person#2022CORR06) |
 | 2.94 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026/results/by_person#2022CORR06) |
-| 2.95 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2022CORR06) |
 
 ### Skewb
 

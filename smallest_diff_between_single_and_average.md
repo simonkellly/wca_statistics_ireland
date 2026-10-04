@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### Rubik's Cube
@@ -44,10 +44,10 @@
 | 0.34 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 32.58 | 32.92 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2012BEAH01) |
 | 0.35 | [Kim Hackett](https://www.worldcubeassociation.org/persons/2022HACK05) | 54.01 | 54.36 | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/by_person#2022HACK05) |
 | 0.35 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 55.51 | 55.86 | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023/results/by_person#2017KELL08) |
+| 0.42 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.23 | 28.65 | [Dublin Autumn Solving 2026](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2026/results/by_person#2023MARA10) |
 | 0.44 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 38.42 | 38.86 | [Manchester Spring 2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025/results/by_person#2023HAMI12) |
 | 0.46 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 22.34 | 22.80 | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2012BEAH01) |
 | 0.47 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25.63 | 26.10 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012BEAH01) |
-| 0.47 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | 28.40 | 28.87 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2022LAUR09) |
 
 ### 5x5x5 Cube
 
