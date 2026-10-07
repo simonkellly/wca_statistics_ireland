@@ -1,48 +1,48 @@
 ## Competitions per year by country
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.40 | 162 | 17.24 | United Kingdom |
-| 8.61 | 94 | 10.91 | United States |
+| 8.61 | 94 | 10.92 | United States |
 | 6.96 | 102 | 14.65 | Ireland |
 | 3.79 | 15 | 3.96 | Austria |
 | 3.30 | 25 | 7.58 | Australia |
-| 2.83 | 10 | 3.53 | Slovakia |
-| 2.57 | 4 | 1.56 | Croatia |
+| 2.83 | 10 | 3.54 | Slovakia |
+| 2.56 | 4 | 1.56 | Croatia |
 | 2.52 | 44 | 17.45 | Germany |
-| 2.25 | 7 | 3.12 | Slovenia |
+| 2.24 | 7 | 3.12 | Slovenia |
 | 1.88 | 13 | 6.91 | Poland |
-| 1.70 | 6 | 3.53 | Sweden |
+| 1.70 | 6 | 3.54 | Sweden |
 | 1.52 | 14 | 9.23 | France |
-| 1.50 | 5 | 3.34 | Hungary |
-| 1.15 | 3 | 2.61 | Portugal |
-| 1.13 | 18 | 15.93 | Spain |
+| 1.49 | 5 | 3.35 | Hungary |
+| 1.15 | 3 | 2.62 | Portugal |
+| 1.13 | 18 | 15.94 | Spain |
 | 1.13 | 2 | 1.77 | Malaysia |
 | 0.93 | 7 | 7.56 | Denmark |
 | 0.90 | 2 | 2.23 | Brazil |
-| 0.84 | 1 | 1.20 | Mongolia |
+| 0.83 | 1 | 1.20 | Mongolia |
 | 0.82 | 4 | 4.90 | Norway |
 | 0.79 | 14 | 17.64 | Italy |
 | 0.75 | 5 | 6.64 | Switzerland |
-| 0.69 | 5 | 7.21 | India |
-| 0.62 | 6 | 9.72 | United Arab Emirates |
-| 0.59 | 7 | 11.87 | Netherlands |
+| 0.69 | 5 | 7.22 | India |
+| 0.62 | 6 | 9.73 | United Arab Emirates |
+| 0.59 | 7 | 11.88 | Netherlands |
 | 0.59 | 2 | 3.40 | Kenya |
 | 0.58 | 3 | 5.15 | New Zealand |
 | 0.53 | 1 | 1.89 | Hong Kong, China |
 | 0.52 | 9 | 17.22 | Czech Republic |
-| 0.49 | 4 | 8.19 | Ukraine |
+| 0.52 | 10 | 19.39 | Canada |
+| 0.49 | 4 | 8.20 | Ukraine |
 | 0.48 | 2 | 4.14 | Israel |
-| 0.46 | 9 | 19.38 | Canada |
 | 0.46 | 4 | 8.65 | Finland |
 | 0.45 | 1 | 2.21 | Bosnia and Herzegovina |
 | 0.40 | 3 | 7.54 | Multiple Countries (Europe) |
 | 0.39 | 1 | 2.58 | Estonia |
 | 0.35 | 1 | 2.83 | Greece |
 | 0.34 | 6 | 17.60 | Belgium |
-| 0.32 | 3 | 9.26 | Russia |
+| 0.32 | 3 | 9.27 | Russia |
 | 0.32 | 1 | 3.15 | Republic of Korea |
 | 0.27 | 2 | 7.31 | Multiple Countries (World) |
 | 0.26 | 3 | 11.64 | Singapore |

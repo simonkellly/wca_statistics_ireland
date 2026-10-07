@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -325,6 +325,7 @@
 | 1 | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025) |
 | 1 | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) |
 | 1 | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) |
+| 1 | [SaskatooNxN 2026](https://www.worldcubeassociation.org/competitions/SaskatooNxN2026) |
 | 1 | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024) |
 | 1 | [Scenic City Spring TN 2026](https://www.worldcubeassociation.org/competitions/ScenicCitySpringTN2026) |
 | 1 | [Scenic City Summer TN 2026](https://www.worldcubeassociation.org/competitions/ScenicCitySummerTN2026) |
