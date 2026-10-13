@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### World
@@ -313,6 +313,9 @@
 | 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2019NATS02) |
 | 0 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | [Dublin Autumn Solving 2026](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2026/results/by_person#2022CORR06) |
 | 0 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Dublin Autumn Solving 2026](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2026/results/by_person#2019NATS02) |
+| 0 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2022FURE01) |
+| 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2023MARA10) |
+| 0 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2023DOWL01) |
 
 ### Continental
 

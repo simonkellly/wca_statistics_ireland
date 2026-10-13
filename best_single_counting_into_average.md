@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### Rubik's Cube
@@ -26,12 +26,12 @@
 | 1.02 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023DOWL01) |
 | 1.10 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024/results/by_person#2021DOHE02) |
 | 1.12 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2021DOHE02) |
+| 1.13 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2023DOWL01) |
+| 1.14 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2023DOWL01) |
 | 1.18 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2021DOHE02) |
 | 1.25 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Belfast Autumn 2025](https://www.worldcubeassociation.org/competitions/BelfastAutumn2025/results/by_person#2023DOWL01) |
 | 1.28 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2021DOHE02) |
 | 1.29 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025/results/by_person#2023DOWL01) |
-| 1.29 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/by_person#2022HAIN04) |
-| 1.30 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026/results/by_person#2023DOWL01) |
 
 ### 4x4x4 Cube
 
@@ -57,11 +57,11 @@
 | 38.67 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2012BEAH01) |
 | 39.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2012BEAH01) |
 | 39.20 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026/results/by_person#2012BEAH01) |
+| 39.20 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2012BEAH01) |
 | 39.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026/results/by_person#2012BEAH01) |
 | 39.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2012BEAH01) |
 | 39.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2012BEAH01) |
 | 39.26 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
-| 39.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025/results/by_person#2012BEAH01) |
 
 ### 3x3x3 One-Handed
 
@@ -97,6 +97,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.54 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2023OLWI01) |
 | 1.55 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
 | 1.57 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026/results/by_person#2023OLWI01) |
 | 1.58 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2023OLWI01) |
@@ -104,9 +105,8 @@
 | 1.60 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
 | 1.67 | [Miłosz Andzel](https://www.worldcubeassociation.org/persons/2022ANDZ01) | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024/results/by_person#2022ANDZ01) |
 | 1.67 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023OLWI01) |
+| 1.70 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2023OLWI01) |
 | 1.71 | [Oisín Olwill](https://www.worldcubeassociation.org/persons/2023OLWI01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023OLWI01) |
-| 1.73 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024/results/by_person#2021LOFT01) |
-| 1.73 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Don't Go Slow in Wicklow 2026](https://www.worldcubeassociation.org/competitions/DontGoSlowinWicklow2026/results/by_person#2023DOWL01) |
 
 ### Rubik's Clock
 

@@ -1,12 +1,19 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
+
+### 150 competitions
+
+| Days | Person |
+| ---: | :--- |
+| 5356 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 
 ### 100 competitions
 
 | Days | Person |
 | ---: | :--- |
+| 4117 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 4628 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 
 ### 50 competitions

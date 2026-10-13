@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### Rubik's Cube
@@ -152,7 +152,7 @@
 | 0.11 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 4.38 | 4.49 | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2020BERM02) |
 | 0.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5.38 | 5.49 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012BEAH01) |
 | 0.11 | [Sinéad Cleary](https://www.worldcubeassociation.org/persons/2019CLEA04) | 9.07 | 9.18 | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023/results/by_person#2019CLEA04) |
-| 0.13 | [Tom Doherty](https://www.worldcubeassociation.org/persons/2017DOHE01) | 3.66 | 3.79 | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2017DOHE01) |
+| 0.12 | [Harry Lynch](https://www.worldcubeassociation.org/persons/2024LYNC03) | 5.20 | 5.32 | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2024LYNC03) |
 
 ### Rubik's Clock
 

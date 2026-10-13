@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **209** | 77 | 44 | 330 |
 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) | **21** | 18 | 19 | 58 |
-| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 31 | 39 | 85 |
+| [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 31 | 41 | 87 |
 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) | **7** | 7 | 17 | 31 |
 | [Nikita Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | **6** | 7 | 8 | 21 |
 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) | **6** | 1 | 3 | 10 |
@@ -34,8 +34,8 @@
 | [Tiernan McCorry](https://www.worldcubeassociation.org/persons/2022MCCO09) | **0** | 2 | 1 | 3 |
 | [James Hamm](https://www.worldcubeassociation.org/persons/2012HAMM01) | **0** | 1 | 2 | 3 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **0** | 1 | 1 | 2 |
+| [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 1 | 2 |
 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | **0** | 1 | 0 | 1 |
-| [Henry Martin](https://www.worldcubeassociation.org/persons/2024MART15) | **0** | 1 | 0 | 1 |
 | [Hugo McGrath](https://www.worldcubeassociation.org/persons/2022MCGR02) | **0** | 1 | 0 | 1 |
 | [James Tyrrell](https://www.worldcubeassociation.org/persons/2019TYRR01) | **0** | 1 | 0 | 1 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **0** | 0 | 5 | 5 |

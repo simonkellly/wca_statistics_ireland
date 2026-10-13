@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### Rubik's Cube
@@ -30,9 +30,9 @@
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | 1.36 | **1.94** | [Leeds Spring 2026](https://www.worldcubeassociation.org/competitions/LeedsSpring2026/results/all#e222_f) | 5 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 1.31 | **1.96** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#e222_f) | 7 |
 | [Lucas Harford](https://www.worldcubeassociation.org/persons/2025HARF02) | 1.82 | **2.03** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#e222_f) | 4 |
+| [Lucas Harford](https://www.worldcubeassociation.org/persons/2025HARF02) | 1.66 | **2.17** | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/all#e222_f) | 4 |
 | [Oscar Green](https://www.worldcubeassociation.org/persons/2022GREE14) | 1.80 | **2.22** | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/all#e222_f) | 5 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 1.91 | **2.23** | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025/results/all#e222_f) | 4 |
-| [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) | 1.07 | **2.32** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e222_f) | 10 |
 
 ### 4x4x4 Cube
 
@@ -152,7 +152,7 @@
 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 41.94 | **44.05** | [Dublin Autumn Solving 2026](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2026/results/all#eminx_c) | 5 |
 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 42.11 | **44.96** | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/all#eminx_f) | 10 |
 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | 44.92 | **45.46** | [UCD Cube Days 2026](https://www.worldcubeassociation.org/competitions/UCDCubeDays2026/results/all#eminx_f) | 4 |
-| [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 41.25 | **45.85** | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025/results/all#eminx_f) | 4 |
+| [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | 41.69 | **45.72** | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/all#eminx_c) | 4 |
 
 ### Pyraminx
 

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### Rubik's Cube
@@ -30,9 +30,9 @@
 | 4.39 | [Dylan Murray](https://www.worldcubeassociation.org/persons/2021MURR02) |
 | 4.39 | [Teige Powell](https://www.worldcubeassociation.org/persons/2019POWE08) |
 | 4.43 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) |
+| 4.44 | [Jack Yuxiwu](https://www.worldcubeassociation.org/persons/2026YUXI01) |
 | 4.46 | [Scott Froggatt](https://www.worldcubeassociation.org/persons/2019FROG01) |
 | 4.52 | [Jakub Budzynski](https://www.worldcubeassociation.org/persons/2022BUDZ03) |
-| 4.52 | [Oisin Gabriel Dillon](https://www.worldcubeassociation.org/persons/2025DILL02) |
 
 ### 4x4x4 Cube
 
