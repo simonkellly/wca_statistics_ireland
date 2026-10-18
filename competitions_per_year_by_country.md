@@ -5,36 +5,36 @@
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.44 | 163 | 17.27 | United Kingdom |
-| 8.59 | 94 | 10.94 | United States |
-| 7.02 | 103 | 14.68 | Ireland |
+| 8.59 | 94 | 10.95 | United States |
+| 7.01 | 103 | 14.68 | Ireland |
 | 3.76 | 15 | 3.99 | Austria |
-| 3.29 | 25 | 7.61 | Australia |
-| 2.81 | 10 | 3.56 | Slovakia |
-| 2.52 | 4 | 1.59 | Croatia |
+| 3.28 | 25 | 7.61 | Australia |
+| 2.80 | 10 | 3.57 | Slovakia |
 | 2.52 | 44 | 17.48 | Germany |
-| 2.23 | 7 | 3.15 | Slovenia |
+| 2.51 | 4 | 1.59 | Croatia |
+| 2.22 | 7 | 3.15 | Slovenia |
 | 1.87 | 13 | 6.94 | Poland |
-| 1.68 | 6 | 3.56 | Sweden |
+| 1.68 | 6 | 3.57 | Sweden |
 | 1.51 | 14 | 9.26 | France |
-| 1.48 | 5 | 3.37 | Hungary |
-| 1.13 | 3 | 2.64 | Portugal |
-| 1.13 | 18 | 15.96 | Spain |
+| 1.48 | 5 | 3.38 | Hungary |
+| 1.13 | 3 | 2.65 | Portugal |
+| 1.13 | 18 | 15.97 | Spain |
 | 1.11 | 2 | 1.80 | Malaysia |
 | 0.92 | 7 | 7.59 | Denmark |
 | 0.88 | 2 | 2.26 | Brazil |
-| 0.82 | 1 | 1.23 | Mongolia |
+| 0.81 | 1 | 1.23 | Mongolia |
 | 0.81 | 4 | 4.93 | Norway |
 | 0.79 | 14 | 17.67 | Italy |
 | 0.75 | 5 | 6.67 | Switzerland |
-| 0.69 | 5 | 7.24 | India |
-| 0.62 | 6 | 9.76 | United Arab Emirates |
-| 0.59 | 7 | 11.90 | Netherlands |
+| 0.69 | 5 | 7.25 | India |
+| 0.61 | 6 | 9.76 | United Arab Emirates |
+| 0.59 | 7 | 11.91 | Netherlands |
 | 0.58 | 2 | 3.43 | Kenya |
 | 0.58 | 3 | 5.18 | New Zealand |
-| 0.52 | 1 | 1.92 | Hong Kong, China |
 | 0.52 | 9 | 17.25 | Czech Republic |
-| 0.52 | 10 | 19.41 | Canada |
-| 0.49 | 4 | 8.22 | Ukraine |
+| 0.52 | 1 | 1.92 | Hong Kong, China |
+| 0.52 | 10 | 19.42 | Canada |
+| 0.49 | 4 | 8.23 | Ukraine |
 | 0.48 | 2 | 4.17 | Israel |
 | 0.46 | 4 | 8.68 | Finland |
 | 0.45 | 1 | 2.24 | Bosnia and Herzegovina |
