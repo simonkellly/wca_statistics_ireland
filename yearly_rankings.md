@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### Rubik's Cube - Single
@@ -113,7 +113,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **40.20** | Ireland | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026) | 40.72, 40.62, 39.26, 38.23, 43.19 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **40.05** | Ireland | [Chevry of All Time 2026](https://www.worldcubeassociation.org/competitions/ChevryofAllTime2026) | 42.08, 39.23, 38.85, 42.76, 38.58 |
 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | **45.81** | Ireland | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026) | 43.38, 47.75, 46.22, 43.46, 48.77 |
 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | **47.86** | Ireland | [Éire 100 2026](https://www.worldcubeassociation.org/competitions/Eire1002026) | 47.61, 47.82, 48.14, 46.72, 51.16 |
 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) | **50.39** | Ireland | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) | 1:08.29, 48.85, 51.40, 50.60, 49.16 |

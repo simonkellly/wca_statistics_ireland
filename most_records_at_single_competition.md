@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### World
@@ -316,6 +316,7 @@
 | 0 | [CJ Furey](https://www.worldcubeassociation.org/persons/2022FURE01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2022FURE01) |
 | 0 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2023MARA10) |
 | 0 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2023DOWL01) |
+| 0 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Chevry of All Time 2026](https://www.worldcubeassociation.org/competitions/ChevryofAllTime2026/results/by_person#2012BEAH01) |
 
 ### Continental
 

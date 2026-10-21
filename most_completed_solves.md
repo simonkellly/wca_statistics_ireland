@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### Competition
@@ -32,7 +32,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **10069** | 10306 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **10101** | 10338 |
 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | **6599** | 7044 |
 | [Rían Burke](https://www.worldcubeassociation.org/persons/2019BURK05) | **4537** | 4820 |
 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) | **4467** | 4743 |
@@ -64,7 +64,7 @@
 | Netherlands | **1993** | 2086 |
 | Germany | **1836** | 1904 |
 | Austria | **1008** | 1062 |
-| France | **915** | 940 |
+| France | **947** | 972 |
 | Sweden | **588** | 637 |
 | Australia | **533** | 568 |
 | Denmark | **460** | 479 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **308101** | 322948 |
+| Europe | **308133** | 322980 |
 | North America | **3924** | 4148 |
 | Oceania | **739** | 797 |
 | Asia | **468** | 480 |
@@ -97,7 +97,7 @@
 | 2025 | **75716** | 79265 |
 | 2024 | **69534** | 73177 |
 | 2023 | **61984** | 64810 |
-| 2026 | **52177** | 54828 |
+| 2026 | **52209** | 54860 |
 | 2022 | **27322** | 28582 |
 | 2019 | **10744** | 11270 |
 | 2017 | **4267** | 4475 |
@@ -122,14 +122,14 @@
 | 2x2x2 Cube | **54966** | 56445 |
 | Pyraminx | **39478** | 40477 |
 | Skewb | **32501** | 33288 |
-| 4x4x4 Cube | **26559** | 27379 |
+| 4x4x4 Cube | **26569** | 27389 |
 | 3x3x3 One-Handed | **17233** | 17914 |
-| 5x5x5 Cube | **16559** | 17109 |
+| 5x5x5 Cube | **16569** | 17119 |
 | Clock | **15990** | 18535 |
 | Megaminx | **12443** | 12998 |
 | Square-1 | **9172** | 9699 |
-| 6x6x6 Cube | **4080** | 4216 |
-| 7x7x7 Cube | **2791** | 2930 |
+| 6x6x6 Cube | **4086** | 4222 |
+| 7x7x7 Cube | **2797** | 2936 |
 | 3x3x3 Blindfolded | **1583** | 4719 |
 | 3x3x3 Fewest Moves | **580** | 907 |
 | 3x3x3 Multi-Blind | **302** | 456 |

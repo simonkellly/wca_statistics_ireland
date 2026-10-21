@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### Rubik's Cube
@@ -55,13 +55,13 @@
 | 38.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025/results/by_person#2012BEAH01) |
 | 38.66 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012BEAH01) |
 | 38.67 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Re-Laois the Cubers 2026](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2026/results/by_person#2012BEAH01) |
+| 38.85 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Chevry of All Time 2026](https://www.worldcubeassociation.org/competitions/ChevryofAllTime2026/results/by_person#2012BEAH01) |
 | 39.11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Tír Chonaill Cubing 2024](https://www.worldcubeassociation.org/competitions/TirChonaillCubing2024/results/by_person#2012BEAH01) |
 | 39.20 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026/results/by_person#2012BEAH01) |
 | 39.20 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Meath For Mega Speed 2026](https://www.worldcubeassociation.org/competitions/MeathForMegaSpeed2026/results/by_person#2012BEAH01) |
 | 39.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Split Open 2026](https://www.worldcubeassociation.org/competitions/SplitOpen2026/results/by_person#2012BEAH01) |
+| 39.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Chevry of All Time 2026](https://www.worldcubeassociation.org/competitions/ChevryofAllTime2026/results/by_person#2012BEAH01) |
 | 39.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024/results/by_person#2012BEAH01) |
-| 39.24 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Rubik's Irish Championship 2026](https://www.worldcubeassociation.org/competitions/IrishChampionship2026/results/by_person#2012BEAH01) |
-| 39.26 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [French Championship 2026](https://www.worldcubeassociation.org/competitions/FrenchChampionship2026/results/by_person#2012BEAH01) |
 
 ### 3x3x3 One-Handed
 

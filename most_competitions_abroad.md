@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 89 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 90 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 58 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) |
 | 51 | [Declan Mangan-Lamb](https://www.worldcubeassociation.org/persons/2023MANG02) |
 | 36 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |

@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### Rubik's Cube
@@ -124,7 +124,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 23.68 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 24.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 26.15 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 28.58 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 30.27 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
@@ -179,7 +179,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 41.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 42.03 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 48.32 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 51.02 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
 | 53.74 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
@@ -234,7 +234,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 1:14.06 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 1:14.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 1:31.32 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 1:40.56 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 1:42.12 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |
@@ -289,7 +289,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 1:51.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 1:52.44 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 2:27.49 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 | 2:42.92 | [Elliott Laurent](https://www.worldcubeassociation.org/persons/2022LAUR09) |
 | 2:43.86 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) |

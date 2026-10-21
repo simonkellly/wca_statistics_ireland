@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -85,6 +85,7 @@
 | 1 | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) |
 | 1 | [Chester Open 2019](https://www.worldcubeassociation.org/competitions/ChesterOpen2019) |
 | 1 | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) |
+| 1 | [Chevry of All Time 2026](https://www.worldcubeassociation.org/competitions/ChevryofAllTime2026) |
 | 1 | [Chippenham Autumn 2022](https://www.worldcubeassociation.org/competitions/ChippenhamAutumn2022) |
 | 1 | [Choo Choo Cubing A 2024](https://www.worldcubeassociation.org/competitions/ChooChooCubingA2024) |
 | 1 | [Clact-On Socks Off 2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019) |
