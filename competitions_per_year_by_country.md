@@ -5,47 +5,47 @@
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
 | 9.42 | 163 | 17.31 | United Kingdom |
-| 8.56 | 94 | 10.98 | United States |
+| 8.56 | 94 | 10.99 | United States |
 | 7.00 | 103 | 14.72 | Ireland |
 | 3.72 | 15 | 4.03 | Austria |
 | 3.27 | 25 | 7.65 | Australia |
 | 2.77 | 10 | 3.61 | Slovakia |
 | 2.51 | 44 | 17.52 | Germany |
-| 2.46 | 4 | 1.63 | Croatia |
-| 2.20 | 7 | 3.19 | Slovenia |
+| 2.45 | 4 | 1.63 | Croatia |
+| 2.19 | 7 | 3.19 | Slovenia |
 | 1.86 | 13 | 6.98 | Poland |
 | 1.66 | 6 | 3.61 | Sweden |
-| 1.61 | 15 | 9.30 | France |
-| 1.46 | 5 | 3.41 | Hungary |
+| 1.61 | 15 | 9.31 | France |
+| 1.46 | 5 | 3.42 | Hungary |
 | 1.12 | 18 | 16.01 | Spain |
 | 1.12 | 3 | 2.69 | Portugal |
-| 1.09 | 2 | 1.84 | Malaysia |
-| 0.92 | 7 | 7.63 | Denmark |
-| 0.87 | 2 | 2.30 | Brazil |
+| 1.08 | 2 | 1.85 | Malaysia |
+| 0.92 | 7 | 7.64 | Denmark |
+| 0.87 | 2 | 2.31 | Brazil |
 | 0.80 | 4 | 4.97 | Norway |
 | 0.79 | 14 | 17.71 | Italy |
 | 0.79 | 1 | 1.27 | Mongolia |
-| 0.75 | 5 | 6.71 | Switzerland |
+| 0.74 | 5 | 6.71 | Switzerland |
 | 0.69 | 5 | 7.29 | India |
 | 0.61 | 6 | 9.80 | United Arab Emirates |
 | 0.59 | 7 | 11.95 | Netherlands |
 | 0.58 | 2 | 3.47 | Kenya |
 | 0.57 | 3 | 5.22 | New Zealand |
-| 0.52 | 9 | 17.29 | Czech Republic |
+| 0.52 | 9 | 17.30 | Czech Republic |
 | 0.51 | 10 | 19.46 | Canada |
 | 0.51 | 1 | 1.96 | Hong Kong, China |
 | 0.48 | 4 | 8.27 | Ukraine |
-| 0.48 | 2 | 4.21 | Israel |
-| 0.46 | 4 | 8.72 | Finland |
-| 0.44 | 1 | 2.28 | Bosnia and Herzegovina |
+| 0.47 | 2 | 4.21 | Israel |
+| 0.46 | 4 | 8.73 | Finland |
+| 0.44 | 1 | 2.29 | Bosnia and Herzegovina |
 | 0.39 | 3 | 7.61 | Multiple Countries (Europe) |
 | 0.38 | 1 | 2.65 | Estonia |
 | 0.34 | 1 | 2.90 | Greece |
-| 0.34 | 6 | 17.67 | Belgium |
+| 0.34 | 6 | 17.68 | Belgium |
 | 0.32 | 3 | 9.34 | Russia |
-| 0.31 | 1 | 3.22 | Republic of Korea |
+| 0.31 | 1 | 3.23 | Republic of Korea |
 | 0.27 | 2 | 7.38 | Multiple Countries (World) |
-| 0.26 | 3 | 11.71 | Singapore |
+| 0.26 | 3 | 11.72 | Singapore |
 | 0.25 | 3 | 11.92 | South Africa |
 | 0.25 | 1 | 3.99 | Romania |
 | 0.20 | 1 | 5.10 | Jordan |
