@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  1 November 2026*
+*Updated on  2 November 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -40,9 +40,9 @@
 | [Turnin' in Termonfeckin Sun 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSunday2024) | 5.83 | 29 | Ireland |
 | [Meath for Speed 2025](https://www.worldcubeassociation.org/competitions/MeathforSpeed2025) | 5.82 | 66 | Ireland |
 | [Rebel County Colours 2025](https://www.worldcubeassociation.org/competitions/RebelCountyColours2025) | 5.82 | 76 | Ireland |
+| [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 5.79 | 90 | Ireland |
 | [Gort-a Go Fast 2026](https://www.worldcubeassociation.org/competitions/GortaGoFast2026) | 5.78 | 90 | Ireland |
 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024) | 5.76 | 72 | Ireland |
-| [Re-Laois the Cubers 2025](https://www.worldcubeassociation.org/competitions/ReLaoistheCubers2025) | 5.75 | 91 | Ireland |
 | [Leopardstown Cube Races 2025](https://www.worldcubeassociation.org/competitions/LeopardstownCubeRaces2025) | 5.71 | 75 | Ireland |
 | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) | 5.69 | 109 | Ireland |
 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) | 5.69 | 80 | Ireland |
